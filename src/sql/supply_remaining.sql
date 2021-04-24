@@ -9,6 +9,7 @@ WITH remaining AS
       CASE
          WHEN
             re.supplyremaining = 'no' 
+            AND re.supplyremaining IS NOT NULL 
          THEN
             '0 Days' 
          ELSE
@@ -16,7 +17,7 @@ WITH remaining AS
                WHEN
                   re.supplyremaining IN 
                   (
-                     '< 1'
+                     '< 1' 
                   )
                THEN
                   '<= 7 Days' 
@@ -39,6 +40,7 @@ WITH remaining AS
    WHERE
       r.datecreated IS NOT NULL 
       AND r.datecreated >= '2020-04-01' 
+      AND re.supplyremaining IS NOT NULL 
 )
 , total_requests_per_month AS 
 (
