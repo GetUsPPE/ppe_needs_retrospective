@@ -1,0 +1,5153 @@
+time,county,stateprovince,num_requests
+2020-03-01,Anchorage,AK,2
+2020-03-01,Hoonah-Angoon,AK,1
+2020-03-01,Baldwin,AL,4
+2020-03-01,Diamandveld,AL,1
+2020-03-01,Houston,AL,2
+2020-03-01,Jefferson,AL,10
+2020-03-01,Limestone,AL,1
+2020-03-01,Madison,AL,2
+2020-03-01,Montgomery,AL,1
+2020-03-01,Morgan,AL,1
+2020-03-01,Russell,AL,2
+2020-03-01,Shelby,AL,2
+2020-03-01,Toronto Division,AL,1
+2020-03-01,Boone,AR,2
+2020-03-01,Carroll,AR,2
+2020-03-01,Clay,AR,2
+2020-03-01,Craighead,AR,1
+2020-03-01,Lahore,AR,1
+2020-03-01,Madison,AR,2
+2020-03-01,Marion,AR,2
+2020-03-01,Newton,AR,2
+2020-03-01,Pulaski,AR,2
+2020-03-01,Stone,AR,2
+2020-03-01,Van Buren,AR,6
+2020-03-01,Washington,AR,2
+2020-03-01,Cochise,AZ,4
+2020-03-01,Coconino,AZ,8
+2020-03-01,Maricopa,AZ,45
+2020-03-01,Mohave,AZ,3
+2020-03-01,Pima,AZ,15
+2020-03-01,Yavapai,AZ,4
+2020-03-01,Alameda,CA,67
+2020-03-01,Butte,CA,6
+2020-03-01,Contra Costa,CA,24
+2020-03-01,El Dorado,CA,3
+2020-03-01,Fresno,CA,15
+2020-03-01,Glenn,CA,1
+2020-03-01,Imperial,CA,2
+2020-03-01,Kern,CA,8
+2020-03-01,Los Angeles,CA,246
+2020-03-01,Madera,CA,2
+2020-03-01,Marin,CA,6
+2020-03-01,Mono,CA,2
+2020-03-01,Monterey,CA,1
+2020-03-01,Napa,CA,3
+2020-03-01,Orange,CA,65
+2020-03-01,Placer,CA,12
+2020-03-01,Riverside,CA,22
+2020-03-01,Sacramento,CA,24
+2020-03-01,San Bernardino,CA,18
+2020-03-01,San Diego,CA,40
+2020-03-01,San Francisco,CA,45
+2020-03-01,San Joaquin,CA,11
+2020-03-01,San Luis Obispo,CA,2
+2020-03-01,San Mateo,CA,32
+2020-03-01,Santa Barbara,CA,10
+2020-03-01,Santa Clara,CA,70
+2020-03-01,Santa Cruz,CA,8
+2020-03-01,Solano,CA,4
+2020-03-01,Sonoma,CA,8
+2020-03-01,Stanislaus,CA,7
+2020-03-01,Sutter,CA,1
+2020-03-01,Tulare,CA,7
+2020-03-01,Ventura,CA,17
+2020-03-01,Yolo,CA,2
+2020-03-01,Adams,CO,4
+2020-03-01,Alamosa,CO,2
+2020-03-01,Arapahoe,CO,11
+2020-03-01,Boulder,CO,3
+2020-03-01,Denver,CO,14
+2020-03-01,Douglas,CO,1
+2020-03-01,El Paso,CO,4
+2020-03-01,Fremont,CO,2
+2020-03-01,Jefferson,CO,7
+2020-03-01,La Plata,CO,4
+2020-03-01,Larimer,CO,4
+2020-03-01,Mesa,CO,2
+2020-03-01,Pueblo,CO,2
+2020-03-01,Summit,CO,2
+2020-03-01,Weld,CO,6
+2020-03-01,Città Metropolitana di Milano,CT,1
+2020-03-01,Fairfield,CT,33
+2020-03-01,Hartford,CT,17
+2020-03-01,Litchfield,CT,3
+2020-03-01,Middlesex,CT,2
+2020-03-01,New Haven,CT,21
+2020-03-01,New London,CT,3
+2020-03-01,Windham,CT,1
+2020-03-01,New Castle,DE,14
+2020-03-01,Sussex,DE,2
+2020-03-01,Bradford,FL,2
+2020-03-01,Brevard,FL,5
+2020-03-01,Broward,FL,18
+2020-03-01,Charlotte,FL,2
+2020-03-01,Citrus,FL,2
+2020-03-01,Clay,FL,2
+2020-03-01,Collier,FL,8
+2020-03-01,Division No. 6,FL,1
+2020-03-01,Duval,FL,14
+2020-03-01,Escambia,FL,5
+2020-03-01,Hamilton,FL,1
+2020-03-01,Hernando,FL,5
+2020-03-01,Highlands,FL,3
+2020-03-01,Hillsborough,FL,17
+2020-03-01,Lake,FL,3
+2020-03-01,Lee,FL,4
+2020-03-01,Leon,FL,2
+2020-03-01,Manatee,FL,8
+2020-03-01,Marion,FL,2
+2020-03-01,Martin,FL,1
+2020-03-01,Miami-Dade,FL,27
+2020-03-01,Orange,FL,7
+2020-03-01,Osceola,FL,1
+2020-03-01,Palm Beach,FL,9
+2020-03-01,Pasco,FL,5
+2020-03-01,Pinellas,FL,18
+2020-03-01,Polk,FL,8
+2020-03-01,Putnam,FL,2
+2020-03-01,Santa Rosa,FL,3
+2020-03-01,Sarasota,FL,2
+2020-03-01,Seminole,FL,1
+2020-03-01,St. Lucie,FL,1
+2020-03-01,Suwannee,FL,1
+2020-03-01,Volusia,FL,2
+2020-03-01,Barrow,GA,2
+2020-03-01,Bibb,GA,4
+2020-03-01,Bryan,GA,1
+2020-03-01,Bulloch,GA,3
+2020-03-01,Camden,GA,2
+2020-03-01,Carroll,GA,2
+2020-03-01,Chatham,GA,10
+2020-03-01,Chattooga,GA,1
+2020-03-01,Cherokee,GA,4
+2020-03-01,Clarke,GA,5
+2020-03-01,Clayton,GA,4
+2020-03-01,Coffee,GA,2
+2020-03-01,Columbia,GA,1
+2020-03-01,Coweta,GA,1
+2020-03-01,DeKalb,GA,7
+2020-03-01,Dougherty,GA,2
+2020-03-01,Douglas,GA,1
+2020-03-01,Evans,GA,2
+2020-03-01,Fayette,GA,4
+2020-03-01,Floyd,GA,2
+2020-03-01,Fulton,GA,12
+2020-03-01,Glynn,GA,2
+2020-03-01,Gordon,GA,2
+2020-03-01,Gwinnett,GA,5
+2020-03-01,Haralson,GA,1
+2020-03-01,Henry,GA,3
+2020-03-01,Lowndes,GA,1
+2020-03-01,Murray,GA,1
+2020-03-01,Muscogee,GA,4
+2020-03-01,Peach,GA,1
+2020-03-01,Polk,GA,1
+2020-03-01,Spalding,GA,2
+2020-03-01,Troup,GA,5
+2020-03-01,Upson,GA,2
+2020-03-01,Walker,GA,2
+2020-03-01,Hawaii,HI,12
+2020-03-01,Honolulu,HI,19
+2020-03-01,Maui,HI,2
+2020-03-01,Black Hawk,IA,3
+2020-03-01,Buena Vista,IA,2
+2020-03-01,Cerro Gordo,IA,2
+2020-03-01,Clayton,IA,1
+2020-03-01,Dubuque,IA,6
+2020-03-01,Floyd,IA,1
+2020-03-01,Hancock,IA,2
+2020-03-01,Linn,IA,6
+2020-03-01,Marion,IA,1
+2020-03-01,Muscatine,IA,2
+2020-03-01,Polk,IA,1
+2020-03-01,Pottawattamie,IA,2
+2020-03-01,Scott,IA,3
+2020-03-01,Woodbury,IA,2
+2020-03-01,Wright,IA,2
+2020-03-01,Ada,ID,14
+2020-03-01,Bamako,ID,1
+2020-03-01,Bannock,ID,1
+2020-03-01,Canyon,ID,5
+2020-03-01,Idaho,ID,1
+2020-03-01,Malheur,ID,1
+2020-03-01,Teton,ID,1
+2020-03-01,Cook,IL,133
+2020-03-01,DuPage,IL,18
+2020-03-01,Franklin,IL,2
+2020-03-01,Grundy,IL,2
+2020-03-01,Kane,IL,7
+2020-03-01,Kankakee,IL,3
+2020-03-01,Lake,IL,8
+2020-03-01,Madison,IL,2
+2020-03-01,McHenry,IL,1
+2020-03-01,Perry,IL,1
+2020-03-01,Randolph,IL,2
+2020-03-01,Rock Island,IL,4
+2020-03-01,Schuyler,IL,2
+2020-03-01,Tazewell,IL,1
+2020-03-01,Will,IL,10
+2020-03-01,Winnebago,IL,4
+2020-03-01,Allen,IN,2
+2020-03-01,Blackford,IN,1
+2020-03-01,Clark,IN,2
+2020-03-01,Hamilton,IN,1
+2020-03-01,Harrison,IN,2
+2020-03-01,Hendricks,IN,6
+2020-03-01,Jasper,IN,1
+2020-03-01,LaPorte,IN,2
+2020-03-01,Lake,IN,19
+2020-03-01,Madison,IN,7
+2020-03-01,Marion,IN,9
+2020-03-01,Porter,IN,2
+2020-03-01,St. Joseph,IN,2
+2020-03-01,Tippecanoe,IN,2
+2020-03-01,Vigo,IN,1
+2020-03-01,Wayne,IN,1
+2020-03-01,Cherokee,KS,1
+2020-03-01,Ellis,KS,1
+2020-03-01,Greenwood,KS,1
+2020-03-01,Harvey,KS,2
+2020-03-01,Johnson,KS,22
+2020-03-01,Leavenworth,KS,2
+2020-03-01,Miami,KS,2
+2020-03-01,Montgomery,KS,2
+2020-03-01,Nemaha,KS,2
+2020-03-01,Norton,KS,2
+2020-03-01,Rooks,KS,2
+2020-03-01,Sedgwick,KS,3
+2020-03-01,Shawnee,KS,2
+2020-03-01,Wabaunsee,KS,1
+2020-03-01,Wilson,KS,2
+2020-03-01,Adair,KY,1
+2020-03-01,Boone,KY,2
+2020-03-01,Boyd,KY,2
+2020-03-01,Daviess,KY,1
+2020-03-01,Fayette,KY,4
+2020-03-01,Franklin,KY,2
+2020-03-01,Jefferson,KY,7
+2020-03-01,Kenton,KY,4
+2020-03-01,Laurel,KY,1
+2020-03-01,Pulaski,KY,1
+2020-03-01,Scott,KY,2
+2020-03-01,Ascension Parish,LA,2
+2020-03-01,Caddo Parish,LA,2
+2020-03-01,Calcasieu Parish,LA,4
+2020-03-01,Caldwell Parish,LA,1
+2020-03-01,East Baton Rouge Parish,LA,1
+2020-03-01,Jefferson Parish,LA,3
+2020-03-01,Lafayette Parish,LA,5
+2020-03-01,Lafourche Parish,LA,2
+2020-03-01,Orleans Parish,LA,8
+2020-03-01,Ouachita Parish,LA,6
+2020-03-01,Richland Parish,LA,1
+2020-03-01,St. James Parish,LA,2
+2020-03-01,St. John the Baptist Parish,LA,1
+2020-03-01,St. Landry Parish,LA,2
+2020-03-01,St. Tammany Parish,LA,2
+2020-03-01,Tangipahoa Parish,LA,2
+2020-03-01,Union Parish,LA,2
+2020-03-01,Webster Parish,LA,2
+2020-03-01,West Baton Rouge Parish,LA,2
+2020-03-01,Barnstable,MA,3
+2020-03-01,Berkshire,MA,11
+2020-03-01,Bristol,MA,5
+2020-03-01,Dukes,MA,2
+2020-03-01,Essex,MA,29
+2020-03-01,Franklin,MA,1
+2020-03-01,Hampden,MA,6
+2020-03-01,Hampshire,MA,2
+2020-03-01,Middlesex,MA,43
+2020-03-01,Norfolk,MA,17
+2020-03-01,Plymouth,MA,16
+2020-03-01,Suffolk,MA,50
+2020-03-01,Worcester,MA,28
+2020-03-01,Allegany,MD,1
+2020-03-01,Anne Arundel,MD,8
+2020-03-01,Baltimore,MD,8
+2020-03-01,Calvert,MD,1
+2020-03-01,Charles,MD,3
+2020-03-01,Frederick,MD,3
+2020-03-01,Harford,MD,3
+2020-03-01,Howard,MD,4
+2020-03-01,Montgomery,MD,23
+2020-03-01,New Castle,MD,1
+2020-03-01,Prince George's,MD,10
+2020-03-01,Talbot,MD,1
+2020-03-01,Washington,MD,2
+2020-03-01,Wicomico,MD,1
+2020-03-01,Cumberland,ME,11
+2020-03-01,Lincoln,ME,3
+2020-03-01,Oxford,ME,1
+2020-03-01,Penobscot,ME,6
+2020-03-01,York,ME,5
+2020-03-01,Berrien,MI,6
+2020-03-01,Calhoun,MI,2
+2020-03-01,Charlevoix,MI,2
+2020-03-01,Eaton,MI,2
+2020-03-01,Genesee,MI,2
+2020-03-01,Ingham,MI,4
+2020-03-01,Ionia,MI,1
+2020-03-01,Jackson,MI,1
+2020-03-01,Kalamazoo,MI,4
+2020-03-01,Kent,MI,6
+2020-03-01,Livingston,MI,2
+2020-03-01,Macomb,MI,3
+2020-03-01,Midland,MI,2
+2020-03-01,Noxubee,MI,1
+2020-03-01,Oakland,MI,20
+2020-03-01,Ontonagon,MI,2
+2020-03-01,Ottawa,MI,2
+2020-03-01,Saginaw,MI,2
+2020-03-01,Washtenaw,MI,8
+2020-03-01,Wayne,MI,20
+2020-03-01,Anoka,MN,4
+2020-03-01,Blue Earth,MN,1
+2020-03-01,Carver,MN,3
+2020-03-01,Chisago,MN,1
+2020-03-01,Cottonwood,MN,2
+2020-03-01,Dakota,MN,2
+2020-03-01,Hennepin,MN,22
+2020-03-01,Itasca,MN,1
+2020-03-01,Olmsted,MN,2
+2020-03-01,Ramsey,MN,12
+2020-03-01,Sherburne,MN,2
+2020-03-01,St. Louis,MN,1
+2020-03-01,Stearns,MN,1
+2020-03-01,Todd,MN,2
+2020-03-01,Washington,MN,2
+2020-03-01,Winona,MN,1
+2020-03-01,Wright,MN,2
+2020-03-01,Cape Girardeau,MO,2
+2020-03-01,Cass,MO,5
+2020-03-01,Clay,MO,2
+2020-03-01,Clinton,MO,2
+2020-03-01,Cole,MO,2
+2020-03-01,Jackson,MO,10
+2020-03-01,Jasper,MO,2
+2020-03-01,Johnson,MO,2
+2020-03-01,Phelps,MO,2
+2020-03-01,Saline,MO,2
+2020-03-01,St. Louis,MO,7
+2020-03-01,Taney,MO,1
+2020-03-01,Texas,MO,1
+2020-03-01,Hancock,MS,2
+2020-03-01,Harrison,MS,5
+2020-03-01,Hinds,MS,2
+2020-03-01,Itawamba,MS,2
+2020-03-01,Jones,MS,1
+2020-03-01,Leflore,MS,1
+2020-03-01,Lowndes,MS,1
+2020-03-01,Noxubee,MS,1
+2020-03-01,Rankin,MS,2
+2020-03-01,Union,MS,1
+2020-03-01,Beaverhead,MT,2
+2020-03-01,Blaine,MT,1
+2020-03-01,Missoula,MT,10
+2020-03-01,Ravalli,MT,4
+2020-03-01,Richland,MT,1
+2020-03-01,Yellowstone,MT,2
+2020-03-01,Ashe,NC,2
+2020-03-01,Buncombe,NC,9
+2020-03-01,Carteret,NC,2
+2020-03-01,Catawba,NC,5
+2020-03-01,Chowan,NC,1
+2020-03-01,Cleveland,NC,2
+2020-03-01,Durham,NC,2
+2020-03-01,Forsyth,NC,9
+2020-03-01,Gaston,NC,1
+2020-03-01,Granville,NC,1
+2020-03-01,Henderson,NC,6
+2020-03-01,Jackson,NC,2
+2020-03-01,Lee,NC,1
+2020-03-01,Mecklenburg,NC,3
+2020-03-01,New Hanover,NC,7
+2020-03-01,Orange,NC,4
+2020-03-01,Pitt,NC,1
+2020-03-01,Robeson,NC,2
+2020-03-01,Rowan,NC,1
+2020-03-01,Scotland,NC,2
+2020-03-01,Union,NC,2
+2020-03-01,Wake,NC,10
+2020-03-01,Burleigh,ND,2
+2020-03-01,Ward,ND,1
+2020-03-01,Douglas,NE,7
+2020-03-01,Lancaster,NE,5
+2020-03-01,Madison,NE,2
+2020-03-01,Platte,NE,1
+2020-03-01,Belknap,NH,2
+2020-03-01,Cheshire,NH,2
+2020-03-01,Coos,NH,3
+2020-03-01,Grafton,NH,2
+2020-03-01,Hillsborough,NH,21
+2020-03-01,Merrimack,NH,4
+2020-03-01,Rockingham,NH,8
+2020-03-01,Strafford,NH,2
+2020-03-01,Atlantic,NJ,5
+2020-03-01,Bergen,NJ,22
+2020-03-01,Burlington,NJ,9
+2020-03-01,Camden,NJ,6
+2020-03-01,Cape May,NJ,1
+2020-03-01,Cumberland,NJ,3
+2020-03-01,Essex,NJ,22
+2020-03-01,Gloucester,NJ,7
+2020-03-01,Hudson,NJ,15
+2020-03-01,Hunterdon,NJ,4
+2020-03-01,Mercer,NJ,8
+2020-03-01,Middlesex,NJ,13
+2020-03-01,Monmouth,NJ,17
+2020-03-01,Morris,NJ,15
+2020-03-01,Ocean,NJ,11
+2020-03-01,Passaic,NJ,7
+2020-03-01,Somerset,NJ,5
+2020-03-01,Union,NJ,6
+2020-03-01,Warren,NJ,2
+2020-03-01,Bernalillo,NM,13
+2020-03-01,Doña Ana,NM,3
+2020-03-01,McKinley,NM,1
+2020-03-01,San Juan,NM,2
+2020-03-01,Sandoval,NM,1
+2020-03-01,Santa Fe,NM,3
+2020-03-01,Taos,NM,3
+2020-03-01,Clark,NV,29
+2020-03-01,Washoe,NV,11
+2020-03-01,Albany,NY,1
+2020-03-01,Bronx,NY,36
+2020-03-01,Broome,NY,5
+2020-03-01,Clinton,NY,18
+2020-03-01,Columbia,NY,1
+2020-03-01,Dutchess,NY,4
+2020-03-01,Erie,NY,13
+2020-03-01,Franklin,NY,2
+2020-03-01,Fulton,NY,2
+2020-03-01,Jefferson,NY,1
+2020-03-01,Kings,NY,59
+2020-03-01,Monroe,NY,17
+2020-03-01,Montgomery,NY,2
+2020-03-01,Nassau,NY,38
+2020-03-01,New York,NY,103
+2020-03-01,Oneida,NY,3
+2020-03-01,Onondaga,NY,10
+2020-03-01,Ontario,NY,5
+2020-03-01,Orange,NY,5
+2020-03-01,Otsego,NY,2
+2020-03-01,Putnam,NY,2
+2020-03-01,Queens,NY,33
+2020-03-01,Rensselaer,NY,8
+2020-03-01,Richmond,NY,3
+2020-03-01,Rockland,NY,1
+2020-03-01,Saratoga,NY,4
+2020-03-01,Schenectady,NY,5
+2020-03-01,Suffolk,NY,19
+2020-03-01,Tompkins,NY,2
+2020-03-01,Ulster,NY,3
+2020-03-01,Westchester,NY,25
+2020-03-01,Allen,OH,2
+2020-03-01,Athens,OH,2
+2020-03-01,Butler,OH,1
+2020-03-01,Crawford,OH,2
+2020-03-01,Cuyahoga,OH,19
+2020-03-01,Delaware,OH,5
+2020-03-01,Erie,OH,1
+2020-03-01,Fairfield,OH,2
+2020-03-01,Franklin,OH,19
+2020-03-01,Hamilton,OH,9
+2020-03-01,Huron,OH,1
+2020-03-01,Knox,OH,2
+2020-03-01,Lake,OH,1
+2020-03-01,Lorain,OH,1
+2020-03-01,Lucas,OH,5
+2020-03-01,Marion,OH,2
+2020-03-01,Medina,OH,1
+2020-03-01,Miami,OH,1
+2020-03-01,Montgomery,OH,9
+2020-03-01,Ottawa,OH,1
+2020-03-01,Paulding,OH,1
+2020-03-01,Pickaway,OH,2
+2020-03-01,Richland,OH,4
+2020-03-01,Stark,OH,7
+2020-03-01,Summit,OH,16
+2020-03-01,Trumbull,OH,2
+2020-03-01,Tuscarawas,OH,2
+2020-03-01,Wayne,OH,1
+2020-03-01,Wood,OH,2
+2020-03-01,Atoka,OK,2
+2020-03-01,Bryan,OK,1
+2020-03-01,Cleveland,OK,10
+2020-03-01,Creek,OK,1
+2020-03-01,Custer,OK,2
+2020-03-01,Delaware,OK,1
+2020-03-01,Garfield,OK,2
+2020-03-01,Jackson,OK,2
+2020-03-01,McClain,OK,2
+2020-03-01,Oklahoma,OK,15
+2020-03-01,Pottawatomie,OK,2
+2020-03-01,Texas,OK,2
+2020-03-01,Tulsa,OK,3
+2020-03-01,Wagoner,OK,2
+2020-03-01,Benton,OR,2
+2020-03-01,Clackamas,OR,7
+2020-03-01,Coos,OR,3
+2020-03-01,Deschutes,OR,2
+2020-03-01,Jackson,OR,6
+2020-03-01,Josephine,OR,2
+2020-03-01,Lane,OR,2
+2020-03-01,Lincoln,OR,2
+2020-03-01,Malheur,OR,1
+2020-03-01,Marion,OR,5
+2020-03-01,Multnomah,OR,32
+2020-03-01,Polk,OR,2
+2020-03-01,Tillamook,OR,2
+2020-03-01,Washington,OR,16
+2020-03-01,Yamhill,OR,2
+2020-03-01,Allegheny,PA,22
+2020-03-01,Armstrong,PA,2
+2020-03-01,Beaver,PA,2
+2020-03-01,Berks,PA,4
+2020-03-01,Bradford,PA,2
+2020-03-01,Bucks,PA,8
+2020-03-01,Butler,PA,2
+2020-03-01,Cambria,PA,3
+2020-03-01,Centre,PA,1
+2020-03-01,Chester,PA,9
+2020-03-01,Clearfield,PA,2
+2020-03-01,Columbia,PA,2
+2020-03-01,Cumberland,PA,5
+2020-03-01,Dauphin,PA,1
+2020-03-01,Delaware,PA,13
+2020-03-01,Erie,PA,4
+2020-03-01,Fayette,PA,1
+2020-03-01,Franklin,PA,2
+2020-03-01,Lackawanna,PA,4
+2020-03-01,Lancaster,PA,3
+2020-03-01,Lawrence,PA,4
+2020-03-01,Lehigh,PA,11
+2020-03-01,Luzerne,PA,7
+2020-03-01,Montgomery,PA,38
+2020-03-01,Montour,PA,3
+2020-03-01,Northampton,PA,2
+2020-03-01,Philadelphia,PA,47
+2020-03-01,Schuylkill,PA,1
+2020-03-01,Susquehanna,PA,2
+2020-03-01,Venango,PA,2
+2020-03-01,Washington,PA,3
+2020-03-01,Westmoreland,PA,3
+2020-03-01,York,PA,3
+2020-03-01,Turabo,PR,2
+2020-03-01,Bristol,RI,2
+2020-03-01,Kent,RI,3
+2020-03-01,Newport,RI,3
+2020-03-01,Providence,RI,24
+2020-03-01,Washington,RI,2
+2020-03-01,Anderson,SC,2
+2020-03-01,Beaufort,SC,2
+2020-03-01,Berkeley,SC,3
+2020-03-01,Charleston,SC,3
+2020-03-01,Colleton,SC,2
+2020-03-01,Dorchester,SC,2
+2020-03-01,Greenville,SC,1
+2020-03-01,Horry,SC,2
+2020-03-01,Laurens,SC,2
+2020-03-01,Richland,SC,5
+2020-03-01,York,SC,3
+2020-03-01,Lake,SD,2
+2020-03-01,Blount,TN,2
+2020-03-01,Cumberland,TN,1
+2020-03-01,Davidson,TN,11
+2020-03-01,Dickson,TN,4
+2020-03-01,Hamilton,TN,2
+2020-03-01,Jefferson,TN,1
+2020-03-01,Lauderdale,TN,2
+2020-03-01,Montgomery,TN,2
+2020-03-01,Obion,TN,4
+2020-03-01,Perry,TN,2
+2020-03-01,Putnam,TN,1
+2020-03-01,Rhea,TN,2
+2020-03-01,Robertson,TN,1
+2020-03-01,Rutherford,TN,1
+2020-03-01,Shelby,TN,8
+2020-03-01,Sumner,TN,2
+2020-03-01,Tipton,TN,2
+2020-03-01,Washington,TN,2
+2020-03-01,Williamson,TN,7
+2020-03-01,Angelina,TX,2
+2020-03-01,Bee,TX,2
+2020-03-01,Bell,TX,4
+2020-03-01,Bexar,TX,17
+2020-03-01,Brazoria,TX,3
+2020-03-01,Brazos,TX,4
+2020-03-01,Cameron,TX,4
+2020-03-01,Castro,TX,1
+2020-03-01,Collin,TX,19
+2020-03-01,Concho,TX,3
+2020-03-01,Dallas,TX,35
+2020-03-01,Denton,TX,19
+2020-03-01,El Paso,TX,5
+2020-03-01,Fayette,TX,1
+2020-03-01,Fort Bend,TX,7
+2020-03-01,Galveston,TX,11
+2020-03-01,Gonzales,TX,2
+2020-03-01,Gray,TX,2
+2020-03-01,Grayson,TX,1
+2020-03-01,Gregg,TX,1
+2020-03-01,Harris,TX,42
+2020-03-01,Hays,TX,4
+2020-03-01,Hidalgo,TX,4
+2020-03-01,Hunt,TX,1
+2020-03-01,Jefferson,TX,2
+2020-03-01,Lubbock,TX,4
+2020-03-01,Midland,TX,2
+2020-03-01,Montgomery,TX,10
+2020-03-01,Nacogdoches,TX,4
+2020-03-01,Nueces,TX,3
+2020-03-01,Palo Pinto,TX,2
+2020-03-01,Parker,TX,1
+2020-03-01,Randall,TX,2
+2020-03-01,Rockwall,TX,2
+2020-03-01,Rusk,TX,2
+2020-03-01,Smith,TX,2
+2020-03-01,Tarrant,TX,21
+2020-03-01,Taylor,TX,2
+2020-03-01,Tom Green,TX,2
+2020-03-01,Travis,TX,12
+2020-03-01,Webb,TX,4
+2020-03-01,Williamson,TX,19
+2020-03-01,Wilson,TX,4
+2020-03-01,Davis,UT,2
+2020-03-01,Grand,UT,2
+2020-03-01,Salt Lake,UT,7
+2020-03-01,Utah,UT,6
+2020-03-01,Albemarle,VA,4
+2020-03-01,Arlington,VA,7
+2020-03-01,Chesterfield,VA,2
+2020-03-01,Clarke,VA,2
+2020-03-01,Fairfax,VA,30
+2020-03-01,Hanover,VA,3
+2020-03-01,Henrico,VA,11
+2020-03-01,Loudoun,VA,7
+2020-03-01,Merseyside,VA,1
+2020-03-01,Powhatan,VA,1
+2020-03-01,Prince Edward,VA,2
+2020-03-01,Prince William,VA,5
+2020-03-01,Spotsylvania,VA,4
+2020-03-01,Washington,VA,3
+2020-03-01,Wythe,VA,1
+2020-03-01,Addison,VT,3
+2020-03-01,Bennington,VT,2
+2020-03-01,Caledonia,VT,1
+2020-03-01,Chittenden,VT,3
+2020-03-01,Lamoille,VT,2
+2020-03-01,Windham,VT,2
+2020-03-01,Windsor,VT,1
+2020-03-01,Benton,WA,7
+2020-03-01,Clark,WA,2
+2020-03-01,Grays Harbor,WA,2
+2020-03-01,Island,WA,5
+2020-03-01,King,WA,73
+2020-03-01,Kitsap,WA,8
+2020-03-01,Lewis,WA,2
+2020-03-01,Pacific,WA,3
+2020-03-01,Pend Oreille,WA,2
+2020-03-01,Pierce,WA,12
+2020-03-01,Skagit,WA,2
+2020-03-01,Snohomish,WA,12
+2020-03-01,Spokane,WA,3
+2020-03-01,Thurston,WA,3
+2020-03-01,Whatcom,WA,6
+2020-03-01,Barron,WI,3
+2020-03-01,Columbia,WI,2
+2020-03-01,Dane,WI,8
+2020-03-01,Eau Claire,WI,2
+2020-03-01,Jefferson,WI,1
+2020-03-01,Kewaunee,WI,2
+2020-03-01,La Crosse,WI,2
+2020-03-01,Manitowoc,WI,2
+2020-03-01,Marathon,WI,2
+2020-03-01,Milwaukee,WI,6
+2020-03-01,Portage,WI,3
+2020-03-01,Racine,WI,2
+2020-03-01,Richland,WI,2
+2020-03-01,Sauk,WI,2
+2020-03-01,Sawyer,WI,2
+2020-03-01,Sheboygan,WI,1
+2020-03-01,Washington,WI,3
+2020-03-01,Waukesha,WI,1
+2020-03-01,Winnebago,WI,2
+2020-03-01,Berkeley,WV,2
+2020-03-01,Cabell,WV,4
+2020-03-01,Fayette,WV,1
+2020-03-01,Hancock,WV,2
+2020-03-01,Lewis,WV,1
+2020-03-01,Mercer,WV,1
+2020-03-01,Monongalia,WV,4
+2020-03-01,Raleigh,WV,2
+2020-03-01,Roane,WV,2
+2020-03-01,Tyler,WV,2
+2020-03-01,Fremont,WY,2
+2020-03-01,Sheridan,WY,1
+2020-03-01,Sweetwater,WY,2
+2020-04-01,Badin,,1
+2020-04-01,City of Johannesburg Metropolitan Municipality,,1
+2020-04-01,Colbert,,1
+2020-04-01,DeKalb,,1
+2020-04-01,Jefferson,,1
+2020-04-01,Les Moulins,,1
+2020-04-01,Regional Municipality of Niagara,,1
+2020-04-01,Washington,A,2
+2020-04-01,Anchorage,AK,3
+2020-04-01,Baldwin,AL,3
+2020-04-01,Chambers,AL,1
+2020-04-01,Chilton,AL,1
+2020-04-01,Clay,AL,1
+2020-04-01,Coosa,AL,1
+2020-04-01,Cullman,AL,1
+2020-04-01,Dallas,AL,1
+2020-04-01,Elmore,AL,1
+2020-04-01,Etowah,AL,4
+2020-04-01,Greene,AL,1
+2020-04-01,Jefferson,AL,17
+2020-04-01,Lee,AL,1
+2020-04-01,Madison,AL,5
+2020-04-01,Mobile,AL,12
+2020-04-01,Montgomery,AL,11
+2020-04-01,Morgan,AL,5
+2020-04-01,Pike,AL,1
+2020-04-01,Russell,AL,1
+2020-04-01,Shelby,AL,3
+2020-04-01,Talladega,AL,1
+2020-04-01,Tallapoosa,AL,2
+2020-04-01,Tuscaloosa,AL,5
+2020-04-01,Walker,AL,2
+2020-04-01,Washington,AL,1
+2020-04-01,Benton,AR,1
+2020-04-01,Clay,AR,2
+2020-04-01,Columbia,AR,2
+2020-04-01,Comuna 12,AR,1
+2020-04-01,Faulkner,AR,2
+2020-04-01,Garland,AR,4
+2020-04-01,Greene,AR,1
+2020-04-01,Independence,AR,1
+2020-04-01,Jackson,AR,1
+2020-04-01,Lonoke,AR,1
+2020-04-01,Phillips,AR,1
+2020-04-01,Pulaski,AR,6
+2020-04-01,Van Buren,AR,2
+2020-04-01,Washington,AR,6
+2020-04-01,White,AR,1
+2020-04-01,Apache,AZ,4
+2020-04-01,Cochise,AZ,2
+2020-04-01,Coconino,AZ,8
+2020-04-01,Los Angeles,AZ,1
+2020-04-01,Maricopa,AZ,86
+2020-04-01,Mohave,AZ,2
+2020-04-01,Navajo,AZ,4
+2020-04-01,Pima,AZ,20
+2020-04-01,Pinal,AZ,3
+2020-04-01,Santa Cruz,AZ,1
+2020-04-01,Yavapai,AZ,6
+2020-04-01,Yuma,AZ,2
+2020-04-01,Alameda,CA,93
+2020-04-01,Bernalillo,CA,1
+2020-04-01,Contra Costa,CA,32
+2020-04-01,Denver,CA,1
+2020-04-01,El Dorado,CA,1
+2020-04-01,Fresno,CA,23
+2020-04-01,Inyo,CA,1
+2020-04-01,Kern,CA,6
+2020-04-01,Los Angeles,CA,476
+2020-04-01,Marin,CA,11
+2020-04-01,Monterey,CA,10
+2020-04-01,Napa,CA,2
+2020-04-01,Orange,CA,94
+2020-04-01,Placer,CA,11
+2020-04-01,Riverside,CA,46
+2020-04-01,Sacramento,CA,32
+2020-04-01,San Bernardino,CA,41
+2020-04-01,San Diego,CA,53
+2020-04-01,San Francisco,CA,63
+2020-04-01,San Joaquin,CA,29
+2020-04-01,San Luis Obispo,CA,5
+2020-04-01,San Mateo,CA,39
+2020-04-01,Santa Barbara,CA,8
+2020-04-01,Santa Clara,CA,59
+2020-04-01,Santa Cruz,CA,10
+2020-04-01,Solano,CA,7
+2020-04-01,Sonoma,CA,6
+2020-04-01,Stanislaus,CA,16
+2020-04-01,Sutter,CA,1
+2020-04-01,Tulare,CA,15
+2020-04-01,Ventura,CA,14
+2020-04-01,Yolo,CA,2
+2020-04-01,Adams,CO,5
+2020-04-01,Alamosa,CO,1
+2020-04-01,Arapahoe,CO,23
+2020-04-01,Boulder,CO,8
+2020-04-01,Broomfield,CO,6
+2020-04-01,Denver,CO,18
+2020-04-01,Douglas,CO,5
+2020-04-01,El Paso,CO,6
+2020-04-01,Gunnison,CO,1
+2020-04-01,Jefferson,CO,19
+2020-04-01,Kit Carson,CO,1
+2020-04-01,La Plata,CO,3
+2020-04-01,Larimer,CO,6
+2020-04-01,Mesa,CO,5
+2020-04-01,Montezuma,CO,1
+2020-04-01,Phillips,CO,1
+2020-04-01,Summit,CO,4
+2020-04-01,Weld,CO,3
+2020-04-01,Fairfield,CT,38
+2020-04-01,Hartford,CT,18
+2020-04-01,Litchfield,CT,5
+2020-04-01,Middlesex,CT,9
+2020-04-01,New Haven,CT,27
+2020-04-01,New London,CT,4
+2020-04-01,New Castle,DE,8
+2020-04-01,Sussex,DE,3
+2020-04-01,Alachua,FL,2
+2020-04-01,Bay,FL,1
+2020-04-01,Brevard,FL,16
+2020-04-01,Broward,FL,23
+2020-04-01,Charlotte,FL,8
+2020-04-01,Clay,FL,5
+2020-04-01,Collier,FL,9
+2020-04-01,Columbia,FL,1
+2020-04-01,Duval,FL,21
+2020-04-01,Escambia,FL,8
+2020-04-01,Flagler,FL,1
+2020-04-01,Franklin,FL,1
+2020-04-01,Hernando,FL,3
+2020-04-01,Highlands,FL,3
+2020-04-01,Hillsborough,FL,45
+2020-04-01,Indian River,FL,1
+2020-04-01,Johnson,FL,1
+2020-04-01,Lake,FL,19
+2020-04-01,Lee,FL,23
+2020-04-01,Leon,FL,10
+2020-04-01,Levy,FL,3
+2020-04-01,Manatee,FL,12
+2020-04-01,Marion,FL,12
+2020-04-01,Martin,FL,5
+2020-04-01,Miami-Dade,FL,47
+2020-04-01,Monroe,FL,2
+2020-04-01,Okaloosa,FL,3
+2020-04-01,Okeechobee,FL,1
+2020-04-01,Orange,FL,33
+2020-04-01,Osceola,FL,6
+2020-04-01,Palm Beach,FL,53
+2020-04-01,Pasco,FL,8
+2020-04-01,Pinellas,FL,29
+2020-04-01,Polk,FL,11
+2020-04-01,Putnam,FL,3
+2020-04-01,Sarasota,FL,11
+2020-04-01,Seminole,FL,12
+2020-04-01,St. Johns,FL,3
+2020-04-01,St. Lucie,FL,5
+2020-04-01,Sumter,FL,2
+2020-04-01,Suwannee,FL,2
+2020-04-01,Union,FL,1
+2020-04-01,Volusia,FL,11
+2020-04-01,Wakulla,FL,1
+2020-04-01,Washington,FL,3
+2020-04-01,Los Angeles,FM,1
+2020-04-01,Albacete,GA,1
+2020-04-01,Anderson,GA,1
+2020-04-01,Banks,GA,1
+2020-04-01,Bibb,GA,11
+2020-04-01,Bleckley,GA,3
+2020-04-01,Bryan,GA,1
+2020-04-01,Bulloch,GA,5
+2020-04-01,Camden,GA,3
+2020-04-01,Carroll,GA,3
+2020-04-01,Catoosa,GA,2
+2020-04-01,Chatham,GA,14
+2020-04-01,Chattooga,GA,2
+2020-04-01,Cherokee,GA,6
+2020-04-01,Clarke,GA,4
+2020-04-01,Clayton,GA,7
+2020-04-01,Cobb,GA,8
+2020-04-01,Colquitt,GA,1
+2020-04-01,Coweta,GA,3
+2020-04-01,Crisp,GA,1
+2020-04-01,Dade,GA,4
+2020-04-01,DeKalb,GA,12
+2020-04-01,Dougherty,GA,10
+2020-04-01,Emanuel,GA,1
+2020-04-01,Evans,GA,2
+2020-04-01,Fannin,GA,1
+2020-04-01,Fayette,GA,5
+2020-04-01,Floyd,GA,10
+2020-04-01,Forsyth,GA,5
+2020-04-01,Fulton,GA,14
+2020-04-01,Glynn,GA,1
+2020-04-01,Gordon,GA,3
+2020-04-01,Gwinnett,GA,13
+2020-04-01,Hall,GA,1
+2020-04-01,Haralson,GA,3
+2020-04-01,Henry,GA,10
+2020-04-01,Houston,GA,1
+2020-04-01,Jones,GA,1
+2020-04-01,Laurens,GA,1
+2020-04-01,Liberty,GA,1
+2020-04-01,Lowndes,GA,1
+2020-04-01,Lumpkin,GA,1
+2020-04-01,McDuffie,GA,1
+2020-04-01,Montgomery,GA,2
+2020-04-01,Murray,GA,2
+2020-04-01,Muscogee,GA,6
+2020-04-01,Paulding,GA,1
+2020-04-01,Pierce,GA,1
+2020-04-01,Polk,GA,2
+2020-04-01,Richmond,GA,8
+2020-04-01,Rockdale,GA,2
+2020-04-01,Spalding,GA,5
+2020-04-01,Stephens,GA,1
+2020-04-01,Thomas,GA,2
+2020-04-01,Tift,GA,2
+2020-04-01,Troup,GA,4
+2020-04-01,Upson,GA,5
+2020-04-01,Walker,GA,3
+2020-04-01,Walton,GA,1
+2020-04-01,Ware,GA,4
+2020-04-01,Hawaii,HI,3
+2020-04-01,Honolulu,HI,14
+2020-04-01,Kauai,HI,1
+2020-04-01,Maui,HI,3
+2020-04-01,Allamakee,IA,3
+2020-04-01,Black Hawk,IA,2
+2020-04-01,Clay,IA,1
+2020-04-01,Clayton,IA,2
+2020-04-01,Dallas,IA,1
+2020-04-01,Decatur,IA,1
+2020-04-01,Des Moines,IA,2
+2020-04-01,Dubuque,IA,1
+2020-04-01,Hancock,IA,1
+2020-04-01,Johnson,IA,5
+2020-04-01,Linn,IA,7
+2020-04-01,Louisa,IA,1
+2020-04-01,Marion,IA,2
+2020-04-01,Polk,IA,5
+2020-04-01,Pottawattamie,IA,2
+2020-04-01,Scott,IA,3
+2020-04-01,Wapello,IA,1
+2020-04-01,Washington,IA,1
+2020-04-01,Webster,IA,1
+2020-04-01,Ada,ID,10
+2020-04-01,Bannock,ID,2
+2020-04-01,Bonneville,ID,1
+2020-04-01,Idaho,ID,1
+2020-04-01,Kootenai,ID,1
+2020-04-01,Twin Falls,ID,1
+2020-04-01,Bond,IL,3
+2020-04-01,Champaign,IL,2
+2020-04-01,Cook,IL,172
+2020-04-01,DuPage,IL,30
+2020-04-01,Effingham,IL,2
+2020-04-01,Franklin,IL,1
+2020-04-01,Kane,IL,6
+2020-04-01,Kankakee,IL,2
+2020-04-01,Kendall,IL,1
+2020-04-01,Knox,IL,2
+2020-04-01,LaSalle,IL,1
+2020-04-01,Lake,IL,16
+2020-04-01,Macoupin,IL,1
+2020-04-01,Madison,IL,2
+2020-04-01,Marion,IL,1
+2020-04-01,McHenry,IL,6
+2020-04-01,Saline,IL,2
+2020-04-01,Sangamon,IL,1
+2020-04-01,St. Clair,IL,3
+2020-04-01,Tazewell,IL,1
+2020-04-01,Union,IL,1
+2020-04-01,Vermilion,IL,1
+2020-04-01,Will,IL,11
+2020-04-01,Williamson,IL,1
+2020-04-01,Winnebago,IL,1
+2020-04-01,Allen,IN,3
+2020-04-01,Bartholomew,IN,3
+2020-04-01,Brown,IN,1
+2020-04-01,Clark,IN,2
+2020-04-01,Cook,IN,1
+2020-04-01,Dubois,IN,1
+2020-04-01,Floyd,IN,5
+2020-04-01,Hamilton,IN,6
+2020-04-01,Harrison,IN,2
+2020-04-01,Hendricks,IN,7
+2020-04-01,Jasper,IN,2
+2020-04-01,Johnson,IN,1
+2020-04-01,LaPorte,IN,3
+2020-04-01,Lake,IN,11
+2020-04-01,Madison,IN,3
+2020-04-01,Marion,IN,21
+2020-04-01,Montgomery,IN,1
+2020-04-01,Morgan,IN,1
+2020-04-01,North 24 Parganas,IN,1
+2020-04-01,Porter,IN,2
+2020-04-01,Pulaski,IN,1
+2020-04-01,Putnam,IN,1
+2020-04-01,Shelby,IN,1
+2020-04-01,St. Joseph,IN,5
+2020-04-01,Vigo,IN,2
+2020-04-01,White,IN,1
+2020-04-01,Allen,KS,1
+2020-04-01,Barton,KS,1
+2020-04-01,Cherokee,KS,1
+2020-04-01,Dickinson,KS,1
+2020-04-01,Douglas,KS,2
+2020-04-01,Grant,KS,2
+2020-04-01,Jackson,KS,1
+2020-04-01,Johnson,KS,13
+2020-04-01,Miami,KS,3
+2020-04-01,Pratt,KS,1
+2020-04-01,Saline,KS,1
+2020-04-01,Sedgwick,KS,8
+2020-04-01,Shawnee,KS,2
+2020-04-01,Wyandotte,KS,2
+2020-04-01,Adair,KY,3
+2020-04-01,Barren,KY,1
+2020-04-01,Boone,KY,2
+2020-04-01,Campbell,KY,1
+2020-04-01,Clark,KY,1
+2020-04-01,Daviess,KY,4
+2020-04-01,Fairbanks North Star,KY,1
+2020-04-01,Fayette,KY,2
+2020-04-01,Floyd,KY,1
+2020-04-01,Franklin,KY,1
+2020-04-01,Greenup,KY,1
+2020-04-01,Jackson,KY,1
+2020-04-01,Jefferson,KY,12
+2020-04-01,Jessamine,KY,1
+2020-04-01,Johnson,KY,1
+2020-04-01,Kenton,KY,5
+2020-04-01,Knox,KY,1
+2020-04-01,Marion,KY,1
+2020-04-01,McCracken,KY,1
+2020-04-01,Pike,KY,3
+2020-04-01,Russell,KY,1
+2020-04-01,Whitley,KY,1
+2020-04-01,Ascension Parish,LA,1
+2020-04-01,Avoyelles Parish,LA,1
+2020-04-01,Caddo Parish,LA,2
+2020-04-01,Calcasieu Parish,LA,1
+2020-04-01,East Baton Rouge Parish,LA,5
+2020-04-01,Franklin Parish,LA,3
+2020-04-01,Jefferson Parish,LA,5
+2020-04-01,Lafayette Parish,LA,7
+2020-04-01,Livingston Parish,LA,1
+2020-04-01,Madison Parish,LA,1
+2020-04-01,Orleans Parish,LA,17
+2020-04-01,Ouachita Parish,LA,2
+2020-04-01,Rapides Parish,LA,3
+2020-04-01,St. Tammany Parish,LA,4
+2020-04-01,Union Parish,LA,6
+2020-04-01,Webster Parish,LA,3
+2020-04-01,West Baton Rouge Parish,LA,1
+2020-04-01,Barnstable,MA,7
+2020-04-01,Berkshire,MA,10
+2020-04-01,Bristol,MA,17
+2020-04-01,Essex,MA,52
+2020-04-01,Franklin,MA,4
+2020-04-01,Hampden,MA,8
+2020-04-01,Hampshire,MA,2
+2020-04-01,Los Angeles,MA,1
+2020-04-01,Middlesex,MA,79
+2020-04-01,Norfolk,MA,33
+2020-04-01,Plymouth,MA,21
+2020-04-01,Suffolk,MA,44
+2020-04-01,Worcester,MA,62
+2020-04-01,Allegany,MD,5
+2020-04-01,Anne Arundel,MD,12
+2020-04-01,Baltimore,MD,14
+2020-04-01,Calvert,MD,4
+2020-04-01,Carroll,MD,3
+2020-04-01,Cecil,MD,1
+2020-04-01,Charles,MD,4
+2020-04-01,Dorchester,MD,1
+2020-04-01,Frederick,MD,8
+2020-04-01,Garrett,MD,1
+2020-04-01,Harford,MD,7
+2020-04-01,Howard,MD,8
+2020-04-01,Montgomery,MD,35
+2020-04-01,Passaic,MD,1
+2020-04-01,Prince George's,MD,24
+2020-04-01,St. Mary's,MD,1
+2020-04-01,Talbot,MD,2
+2020-04-01,Washington,MD,2
+2020-04-01,Wicomico,MD,4
+2020-04-01,Worcester,MD,1
+2020-04-01,Aroostook,ME,1
+2020-04-01,Cumberland,ME,10
+2020-04-01,Franklin,ME,1
+2020-04-01,Lincoln,ME,2
+2020-04-01,Oxford,ME,2
+2020-04-01,Penobscot,ME,2
+2020-04-01,York,ME,2
+2020-04-01,Bay,MI,1
+2020-04-01,Berrien,MI,3
+2020-04-01,Calhoun,MI,3
+2020-04-01,Charlevoix,MI,2
+2020-04-01,Chippewa,MI,1
+2020-04-01,Clare,MI,1
+2020-04-01,Delta,MI,3
+2020-04-01,Eaton,MI,1
+2020-04-01,Elkhart,MI,1
+2020-04-01,Genesee,MI,8
+2020-04-01,Grand Traverse,MI,3
+2020-04-01,Ingham,MI,8
+2020-04-01,Iron,MI,1
+2020-04-01,Isabella,MI,1
+2020-04-01,Kalamazoo,MI,4
+2020-04-01,Kent,MI,7
+2020-04-01,Livingston,MI,3
+2020-04-01,Los Angeles,MI,1
+2020-04-01,Macomb,MI,21
+2020-04-01,Menominee,MI,2
+2020-04-01,Muskegon,MI,3
+2020-04-01,Oakland,MI,26
+2020-04-01,Ogemaw,MI,1
+2020-04-01,Ottawa,MI,1
+2020-04-01,St. Clair,MI,3
+2020-04-01,St. Joseph,MI,1
+2020-04-01,Washtenaw,MI,6
+2020-04-01,Wayne,MI,31
+2020-04-01,Anoka,MN,1
+2020-04-01,Benton,MN,1
+2020-04-01,Brown,MN,1
+2020-04-01,Carlton,MN,1
+2020-04-01,Carver,MN,3
+2020-04-01,Cavite,MN,1
+2020-04-01,Clay,MN,2
+2020-04-01,Clearwater,MN,1
+2020-04-01,Cottonwood,MN,2
+2020-04-01,Dakota,MN,4
+2020-04-01,Hennepin,MN,35
+2020-04-01,Hubbard,MN,1
+2020-04-01,McLeod,MN,3
+2020-04-01,Meeker,MN,2
+2020-04-01,Ramsey,MN,19
+2020-04-01,Sherburne,MN,1
+2020-04-01,St. Louis,MN,2
+2020-04-01,Stearns,MN,2
+2020-04-01,Washington,MN,9
+2020-04-01,Boone,MO,1
+2020-04-01,Buchanan,MO,1
+2020-04-01,Callaway,MO,2
+2020-04-01,Cape Girardeau,MO,4
+2020-04-01,Cass,MO,4
+2020-04-01,Christian,MO,1
+2020-04-01,Clay,MO,2
+2020-04-01,Franklin,MO,2
+2020-04-01,Greene,MO,2
+2020-04-01,Henry,MO,4
+2020-04-01,Howell,MO,1
+2020-04-01,Jackson,MO,9
+2020-04-01,Jasper,MO,2
+2020-04-01,Lafayette,MO,1
+2020-04-01,Lawrence,MO,1
+2020-04-01,Livingston,MO,2
+2020-04-01,Marion,MO,1
+2020-04-01,Morgan,MO,1
+2020-04-01,Oregon,MO,1
+2020-04-01,Pemiscot,MO,1
+2020-04-01,Pettis,MO,1
+2020-04-01,Phelps,MO,1
+2020-04-01,Platte,MO,1
+2020-04-01,Ralls,MO,2
+2020-04-01,Ray,MO,1
+2020-04-01,Scott,MO,1
+2020-04-01,St. Charles,MO,5
+2020-04-01,St. Francois,MO,1
+2020-04-01,St. Louis,MO,29
+2020-04-01,Texas,MO,1
+2020-04-01,Wright,MO,2
+2020-04-01,Bolivar,MS,1
+2020-04-01,Clay,MS,1
+2020-04-01,Coahoma,MS,1
+2020-04-01,DeSoto,MS,1
+2020-04-01,Forrest,MS,2
+2020-04-01,Grenada,MS,4
+2020-04-01,Hancock,MS,1
+2020-04-01,Harrison,MS,5
+2020-04-01,Hinds,MS,3
+2020-04-01,Itawamba,MS,3
+2020-04-01,Jackson,MS,5
+2020-04-01,Jasper,MS,1
+2020-04-01,Jones,MS,1
+2020-04-01,Lauderdale,MS,3
+2020-04-01,Lee,MS,2
+2020-04-01,Lowndes,MS,4
+2020-04-01,Marshall,MS,1
+2020-04-01,McNairy,MS,1
+2020-04-01,Noxubee,MS,3
+2020-04-01,Panola,MS,1
+2020-04-01,Pearl River,MS,1
+2020-04-01,Rankin,MS,3
+2020-04-01,Simpson,MS,1
+2020-04-01,Stone,MS,1
+2020-04-01,Tate,MS,1
+2020-04-01,Union,MS,2
+2020-04-01,Washington,MS,2
+2020-04-01,Yazoo,MS,1
+2020-04-01,Custer,MT,1
+2020-04-01,Flathead,MT,1
+2020-04-01,Gallatin,MT,3
+2020-04-01,Missoula,MT,2
+2020-04-01,Yellowstone,MT,2
+2020-04-01,Alamance,NC,3
+2020-04-01,Bladen,NC,1
+2020-04-01,Brunswick,NC,1
+2020-04-01,Buncombe,NC,12
+2020-04-01,Burke,NC,1
+2020-04-01,Cabarrus,NC,2
+2020-04-01,Catawba,NC,4
+2020-04-01,Chatham,NC,1
+2020-04-01,Clay,NC,2
+2020-04-01,Cleveland,NC,1
+2020-04-01,Columbus,NC,1
+2020-04-01,Craven,NC,1
+2020-04-01,Cumberland,NC,3
+2020-04-01,Davidson,NC,1
+2020-04-01,Durham,NC,3
+2020-04-01,Forsyth,NC,3
+2020-04-01,Gaston,NC,1
+2020-04-01,Guilford,NC,4
+2020-04-01,Harnett,NC,1
+2020-04-01,Henderson,NC,3
+2020-04-01,Iredell,NC,5
+2020-04-01,Jackson,NC,3
+2020-04-01,Johnston,NC,3
+2020-04-01,Lee,NC,2
+2020-04-01,Macon,NC,3
+2020-04-01,Mecklenburg,NC,12
+2020-04-01,Montgomery,NC,1
+2020-04-01,Nash,NC,1
+2020-04-01,New Hanover,NC,3
+2020-04-01,Onslow,NC,2
+2020-04-01,Orange,NC,8
+2020-04-01,Pasquotank,NC,1
+2020-04-01,Pender,NC,1
+2020-04-01,Person,NC,1
+2020-04-01,Pitt,NC,2
+2020-04-01,Randolph,NC,5
+2020-04-01,Robeson,NC,2
+2020-04-01,Rockingham,NC,1
+2020-04-01,Rowan,NC,3
+2020-04-01,Rutherford,NC,3
+2020-04-01,Sampson,NC,1
+2020-04-01,Union,NC,3
+2020-04-01,Vance,NC,2
+2020-04-01,Wake,NC,21
+2020-04-01,Watauga,NC,3
+2020-04-01,Wayne,NC,2
+2020-04-01,Wilson,NC,2
+2020-04-01,Cass,ND,1
+2020-04-01,Ward,ND,2
+2020-04-01,Adams,NE,1
+2020-04-01,Bagmati,NE,1
+2020-04-01,Cass,NE,1
+2020-04-01,Dawson,NE,1
+2020-04-01,Douglas,NE,7
+2020-04-01,Lancaster,NE,8
+2020-04-01,Platte,NE,3
+2020-04-01,Polk,NE,1
+2020-04-01,Belknap,NH,2
+2020-04-01,Cheshire,NH,6
+2020-04-01,Hillsborough,NH,4
+2020-04-01,Merrimack,NH,4
+2020-04-01,Rockingham,NH,14
+2020-04-01,Strafford,NH,1
+2020-04-01,Atlantic,NJ,4
+2020-04-01,Bergen,NJ,35
+2020-04-01,Burlington,NJ,5
+2020-04-01,Camden,NJ,17
+2020-04-01,Cape May,NJ,2
+2020-04-01,Essex,NJ,21
+2020-04-01,Gloucester,NJ,6
+2020-04-01,Hudson,NJ,18
+2020-04-01,Mercer,NJ,16
+2020-04-01,Middlesex,NJ,25
+2020-04-01,Monmouth,NJ,19
+2020-04-01,Morris,NJ,15
+2020-04-01,Ocean,NJ,5
+2020-04-01,Orange,NJ,2
+2020-04-01,Passaic,NJ,21
+2020-04-01,Salem,NJ,1
+2020-04-01,Somerset,NJ,8
+2020-04-01,Sussex,NJ,5
+2020-04-01,Union,NJ,12
+2020-04-01,Warren,NJ,2
+2020-04-01,Westchester,NJ,1
+2020-04-01,Bernalillo,NM,15
+2020-04-01,Doña Ana,NM,6
+2020-04-01,Los Alamos,NM,1
+2020-04-01,McKinley,NM,7
+2020-04-01,Monmouth,NM,1
+2020-04-01,San Juan,NM,2
+2020-04-01,Sandoval,NM,3
+2020-04-01,Taos,NM,1
+2020-04-01,Clark,NV,33
+2020-04-01,Elko,NV,1
+2020-04-01,Washoe,NV,5
+2020-04-01,Albany,NY,10
+2020-04-01,Bergen,NY,1
+2020-04-01,Bronx,NY,49
+2020-04-01,Chautauqua,NY,1
+2020-04-01,Chenango,NY,1
+2020-04-01,Clinton,NY,9
+2020-04-01,Columbia,NY,1
+2020-04-01,Cortland,NY,1
+2020-04-01,Dutchess,NY,3
+2020-04-01,Erie,NY,10
+2020-04-01,Essex,NY,2
+2020-04-01,Fulton,NY,7
+2020-04-01,Jefferson,NY,1
+2020-04-01,Kings,NY,86
+2020-04-01,Livingston,NY,1
+2020-04-01,Madison,NY,1
+2020-04-01,Monroe,NY,12
+2020-04-01,Montgomery,NY,1
+2020-04-01,Nassau,NY,59
+2020-04-01,New York,NY,130
+2020-04-01,Niagara,NY,1
+2020-04-01,Oneida,NY,3
+2020-04-01,Onondaga,NY,5
+2020-04-01,Ontario,NY,3
+2020-04-01,Orange,NY,4
+2020-04-01,Polk,NY,1
+2020-04-01,Putnam,NY,2
+2020-04-01,Queens,NY,62
+2020-04-01,Rensselaer,NY,3
+2020-04-01,Richmond,NY,17
+2020-04-01,Rockland,NY,9
+2020-04-01,Saratoga,NY,4
+2020-04-01,Schenectady,NY,4
+2020-04-01,Schuyler,NY,1
+2020-04-01,St. Lawrence,NY,4
+2020-04-01,Suffolk,NY,37
+2020-04-01,Tompkins,NY,2
+2020-04-01,Ulster,NY,4
+2020-04-01,Westchester,NY,30
+2020-04-01,Adams,OH,2
+2020-04-01,Ashtabula,OH,1
+2020-04-01,Auglaize,OH,1
+2020-04-01,Butler,OH,2
+2020-04-01,Clark,OH,1
+2020-04-01,Clinton,OH,1
+2020-04-01,Crawford,OH,1
+2020-04-01,Cuyahoga,OH,35
+2020-04-01,Defiance,OH,1
+2020-04-01,Delaware,OH,1
+2020-04-01,Fairfield,OH,2
+2020-04-01,Franklin,OH,17
+2020-04-01,Gallia,OH,2
+2020-04-01,Geauga,OH,3
+2020-04-01,Greene,OH,5
+2020-04-01,Hamilton,OH,23
+2020-04-01,Hancock,OH,2
+2020-04-01,Huron,OH,1
+2020-04-01,Jackson,OH,2
+2020-04-01,Jefferson,OH,1
+2020-04-01,Lake,OH,2
+2020-04-01,Licking,OH,1
+2020-04-01,Lorain,OH,1
+2020-04-01,Lucas,OH,7
+2020-04-01,Mahoning,OH,3
+2020-04-01,Medina,OH,2
+2020-04-01,Montgomery,OH,13
+2020-04-01,Morgan,OH,1
+2020-04-01,Muskingum,OH,2
+2020-04-01,Ottawa,OH,2
+2020-04-01,Paulding,OH,2
+2020-04-01,Portage,OH,9
+2020-04-01,Putnam,OH,2
+2020-04-01,Scioto,OH,1
+2020-04-01,Stark,OH,7
+2020-04-01,Summit,OH,7
+2020-04-01,Trumbull,OH,2
+2020-04-01,Tuscarawas,OH,2
+2020-04-01,Warren,OH,3
+2020-04-01,Wayne,OH,2
+2020-04-01,Wood,OH,5
+2020-04-01,Bryan,OK,2
+2020-04-01,Cleveland,OK,8
+2020-04-01,Comanche,OK,2
+2020-04-01,Creek,OK,3
+2020-04-01,Garfield,OK,3
+2020-04-01,Kiowa,OK,1
+2020-04-01,Major,OK,1
+2020-04-01,Noble,OK,1
+2020-04-01,Okfuskee,OK,1
+2020-04-01,Oklahoma,OK,7
+2020-04-01,Pontotoc,OK,1
+2020-04-01,Pottawatomie,OK,1
+2020-04-01,Tulsa,OK,10
+2020-04-01,Wagoner,OK,2
+2020-04-01,Toronto Division,ON,1
+2020-04-01,Clackamas,OR,6
+2020-04-01,Coos,OR,1
+2020-04-01,Deschutes,OR,4
+2020-04-01,Douglas,OR,2
+2020-04-01,Lane,OR,2
+2020-04-01,Marion,OR,3
+2020-04-01,Multnomah,OR,16
+2020-04-01,Polk,OR,1
+2020-04-01,Tillamook,OR,2
+2020-04-01,Washington,OR,12
+2020-04-01,Yamhill,OR,2
+2020-04-01,Allegheny,PA,30
+2020-04-01,Beaver,PA,2
+2020-04-01,Berks,PA,12
+2020-04-01,Blair,PA,1
+2020-04-01,Bucks,PA,10
+2020-04-01,Butler,PA,2
+2020-04-01,Cambria,PA,3
+2020-04-01,Carbon,PA,2
+2020-04-01,Centre,PA,5
+2020-04-01,Chester,PA,14
+2020-04-01,Columbia,PA,1
+2020-04-01,Crawford,PA,2
+2020-04-01,Cumberland,PA,11
+2020-04-01,Dauphin,PA,7
+2020-04-01,Delaware,PA,12
+2020-04-01,Erie,PA,8
+2020-04-01,Fayette,PA,2
+2020-04-01,Franklin,PA,1
+2020-04-01,Greene,PA,2
+2020-04-01,Lackawanna,PA,9
+2020-04-01,Lancaster,PA,8
+2020-04-01,Lawrence,PA,4
+2020-04-01,Lebanon,PA,3
+2020-04-01,Lehigh,PA,9
+2020-04-01,Luzerne,PA,11
+2020-04-01,Lycoming,PA,1
+2020-04-01,Mercer,PA,1
+2020-04-01,Monroe,PA,2
+2020-04-01,Montgomery,PA,22
+2020-04-01,Montour,PA,2
+2020-04-01,Northampton,PA,7
+2020-04-01,Northumberland,PA,1
+2020-04-01,Philadelphia,PA,50
+2020-04-01,Schuylkill,PA,1
+2020-04-01,Venango,PA,2
+2020-04-01,Warren,PA,1
+2020-04-01,Washington,PA,12
+2020-04-01,Westmoreland,PA,5
+2020-04-01,York,PA,4
+2020-04-01,Caimital Bajo,PR,1
+2020-04-01,Candelero Abajo,PR,1
+2020-04-01,Bristol,RI,1
+2020-04-01,Newport,RI,5
+2020-04-01,Providence,RI,37
+2020-04-01,Washington,RI,2
+2020-04-01,Allendale,SC,1
+2020-04-01,Anderson,SC,3
+2020-04-01,Bamberg,SC,1
+2020-04-01,Berkeley,SC,3
+2020-04-01,Calhoun,SC,1
+2020-04-01,Charleston,SC,10
+2020-04-01,Cherokee,SC,1
+2020-04-01,Colleton,SC,3
+2020-04-01,Florence,SC,1
+2020-04-01,Georgetown,SC,1
+2020-04-01,Greenville,SC,3
+2020-04-01,Horry,SC,3
+2020-04-01,Lancaster,SC,1
+2020-04-01,Laurens,SC,2
+2020-04-01,Lexington,SC,3
+2020-04-01,Oconee,SC,1
+2020-04-01,Pickens,SC,4
+2020-04-01,Richland,SC,12
+2020-04-01,Spartanburg,SC,1
+2020-04-01,Sumter,SC,2
+2020-04-01,York,SC,5
+2020-04-01,Minnehaha,SD,1
+2020-04-01,Oglala Lakota,SD,1
+2020-04-01,Anderson,TN,2
+2020-04-01,Bradley,TN,3
+2020-04-01,Cannon,TN,2
+2020-04-01,Carroll,TN,1
+2020-04-01,Carter,TN,1
+2020-04-01,Cheatham,TN,2
+2020-04-01,Cocke,TN,1
+2020-04-01,Davidson,TN,30
+2020-04-01,Dickson,TN,1
+2020-04-01,Franklin,TN,1
+2020-04-01,Hamblen,TN,2
+2020-04-01,Hamilton,TN,9
+2020-04-01,Hawkins,TN,2
+2020-04-01,Knox,TN,4
+2020-04-01,Lauderdale,TN,2
+2020-04-01,Lawrence,TN,1
+2020-04-01,Macon,TN,2
+2020-04-01,Madison,TN,1
+2020-04-01,Maury,TN,1
+2020-04-01,Montgomery,TN,3
+2020-04-01,Perry,TN,4
+2020-04-01,Pickett,TN,1
+2020-04-01,Putnam,TN,1
+2020-04-01,Roane,TN,1
+2020-04-01,Rutherford,TN,8
+2020-04-01,Sevier,TN,1
+2020-04-01,Shelby,TN,27
+2020-04-01,Sumner,TN,4
+2020-04-01,Warren,TN,1
+2020-04-01,Washington,TN,3
+2020-04-01,Williamson,TN,3
+2020-04-01,Angelina,TX,1
+2020-04-01,Bastrop,TX,1
+2020-04-01,Bell,TX,5
+2020-04-01,Bexar,TX,21
+2020-04-01,Bosque,TX,1
+2020-04-01,Bowie,TX,2
+2020-04-01,Brazoria,TX,9
+2020-04-01,Cameron,TX,3
+2020-04-01,Chambers,TX,1
+2020-04-01,Cherokee,TX,1
+2020-04-01,Clay,TX,1
+2020-04-01,Collin,TX,16
+2020-04-01,Comal,TX,4
+2020-04-01,Concho,TX,3
+2020-04-01,Dallas,TX,40
+2020-04-01,Denton,TX,22
+2020-04-01,Ector,TX,1
+2020-04-01,El Paso,TX,12
+2020-04-01,Ellis,TX,1
+2020-04-01,Fannin,TX,2
+2020-04-01,Fort Bend,TX,15
+2020-04-01,Galveston,TX,6
+2020-04-01,Grayson,TX,6
+2020-04-01,Gregg,TX,2
+2020-04-01,Harris,TX,83
+2020-04-01,Hays,TX,2
+2020-04-01,Henderson,TX,2
+2020-04-01,Hidalgo,TX,16
+2020-04-01,Hood,TX,1
+2020-04-01,Hunt,TX,8
+2020-04-01,Jack,TX,1
+2020-04-01,Johnson,TX,1
+2020-04-01,Kaufman,TX,1
+2020-04-01,Kerr,TX,1
+2020-04-01,Lamar,TX,1
+2020-04-01,Lubbock,TX,6
+2020-04-01,Marion,TX,1
+2020-04-01,McLennan,TX,2
+2020-04-01,Midland,TX,3
+2020-04-01,Montgomery,TX,9
+2020-04-01,Nueces,TX,8
+2020-04-01,Orange,TX,1
+2020-04-01,Parker,TX,1
+2020-04-01,Parmer,TX,1
+2020-04-01,Rusk,TX,4
+2020-04-01,San Patricio,TX,2
+2020-04-01,Smith,TX,5
+2020-04-01,Starr,TX,1
+2020-04-01,Tarrant,TX,28
+2020-04-01,Taylor,TX,4
+2020-04-01,Travis,TX,33
+2020-04-01,Tyler,TX,1
+2020-04-01,Van Zandt,TX,1
+2020-04-01,Webb,TX,6
+2020-04-01,Wichita,TX,1
+2020-04-01,Williamson,TX,7
+2020-04-01,Wilson,TX,4
+2020-04-01,Zavala,TX,1
+2020-04-01,Box Elder,UT,1
+2020-04-01,Cache,UT,1
+2020-04-01,Davis,UT,2
+2020-04-01,Iron,UT,1
+2020-04-01,Salt Lake,UT,4
+2020-04-01,San Juan,UT,1
+2020-04-01,Tooele,UT,1
+2020-04-01,Utah,UT,8
+2020-04-01,Weber,UT,2
+2020-04-01,Albemarle,VA,3
+2020-04-01,Arlington,VA,4
+2020-04-01,Carroll,VA,2
+2020-04-01,Chesterfield,VA,7
+2020-04-01,Dinwiddie,VA,1
+2020-04-01,Fairfax,VA,44
+2020-04-01,Fauquier,VA,1
+2020-04-01,Halifax,VA,1
+2020-04-01,Hanover,VA,1
+2020-04-01,Henrico,VA,16
+2020-04-01,Henry,VA,1
+2020-04-01,James City,VA,1
+2020-04-01,Loudoun,VA,12
+2020-04-01,Louisa,VA,1
+2020-04-01,Montgomery,VA,3
+2020-04-01,Orange,VA,1
+2020-04-01,Pittsylvania,VA,3
+2020-04-01,Powhatan,VA,2
+2020-04-01,Prince Edward,VA,1
+2020-04-01,Prince William,VA,3
+2020-04-01,Richmond,VA,1
+2020-04-01,Smyth,VA,3
+2020-04-01,Spotsylvania,VA,1
+2020-04-01,Stafford,VA,1
+2020-04-01,Surry,VA,1
+2020-04-01,Warren,VA,1
+2020-04-01,Washington,VA,1
+2020-04-01,Addison,VT,2
+2020-04-01,Chittenden,VT,3
+2020-04-01,Orange,VT,3
+2020-04-01,Rutland,VT,1
+2020-04-01,Windham,VT,3
+2020-04-01,Windsor,VT,2
+2020-04-01,Benton,WA,2
+2020-04-01,Clark,WA,2
+2020-04-01,Franklin,WA,1
+2020-04-01,Grays Harbor,WA,4
+2020-04-01,King,WA,62
+2020-04-01,Lewis,WA,1
+2020-04-01,Pierce,WA,5
+2020-04-01,Snohomish,WA,8
+2020-04-01,Thurston,WA,4
+2020-04-01,Whatcom,WA,8
+2020-04-01,Whitman,WA,1
+2020-04-01,Yakima,WA,5
+2020-04-01,Brown,WI,4
+2020-04-01,Calumet,WI,1
+2020-04-01,Columbia,WI,4
+2020-04-01,Dane,WI,2
+2020-04-01,Jackson,WI,1
+2020-04-01,Jefferson,WI,4
+2020-04-01,Kenosha,WI,1
+2020-04-01,La Crosse,WI,2
+2020-04-01,Lafayette,WI,1
+2020-04-01,Marathon,WI,3
+2020-04-01,Marquette,WI,1
+2020-04-01,Milwaukee,WI,12
+2020-04-01,Monroe,WI,2
+2020-04-01,Polk,WI,2
+2020-04-01,Racine,WI,1
+2020-04-01,Richland,WI,2
+2020-04-01,Sauk,WI,3
+2020-04-01,Sawyer,WI,1
+2020-04-01,Sheboygan,WI,3
+2020-04-01,St. Croix,WI,1
+2020-04-01,Washington,WI,4
+2020-04-01,Waukesha,WI,9
+2020-04-01,Wood,WI,1
+2020-04-01,Cabell,WV,4
+2020-04-01,Fayette,WV,3
+2020-04-01,Hancock,WV,1
+2020-04-01,Kanawha,WV,1
+2020-04-01,Marshall,WV,1
+2020-04-01,Mineral,WV,2
+2020-04-01,Monongalia,WV,1
+2020-04-01,Nicholas,WV,1
+2020-04-01,Raleigh,WV,2
+2020-04-01,Roane,WV,2
+2020-04-01,Tyler,WV,2
+2020-04-01,Wetzel,WV,1
+2020-04-01,Campbell,WY,1
+2020-04-01,Goshen,WY,1
+2020-04-01,Sweetwater,WY,1
+2020-05-01,Maricopa,,2
+2020-05-01,Gwagwalada,ABUJA,1
+2020-05-01,Anchorage,AK,2
+2020-05-01,Fairbanks North Star,AK,3
+2020-05-01,Baldwin,AL,2
+2020-05-01,Colbert,AL,3
+2020-05-01,Dallas,AL,1
+2020-05-01,Elmore,AL,1
+2020-05-01,Etowah,AL,1
+2020-05-01,Jefferson,AL,1
+2020-05-01,Lauderdale,AL,1
+2020-05-01,Lee,AL,1
+2020-05-01,Mobile,AL,1
+2020-05-01,Montgomery,AL,4
+2020-05-01,Morgan,AL,1
+2020-05-01,Perry,AL,6
+2020-05-01,Pike,AL,2
+2020-05-01,Shelby,AL,1
+2020-05-01,Talladega,AL,1
+2020-05-01,Tallapoosa,AL,1
+2020-05-01,Walker,AL,1
+2020-05-01,Benton,AR,1
+2020-05-01,Columbia,AR,1
+2020-05-01,Faulkner,AR,1
+2020-05-01,Greene,AR,1
+2020-05-01,Jefferson,AR,1
+2020-05-01,Mississippi,AR,1
+2020-05-01,Pulaski,AR,2
+2020-05-01,Van Buren,AR,1
+2020-05-01,Washington,AR,5
+2020-05-01,Apache,AZ,3
+2020-05-01,Coconino,AZ,3
+2020-05-01,Maricopa,AZ,23
+2020-05-01,Mohave,AZ,3
+2020-05-01,Pima,AZ,7
+2020-05-01,Yavapai,AZ,2
+2020-05-01,Yuma,AZ,1
+2020-05-01,Capital,BC,1
+2020-05-01,Alameda,CA,33
+2020-05-01,Contra Costa,CA,18
+2020-05-01,Fresno,CA,5
+2020-05-01,Glenn,CA,1
+2020-05-01,Imperial,CA,2
+2020-05-01,Kern,CA,2
+2020-05-01,Los Angeles,CA,213
+2020-05-01,Marin,CA,1
+2020-05-01,Monterey,CA,2
+2020-05-01,Napa,CA,2
+2020-05-01,Orange,CA,34
+2020-05-01,Placer,CA,4
+2020-05-01,Riverside,CA,13
+2020-05-01,Sacramento,CA,11
+2020-05-01,San Bernardino,CA,13
+2020-05-01,San Diego,CA,30
+2020-05-01,San Francisco,CA,16
+2020-05-01,San Joaquin,CA,16
+2020-05-01,San Luis Obispo,CA,2
+2020-05-01,San Mateo,CA,16
+2020-05-01,Santa Barbara,CA,1
+2020-05-01,Santa Clara,CA,27
+2020-05-01,Santa Cruz,CA,4
+2020-05-01,Sonoma,CA,4
+2020-05-01,Stanislaus,CA,1
+2020-05-01,Sutter,CA,1
+2020-05-01,Tulare,CA,2
+2020-05-01,Ventura,CA,3
+2020-05-01,Adams,CO,1
+2020-05-01,Arapahoe,CO,5
+2020-05-01,Boulder,CO,1
+2020-05-01,Broomfield,CO,1
+2020-05-01,Denver,CO,3
+2020-05-01,Douglas,CO,3
+2020-05-01,El Paso,CO,2
+2020-05-01,Jefferson,CO,4
+2020-05-01,La Plata,CO,1
+2020-05-01,Larimer,CO,2
+2020-05-01,Montezuma,CO,1
+2020-05-01,Pueblo,CO,2
+2020-05-01,Washington,CO,1
+2020-05-01,Yuma,CO,2
+2020-05-01,Fairfield,CT,11
+2020-05-01,Hartford,CT,10
+2020-05-01,Litchfield,CT,1
+2020-05-01,Middlesex,CT,4
+2020-05-01,New Haven,CT,17
+2020-05-01,New London,CT,4
+2020-05-01,Polk,CT,1
+2020-05-01,Tolland,CT,1
+2020-05-01,Windham,CT,1
+2020-05-01,Kent,DE,1
+2020-05-01,New Castle,DE,8
+2020-05-01,Alachua,FL,1
+2020-05-01,Brevard,FL,1
+2020-05-01,Broward,FL,12
+2020-05-01,Charlotte,FL,3
+2020-05-01,Collier,FL,1
+2020-05-01,Duval,FL,1
+2020-05-01,Escambia,FL,1
+2020-05-01,Hillsborough,FL,8
+2020-05-01,Lake,FL,4
+2020-05-01,Lee,FL,2
+2020-05-01,Leon,FL,1
+2020-05-01,Manatee,FL,1
+2020-05-01,Marion,FL,1
+2020-05-01,Miami-Dade,FL,8
+2020-05-01,Okaloosa,FL,1
+2020-05-01,Orange,FL,6
+2020-05-01,Osceola,FL,3
+2020-05-01,Palm Beach,FL,8
+2020-05-01,Pasco,FL,2
+2020-05-01,Pinellas,FL,5
+2020-05-01,Polk,FL,2
+2020-05-01,Santa Rosa,FL,1
+2020-05-01,Seminole,FL,3
+2020-05-01,St. Johns,FL,1
+2020-05-01,St. Lucie,FL,4
+2020-05-01,Volusia,FL,5
+2020-05-01,Albacete,GA,1
+2020-05-01,Bibb,GA,1
+2020-05-01,Camden,GA,2
+2020-05-01,Carroll,GA,2
+2020-05-01,Chatham,GA,3
+2020-05-01,Cherokee,GA,1
+2020-05-01,Clarke,GA,3
+2020-05-01,Clayton,GA,3
+2020-05-01,Cobb,GA,2
+2020-05-01,Columbia,GA,1
+2020-05-01,Coweta,GA,1
+2020-05-01,Dade,GA,1
+2020-05-01,DeKalb,GA,5
+2020-05-01,Dougherty,GA,3
+2020-05-01,Emanuel,GA,2
+2020-05-01,Fayette,GA,1
+2020-05-01,Floyd,GA,1
+2020-05-01,Forsyth,GA,5
+2020-05-01,Fulton,GA,10
+2020-05-01,Gordon,GA,2
+2020-05-01,Gwinnett,GA,10
+2020-05-01,Houston,GA,2
+2020-05-01,Irwin,GA,1
+2020-05-01,Mitchell,GA,3
+2020-05-01,Muscogee,GA,5
+2020-05-01,Newton,GA,1
+2020-05-01,Peach,GA,1
+2020-05-01,Richmond,GA,5
+2020-05-01,Thomas,GA,1
+2020-05-01,Tift,GA,2
+2020-05-01,Wayne,GA,1
+2020-05-01,Honolulu,HI,2
+2020-05-01,Maui,HI,1
+2020-05-01,Dubuque,IA,1
+2020-05-01,Fremont,IA,1
+2020-05-01,Linn,IA,2
+2020-05-01,Polk,IA,1
+2020-05-01,Scott,IA,1
+2020-05-01,Taylor,IA,1
+2020-05-01,Woodbury,IA,1
+2020-05-01,Ada,ID,1
+2020-05-01,Idaho,ID,1
+2020-05-01,Cook,IL,69
+2020-05-01,DuPage,IL,14
+2020-05-01,Grundy,IL,1
+2020-05-01,Kane,IL,1
+2020-05-01,Kendall,IL,2
+2020-05-01,Lake,IL,7
+2020-05-01,Madison,IL,1
+2020-05-01,McHenry,IL,2
+2020-05-01,Vermilion,IL,2
+2020-05-01,Will,IL,3
+2020-05-01,Winnebago,IL,1
+2020-05-01,Val-de-Marne,ILE-DE-FRANCE,1
+2020-05-01,Brown,IN,1
+2020-05-01,Hamilton,IN,2
+2020-05-01,Harrison,IN,1
+2020-05-01,Johnson,IN,3
+2020-05-01,Lake,IN,7
+2020-05-01,Marion,IN,2
+2020-05-01,Porter,IN,1
+2020-05-01,St. Joseph,IN,1
+2020-05-01,Tippecanoe,IN,1
+2020-05-01,Jarabacoa,JARABACOA,1
+2020-05-01,Allen,KS,1
+2020-05-01,Grant,KS,1
+2020-05-01,Johnson,KS,6
+2020-05-01,Leavenworth,KS,2
+2020-05-01,Nemaha,KS,1
+2020-05-01,Pawnee,KS,1
+2020-05-01,Rooks,KS,1
+2020-05-01,Sedgwick,KS,1
+2020-05-01,Boone,KY,2
+2020-05-01,Clay,KY,1
+2020-05-01,Fleming,KY,1
+2020-05-01,Franklin,KY,1
+2020-05-01,Harrison,KY,1
+2020-05-01,Jefferson,KY,1
+2020-05-01,Kenton,KY,2
+2020-05-01,Whitley,KY,1
+2020-05-01,Allen Parish,LA,1
+2020-05-01,Calcasieu Parish,LA,1
+2020-05-01,Franklin Parish,LA,3
+2020-05-01,Jefferson Parish,LA,1
+2020-05-01,Lafayette Parish,LA,5
+2020-05-01,Orleans Parish,LA,4
+2020-05-01,Ouachita Parish,LA,1
+2020-05-01,Rapides Parish,LA,1
+2020-05-01,St. Tammany Parish,LA,4
+2020-05-01,Webster Parish,LA,1
+2020-05-01,Lincolnshire,LINCONSHIRE,1
+2020-05-01,Berkshire,MA,9
+2020-05-01,Bristol,MA,7
+2020-05-01,Dukes,MA,1
+2020-05-01,Essex,MA,23
+2020-05-01,Hampden,MA,10
+2020-05-01,Hampshire,MA,3
+2020-05-01,Kent,MA,1
+2020-05-01,Los Angeles,MA,1
+2020-05-01,Middlesex,MA,46
+2020-05-01,Norfolk,MA,10
+2020-05-01,Plymouth,MA,7
+2020-05-01,Suffolk,MA,23
+2020-05-01,Worcester,MA,35
+2020-05-01,Anne Arundel,MD,5
+2020-05-01,Baltimore,MD,4
+2020-05-01,Caroline,MD,1
+2020-05-01,Frederick,MD,2
+2020-05-01,Harford,MD,3
+2020-05-01,Howard,MD,2
+2020-05-01,Montgomery,MD,11
+2020-05-01,Prince George's,MD,6
+2020-05-01,Washington,MD,1
+2020-05-01,Aroostook,ME,2
+2020-05-01,Cumberland,ME,4
+2020-05-01,Penobscot,ME,2
+2020-05-01,York,ME,2
+2020-05-01,Calhoun,MI,1
+2020-05-01,Ingham,MI,2
+2020-05-01,Iosco,MI,1
+2020-05-01,Kent,MI,2
+2020-05-01,Livingston,MI,3
+2020-05-01,Macomb,MI,6
+2020-05-01,Menominee,MI,1
+2020-05-01,Muskegon,MI,3
+2020-05-01,Oakland,MI,12
+2020-05-01,Ottawa,MI,2
+2020-05-01,St. Clair,MI,1
+2020-05-01,St. Joseph,MI,1
+2020-05-01,Washtenaw,MI,3
+2020-05-01,Wayne,MI,14
+2020-05-01,Anoka,MN,1
+2020-05-01,Big Stone,MN,1
+2020-05-01,Clay,MN,1
+2020-05-01,Crow Wing,MN,1
+2020-05-01,Hennepin,MN,14
+2020-05-01,Hinds,MN,1
+2020-05-01,McLeod,MN,2
+2020-05-01,Ramsey,MN,7
+2020-05-01,St. Louis,MN,2
+2020-05-01,Stearns,MN,1
+2020-05-01,Boone,MO,1
+2020-05-01,Buchanan,MO,2
+2020-05-01,Cape Girardeau,MO,1
+2020-05-01,Cass,MO,1
+2020-05-01,Christian,MO,2
+2020-05-01,Davidson,MO,1
+2020-05-01,Hickory,MO,1
+2020-05-01,Jackson,MO,10
+2020-05-01,Marion,MO,1
+2020-05-01,Morgan,MO,1
+2020-05-01,Pettis,MO,1
+2020-05-01,Scotland,MO,1
+2020-05-01,St. Francois,MO,1
+2020-05-01,St. Louis,MO,9
+2020-05-01,Texas,MO,1
+2020-05-01,Wright,MO,1
+2020-05-01,Claiborne,MS,2
+2020-05-01,DeSoto,MS,2
+2020-05-01,Grenada,MS,1
+2020-05-01,Harrison,MS,2
+2020-05-01,Hinds,MS,3
+2020-05-01,Itawamba,MS,1
+2020-05-01,Jackson,MS,1
+2020-05-01,Jones,MS,1
+2020-05-01,Lauderdale,MS,1
+2020-05-01,Leake,MS,2
+2020-05-01,Lincoln,MS,1
+2020-05-01,Madison,MS,3
+2020-05-01,Noxubee,MS,2
+2020-05-01,Scott,MS,1
+2020-05-01,Washington,MS,4
+2020-05-01,Winston,MS,2
+2020-05-01,Big Horn,MT,1
+2020-05-01,Rosebud,MT,1
+2020-05-01,Cheshire,NA,1
+2020-05-01,Geneva,NA,1
+2020-05-01,Harris,NA,1
+2020-05-01,Knox,NA,1
+2020-05-01,Oklahoma,NA,1
+2020-05-01,Polk,NA,1
+2020-05-01,Russell,NA,1
+2020-05-01,Solano,NA,1
+2020-05-01,St. Charles,NA,1
+2020-05-01,Suffolk,NA,1
+2020-05-01,Buncombe,NC,2
+2020-05-01,Catawba,NC,1
+2020-05-01,Cumberland,NC,2
+2020-05-01,Durham,NC,2
+2020-05-01,Edgecombe,NC,1
+2020-05-01,Forsyth,NC,3
+2020-05-01,Guilford,NC,7
+2020-05-01,Harnett,NC,2
+2020-05-01,Henderson,NC,5
+2020-05-01,Hoke,NC,1
+2020-05-01,Iredell,NC,1
+2020-05-01,Jackson,NC,2
+2020-05-01,Johnston,NC,1
+2020-05-01,Lenoir,NC,5
+2020-05-01,Lincoln,NC,2
+2020-05-01,Mecklenburg,NC,3
+2020-05-01,Moore,NC,1
+2020-05-01,New Hanover,NC,4
+2020-05-01,Vance,NC,4
+2020-05-01,Wake,NC,6
+2020-05-01,Wilson,NC,1
+2020-05-01,Cass,ND,1
+2020-05-01,Douglas,NE,2
+2020-05-01,Hall,NE,2
+2020-05-01,Lancaster,NE,8
+2020-05-01,Platte,NE,1
+2020-05-01,Scotts Bluff,NE,1
+2020-05-01,Belknap,NH,1
+2020-05-01,Cheshire,NH,1
+2020-05-01,Hillsborough,NH,5
+2020-05-01,Merrimack,NH,3
+2020-05-01,Rockingham,NH,4
+2020-05-01,Strafford,NH,2
+2020-05-01,Atlantic,NJ,3
+2020-05-01,Bergen,NJ,32
+2020-05-01,Burlington,NJ,1
+2020-05-01,Camden,NJ,6
+2020-05-01,Cape May,NJ,3
+2020-05-01,Cumberland,NJ,5
+2020-05-01,Essex,NJ,20
+2020-05-01,Gloucester,NJ,2
+2020-05-01,Hudson,NJ,8
+2020-05-01,Hunterdon,NJ,1
+2020-05-01,Kent,NJ,1
+2020-05-01,Mercer,NJ,11
+2020-05-01,Middlesex,NJ,16
+2020-05-01,Monmouth,NJ,12
+2020-05-01,Morris,NJ,7
+2020-05-01,Ocean,NJ,7
+2020-05-01,Passaic,NJ,12
+2020-05-01,Salem,NJ,1
+2020-05-01,Somerset,NJ,8
+2020-05-01,Sussex,NJ,5
+2020-05-01,Tulsa,NJ,1
+2020-05-01,Union,NJ,8
+2020-05-01,Warren,NJ,2
+2020-05-01,Westchester,NJ,2
+2020-05-01,Bernalillo,NM,3
+2020-05-01,Chaves,NM,1
+2020-05-01,Doña Ana,NM,1
+2020-05-01,McKinley,NM,6
+2020-05-01,San Juan,NM,2
+2020-05-01,Santa Fe,NM,1
+2020-05-01,Taos,NM,1
+2020-05-01,Clark,NV,11
+2020-05-01,Washoe,NV,2
+2020-05-01,Albany,NY,1
+2020-05-01,Bronx,NY,29
+2020-05-01,Broome,NY,1
+2020-05-01,Dutchess,NY,1
+2020-05-01,Erie,NY,6
+2020-05-01,Kings,NY,33
+2020-05-01,Monroe,NY,2
+2020-05-01,Montgomery,NY,1
+2020-05-01,Nassau,NY,17
+2020-05-01,New York,NY,31
+2020-05-01,Oneida,NY,1
+2020-05-01,Onondaga,NY,1
+2020-05-01,Ontario,NY,3
+2020-05-01,Orange,NY,7
+2020-05-01,Queens,NY,36
+2020-05-01,Rensselaer,NY,3
+2020-05-01,Richmond,NY,7
+2020-05-01,Rockland,NY,2
+2020-05-01,Saratoga,NY,3
+2020-05-01,Schenectady,NY,1
+2020-05-01,Suffolk,NY,6
+2020-05-01,Sullivan,NY,3
+2020-05-01,Tompkins,NY,2
+2020-05-01,Ulster,NY,3
+2020-05-01,Wayne,NY,1
+2020-05-01,Westchester,NY,18
+2020-05-01,Ashland,OH,1
+2020-05-01,Ashtabula,OH,2
+2020-05-01,Crawford,OH,2
+2020-05-01,Cuyahoga,OH,7
+2020-05-01,Franklin,OH,8
+2020-05-01,Hamilton,OH,6
+2020-05-01,Lake,OH,1
+2020-05-01,Lucas,OH,2
+2020-05-01,Mahoning,OH,3
+2020-05-01,Mercer,OH,1
+2020-05-01,Montgomery,OH,2
+2020-05-01,Ross,OH,1
+2020-05-01,Stark,OH,2
+2020-05-01,Summit,OH,1
+2020-05-01,Cleveland,OK,1
+2020-05-01,Custer,OK,1
+2020-05-01,McCurtain,OK,1
+2020-05-01,Oklahoma,OK,3
+2020-05-01,Stephens,OK,1
+2020-05-01,Regional Municipality of Peel,ON,1
+2020-05-01,Regional Municipality of York,ONTARIO,1
+2020-05-01,Toronto Division,ONTARIO,2
+2020-05-01,Benton,OR,1
+2020-05-01,Clackamas,OR,2
+2020-05-01,Jackson,OR,1
+2020-05-01,Marion,OR,2
+2020-05-01,Mercer,OR,1
+2020-05-01,Multnomah,OR,5
+2020-05-01,Polk,OR,1
+2020-05-01,Tillamook,OR,1
+2020-05-01,Washington,OR,4
+2020-05-01,Yamhill,OR,1
+2020-05-01,Allegheny,PA,8
+2020-05-01,Berks,PA,1
+2020-05-01,Bucks,PA,2
+2020-05-01,Butler,PA,2
+2020-05-01,Chester,PA,4
+2020-05-01,Clark,PA,1
+2020-05-01,Crawford,PA,1
+2020-05-01,Cumberland,PA,1
+2020-05-01,Delaware,PA,13
+2020-05-01,Erie,PA,4
+2020-05-01,Lackawanna,PA,2
+2020-05-01,Lancaster,PA,1
+2020-05-01,Lawrence,PA,1
+2020-05-01,Luzerne,PA,1
+2020-05-01,Mercer,PA,1
+2020-05-01,Montgomery,PA,6
+2020-05-01,Northampton,PA,1
+2020-05-01,Northumberland,PA,2
+2020-05-01,Philadelphia,PA,25
+2020-05-01,Schuylkill,PA,1
+2020-05-01,Washington,PA,2
+2020-05-01,Westmoreland,PA,3
+2020-05-01,Candelero Abajo,PR,1
+2020-05-01,Santana,PR,1
+2020-05-01,Bristol,RI,2
+2020-05-01,Newport,RI,1
+2020-05-01,Providence,RI,17
+2020-05-01,Division No. 11,SASKATCHEWAN,1
+2020-05-01,Allendale,SC,1
+2020-05-01,Anderson,SC,2
+2020-05-01,Charleston,SC,2
+2020-05-01,Florence,SC,1
+2020-05-01,Greenville,SC,2
+2020-05-01,Hampton,SC,1
+2020-05-01,Pickens,SC,2
+2020-05-01,Richland,SC,3
+2020-05-01,Spartanburg,SC,1
+2020-05-01,Sumter,SC,2
+2020-05-01,York,SC,1
+2020-05-01,Minnehaha,SD,1
+2020-05-01,Todd,SD,2
+2020-05-01,Union,SD,1
+2020-05-01,Anderson,TN,1
+2020-05-01,Blount,TN,1
+2020-05-01,Carroll,TN,2
+2020-05-01,Cheatham,TN,1
+2020-05-01,Davidson,TN,5
+2020-05-01,Hamilton,TN,2
+2020-05-01,Mercer,TN,4
+2020-05-01,Montgomery,TN,2
+2020-05-01,New York,TN,2
+2020-05-01,Obion,TN,1
+2020-05-01,Overton,TN,1
+2020-05-01,Perry,TN,1
+2020-05-01,Rutherford,TN,1
+2020-05-01,Sevier,TN,1
+2020-05-01,Shelby,TN,5
+2020-05-01,Sumner,TN,3
+2020-05-01,Tipton,TN,1
+2020-05-01,Williamson,TN,6
+2020-05-01,Wilson,TN,2
+2020-05-01,Bell,TX,1
+2020-05-01,Bexar,TX,6
+2020-05-01,Brazoria,TX,7
+2020-05-01,Cameron,TX,2
+2020-05-01,Collin,TX,3
+2020-05-01,Dallas,TX,17
+2020-05-01,Denton,TX,3
+2020-05-01,El Paso,TX,6
+2020-05-01,Fort Bend,TX,6
+2020-05-01,Galveston,TX,3
+2020-05-01,Gonzales,TX,1
+2020-05-01,Grayson,TX,1
+2020-05-01,Gregg,TX,2
+2020-05-01,Harris,TX,23
+2020-05-01,Hidalgo,TX,6
+2020-05-01,Johnson,TX,1
+2020-05-01,Kaufman,TX,2
+2020-05-01,Lubbock,TX,3
+2020-05-01,Montgomery,TX,6
+2020-05-01,Nacogdoches,TX,2
+2020-05-01,Nueces,TX,1
+2020-05-01,Rockwall,TX,1
+2020-05-01,San Jacinto,TX,2
+2020-05-01,Starr,TX,2
+2020-05-01,Tarrant,TX,4
+2020-05-01,Taylor,TX,2
+2020-05-01,Travis,TX,2
+2020-05-01,Tyler,TX,1
+2020-05-01,Webb,TX,3
+2020-05-01,Williamson,TX,3
+2020-05-01,Zapata,TX,1
+2020-05-01,Davis,UT,1
+2020-05-01,Salt Lake,UT,2
+2020-05-01,San Juan,UT,1
+2020-05-01,Utah,UT,1
+2020-05-01,Albemarle,VA,2
+2020-05-01,Arlington,VA,1
+2020-05-01,Chesterfield,VA,4
+2020-05-01,Fairfax,VA,11
+2020-05-01,Gloucester,VA,1
+2020-05-01,Henrico,VA,2
+2020-05-01,Loudoun,VA,2
+2020-05-01,Prince William,VA,3
+2020-05-01,Richmond,VA,1
+2020-05-01,York,VA,1
+2020-05-01,Bennington,VT,1
+2020-05-01,Windham,VT,2
+2020-05-01,Benton,WA,1
+2020-05-01,Chelan,WA,1
+2020-05-01,Clark,WA,2
+2020-05-01,Grays Harbor,WA,1
+2020-05-01,King,WA,18
+2020-05-01,Pierce,WA,2
+2020-05-01,Snohomish,WA,4
+2020-05-01,Thurston,WA,1
+2020-05-01,Whatcom,WA,2
+2020-05-01,Dane,WI,1
+2020-05-01,Iowa,WI,1
+2020-05-01,Marinette,WI,1
+2020-05-01,Milwaukee,WI,2
+2020-05-01,Rock,WI,2
+2020-05-01,Sauk,WI,1
+2020-05-01,Waukesha,WI,1
+2020-05-01,Cabell,WV,1
+2020-05-01,Kanawha,WV,1
+2020-05-01,Mineral,WV,3
+2020-05-01,Monongalia,WV,2
+2020-06-01,Anchorage,AK,1
+2020-06-01,Chambers,AL,1
+2020-06-01,Etowah,AL,3
+2020-06-01,Jefferson,AL,2
+2020-06-01,Lauderdale,AL,2
+2020-06-01,Limestone,AL,1
+2020-06-01,Mobile,AL,1
+2020-06-01,Montgomery,AL,7
+2020-06-01,Tuscaloosa,AL,1
+2020-06-01,Walker,AL,10
+2020-06-01,Clay,AR,2
+2020-06-01,Columbia,AR,5
+2020-06-01,Garland,AR,1
+2020-06-01,Jackson,AR,2
+2020-06-01,Pulaski,AR,1
+2020-06-01,Sebastian,AR,1
+2020-06-01,Van Buren,AR,4
+2020-06-01,Washington,AR,3
+2020-06-01,Coconino,AZ,14
+2020-06-01,Maricopa,AZ,32
+2020-06-01,Mohave,AZ,2
+2020-06-01,Navajo,AZ,2
+2020-06-01,Pima,AZ,10
+2020-06-01,Pinal,AZ,1
+2020-06-01,Santa Cruz,AZ,1
+2020-06-01,Yavapai,AZ,1
+2020-06-01,Alameda,CA,43
+2020-06-01,Bernalillo,CA,1
+2020-06-01,Contra Costa,CA,19
+2020-06-01,Fresno,CA,6
+2020-06-01,Hillsborough,CA,1
+2020-06-01,Kern,CA,2
+2020-06-01,Los Angeles,CA,353
+2020-06-01,Marin,CA,8
+2020-06-01,Monterey,CA,2
+2020-06-01,Napa,CA,1
+2020-06-01,Orange,CA,77
+2020-06-01,Placer,CA,3
+2020-06-01,Riverside,CA,29
+2020-06-01,Sacramento,CA,8
+2020-06-01,San Bernardino,CA,18
+2020-06-01,San Diego,CA,31
+2020-06-01,San Francisco,CA,25
+2020-06-01,San Joaquin,CA,18
+2020-06-01,San Mateo,CA,32
+2020-06-01,Santa Barbara,CA,3
+2020-06-01,Santa Clara,CA,39
+2020-06-01,Solano,CA,1
+2020-06-01,Sonoma,CA,3
+2020-06-01,Stanislaus,CA,9
+2020-06-01,Tulare,CA,2
+2020-06-01,Ventura,CA,2
+2020-06-01,Alamosa,CO,2
+2020-06-01,Arapahoe,CO,14
+2020-06-01,Boulder,CO,2
+2020-06-01,Broomfield,CO,7
+2020-06-01,Denver,CO,8
+2020-06-01,Douglas,CO,1
+2020-06-01,El Paso,CO,1
+2020-06-01,Jefferson,CO,8
+2020-06-01,Mesa,CO,1
+2020-06-01,Phillips,CO,2
+2020-06-01,Pueblo,CO,1
+2020-06-01,Washington,CO,1
+2020-06-01,Weld,CO,2
+2020-06-01,Yuma,CO,1
+2020-06-01,Fairfield,CT,17
+2020-06-01,Hartford,CT,12
+2020-06-01,Litchfield,CT,2
+2020-06-01,Middlesex,CT,4
+2020-06-01,New Haven,CT,26
+2020-06-01,New London,CT,1
+2020-06-01,New Castle,DE,8
+2020-06-01,Sussex,DE,3
+2020-06-01,Bay,FL,1
+2020-06-01,Brevard,FL,4
+2020-06-01,Broward,FL,12
+2020-06-01,Charlotte,FL,5
+2020-06-01,Collier,FL,4
+2020-06-01,DeSoto,FL,1
+2020-06-01,Duval,FL,9
+2020-06-01,Escambia,FL,1
+2020-06-01,Hillsborough,FL,17
+2020-06-01,Indian River,FL,1
+2020-06-01,Lake,FL,3
+2020-06-01,Lee,FL,3
+2020-06-01,Leon,FL,3
+2020-06-01,Manatee,FL,2
+2020-06-01,Marion,FL,3
+2020-06-01,Miami-Dade,FL,26
+2020-06-01,Monroe,FL,2
+2020-06-01,Okaloosa,FL,1
+2020-06-01,Orange,FL,8
+2020-06-01,Osceola,FL,3
+2020-06-01,Palm Beach,FL,14
+2020-06-01,Pasco,FL,1
+2020-06-01,Pinellas,FL,11
+2020-06-01,Polk,FL,9
+2020-06-01,Sarasota,FL,5
+2020-06-01,Seminole,FL,8
+2020-06-01,St. Lucie,FL,4
+2020-06-01,Volusia,FL,5
+2020-06-01,Anderson,GA,1
+2020-06-01,Banks,GA,2
+2020-06-01,Bibb,GA,3
+2020-06-01,Bulloch,GA,2
+2020-06-01,Camden,GA,3
+2020-06-01,Carroll,GA,7
+2020-06-01,Chatham,GA,4
+2020-06-01,Cherokee,GA,3
+2020-06-01,Clayton,GA,2
+2020-06-01,Cobb,GA,6
+2020-06-01,Coffee,GA,1
+2020-06-01,Columbia,GA,1
+2020-06-01,Coweta,GA,1
+2020-06-01,DeKalb,GA,4
+2020-06-01,Dougherty,GA,3
+2020-06-01,Fayette,GA,1
+2020-06-01,Forsyth,GA,4
+2020-06-01,Fulton,GA,10
+2020-06-01,Glynn,GA,1
+2020-06-01,Gwinnett,GA,13
+2020-06-01,Hancock,GA,1
+2020-06-01,Haralson,GA,2
+2020-06-01,Henry,GA,4
+2020-06-01,Irwin,GA,1
+2020-06-01,Liberty,GA,1
+2020-06-01,Mitchell,GA,2
+2020-06-01,Muscogee,GA,4
+2020-06-01,Newton,GA,2
+2020-06-01,Peach,GA,1
+2020-06-01,Richmond,GA,6
+2020-06-01,Troup,GA,1
+2020-06-01,Walton,GA,2
+2020-06-01,Hawaii,HI,1
+2020-06-01,Honolulu,HI,2
+2020-06-01,Black Hawk,IA,2
+2020-06-01,Dallas,IA,1
+2020-06-01,Dubuque,IA,1
+2020-06-01,Fremont,IA,1
+2020-06-01,Johnson,IA,2
+2020-06-01,Kossuth,IA,1
+2020-06-01,Linn,IA,1
+2020-06-01,Louisa,IA,2
+2020-06-01,Plymouth,IA,1
+2020-06-01,Polk,IA,2
+2020-06-01,Pottawattamie,IA,2
+2020-06-01,Scott,IA,2
+2020-06-01,Ada,ID,5
+2020-06-01,Bannock,ID,1
+2020-06-01,Canyon,ID,1
+2020-06-01,Twin Falls,ID,1
+2020-06-01,Champaign,IL,1
+2020-06-01,Cook,IL,129
+2020-06-01,DuPage,IL,9
+2020-06-01,Franklin,IL,3
+2020-06-01,Kane,IL,1
+2020-06-01,Kendall,IL,2
+2020-06-01,Knox,IL,4
+2020-06-01,Lake,IL,4
+2020-06-01,Madison,IL,2
+2020-06-01,McHenry,IL,4
+2020-06-01,St. Clair,IL,2
+2020-06-01,Tazewell,IL,1
+2020-06-01,Will,IL,5
+2020-06-01,Allen,IN,2
+2020-06-01,Clark,IN,2
+2020-06-01,Floyd,IN,1
+2020-06-01,Franklin,IN,1
+2020-06-01,Hamilton,IN,2
+2020-06-01,Jasper,IN,2
+2020-06-01,Johnson,IN,3
+2020-06-01,Lake,IN,5
+2020-06-01,Madison,IN,2
+2020-06-01,Marion,IN,4
+2020-06-01,Monroe,IN,1
+2020-06-01,Porter,IN,1
+2020-06-01,Putnam,IN,1
+2020-06-01,St. Joseph,IN,3
+2020-06-01,Tippecanoe,IN,1
+2020-06-01,Allen,KS,1
+2020-06-01,Douglas,KS,1
+2020-06-01,Johnson,KS,9
+2020-06-01,Pawnee,KS,1
+2020-06-01,Sedgwick,KS,2
+2020-06-01,Sumner,KS,1
+2020-06-01,Wyandotte,KS,2
+2020-06-01,Adair,KY,1
+2020-06-01,Clay,KY,1
+2020-06-01,Fayette,KY,3
+2020-06-01,Floyd,KY,1
+2020-06-01,Franklin,KY,1
+2020-06-01,Greenup,KY,3
+2020-06-01,Harrison,KY,2
+2020-06-01,Jefferson,KY,5
+2020-06-01,Jessamine,KY,2
+2020-06-01,Kenton,KY,4
+2020-06-01,Knox,KY,2
+2020-06-01,Pike,KY,1
+2020-06-01,Calcasieu Parish,LA,3
+2020-06-01,East Baton Rouge Parish,LA,5
+2020-06-01,Franklin Parish,LA,1
+2020-06-01,Jefferson Parish,LA,3
+2020-06-01,Lafayette Parish,LA,3
+2020-06-01,Orleans Parish,LA,13
+2020-06-01,Ouachita Parish,LA,3
+2020-06-01,Rapides Parish,LA,1
+2020-06-01,St. Tammany Parish,LA,3
+2020-06-01,Union Parish,LA,3
+2020-06-01,Laguna,Laguna,1
+2020-06-01,Barnstable,MA,5
+2020-06-01,Berkshire,MA,1
+2020-06-01,Bristol,MA,6
+2020-06-01,Essex,MA,28
+2020-06-01,Hampden,MA,6
+2020-06-01,Hampshire,MA,2
+2020-06-01,Middlesex,MA,41
+2020-06-01,Norfolk,MA,9
+2020-06-01,Plymouth,MA,11
+2020-06-01,Suffolk,MA,24
+2020-06-01,Worcester,MA,32
+2020-06-01,Allegany,MD,1
+2020-06-01,Anne Arundel,MD,7
+2020-06-01,Baltimore,MD,13
+2020-06-01,Carroll,MD,1
+2020-06-01,Charles,MD,1
+2020-06-01,Frederick,MD,1
+2020-06-01,Garrett,MD,1
+2020-06-01,Harford,MD,2
+2020-06-01,Howard,MD,3
+2020-06-01,Montgomery,MD,17
+2020-06-01,Passaic,MD,1
+2020-06-01,Prince George's,MD,8
+2020-06-01,Talbot,MD,2
+2020-06-01,Washington,MD,1
+2020-06-01,Wicomico,MD,1
+2020-06-01,Worcester,MD,2
+2020-06-01,Aroostook,ME,3
+2020-06-01,Hancock,ME,1
+2020-06-01,Oxford,ME,1
+2020-06-01,Berrien,MI,2
+2020-06-01,Calhoun,MI,1
+2020-06-01,Elkhart,MI,1
+2020-06-01,Genesee,MI,3
+2020-06-01,Kalamazoo,MI,1
+2020-06-01,Kent,MI,1
+2020-06-01,Livingston,MI,6
+2020-06-01,Macomb,MI,5
+2020-06-01,Muskegon,MI,1
+2020-06-01,Oakland,MI,15
+2020-06-01,Ottawa,MI,1
+2020-06-01,Saginaw,MI,1
+2020-06-01,Washtenaw,MI,4
+2020-06-01,Wayne,MI,20
+2020-06-01,Carlton,MN,2
+2020-06-01,Carver,MN,1
+2020-06-01,Clay,MN,2
+2020-06-01,Cottonwood,MN,4
+2020-06-01,Dakota,MN,4
+2020-06-01,Hennepin,MN,14
+2020-06-01,Pine,MN,1
+2020-06-01,Ramsey,MN,6
+2020-06-01,Scott,MN,2
+2020-06-01,St. Louis,MN,1
+2020-06-01,Wabasha,MN,1
+2020-06-01,Washington,MN,3
+2020-06-01,Boone,MO,1
+2020-06-01,Callaway,MO,1
+2020-06-01,Cass,MO,4
+2020-06-01,Christian,MO,2
+2020-06-01,Greene,MO,3
+2020-06-01,Jackson,MO,3
+2020-06-01,Livingston,MO,2
+2020-06-01,Marion,MO,2
+2020-06-01,Morgan,MO,2
+2020-06-01,Ralls,MO,1
+2020-06-01,St. Francois,MO,1
+2020-06-01,St. Louis,MO,11
+2020-06-01,Texas,MO,1
+2020-06-01,Wright,MO,2
+2020-06-01,DeSoto,MS,1
+2020-06-01,Harrison,MS,3
+2020-06-01,Hinds,MS,2
+2020-06-01,Jackson,MS,1
+2020-06-01,Lauderdale,MS,3
+2020-06-01,Leake,MS,1
+2020-06-01,Lincoln,MS,2
+2020-06-01,Madison,MS,1
+2020-06-01,McNairy,MS,2
+2020-06-01,Rankin,MS,2
+2020-06-01,Big Horn,MT,1
+2020-06-01,Gallatin,MT,3
+2020-06-01,Missoula,MT,1
+2020-06-01,Alamance,NC,7
+2020-06-01,Buncombe,NC,3
+2020-06-01,Cabarrus,NC,1
+2020-06-01,Carteret,NC,1
+2020-06-01,Catawba,NC,1
+2020-06-01,Cleveland,NC,1
+2020-06-01,Cumberland,NC,3
+2020-06-01,Durham,NC,6
+2020-06-01,Edgecombe,NC,2
+2020-06-01,Guilford,NC,5
+2020-06-01,Harnett,NC,2
+2020-06-01,Hoke,NC,1
+2020-06-01,Iredell,NC,6
+2020-06-01,Jackson,NC,1
+2020-06-01,Johnston,NC,3
+2020-06-01,Mecklenburg,NC,8
+2020-06-01,Montgomery,NC,1
+2020-06-01,Nash,NC,2
+2020-06-01,New Hanover,NC,1
+2020-06-01,Onslow,NC,1
+2020-06-01,Orange,NC,9
+2020-06-01,Person,NC,1
+2020-06-01,Randolph,NC,6
+2020-06-01,Rockingham,NC,4
+2020-06-01,Rutherford,NC,2
+2020-06-01,Vance,NC,5
+2020-06-01,Wake,NC,6
+2020-06-01,Dakota,NE,1
+2020-06-01,Douglas,NE,6
+2020-06-01,Lancaster,NE,4
+2020-06-01,Polk,NE,1
+2020-06-01,Belknap,NH,2
+2020-06-01,Cheshire,NH,3
+2020-06-01,Coos,NH,1
+2020-06-01,Merrimack,NH,1
+2020-06-01,Rockingham,NH,4
+2020-06-01,Strafford,NH,2
+2020-06-01,Atlantic,NJ,7
+2020-06-01,Bergen,NJ,12
+2020-06-01,Burlington,NJ,2
+2020-06-01,Camden,NJ,5
+2020-06-01,Cumberland,NJ,1
+2020-06-01,Essex,NJ,10
+2020-06-01,Gloucester,NJ,1
+2020-06-01,Hudson,NJ,6
+2020-06-01,Mercer,NJ,2
+2020-06-01,Middlesex,NJ,9
+2020-06-01,Monmouth,NJ,9
+2020-06-01,Morris,NJ,12
+2020-06-01,Ocean,NJ,4
+2020-06-01,Passaic,NJ,8
+2020-06-01,Somerset,NJ,6
+2020-06-01,Sussex,NJ,4
+2020-06-01,Union,NJ,9
+2020-06-01,Warren,NJ,2
+2020-06-01,Bernalillo,NM,12
+2020-06-01,McKinley,NM,2
+2020-06-01,San Juan,NM,1
+2020-06-01,Sandoval,NM,2
+2020-06-01,Santa Fe,NM,2
+2020-06-01,Clark,NV,15
+2020-06-01,Washoe,NV,3
+2020-06-01,Bronx,NY,38
+2020-06-01,Broome,NY,2
+2020-06-01,Clinton,NY,1
+2020-06-01,Dutchess,NY,1
+2020-06-01,Erie,NY,3
+2020-06-01,Essex,NY,1
+2020-06-01,Franklin,NY,2
+2020-06-01,Kings,NY,53
+2020-06-01,Monroe,NY,5
+2020-06-01,Montgomery,NY,1
+2020-06-01,Nassau,NY,40
+2020-06-01,New York,NY,34
+2020-06-01,Onondaga,NY,4
+2020-06-01,Ontario,NY,1
+2020-06-01,Orange,NY,1
+2020-06-01,Polk,NY,1
+2020-06-01,Putnam,NY,3
+2020-06-01,Queens,NY,31
+2020-06-01,Rensselaer,NY,2
+2020-06-01,Richmond,NY,6
+2020-06-01,Rockland,NY,1
+2020-06-01,Suffolk,NY,12
+2020-06-01,Tompkins,NY,1
+2020-06-01,Ulster,NY,2
+2020-06-01,Westchester,NY,11
+2020-06-01,Ashland,OH,3
+2020-06-01,Ashtabula,OH,1
+2020-06-01,Auglaize,OH,2
+2020-06-01,Crawford,OH,1
+2020-06-01,Cuyahoga,OH,8
+2020-06-01,Fairfield,OH,1
+2020-06-01,Franklin,OH,7
+2020-06-01,Gallia,OH,3
+2020-06-01,Geauga,OH,5
+2020-06-01,Greene,OH,1
+2020-06-01,Hamilton,OH,14
+2020-06-01,Jackson,OH,1
+2020-06-01,Lawrence,OH,1
+2020-06-01,Mahoning,OH,2
+2020-06-01,Mercer,OH,2
+2020-06-01,Montgomery,OH,3
+2020-06-01,Portage,OH,1
+2020-06-01,Putnam,OH,1
+2020-06-01,Stark,OH,4
+2020-06-01,Summit,OH,6
+2020-06-01,Tuscarawas,OH,2
+2020-06-01,Warren,OH,1
+2020-06-01,Wayne,OH,1
+2020-06-01,Cleveland,OK,2
+2020-06-01,McCurtain,OK,1
+2020-06-01,Stephens,OK,2
+2020-06-01,Toronto Division,ON,1
+2020-06-01,Regional Municipality of York,ONTARIO,1
+2020-06-01,Clackamas,OR,10
+2020-06-01,Coos,OR,1
+2020-06-01,Douglas,OR,2
+2020-06-01,Lane,OR,2
+2020-06-01,Marion,OR,2
+2020-06-01,Multnomah,OR,16
+2020-06-01,Polk,OR,2
+2020-06-01,Washington,OR,7
+2020-06-01,Yamhill,OR,3
+2020-06-01,Regional Municipality of York,Ontario,1
+2020-06-01,Allegheny,PA,8
+2020-06-01,Berks,PA,5
+2020-06-01,Bucks,PA,3
+2020-06-01,Butler,PA,2
+2020-06-01,Carbon,PA,2
+2020-06-01,Chester,PA,13
+2020-06-01,Cumberland,PA,5
+2020-06-01,Dauphin,PA,2
+2020-06-01,Delaware,PA,12
+2020-06-01,Erie,PA,5
+2020-06-01,Fayette,PA,4
+2020-06-01,Lackawanna,PA,2
+2020-06-01,Lancaster,PA,2
+2020-06-01,Lebanon,PA,2
+2020-06-01,Luzerne,PA,6
+2020-06-01,Lycoming,PA,2
+2020-06-01,Mercer,PA,1
+2020-06-01,Montgomery,PA,11
+2020-06-01,Montour,PA,3
+2020-06-01,Northampton,PA,2
+2020-06-01,Philadelphia,PA,14
+2020-06-01,Venango,PA,1
+2020-06-01,Warren,PA,1
+2020-06-01,Washington,PA,3
+2020-06-01,Isabela,PR,1
+2020-06-01,Pueblo,PR,1
+2020-06-01,Bristol,RI,1
+2020-06-01,Providence,RI,12
+2020-06-01,Anderson,SC,1
+2020-06-01,Beaufort,SC,2
+2020-06-01,Charleston,SC,4
+2020-06-01,Florence,SC,1
+2020-06-01,Hampton,SC,3
+2020-06-01,Lancaster,SC,1
+2020-06-01,Laurens,SC,1
+2020-06-01,Lexington,SC,2
+2020-06-01,Pickens,SC,1
+2020-06-01,Richland,SC,4
+2020-06-01,Sumter,SC,5
+2020-06-01,York,SC,2
+2020-06-01,Davison,SD,1
+2020-06-01,Todd,SD,3
+2020-06-01,Union,SD,1
+2020-06-01,Karachi City,Sindh,1
+2020-06-01,Anderson,TN,1
+2020-06-01,Blount,TN,3
+2020-06-01,Bradley,TN,3
+2020-06-01,Cocke,TN,1
+2020-06-01,Davidson,TN,16
+2020-06-01,Dickson,TN,2
+2020-06-01,Franklin,TN,1
+2020-06-01,Knox,TN,3
+2020-06-01,Madison,TN,2
+2020-06-01,Mercer,TN,1
+2020-06-01,Multnomah,TN,3
+2020-06-01,Rutherford,TN,7
+2020-06-01,Shelby,TN,10
+2020-06-01,Washington,TN,2
+2020-06-01,Wilson,TN,1
+2020-06-01,Angelina,TX,2
+2020-06-01,Bexar,TX,5
+2020-06-01,Bosque,TX,2
+2020-06-01,Brazoria,TX,7
+2020-06-01,Brazos,TX,1
+2020-06-01,Burnet,TX,1
+2020-06-01,Cochran,TX,1
+2020-06-01,Collin,TX,6
+2020-06-01,Comal,TX,1
+2020-06-01,Concho,TX,2
+2020-06-01,Dallas,TX,14
+2020-06-01,Denton,TX,7
+2020-06-01,El Paso,TX,6
+2020-06-01,Ellis,TX,2
+2020-06-01,Erath,TX,1
+2020-06-01,Fannin,TX,5
+2020-06-01,Fort Bend,TX,13
+2020-06-01,Galveston,TX,3
+2020-06-01,Grayson,TX,2
+2020-06-01,Harris,TX,24
+2020-06-01,Hidalgo,TX,7
+2020-06-01,Hunt,TX,4
+2020-06-01,Kaufman,TX,1
+2020-06-01,Kerr,TX,2
+2020-06-01,Lamar,TX,1
+2020-06-01,Lubbock,TX,2
+2020-06-01,Marion,TX,1
+2020-06-01,Midland,TX,3
+2020-06-01,Montgomery,TX,8
+2020-06-01,Nueces,TX,3
+2020-06-01,Randall,TX,1
+2020-06-01,Rockwall,TX,1
+2020-06-01,Starr,TX,2
+2020-06-01,Tarrant,TX,13
+2020-06-01,Travis,TX,6
+2020-06-01,Van Zandt,TX,1
+2020-06-01,Webb,TX,4
+2020-06-01,Williamson,TX,3
+2020-06-01,Wilson,TX,3
+2020-06-01,Zavala,TX,2
+2020-06-01,Box Elder,UT,1
+2020-06-01,Davis,UT,2
+2020-06-01,Salt Lake,UT,1
+2020-06-01,Utah,UT,1
+2020-06-01,Albemarle,VA,1
+2020-06-01,Arlington,VA,2
+2020-06-01,Carroll,VA,3
+2020-06-01,Chesterfield,VA,2
+2020-06-01,Fairfax,VA,20
+2020-06-01,Henrico,VA,6
+2020-06-01,James City,VA,2
+2020-06-01,Loudoun,VA,10
+2020-06-01,Orange,VA,1
+2020-06-01,Prince Edward,VA,3
+2020-06-01,Prince William,VA,2
+2020-06-01,Richmond,VA,3
+2020-06-01,Surry,VA,1
+2020-06-01,Washington,VA,1
+2020-06-01,York,VA,1
+2020-06-01,Chittenden,VT,4
+2020-06-01,Windham,VT,1
+2020-06-01,Benton,WA,4
+2020-06-01,Clark,WA,3
+2020-06-01,Grays Harbor,WA,1
+2020-06-01,King,WA,36
+2020-06-01,Kitsap,WA,1
+2020-06-01,Pierce,WA,2
+2020-06-01,Snohomish,WA,9
+2020-06-01,Spokane,WA,1
+2020-06-01,Thurston,WA,1
+2020-06-01,Whatcom,WA,8
+2020-06-01,Whitman,WA,1
+2020-06-01,Columbia,WI,2
+2020-06-01,Dane,WI,1
+2020-06-01,Eau Claire,WI,1
+2020-06-01,Iowa,WI,4
+2020-06-01,Jefferson,WI,1
+2020-06-01,Kewaunee,WI,3
+2020-06-01,Marathon,WI,1
+2020-06-01,Marquette,WI,1
+2020-06-01,Milwaukee,WI,9
+2020-06-01,Polk,WI,1
+2020-06-01,Rock,WI,5
+2020-06-01,Sauk,WI,1
+2020-06-01,Sawyer,WI,2
+2020-06-01,St. Croix,WI,1
+2020-06-01,Washington,WI,2
+2020-06-01,Waukesha,WI,2
+2020-06-01,Wood,WI,1
+2020-06-01,Cabell,WV,1
+2020-06-01,Logan,WV,1
+2020-06-01,Preston,WV,1
+2020-06-01,Raleigh,WV,1
+2020-06-01,Tucker,WV,1
+2020-07-01,Kolar,563101,3
+2020-07-01,Anchorage,AK,1
+2020-07-01,Autauga,AL,1
+2020-07-01,Blount,AL,1
+2020-07-01,Jefferson,AL,1
+2020-07-01,Lamar,AL,1
+2020-07-01,Lee,AL,1
+2020-07-01,Madison,AL,2
+2020-07-01,Montgomery,AL,1
+2020-07-01,St. Clair,AL,1
+2020-07-01,Tuscaloosa,AL,2
+2020-07-01,Walker,AL,1
+2020-07-01,Benton,AR,1
+2020-07-01,Craighead,AR,1
+2020-07-01,Pulaski,AR,1
+2020-07-01,Sebastian,AR,1
+2020-07-01,Sharp,AR,1
+2020-07-01,Apache,AZ,2
+2020-07-01,Coconino,AZ,1
+2020-07-01,Maricopa,AZ,10
+2020-07-01,Santa Cruz,AZ,1
+2020-07-01,Yuma,AZ,1
+2020-07-01,Alameda,CA,14
+2020-07-01,Butte,CA,1
+2020-07-01,Contra Costa,CA,3
+2020-07-01,Fresno,CA,4
+2020-07-01,Imperial,CA,1
+2020-07-01,Kern,CA,3
+2020-07-01,Los Angeles,CA,95
+2020-07-01,Marin,CA,4
+2020-07-01,Mendocino,CA,2
+2020-07-01,Monterey,CA,1
+2020-07-01,Orange,CA,12
+2020-07-01,Riverside,CA,4
+2020-07-01,Sacramento,CA,9
+2020-07-01,San Bernardino,CA,6
+2020-07-01,San Diego,CA,19
+2020-07-01,San Francisco,CA,8
+2020-07-01,San Joaquin,CA,11
+2020-07-01,San Luis Obispo,CA,2
+2020-07-01,San Mateo,CA,14
+2020-07-01,Santa Clara,CA,10
+2020-07-01,Solano,CA,1
+2020-07-01,Sonoma,CA,1
+2020-07-01,Tulare,CA,1
+2020-07-01,Ventura,CA,4
+2020-07-01,El Paso,CO,4
+2020-07-01,Montrose,CO,1
+2020-07-01,Ouray,CO,1
+2020-07-01,Hartford,CT,3
+2020-07-01,New Haven,CT,3
+2020-07-01,Sussex,DE,1
+2020-07-01,Al Damam,Eastern Province,1
+2020-07-01,Alachua,FL,1
+2020-07-01,Bay,FL,1
+2020-07-01,Brevard,FL,3
+2020-07-01,Broward,FL,3
+2020-07-01,Collier,FL,1
+2020-07-01,Duval,FL,1
+2020-07-01,Escambia,FL,2
+2020-07-01,Gilchrist,FL,1
+2020-07-01,Hillsborough,FL,1
+2020-07-01,Lake,FL,1
+2020-07-01,Lee,FL,1
+2020-07-01,Manatee,FL,1
+2020-07-01,Marion,FL,2
+2020-07-01,Miami-Dade,FL,10
+2020-07-01,Orange,FL,8
+2020-07-01,Osceola,FL,4
+2020-07-01,Palm Beach,FL,4
+2020-07-01,Pasco,FL,1
+2020-07-01,Polk,FL,2
+2020-07-01,Santa Rosa,FL,1
+2020-07-01,Volusia,FL,1
+2020-07-01,Distrito Central,Fco Morazán,1
+2020-07-01,Bulloch,GA,1
+2020-07-01,Chatham,GA,1
+2020-07-01,Cobb,GA,1
+2020-07-01,Coweta,GA,1
+2020-07-01,DeKalb,GA,1
+2020-07-01,Fulton,GA,5
+2020-07-01,Gwinnett,GA,4
+2020-07-01,Muscogee,GA,1
+2020-07-01,Paulding,GA,1
+2020-07-01,Richmond,GA,1
+2020-07-01,Troup,GA,1
+2020-07-01,Ware,GA,1
+2020-07-01,Wayne,GA,1
+2020-07-01,Hawaii,HI,1
+2020-07-01,Audubon,IA,1
+2020-07-01,Sac,IA,2
+2020-07-01,Webster,IA,1
+2020-07-01,Champaign,IL,1
+2020-07-01,Cook,IL,13
+2020-07-01,Kankakee,IL,1
+2020-07-01,McHenry,IL,1
+2020-07-01,St. Clair,IL,1
+2020-07-01,Delaware,IN,1
+2020-07-01,Greene,IN,1
+2020-07-01,Marion,IN,2
+2020-07-01,Porter,IN,2
+2020-07-01,Vanderburgh,IN,1
+2020-07-01,Chase,KS,1
+2020-07-01,Cherokee,KS,1
+2020-07-01,Adair,KY,1
+2020-07-01,Bell,KY,1
+2020-07-01,Jefferson,KY,1
+2020-07-01,Pike,KY,2
+2020-07-01,Warren,KY,1
+2020-07-01,East Baton Rouge Parish,LA,3
+2020-07-01,Iberia Parish,LA,1
+2020-07-01,Jefferson Davis Parish,LA,3
+2020-07-01,Jefferson Parish,LA,2
+2020-07-01,Lafayette Parish,LA,2
+2020-07-01,Orleans Parish,LA,2
+2020-07-01,Rapides Parish,LA,1
+2020-07-01,St. Tammany Parish,LA,3
+2020-07-01,Barnstable,MA,1
+2020-07-01,Essex,MA,3
+2020-07-01,Hampden,MA,1
+2020-07-01,Middlesex,MA,4
+2020-07-01,Norfolk,MA,1
+2020-07-01,Plymouth,MA,1
+2020-07-01,Suffolk,MA,4
+2020-07-01,Worcester,MA,2
+2020-07-01,Anne Arundel,MD,2
+2020-07-01,Baltimore,MD,1
+2020-07-01,Cecil,MD,1
+2020-07-01,Charles,MD,1
+2020-07-01,Howard,MD,1
+2020-07-01,Prince George's,MD,3
+2020-07-01,Wicomico,MD,1
+2020-07-01,Barry,MI,1
+2020-07-01,Berrien,MI,1
+2020-07-01,Crawford,MI,1
+2020-07-01,Huron,MI,1
+2020-07-01,Kalamazoo,MI,1
+2020-07-01,Kent,MI,1
+2020-07-01,Macomb,MI,1
+2020-07-01,Menominee,MI,1
+2020-07-01,Oakland,MI,4
+2020-07-01,St. Clair,MI,2
+2020-07-01,Van Buren,MI,1
+2020-07-01,Wayne,MI,1
+2020-07-01,Anoka,MN,1
+2020-07-01,Ramsey,MN,2
+2020-07-01,Boone,MO,1
+2020-07-01,Clay,MO,1
+2020-07-01,Gasconade,MO,1
+2020-07-01,Henry,MO,1
+2020-07-01,St. Louis,MO,3
+2020-07-01,Wright,MO,1
+2020-07-01,Forrest,MS,1
+2020-07-01,Harrison,MS,1
+2020-07-01,Jackson,MS,2
+2020-07-01,Madison,MS,1
+2020-07-01,Dawson,MT,1
+2020-07-01,Alamance,NC,1
+2020-07-01,Alexander,NC,1
+2020-07-01,Columbus,NC,2
+2020-07-01,Craven,NC,1
+2020-07-01,Cumberland,NC,1
+2020-07-01,Durham,NC,1
+2020-07-01,Gaston,NC,1
+2020-07-01,Guilford,NC,1
+2020-07-01,Moore,NC,1
+2020-07-01,Randolph,NC,3
+2020-07-01,Robeson,NC,1
+2020-07-01,Rowan,NC,1
+2020-07-01,Surry,NC,1
+2020-07-01,Vance,NC,3
+2020-07-01,Wake,NC,2
+2020-07-01,Ransom,ND,1
+2020-07-01,Dodge,NE,1
+2020-07-01,Stanton,NE,1
+2020-07-01,Hillsborough,NH,1
+2020-07-01,Rockingham,NH,1
+2020-07-01,Bergen,NJ,2
+2020-07-01,Burlington,NJ,1
+2020-07-01,Camden,NJ,1
+2020-07-01,Essex,NJ,5
+2020-07-01,Middlesex,NJ,3
+2020-07-01,Monmouth,NJ,4
+2020-07-01,Ocean,NJ,3
+2020-07-01,Somerset,NJ,2
+2020-07-01,Sussex,NJ,1
+2020-07-01,Bernalillo,NM,2
+2020-07-01,Clark,NV,1
+2020-07-01,Bronx,NY,6
+2020-07-01,Chautauqua,NY,1
+2020-07-01,Dutchess,NY,2
+2020-07-01,Erie,NY,1
+2020-07-01,Genesee,NY,2
+2020-07-01,Kings,NY,7
+2020-07-01,Livingston,NY,1
+2020-07-01,Nassau,NY,7
+2020-07-01,New York,NY,2
+2020-07-01,Orange,NY,2
+2020-07-01,Queens,NY,5
+2020-07-01,Rensselaer,NY,1
+2020-07-01,Rockland,NY,4
+2020-07-01,Suffolk,NY,4
+2020-07-01,Allen,OH,1
+2020-07-01,Cuyahoga,OH,5
+2020-07-01,Franklin,OH,1
+2020-07-01,Greene,OH,1
+2020-07-01,Hamilton,OH,2
+2020-07-01,Lake,OH,1
+2020-07-01,Licking,OH,2
+2020-07-01,Lucas,OH,1
+2020-07-01,Mahoning,OH,2
+2020-07-01,Mercer,OH,1
+2020-07-01,Paulding,OH,1
+2020-07-01,Scioto,OH,1
+2020-07-01,Summit,OH,2
+2020-07-01,Mayes,OK,1
+2020-07-01,Muskogee,OK,1
+2020-07-01,Tulsa,OK,2
+2020-07-01,Wagoner,OK,1
+2020-07-01,Clackamas,OR,1
+2020-07-01,Multnomah,OR,6
+2020-07-01,Umatilla,OR,2
+2020-07-01,Washington,OR,4
+2020-07-01,Allegheny,PA,2
+2020-07-01,Bucks,PA,1
+2020-07-01,Cambria,PA,3
+2020-07-01,Carbon,PA,1
+2020-07-01,Fayette,PA,1
+2020-07-01,Franklin,PA,1
+2020-07-01,Lancaster,PA,1
+2020-07-01,Lebanon,PA,1
+2020-07-01,Luzerne,PA,1
+2020-07-01,Montgomery,PA,2
+2020-07-01,Pike,PA,1
+2020-07-01,Union,PA,1
+2020-07-01,Westmoreland,PA,1
+2020-07-01,Arrozal,PR,1
+2020-07-01,Providence,RI,1
+2020-07-01,Berkeley,SC,2
+2020-07-01,Charleston,SC,1
+2020-07-01,Greenville,SC,2
+2020-07-01,Orangeburg,SC,1
+2020-07-01,Spartanburg,SC,2
+2020-07-01,York,SC,1
+2020-07-01,Yankton,SD,1
+2020-07-01,Anderson,TN,1
+2020-07-01,Bedford,TN,1
+2020-07-01,Davidson,TN,2
+2020-07-01,Hamblen,TN,1
+2020-07-01,Macon,TN,1
+2020-07-01,Putnam,TN,1
+2020-07-01,Rutherford,TN,2
+2020-07-01,Sevier,TN,1
+2020-07-01,Angelina,TX,1
+2020-07-01,Bexar,TX,3
+2020-07-01,Brazoria,TX,3
+2020-07-01,Brazos,TX,1
+2020-07-01,Cameron,TX,1
+2020-07-01,Collin,TX,1
+2020-07-01,Colorado,TX,1
+2020-07-01,Comal,TX,2
+2020-07-01,Dallas,TX,7
+2020-07-01,Denton,TX,1
+2020-07-01,El Paso,TX,1
+2020-07-01,Fayette,TX,1
+2020-07-01,Fort Bend,TX,3
+2020-07-01,Gregg,TX,1
+2020-07-01,Guadalupe,TX,1
+2020-07-01,Harris,TX,16
+2020-07-01,Harrison,TX,1
+2020-07-01,Hidalgo,TX,10
+2020-07-01,Johnson,TX,1
+2020-07-01,Kaufman,TX,1
+2020-07-01,Limestone,TX,1
+2020-07-01,Montgomery,TX,1
+2020-07-01,Nueces,TX,1
+2020-07-01,Starr,TX,1
+2020-07-01,Tarrant,TX,2
+2020-07-01,Travis,TX,1
+2020-07-01,Webb,TX,1
+2020-07-01,Wheeler,TX,1
+2020-07-01,Williamson,TX,1
+2020-07-01,Salt Lake,UT,1
+2020-07-01,Wasatch,UT,1
+2020-07-01,Fairfax,VA,6
+2020-07-01,Henrico,VA,1
+2020-07-01,Loudoun,VA,1
+2020-07-01,Windham,VT,1
+2020-07-01,Benton,WA,1
+2020-07-01,King,WA,9
+2020-07-01,Kitsap,WA,1
+2020-07-01,Pierce,WA,3
+2020-07-01,Spokane,WA,1
+2020-07-01,Dane,WI,2
+2020-07-01,Marinette,WI,1
+2020-07-01,Milwaukee,WI,1
+2020-07-01,Rock,WI,1
+2020-07-01,Sauk,WI,1
+2020-07-01,St. Croix,WI,1
+2020-07-01,Waukesha,WI,1
+2020-07-01,Waupaca,WI,1
+2020-07-01,Cabell,WV,1
+2020-07-01,Gilmer,WV,1
+2020-07-01,Putnam,WV,1
+2020-07-01,Leicester,leicestershire,1
+2020-08-01,Colbert,AL,1
+2020-08-01,Houston,AL,1
+2020-08-01,Tuscaloosa,AL,1
+2020-08-01,Sharp,AR,1
+2020-08-01,Coconino,AZ,2
+2020-08-01,Maricopa,AZ,1
+2020-08-01,Pima,AZ,1
+2020-08-01,Alameda,CA,3
+2020-08-01,Contra Costa,CA,2
+2020-08-01,Humboldt,CA,1
+2020-08-01,Kern,CA,5
+2020-08-01,Los Angeles,CA,26
+2020-08-01,Marin,CA,1
+2020-08-01,Monterey,CA,1
+2020-08-01,Napa,CA,1
+2020-08-01,Orange,CA,15
+2020-08-01,Riverside,CA,3
+2020-08-01,San Bernardino,CA,6
+2020-08-01,San Diego,CA,4
+2020-08-01,San Francisco,CA,8
+2020-08-01,San Mateo,CA,4
+2020-08-01,Santa Barbara,CA,1
+2020-08-01,Santa Clara,CA,1
+2020-08-01,Santa Cruz,CA,1
+2020-08-01,Sonoma,CA,3
+2020-08-01,Stanislaus,CA,2
+2020-08-01,Ventura,CA,1
+2020-08-01,Yolo,CA,1
+2020-08-01,Denver,CO,1
+2020-08-01,Douglas,CO,1
+2020-08-01,El Paso,CO,1
+2020-08-01,Garfield,CO,2
+2020-08-01,Hartford,CT,2
+2020-08-01,Alachua,FL,1
+2020-08-01,Brevard,FL,1
+2020-08-01,Broward,FL,1
+2020-08-01,Charlotte,FL,2
+2020-08-01,Duval,FL,1
+2020-08-01,Hernando,FL,2
+2020-08-01,Jackson,FL,1
+2020-08-01,Lee,FL,1
+2020-08-01,Miami-Dade,FL,3
+2020-08-01,Orange,FL,1
+2020-08-01,Palm Beach,FL,2
+2020-08-01,Polk,FL,1
+2020-08-01,Seminole,FL,1
+2020-08-01,St. Lucie,FL,1
+2020-08-01,Volusia,FL,2
+2020-08-01,Walton,FL,1
+2020-08-01,Catoosa,GA,1
+2020-08-01,Chatham,GA,1
+2020-08-01,Cherokee,GA,1
+2020-08-01,Cobb,GA,1
+2020-08-01,Coweta,GA,1
+2020-08-01,Fulton,GA,1
+2020-08-01,Gwinnett,GA,1
+2020-08-01,Laurens,GA,1
+2020-08-01,Muscogee,GA,1
+2020-08-01,Paulding,GA,1
+2020-08-01,Honolulu,HI,2
+2020-08-01,Kossuth,IA,1
+2020-08-01,Latah,ID,1
+2020-08-01,Lemhi,ID,1
+2020-08-01,Champaign,IL,1
+2020-08-01,Cook,IL,12
+2020-08-01,DuPage,IL,1
+2020-08-01,Kankakee,IL,1
+2020-08-01,Macon,IL,1
+2020-08-01,Sangamon,IL,1
+2020-08-01,Williamson,IL,1
+2020-08-01,Bartholomew,IN,1
+2020-08-01,Clark,IN,1
+2020-08-01,Clay,IN,1
+2020-08-01,DeKalb,IN,1
+2020-08-01,Marion,IN,1
+2020-08-01,Douglas,KS,2
+2020-08-01,Adair,KY,1
+2020-08-01,Daviess,KY,1
+2020-08-01,Caddo Parish,LA,1
+2020-08-01,Evangeline Parish,LA,1
+2020-08-01,St. Bernard Parish,LA,1
+2020-08-01,Middlesex,MA,1
+2020-08-01,Plymouth,MA,1
+2020-08-01,Suffolk,MA,1
+2020-08-01,Worcester,MA,1
+2020-08-01,Anne Arundel,MD,1
+2020-08-01,Baltimore,MD,1
+2020-08-01,Montgomery,MD,1
+2020-08-01,Prince George's,MD,1
+2020-08-01,Cumberland,ME,1
+2020-08-01,Grand Traverse,MI,1
+2020-08-01,Kalamazoo,MI,1
+2020-08-01,Kent,MI,1
+2020-08-01,Oakland,MI,1
+2020-08-01,Wayne,MI,4
+2020-08-01,Big Stone,MN,1
+2020-08-01,Hennepin,MN,2
+2020-08-01,Olmsted,MN,1
+2020-08-01,Jackson,MO,1
+2020-08-01,Jefferson,MO,1
+2020-08-01,St. Charles,MO,1
+2020-08-01,St. Louis,MO,2
+2020-08-01,Wright,MO,1
+2020-08-01,Hinds,MS,3
+2020-08-01,Lauderdale,MS,1
+2020-08-01,Leake,MS,1
+2020-08-01,Prentiss,MS,1
+2020-08-01,Alexander,NC,1
+2020-08-01,Buncombe,NC,1
+2020-08-01,Forsyth,NC,1
+2020-08-01,Gaston,NC,1
+2020-08-01,Guilford,NC,1
+2020-08-01,Johnston,NC,1
+2020-08-01,Mecklenburg,NC,2
+2020-08-01,Randolph,NC,1
+2020-08-01,Rockingham,NC,1
+2020-08-01,Union,NC,1
+2020-08-01,Vance,NC,2
+2020-08-01,Wake,NC,1
+2020-08-01,Buffalo,NE,1
+2020-08-01,Cheshire,NH,1
+2020-08-01,Sullivan,NH,2
+2020-08-01,Bergen,NJ,2
+2020-08-01,Burlington,NJ,1
+2020-08-01,Gloucester,NJ,1
+2020-08-01,Hudson,NJ,1
+2020-08-01,Middlesex,NJ,2
+2020-08-01,Sussex,NJ,1
+2020-08-01,Union,NJ,1
+2020-08-01,Warren,NJ,1
+2020-08-01,Bernalillo,NM,1
+2020-08-01,Clark,NV,1
+2020-08-01,Bronx,NY,3
+2020-08-01,Cayuga,NY,1
+2020-08-01,Kings,NY,2
+2020-08-01,New York,NY,2
+2020-08-01,Queens,NY,4
+2020-08-01,Richmond,NY,1
+2020-08-01,Rockland,NY,1
+2020-08-01,Suffolk,NY,1
+2020-08-01,Ulster,NY,1
+2020-08-01,Cuyahoga,OH,3
+2020-08-01,Franklin,OH,8
+2020-08-01,Hamilton,OH,1
+2020-08-01,Oklahoma,OK,2
+2020-08-01,Clackamas,OR,1
+2020-08-01,Multnomah,OR,3
+2020-08-01,Umatilla,OR,1
+2020-08-01,Washington,OR,1
+2020-08-01,Berks,PA,1
+2020-08-01,Dauphin,PA,3
+2020-08-01,Delaware,PA,1
+2020-08-01,Montgomery,PA,1
+2020-08-01,Philadelphia,PA,3
+2020-08-01,Kent,RI,1
+2020-08-01,Horry,SC,1
+2020-08-01,Grainger,TN,1
+2020-08-01,Knox,TN,1
+2020-08-01,Bexar,TX,5
+2020-08-01,Brazoria,TX,1
+2020-08-01,Brazos,TX,1
+2020-08-01,Brown,TX,1
+2020-08-01,Collin,TX,2
+2020-08-01,Dallas,TX,1
+2020-08-01,Fort Bend,TX,1
+2020-08-01,Harris,TX,6
+2020-08-01,Hidalgo,TX,4
+2020-08-01,Jasper,TX,1
+2020-08-01,McLennan,TX,1
+2020-08-01,Nueces,TX,1
+2020-08-01,Parker,TX,1
+2020-08-01,Starr,TX,1
+2020-08-01,Tom Green,TX,1
+2020-08-01,Travis,TX,2
+2020-08-01,Williamson,TX,1
+2020-08-01,Salt Lake,UT,1
+2020-08-01,Weber,UT,1
+2020-08-01,Albemarle,VA,1
+2020-08-01,Arlington,VA,1
+2020-08-01,Fairfax,VA,1
+2020-08-01,Lunenburg,VA,1
+2020-08-01,King,WA,6
+2020-08-01,Snohomish,WA,1
+2020-08-01,Marinette,WI,1
+2020-08-01,Milwaukee,WI,1
+2020-08-01,Taylor,WI,1
+2020-08-01,Cabell,WV,1
+2020-08-01,Sweetwater,WY,1
+2020-09-01,Etowah,AL,1
+2020-09-01,Cochise,AZ,1
+2020-09-01,Maricopa,AZ,8
+2020-09-01,Mohave,AZ,1
+2020-09-01,Navajo,AZ,1
+2020-09-01,Alameda,CA,1
+2020-09-01,Butte,CA,1
+2020-09-01,Contra Costa,CA,1
+2020-09-01,Los Angeles,CA,22
+2020-09-01,Marin,CA,2
+2020-09-01,Mendocino,CA,1
+2020-09-01,Orange,CA,4
+2020-09-01,Riverside,CA,2
+2020-09-01,Sacramento,CA,1
+2020-09-01,San Bernardino,CA,1
+2020-09-01,San Diego,CA,5
+2020-09-01,San Francisco,CA,1
+2020-09-01,San Mateo,CA,2
+2020-09-01,Santa Clara,CA,3
+2020-09-01,Stanislaus,CA,1
+2020-09-01,Denver,CO,1
+2020-09-01,Douglas,CO,2
+2020-09-01,Garfield,CO,1
+2020-09-01,Jefferson,CO,1
+2020-09-01,Fairfield,CT,1
+2020-09-01,Broward,FL,1
+2020-09-01,Charlotte,FL,2
+2020-09-01,Hillsborough,FL,1
+2020-09-01,Lake,FL,1
+2020-09-01,Martin,FL,1
+2020-09-01,Miami-Dade,FL,1
+2020-09-01,Orange,FL,1
+2020-09-01,Pasco,FL,1
+2020-09-01,Pinellas,FL,1
+2020-09-01,Polk,FL,1
+2020-09-01,St. Johns,FL,1
+2020-09-01,Coweta,GA,1
+2020-09-01,DeKalb,GA,1
+2020-09-01,Fulton,GA,2
+2020-09-01,Gwinnett,GA,2
+2020-09-01,Plymouth,IA,1
+2020-09-01,Ada,ID,1
+2020-09-01,Nez Perce,ID,1
+2020-09-01,Cook,IL,4
+2020-09-01,McLean,IL,1
+2020-09-01,Floyd,IN,1
+2020-09-01,Madison,IN,1
+2020-09-01,Porter,IN,1
+2020-09-01,Dickinson,KS,1
+2020-09-01,Johnson,KS,2
+2020-09-01,Sedgwick,KS,1
+2020-09-01,Washington,KS,1
+2020-09-01,Bossier Parish,LA,1
+2020-09-01,Orleans Parish,LA,1
+2020-09-01,Ouachita Parish,LA,1
+2020-09-01,Essex,MA,1
+2020-09-01,Suffolk,MA,3
+2020-09-01,Carroll,MD,2
+2020-09-01,Kalamazoo,MI,1
+2020-09-01,Macomb,MI,1
+2020-09-01,Wayne,MI,1
+2020-09-01,St. Louis,MN,1
+2020-09-01,Jasper,MO,1
+2020-09-01,St. Louis,MO,1
+2020-09-01,Wright,MO,1
+2020-09-01,Bolivar,MS,1
+2020-09-01,Lowndes,MS,1
+2020-09-01,Buncombe,NC,1
+2020-09-01,Guilford,NC,1
+2020-09-01,Mecklenburg,NC,1
+2020-09-01,New Hanover,NC,1
+2020-09-01,Orange,NC,1
+2020-09-01,Pitt,NC,1
+2020-09-01,Camden,NJ,1
+2020-09-01,Essex,NJ,1
+2020-09-01,Hudson,NJ,1
+2020-09-01,Middlesex,NJ,1
+2020-09-01,Monmouth,NJ,1
+2020-09-01,Morris,NJ,1
+2020-09-01,McKinley,NM,1
+2020-09-01,San Juan,NM,1
+2020-09-01,Clark,NV,3
+2020-09-01,Bronx,NY,3
+2020-09-01,Kings,NY,3
+2020-09-01,Nassau,NY,2
+2020-09-01,New York,NY,3
+2020-09-01,Oneida,NY,1
+2020-09-01,Oswego,NY,1
+2020-09-01,Queens,NY,1
+2020-09-01,Suffolk,NY,2
+2020-09-01,Sullivan,NY,1
+2020-09-01,Tompkins,NY,1
+2020-09-01,Ulster,NY,1
+2020-09-01,Westchester,NY,1
+2020-09-01,Cuyahoga,OH,2
+2020-09-01,Franklin,OH,1
+2020-09-01,Geauga,OH,1
+2020-09-01,Tuscarawas,OH,1
+2020-09-01,Oklahoma,OK,2
+2020-09-01,Tulsa,OK,1
+2020-09-01,Douglas,OR,1
+2020-09-01,Multnomah,OR,3
+2020-09-01,Umatilla,OR,1
+2020-09-01,Washington,OR,1
+2020-09-01,Clarion,PA,1
+2020-09-01,Delaware,PA,1
+2020-09-01,Lancaster,PA,1
+2020-09-01,Philadelphia,PA,1
+2020-09-01,Greenville,SC,1
+2020-09-01,Richland,SC,1
+2020-09-01,Williamson,TN,2
+2020-09-01,Baylor,TX,1
+2020-09-01,Bell,TX,1
+2020-09-01,Bexar,TX,3
+2020-09-01,Brazoria,TX,1
+2020-09-01,Cameron,TX,1
+2020-09-01,Clay,TX,1
+2020-09-01,Collin,TX,2
+2020-09-01,Dallas,TX,2
+2020-09-01,Harris,TX,3
+2020-09-01,Henderson,TX,1
+2020-09-01,Hidalgo,TX,1
+2020-09-01,Lubbock,TX,1
+2020-09-01,Randall,TX,1
+2020-09-01,Tarrant,TX,3
+2020-09-01,Travis,TX,2
+2020-09-01,Zavala,TX,1
+2020-09-01,Box Elder,UT,1
+2020-09-01,Arlington,VA,1
+2020-09-01,Fairfax,VA,1
+2020-09-01,Mason,WA,1
+2020-09-01,Monongalia,WV,1
+2020-10-01,Anchorage,AK,2
+2020-10-01,Coffee,AL,1
+2020-10-01,Jefferson,AL,2
+2020-10-01,Mississippi,AR,1
+2020-10-01,Pulaski,AR,1
+2020-10-01,Gila,AZ,1
+2020-10-01,Maricopa,AZ,4
+2020-10-01,Pinal,AZ,1
+2020-10-01,Alameda,CA,1
+2020-10-01,Lake,CA,1
+2020-10-01,Los Angeles,CA,11
+2020-10-01,Nevada,CA,1
+2020-10-01,Orange,CA,2
+2020-10-01,Sacramento,CA,2
+2020-10-01,San Bernardino,CA,1
+2020-10-01,San Diego,CA,1
+2020-10-01,San Francisco,CA,1
+2020-10-01,Santa Clara,CA,1
+2020-10-01,New Haven,CT,2
+2020-10-01,Sussex,DE,2
+2020-10-01,Brevard,FL,1
+2020-10-01,Broward,FL,2
+2020-10-01,Duval,FL,1
+2020-10-01,Hernando,FL,2
+2020-10-01,Hillsborough,FL,1
+2020-10-01,Miami-Dade,FL,1
+2020-10-01,Okaloosa,FL,1
+2020-10-01,Orange,FL,2
+2020-10-01,Bibb,GA,1
+2020-10-01,Chatham,GA,1
+2020-10-01,DeKalb,GA,3
+2020-10-01,Dougherty,GA,1
+2020-10-01,Fulton,GA,4
+2020-10-01,Gwinnett,GA,1
+2020-10-01,Henry,GA,1
+2020-10-01,Newton,GA,1
+2020-10-01,Peach,GA,1
+2020-10-01,Polk,IA,1
+2020-10-01,Ada,ID,1
+2020-10-01,Madison,ID,1
+2020-10-01,Cook,IL,6
+2020-10-01,Effingham,IL,1
+2020-10-01,Madison,IL,2
+2020-10-01,McLean,IL,1
+2020-10-01,St. Clair,IL,1
+2020-10-01,Will,IL,1
+2020-10-01,DeKalb,IN,1
+2020-10-01,Elkhart,IN,1
+2020-10-01,Floyd,IN,1
+2020-10-01,Franklin,IN,1
+2020-10-01,Hamilton,IN,1
+2020-10-01,Harrison,IN,1
+2020-10-01,Marion,IN,1
+2020-10-01,Randolph,IN,1
+2020-10-01,Ripley,IN,1
+2020-10-01,St. Joseph,IN,1
+2020-10-01,Vanderburgh,IN,1
+2020-10-01,Johnson,KS,1
+2020-10-01,Henderson,KY,1
+2020-10-01,Laurel,KY,1
+2020-10-01,East Baton Rouge Parish,LA,1
+2020-10-01,Jefferson Parish,LA,3
+2020-10-01,Natchitoches Parish,LA,1
+2020-10-01,Orleans Parish,LA,5
+2020-10-01,Plaquemines Parish,LA,1
+2020-10-01,St. Landry Parish,LA,1
+2020-10-01,Hampden,MA,1
+2020-10-01,Middlesex,MA,4
+2020-10-01,Norfolk,MA,1
+2020-10-01,Suffolk,MA,1
+2020-10-01,Worcester,MA,2
+2020-10-01,Baltimore,MD,1
+2020-10-01,Harford,MD,1
+2020-10-01,Cass,MI,1
+2020-10-01,Delta,MI,1
+2020-10-01,Macomb,MI,2
+2020-10-01,Wayne,MI,1
+2020-10-01,Brown,MN,1
+2020-10-01,Hennepin,MN,1
+2020-10-01,Lyon,MN,1
+2020-10-01,Jackson,MO,2
+2020-10-01,Jefferson,MO,1
+2020-10-01,New Madrid,MO,1
+2020-10-01,Hinds,MS,1
+2020-10-01,Jones,MS,1
+2020-10-01,Leflore,MS,1
+2020-10-01,Washington,MS,1
+2020-10-01,Wilkinson,MS,1
+2020-10-01,Roosevelt,MT,1
+2020-10-01,Cumberland,NC,1
+2020-10-01,Dare,NC,1
+2020-10-01,Iredell,NC,1
+2020-10-01,Onslow,NC,1
+2020-10-01,Rockingham,NC,1
+2020-10-01,Washington,NC,1
+2020-10-01,Wilkes,NC,2
+2020-10-01,Washington,NE,1
+2020-10-01,Bergen,NJ,2
+2020-10-01,Camden,NJ,1
+2020-10-01,Essex,NJ,4
+2020-10-01,Morris,NJ,1
+2020-10-01,Passaic,NJ,1
+2020-10-01,Bernalillo,NM,1
+2020-10-01,Clark,NV,1
+2020-10-01,Bronx,NY,1
+2020-10-01,Cattaraugus,NY,1
+2020-10-01,Essex,NY,1
+2020-10-01,Franklin,NY,1
+2020-10-01,Kings,NY,4
+2020-10-01,Oneida,NY,1
+2020-10-01,Queens,NY,3
+2020-10-01,Rockland,NY,4
+2020-10-01,Suffolk,NY,1
+2020-10-01,Ulster,NY,1
+2020-10-01,Westchester,NY,2
+2020-10-01,Ashtabula,OH,1
+2020-10-01,Cuyahoga,OH,2
+2020-10-01,Hamilton,OH,1
+2020-10-01,Pike,OH,1
+2020-10-01,Portage,OH,1
+2020-10-01,Wayne,OH,2
+2020-10-01,Adair,OK,1
+2020-10-01,Sequoyah,OK,1
+2020-10-01,Linn,OR,1
+2020-10-01,Marion,OR,1
+2020-10-01,Multnomah,OR,5
+2020-10-01,Wasco,OR,1
+2020-10-01,Yamhill,OR,1
+2020-10-01,Cambria,PA,1
+2020-10-01,Cumberland,PA,1
+2020-10-01,Lehigh,PA,2
+2020-10-01,Luzerne,PA,1
+2020-10-01,Montgomery,PA,1
+2020-10-01,Philadelphia,PA,2
+2020-10-01,Berkeley,SC,1
+2020-10-01,Greenville,SC,1
+2020-10-01,Pennington,SD,1
+2020-10-01,Yankton,SD,1
+2020-10-01,Davidson,TN,1
+2020-10-01,Knox,TN,1
+2020-10-01,Rutherford,TN,1
+2020-10-01,Angelina,TX,1
+2020-10-01,Bexar,TX,1
+2020-10-01,Brazoria,TX,1
+2020-10-01,Cameron,TX,1
+2020-10-01,Collin,TX,2
+2020-10-01,Coryell,TX,1
+2020-10-01,El Paso,TX,1
+2020-10-01,Harris,TX,3
+2020-10-01,Hidalgo,TX,1
+2020-10-01,Tarrant,TX,1
+2020-10-01,Travis,TX,1
+2020-10-01,Webb,TX,1
+2020-10-01,Salt Lake,UT,1
+2020-10-01,Chesterfield,VA,2
+2020-10-01,James City,VA,1
+2020-10-01,Sussex,VA,1
+2020-10-01,Grays Harbor,WA,1
+2020-10-01,King,WA,3
+2020-10-01,Boone,WV,2
+2020-11-01,Pulaski,AR,1
+2020-11-01,Apache,AZ,3
+2020-11-01,Coconino,AZ,1
+2020-11-01,Maricopa,AZ,3
+2020-11-01,Pima,AZ,3
+2020-11-01,Pinal,AZ,1
+2020-11-01,Yuma,AZ,1
+2020-11-01,Alameda,CA,2
+2020-11-01,Contra Costa,CA,1
+2020-11-01,Kern,CA,3
+2020-11-01,Los Angeles,CA,16
+2020-11-01,Marin,CA,1
+2020-11-01,Mendocino,CA,1
+2020-11-01,Orange,CA,5
+2020-11-01,Sacramento,CA,2
+2020-11-01,San Bernardino,CA,5
+2020-11-01,San Francisco,CA,3
+2020-11-01,San Mateo,CA,3
+2020-11-01,Santa Barbara,CA,1
+2020-11-01,Santa Clara,CA,2
+2020-11-01,Solano,CA,1
+2020-11-01,Sonoma,CA,2
+2020-11-01,Arapahoe,CO,1
+2020-11-01,Boulder,CO,2
+2020-11-01,Elbert,CO,1
+2020-11-01,Larimer,CO,1
+2020-11-01,Fairfield,CT,1
+2020-11-01,Hartford,CT,2
+2020-11-01,New Haven,CT,1
+2020-11-01,Windham,CT,1
+2020-11-01,New Castle,DE,1
+2020-11-01,Broward,FL,1
+2020-11-01,Duval,FL,1
+2020-11-01,Hernando,FL,1
+2020-11-01,Lee,FL,1
+2020-11-01,Clayton,GA,1
+2020-11-01,DeKalb,GA,1
+2020-11-01,Fulton,GA,1
+2020-11-01,Gwinnett,GA,1
+2020-11-01,Mitchell,GA,1
+2020-11-01,Washington,GA,1
+2020-11-01,Hawaii,HI,1
+2020-11-01,Honolulu,HI,1
+2020-11-01,Pottawattamie,IA,1
+2020-11-01,Scott,IA,1
+2020-11-01,Cook,IL,10
+2020-11-01,Kankakee,IL,1
+2020-11-01,Lake,IL,1
+2020-11-01,Perry,IL,2
+2020-11-01,St. Clair,IL,1
+2020-11-01,Will,IL,1
+2020-11-01,Williamson,IL,1
+2020-11-01,Winnebago,IL,1
+2020-11-01,Woodford,IL,1
+2020-11-01,Allen,IN,1
+2020-11-01,Bartholomew,IN,1
+2020-11-01,Hendricks,IN,1
+2020-11-01,Morgan,IN,1
+2020-11-01,St. Joseph,IN,1
+2020-11-01,Johnson,KS,1
+2020-11-01,Sedgwick,KS,1
+2020-11-01,Garrard,KY,2
+2020-11-01,Oldham,KY,2
+2020-11-01,Trigg,KY,1
+2020-11-01,East Baton Rouge Parish,LA,1
+2020-11-01,Evangeline Parish,LA,1
+2020-11-01,Orleans Parish,LA,1
+2020-11-01,Ouachita Parish,LA,1
+2020-11-01,Hampden,MA,1
+2020-11-01,Middlesex,MA,10
+2020-11-01,Suffolk,MA,2
+2020-11-01,Worcester,MA,3
+2020-11-01,Anne Arundel,MD,1
+2020-11-01,Charles,MD,1
+2020-11-01,Harford,MD,1
+2020-11-01,Howard,MD,1
+2020-11-01,Montgomery,MD,2
+2020-11-01,Prince George's,MD,1
+2020-11-01,Benzie,MI,1
+2020-11-01,Ionia,MI,1
+2020-11-01,Isabella,MI,1
+2020-11-01,Jackson,MI,1
+2020-11-01,Livingston,MI,1
+2020-11-01,Macomb,MI,1
+2020-11-01,Oakland,MI,1
+2020-11-01,Saginaw,MI,1
+2020-11-01,Wayne,MI,1
+2020-11-01,Blue Earth,MN,1
+2020-11-01,Hennepin,MN,2
+2020-11-01,Ramsey,MN,1
+2020-11-01,Scott,MN,1
+2020-11-01,Yellow Medicine,MN,1
+2020-11-01,Adair,MO,1
+2020-11-01,Clay,MO,1
+2020-11-01,Jackson,MO,2
+2020-11-01,Scotland,MO,1
+2020-11-01,Webster,MO,2
+2020-11-01,Carroll,MS,1
+2020-11-01,Leflore,MS,1
+2020-11-01,Gallatin,MT,1
+2020-11-01,Lewis and Clark,MT,1
+2020-11-01,Chatham,NC,1
+2020-11-01,Guilford,NC,1
+2020-11-01,Iredell,NC,2
+2020-11-01,Orange,NC,1
+2020-11-01,Pitt,NC,1
+2020-11-01,Robeson,NC,1
+2020-11-01,Scotland,NC,1
+2020-11-01,Ward,ND,1
+2020-11-01,Sullivan,NH,1
+2020-11-01,Bergen,NJ,4
+2020-11-01,Burlington,NJ,1
+2020-11-01,Camden,NJ,2
+2020-11-01,Essex,NJ,3
+2020-11-01,Morris,NJ,1
+2020-11-01,Passaic,NJ,1
+2020-11-01,Union,NJ,3
+2020-11-01,Warren,NJ,1
+2020-11-01,Guadalupe,NM,2
+2020-11-01,McKinley,NM,1
+2020-11-01,Clark,NV,1
+2020-11-01,Storey,NV,1
+2020-11-01,Bronx,NY,1
+2020-11-01,Dutchess,NY,2
+2020-11-01,Kings,NY,6
+2020-11-01,Nassau,NY,3
+2020-11-01,New York,NY,2
+2020-11-01,Onondaga,NY,1
+2020-11-01,Queens,NY,4
+2020-11-01,Richmond,NY,2
+2020-11-01,Schenectady,NY,1
+2020-11-01,Westchester,NY,2
+2020-11-01,Cuyahoga,OH,5
+2020-11-01,Huron,OH,1
+2020-11-01,Le Flore,OK,1
+2020-11-01,Mayes,OK,1
+2020-11-01,Oklahoma,OK,1
+2020-11-01,Clackamas,OR,1
+2020-11-01,Multnomah,OR,5
+2020-11-01,Yamhill,OR,1
+2020-11-01,Allegheny,PA,1
+2020-11-01,Beaver,PA,1
+2020-11-01,Cambria,PA,1
+2020-11-01,Centre,PA,1
+2020-11-01,Delaware,PA,2
+2020-11-01,Fayette,PA,1
+2020-11-01,Lackawanna,PA,1
+2020-11-01,Lebanon,PA,1
+2020-11-01,Lehigh,PA,1
+2020-11-01,Monroe,PA,2
+2020-11-01,Montgomery,PA,1
+2020-11-01,Northampton,PA,1
+2020-11-01,Philadelphia,PA,1
+2020-11-01,Pike,PA,1
+2020-11-01,Schuylkill,PA,1
+2020-11-01,Wayne,PA,1
+2020-11-01,Providence,RI,2
+2020-11-01,Greenville,SC,1
+2020-11-01,Pennington,SD,1
+2020-11-01,Union,SD,1
+2020-11-01,Putnam,TN,1
+2020-11-01,Shelby,TN,2
+2020-11-01,Austin,TX,1
+2020-11-01,Bell,TX,1
+2020-11-01,Bexar,TX,1
+2020-11-01,Cameron,TX,2
+2020-11-01,Collin,TX,3
+2020-11-01,Dallas,TX,3
+2020-11-01,DeWitt,TX,1
+2020-11-01,Fort Bend,TX,1
+2020-11-01,Harris,TX,4
+2020-11-01,Hidalgo,TX,1
+2020-11-01,Kerr,TX,1
+2020-11-01,Lamar,TX,1
+2020-11-01,Travis,TX,1
+2020-11-01,Webb,TX,1
+2020-11-01,Salt Lake,UT,1
+2020-11-01,Arlington,VA,1
+2020-11-01,Chesterfield,VA,1
+2020-11-01,Dickenson,VA,1
+2020-11-01,Fauquier,VA,1
+2020-11-01,Prince George,VA,1
+2020-11-01,Prince William,VA,1
+2020-11-01,Rockingham,VA,1
+2020-11-01,Benton,WA,1
+2020-11-01,King,WA,1
+2020-11-01,Spokane,WA,1
+2020-11-01,Yakima,WA,1
+2020-11-01,Marathon,WI,1
+2020-11-01,Sauk,WI,1
+2020-11-01,Fayette,WV,1
+2020-11-01,Jefferson,WV,1
+2020-11-01,Natrona,WY,1
+2020-12-01,DeKalb,AL,1
+2020-12-01,Jefferson,AL,2
+2020-12-01,Montgomery,AL,1
+2020-12-01,Benton,AR,1
+2020-12-01,Monroe,AR,1
+2020-12-01,Polk,AR,1
+2020-12-01,Searcy,AR,1
+2020-12-01,Yell,AR,1
+2020-12-01,Apache,AZ,1
+2020-12-01,Gila,AZ,1
+2020-12-01,Graham,AZ,1
+2020-12-01,Maricopa,AZ,9
+2020-12-01,Mohave,AZ,1
+2020-12-01,Pinal,AZ,1
+2020-12-01,Santa Cruz,AZ,1
+2020-12-01,Yuma,AZ,1
+2020-12-01,Alameda,CA,2
+2020-12-01,Butte,CA,1
+2020-12-01,Contra Costa,CA,1
+2020-12-01,El Dorado,CA,2
+2020-12-01,Fresno,CA,1
+2020-12-01,Humboldt,CA,1
+2020-12-01,Imperial,CA,1
+2020-12-01,Kern,CA,2
+2020-12-01,Kings,CA,1
+2020-12-01,Los Angeles,CA,39
+2020-12-01,Marin,CA,1
+2020-12-01,Merced,CA,1
+2020-12-01,Orange,CA,7
+2020-12-01,Riverside,CA,5
+2020-12-01,Sacramento,CA,2
+2020-12-01,San Bernardino,CA,7
+2020-12-01,San Diego,CA,4
+2020-12-01,San Francisco,CA,1
+2020-12-01,San Joaquin,CA,1
+2020-12-01,San Luis Obispo,CA,1
+2020-12-01,San Mateo,CA,4
+2020-12-01,Santa Barbara,CA,1
+2020-12-01,Santa Clara,CA,7
+2020-12-01,Shasta,CA,1
+2020-12-01,Solano,CA,1
+2020-12-01,Tulare,CA,1
+2020-12-01,Ventura,CA,3
+2020-12-01,Arapahoe,CO,1
+2020-12-01,Denver,CO,1
+2020-12-01,Douglas,CO,1
+2020-12-01,El Paso,CO,1
+2020-12-01,Jefferson,CO,1
+2020-12-01,Larimer,CO,1
+2020-12-01,Logan,CO,1
+2020-12-01,Fairfield,CT,1
+2020-12-01,Hartford,CT,4
+2020-12-01,Tolland,CT,1
+2020-12-01,Sussex,DE,2
+2020-12-01,Brevard,FL,2
+2020-12-01,Broward,FL,5
+2020-12-01,Hillsborough,FL,1
+2020-12-01,Manatee,FL,1
+2020-12-01,Martin,FL,1
+2020-12-01,Miami-Dade,FL,1
+2020-12-01,Orange,FL,1
+2020-12-01,Osceola,FL,1
+2020-12-01,Palm Beach,FL,2
+2020-12-01,Pinellas,FL,1
+2020-12-01,Polk,FL,1
+2020-12-01,Sarasota,FL,1
+2020-12-01,St. Lucie,FL,1
+2020-12-01,Appling,GA,1
+2020-12-01,Clarke,GA,1
+2020-12-01,Clayton,GA,1
+2020-12-01,DeKalb,GA,1
+2020-12-01,Dougherty,GA,1
+2020-12-01,Fulton,GA,1
+2020-12-01,Gordon,GA,1
+2020-12-01,Lee,GA,1
+2020-12-01,Tift,GA,1
+2020-12-01,Wayne,GA,1
+2020-12-01,Chickasaw,IA,2
+2020-12-01,Jasper,IA,1
+2020-12-01,Johnson,IA,1
+2020-12-01,Kossuth,IA,2
+2020-12-01,Osceola,IA,1
+2020-12-01,Ada,ID,2
+2020-12-01,Elmore,ID,1
+2020-12-01,Jefferson,ID,1
+2020-12-01,Nez Perce,ID,1
+2020-12-01,Cook,IL,9
+2020-12-01,DuPage,IL,1
+2020-12-01,LaSalle,IL,1
+2020-12-01,Lake,IL,2
+2020-12-01,St. Clair,IL,1
+2020-12-01,Allen,IN,1
+2020-12-01,Bartholomew,IN,1
+2020-12-01,Decatur,IN,1
+2020-12-01,Grant,IN,1
+2020-12-01,Lawrence,IN,1
+2020-12-01,Madison,IN,1
+2020-12-01,Marion,IN,2
+2020-12-01,Johnson,KS,1
+2020-12-01,Sedgwick,KS,1
+2020-12-01,Boyle,KY,1
+2020-12-01,Fayette,KY,1
+2020-12-01,Jefferson,KY,1
+2020-12-01,Marion,KY,1
+2020-12-01,Avoyelles Parish,LA,2
+2020-12-01,East Baton Rouge Parish,LA,1
+2020-12-01,Evangeline Parish,LA,2
+2020-12-01,Orleans Parish,LA,1
+2020-12-01,Terrebonne Parish,LA,1
+2020-12-01,Berkshire,MA,1
+2020-12-01,Essex,MA,1
+2020-12-01,Franklin,MA,1
+2020-12-01,Hampshire,MA,1
+2020-12-01,Middlesex,MA,1
+2020-12-01,Worcester,MA,1
+2020-12-01,Baltimore,MD,1
+2020-12-01,Frederick,MD,1
+2020-12-01,Harford,MD,1
+2020-12-01,Montgomery,MD,2
+2020-12-01,Bay,MI,1
+2020-12-01,Kent,MI,6
+2020-12-01,Lenawee,MI,1
+2020-12-01,Macomb,MI,1
+2020-12-01,Oakland,MI,2
+2020-12-01,Wayne,MI,3
+2020-12-01,Becker,MN,1
+2020-12-01,Blue Earth,MN,1
+2020-12-01,Crow Wing,MN,1
+2020-12-01,Hennepin,MN,2
+2020-12-01,Mower,MN,1
+2020-12-01,Ramsey,MN,1
+2020-12-01,St. Louis,MN,2
+2020-12-01,Bates,MO,1
+2020-12-01,Cass,MO,1
+2020-12-01,Clay,MO,1
+2020-12-01,Phelps,MO,1
+2020-12-01,St. Louis,MO,3
+2020-12-01,Forrest,MS,1
+2020-12-01,Harrison,MS,1
+2020-12-01,Hinds,MS,2
+2020-12-01,Jackson,MS,1
+2020-12-01,Yalobusha,MS,1
+2020-12-01,Glacier,MT,1
+2020-12-01,Jefferson,MT,2
+2020-12-01,Yellowstone,MT,1
+2020-12-01,Currituck,NC,1
+2020-12-01,Mecklenburg,NC,1
+2020-12-01,Nash,NC,1
+2020-12-01,Pitt,NC,1
+2020-12-01,Randolph,NC,1
+2020-12-01,Robeson,NC,2
+2020-12-01,Stanly,NC,1
+2020-12-01,Wake,NC,1
+2020-12-01,Wilson,NC,1
+2020-12-01,Ramsey,ND,1
+2020-12-01,Sioux,ND,2
+2020-12-01,Ward,ND,1
+2020-12-01,Adams,NE,1
+2020-12-01,Grafton,NH,1
+2020-12-01,Hillsborough,NH,2
+2020-12-01,Atlantic,NJ,1
+2020-12-01,Bergen,NJ,4
+2020-12-01,Burlington,NJ,1
+2020-12-01,Essex,NJ,1
+2020-12-01,Gloucester,NJ,1
+2020-12-01,Hudson,NJ,4
+2020-12-01,Mercer,NJ,1
+2020-12-01,Middlesex,NJ,2
+2020-12-01,Ocean,NJ,1
+2020-12-01,Passaic,NJ,2
+2020-12-01,Guadalupe,NM,1
+2020-12-01,Clark,NV,2
+2020-12-01,Bronx,NY,1
+2020-12-01,Broome,NY,1
+2020-12-01,Cattaraugus,NY,1
+2020-12-01,Cayuga,NY,1
+2020-12-01,Clinton,NY,1
+2020-12-01,Erie,NY,1
+2020-12-01,Jefferson,NY,1
+2020-12-01,Kings,NY,5
+2020-12-01,Nassau,NY,5
+2020-12-01,New York,NY,4
+2020-12-01,Orange,NY,1
+2020-12-01,Orleans,NY,1
+2020-12-01,Queens,NY,3
+2020-12-01,Richmond,NY,1
+2020-12-01,Rockland,NY,1
+2020-12-01,Saratoga,NY,1
+2020-12-01,Suffolk,NY,3
+2020-12-01,Sullivan,NY,1
+2020-12-01,Tompkins,NY,1
+2020-12-01,Ulster,NY,1
+2020-12-01,Warren,NY,1
+2020-12-01,Wayne,NY,1
+2020-12-01,Westchester,NY,1
+2020-12-01,Carroll,OH,1
+2020-12-01,Clermont,OH,1
+2020-12-01,Clinton,OH,1
+2020-12-01,Cuyahoga,OH,3
+2020-12-01,Franklin,OH,4
+2020-12-01,Fulton,OH,1
+2020-12-01,Greene,OH,1
+2020-12-01,Hamilton,OH,6
+2020-12-01,Holmes,OH,1
+2020-12-01,Jackson,OH,1
+2020-12-01,Lake,OH,1
+2020-12-01,Logan,OH,1
+2020-12-01,Mahoning,OH,1
+2020-12-01,Perry,OH,1
+2020-12-01,Richland,OH,1
+2020-12-01,Scioto,OH,2
+2020-12-01,Seneca,OH,1
+2020-12-01,Summit,OH,1
+2020-12-01,Warren,OH,1
+2020-12-01,Wayne,OH,1
+2020-12-01,Adair,OK,1
+2020-12-01,Blaine,OK,1
+2020-12-01,Caddo,OK,1
+2020-12-01,Kay,OK,1
+2020-12-01,Mayes,OK,1
+2020-12-01,Seminole,OK,1
+2020-12-01,Tulsa,OK,3
+2020-12-01,Douglas,OR,1
+2020-12-01,Lane,OR,1
+2020-12-01,Multnomah,OR,2
+2020-12-01,Polk,OR,1
+2020-12-01,Washington,OR,1
+2020-12-01,Allegheny,PA,2
+2020-12-01,Berks,PA,1
+2020-12-01,Bucks,PA,1
+2020-12-01,Butler,PA,1
+2020-12-01,Cumberland,PA,1
+2020-12-01,Delaware,PA,2
+2020-12-01,Erie,PA,2
+2020-12-01,Forest,PA,1
+2020-12-01,Indiana,PA,1
+2020-12-01,Lackawanna,PA,3
+2020-12-01,Lawrence,PA,1
+2020-12-01,Lebanon,PA,1
+2020-12-01,Lehigh,PA,1
+2020-12-01,Mercer,PA,2
+2020-12-01,Montgomery,PA,1
+2020-12-01,Philadelphia,PA,1
+2020-12-01,Potter,PA,1
+2020-12-01,York,PA,3
+2020-12-01,Barnwell,SC,1
+2020-12-01,Greenville,SC,1
+2020-12-01,Spartanburg,SC,1
+2020-12-01,York,SC,1
+2020-12-01,Charles Mix,SD,1
+2020-12-01,Dewey,SD,1
+2020-12-01,Pennington,SD,1
+2020-12-01,Anderson,TN,1
+2020-12-01,Blount,TN,1
+2020-12-01,Coffee,TN,1
+2020-12-01,Knox,TN,1
+2020-12-01,Putnam,TN,1
+2020-12-01,Weakley,TN,1
+2020-12-01,Bee,TX,1
+2020-12-01,Bexar,TX,4
+2020-12-01,Brazoria,TX,1
+2020-12-01,Cameron,TX,2
+2020-12-01,Dallas,TX,6
+2020-12-01,Denton,TX,1
+2020-12-01,El Paso,TX,1
+2020-12-01,Ellis,TX,1
+2020-12-01,Fort Bend,TX,2
+2020-12-01,Grayson,TX,1
+2020-12-01,Hansford,TX,1
+2020-12-01,Harris,TX,10
+2020-12-01,Hidalgo,TX,3
+2020-12-01,Hunt,TX,1
+2020-12-01,Jefferson,TX,1
+2020-12-01,Kaufman,TX,2
+2020-12-01,Limestone,TX,1
+2020-12-01,Montgomery,TX,1
+2020-12-01,Moore,TX,1
+2020-12-01,Nueces,TX,1
+2020-12-01,San Patricio,TX,1
+2020-12-01,Tarrant,TX,3
+2020-12-01,Travis,TX,2
+2020-12-01,Webb,TX,2
+2020-12-01,Williamson,TX,1
+2020-12-01,Utah,UT,1
+2020-12-01,Albemarle,VA,1
+2020-12-01,Bland,VA,1
+2020-12-01,Fairfax,VA,3
+2020-12-01,Franklin,VA,1
+2020-12-01,Loudoun,VA,2
+2020-12-01,Orange,VA,1
+2020-12-01,Prince William,VA,2
+2020-12-01,Benton,WA,1
+2020-12-01,Grays Harbor,WA,1
+2020-12-01,King,WA,4
+2020-12-01,Yakima,WA,1
+2020-12-01,Brown,WI,1
+2020-12-01,Forest,WI,1
+2020-12-01,Jackson,WI,1
+2020-12-01,Outagamie,WI,1
+2020-12-01,Pierce,WI,1
+2020-12-01,Shawano,WI,1
+2020-12-01,Walworth,WI,1
+2020-12-01,Monongalia,WV,1
+2020-12-01,Raleigh,WV,1
+2020-12-01,Albany,WY,1
+2020-12-01,Campbell,WY,1
+2020-12-01,Fremont,WY,1
+2020-12-01,Natrona,WY,3
+2021-01-01,Baldwin,AL,1
+2021-01-01,Colbert,AL,1
+2021-01-01,Elmore,AL,1
+2021-01-01,Lauderdale,AL,1
+2021-01-01,Mobile,AL,1
+2021-01-01,Greene,AR,1
+2021-01-01,Apache,AZ,1
+2021-01-01,Coconino,AZ,4
+2021-01-01,Maricopa,AZ,4
+2021-01-01,Pinal,AZ,1
+2021-01-01,Santa Cruz,AZ,1
+2021-01-01,Alameda,CA,8
+2021-01-01,Calaveras,CA,1
+2021-01-01,Contra Costa,CA,3
+2021-01-01,El Dorado,CA,1
+2021-01-01,Fresno,CA,2
+2021-01-01,Imperial,CA,2
+2021-01-01,Kings,CA,2
+2021-01-01,Los Angeles,CA,126
+2021-01-01,Monterey,CA,1
+2021-01-01,Orange,CA,19
+2021-01-01,Riverside,CA,5
+2021-01-01,Sacramento,CA,2
+2021-01-01,San Bernardino,CA,6
+2021-01-01,San Diego,CA,56
+2021-01-01,San Francisco,CA,6
+2021-01-01,San Mateo,CA,1
+2021-01-01,Santa Clara,CA,5
+2021-01-01,Santa Cruz,CA,1
+2021-01-01,Solano,CA,2
+2021-01-01,Sonoma,CA,1
+2021-01-01,Tulare,CA,1
+2021-01-01,Boulder,CO,1
+2021-01-01,Denver,CO,4
+2021-01-01,Douglas,CO,2
+2021-01-01,El Paso,CO,1
+2021-01-01,Mesa,CO,1
+2021-01-01,Fairfield,CT,4
+2021-01-01,New Haven,CT,4
+2021-01-01,Windham,CT,1
+2021-01-01,Kent,DE,1
+2021-01-01,New Castle,DE,2
+2021-01-01,Broward,FL,4
+2021-01-01,Charlotte,FL,1
+2021-01-01,Duval,FL,1
+2021-01-01,Hillsborough,FL,3
+2021-01-01,Lake,FL,1
+2021-01-01,Leon,FL,1
+2021-01-01,Miami-Dade,FL,3
+2021-01-01,Okaloosa,FL,1
+2021-01-01,Osceola,FL,1
+2021-01-01,Palm Beach,FL,3
+2021-01-01,Pinellas,FL,1
+2021-01-01,St. Johns,FL,1
+2021-01-01,Barrow,GA,1
+2021-01-01,Bulloch,GA,1
+2021-01-01,Coweta,GA,1
+2021-01-01,DeKalb,GA,6
+2021-01-01,Floyd,GA,1
+2021-01-01,Fulton,GA,5
+2021-01-01,Gwinnett,GA,4
+2021-01-01,Hall,GA,1
+2021-01-01,Irwin,GA,1
+2021-01-01,Jefferson,GA,1
+2021-01-01,Laurens,GA,1
+2021-01-01,Lee,GA,1
+2021-01-01,Muscogee,GA,1
+2021-01-01,Newton,GA,1
+2021-01-01,Rockdale,GA,1
+2021-01-01,Terrell,GA,1
+2021-01-01,Troup,GA,1
+2021-01-01,Hawaii,HI,1
+2021-01-01,Hancock,IA,1
+2021-01-01,Johnson,IA,1
+2021-01-01,Kossuth,IA,1
+2021-01-01,Wayne,IA,1
+2021-01-01,Ada,ID,1
+2021-01-01,Adams,IL,1
+2021-01-01,Cook,IL,11
+2021-01-01,DuPage,IL,1
+2021-01-01,Franklin,IL,1
+2021-01-01,Kendall,IL,1
+2021-01-01,LaSalle,IL,1
+2021-01-01,Lake,IL,1
+2021-01-01,McHenry,IL,1
+2021-01-01,Rock Island,IL,2
+2021-01-01,St. Clair,IL,2
+2021-01-01,Will,IL,2
+2021-01-01,Bartholomew,IN,1
+2021-01-01,Daviess,IN,1
+2021-01-01,Decatur,IN,1
+2021-01-01,Floyd,IN,1
+2021-01-01,Franklin,IN,1
+2021-01-01,Hamilton,IN,1
+2021-01-01,Marion,IN,4
+2021-01-01,Douglas,KS,1
+2021-01-01,Johnson,KS,2
+2021-01-01,Sedgwick,KS,2
+2021-01-01,Fayette,KY,1
+2021-01-01,Jefferson,KY,1
+2021-01-01,Kenton,KY,1
+2021-01-01,Calcasieu Parish,LA,1
+2021-01-01,St. Charles Parish,LA,1
+2021-01-01,Vernon Parish,LA,1
+2021-01-01,Bristol,MA,1
+2021-01-01,Essex,MA,3
+2021-01-01,Hampden,MA,1
+2021-01-01,Middlesex,MA,4
+2021-01-01,Norfolk,MA,1
+2021-01-01,Plymouth,MA,1
+2021-01-01,Suffolk,MA,3
+2021-01-01,Worcester,MA,1
+2021-01-01,Carroll,MD,1
+2021-01-01,Frederick,MD,1
+2021-01-01,Harford,MD,2
+2021-01-01,Howard,MD,1
+2021-01-01,Montgomery,MD,6
+2021-01-01,Prince George's,MD,1
+2021-01-01,Cass,MI,1
+2021-01-01,Eaton,MI,1
+2021-01-01,Grand Traverse,MI,1
+2021-01-01,Kent,MI,1
+2021-01-01,Macomb,MI,2
+2021-01-01,Muskegon,MI,2
+2021-01-01,Oakland,MI,6
+2021-01-01,Saginaw,MI,1
+2021-01-01,Tuscola,MI,1
+2021-01-01,Wayne,MI,2
+2021-01-01,Hennepin,MN,3
+2021-01-01,Mille Lacs,MN,1
+2021-01-01,Morrison,MN,1
+2021-01-01,Mower,MN,1
+2021-01-01,Ramsey,MN,2
+2021-01-01,St. Louis,MN,3
+2021-01-01,Wabasha,MN,1
+2021-01-01,Washington,MN,2
+2021-01-01,Cape Girardeau,MO,1
+2021-01-01,St. Charles,MO,1
+2021-01-01,St. Louis,MO,1
+2021-01-01,Stone,MO,1
+2021-01-01,Bolivar,MS,1
+2021-01-01,Forrest,MS,1
+2021-01-01,Grenada,MS,2
+2021-01-01,Hinds,MS,2
+2021-01-01,Jackson,MS,2
+2021-01-01,Lamar,MS,1
+2021-01-01,Prentiss,MS,1
+2021-01-01,Jefferson,MT,2
+2021-01-01,Buncombe,NC,1
+2021-01-01,Cumberland,NC,1
+2021-01-01,Dare,NC,1
+2021-01-01,Gaston,NC,1
+2021-01-01,Guilford,NC,1
+2021-01-01,Henderson,NC,2
+2021-01-01,Jackson,NC,1
+2021-01-01,Johnston,NC,1
+2021-01-01,Jones,NC,1
+2021-01-01,Mecklenburg,NC,2
+2021-01-01,Pitt,NC,1
+2021-01-01,Robeson,NC,1
+2021-01-01,Rutherford,NC,1
+2021-01-01,Union,NC,1
+2021-01-01,Wake,NC,2
+2021-01-01,Burleigh,ND,1
+2021-01-01,Kidder,ND,1
+2021-01-01,Ward,ND,1
+2021-01-01,Lancaster,NE,1
+2021-01-01,Cheshire,NH,1
+2021-01-01,Bergen,NJ,5
+2021-01-01,Burlington,NJ,1
+2021-01-01,Camden,NJ,2
+2021-01-01,Essex,NJ,2
+2021-01-01,Hudson,NJ,2
+2021-01-01,Mercer,NJ,4
+2021-01-01,Middlesex,NJ,1
+2021-01-01,Monmouth,NJ,4
+2021-01-01,Ocean,NJ,1
+2021-01-01,Passaic,NJ,2
+2021-01-01,Sussex,NJ,2
+2021-01-01,Bernalillo,NM,2
+2021-01-01,Chaves,NM,1
+2021-01-01,Clark,NV,2
+2021-01-01,Albany,NY,1
+2021-01-01,Bronx,NY,8
+2021-01-01,Dutchess,NY,2
+2021-01-01,Franklin,NY,1
+2021-01-01,Fulton,NY,2
+2021-01-01,Genesee,NY,2
+2021-01-01,Kings,NY,13
+2021-01-01,Madison,NY,1
+2021-01-01,Monroe,NY,2
+2021-01-01,Nassau,NY,1
+2021-01-01,New York,NY,17
+2021-01-01,Onondaga,NY,1
+2021-01-01,Orleans,NY,1
+2021-01-01,Oswego,NY,1
+2021-01-01,Queens,NY,15
+2021-01-01,Rockland,NY,2
+2021-01-01,Suffolk,NY,10
+2021-01-01,Tompkins,NY,1
+2021-01-01,Ulster,NY,18
+2021-01-01,Westchester,NY,1
+2021-01-01,Adams,OH,1
+2021-01-01,Auglaize,OH,1
+2021-01-01,Clark,OH,1
+2021-01-01,Cuyahoga,OH,4
+2021-01-01,Greene,OH,1
+2021-01-01,Hamilton,OH,1
+2021-01-01,Jackson,OH,1
+2021-01-01,Lorain,OH,1
+2021-01-01,Muskingum,OH,1
+2021-01-01,Portage,OH,1
+2021-01-01,Richland,OH,1
+2021-01-01,Scioto,OH,1
+2021-01-01,Summit,OH,3
+2021-01-01,Warren,OH,1
+2021-01-01,Wayne,OH,1
+2021-01-01,Kiowa,OK,1
+2021-01-01,McCurtain,OK,1
+2021-01-01,Oklahoma,OK,1
+2021-01-01,Douglas,OR,1
+2021-01-01,Linn,OR,2
+2021-01-01,Multnomah,OR,3
+2021-01-01,Yamhill,OR,2
+2021-01-01,Chester,PA,1
+2021-01-01,Dauphin,PA,1
+2021-01-01,Delaware,PA,5
+2021-01-01,Lackawanna,PA,1
+2021-01-01,Lehigh,PA,1
+2021-01-01,Montgomery,PA,2
+2021-01-01,Northampton,PA,2
+2021-01-01,Philadelphia,PA,6
+2021-01-01,Venango,PA,1
+2021-01-01,Bristol,RI,2
+2021-01-01,Florence,SC,1
+2021-01-01,Greenville,SC,1
+2021-01-01,Lexington,SC,1
+2021-01-01,Orangeburg,SC,1
+2021-01-01,Richland,SC,2
+2021-01-01,Minnehaha,SD,1
+2021-01-01,Putnam,TN,1
+2021-01-01,Shelby,TN,2
+2021-01-01,Sumner,TN,3
+2021-01-01,Williamson,TN,1
+2021-01-01,Bee,TX,1
+2021-01-01,Bexar,TX,4
+2021-01-01,Brown,TX,1
+2021-01-01,Cameron,TX,2
+2021-01-01,Clay,TX,1
+2021-01-01,Collin,TX,3
+2021-01-01,Comal,TX,1
+2021-01-01,Dallas,TX,4
+2021-01-01,El Paso,TX,1
+2021-01-01,Fannin,TX,1
+2021-01-01,Fort Bend,TX,2
+2021-01-01,Harris,TX,5
+2021-01-01,Hidalgo,TX,9
+2021-01-01,Jefferson,TX,1
+2021-01-01,Lubbock,TX,2
+2021-01-01,McLennan,TX,1
+2021-01-01,Randall,TX,1
+2021-01-01,Starr,TX,1
+2021-01-01,Tarrant,TX,6
+2021-01-01,Travis,TX,1
+2021-01-01,Williamson,TX,2
+2021-01-01,Zapata,TX,1
+2021-01-01,Weber,UT,1
+2021-01-01,Albemarle,VA,1
+2021-01-01,Bland,VA,1
+2021-01-01,Fairfax,VA,2
+2021-01-01,Henrico,VA,1
+2021-01-01,Loudoun,VA,2
+2021-01-01,Mecklenburg,VA,1
+2021-01-01,Montgomery,VA,1
+2021-01-01,Prince William,VA,1
+2021-01-01,Tazewell,VA,1
+2021-01-01,Windsor,VT,1
+2021-01-01,Grays Harbor,WA,1
+2021-01-01,King,WA,2
+2021-01-01,Pierce,WA,1
+2021-01-01,Thurston,WA,1
+2021-01-01,Whatcom,WA,1
+2021-01-01,Yakima,WA,1
+2021-01-01,Barron,WI,1
+2021-01-01,Racine,WI,2
+2021-01-01,Sauk,WI,1
+2021-01-01,St. Croix,WI,2
+2021-01-01,Berkeley,WV,1
+2021-01-01,Cabell,WV,1
+2021-02-01,Fairbanks North Star,AK,1
+2021-02-01,Madison,AL,1
+2021-02-01,Mobile,AL,1
+2021-02-01,Greene,AR,1
+2021-02-01,Sebastian,AR,1
+2021-02-01,Apache,AZ,1
+2021-02-01,Maricopa,AZ,5
+2021-02-01,Pima,AZ,2
+2021-02-01,Pinal,AZ,1
+2021-02-01,Alameda,CA,2
+2021-02-01,Contra Costa,CA,1
+2021-02-01,Fresno,CA,1
+2021-02-01,Kern,CA,1
+2021-02-01,Los Angeles,CA,42
+2021-02-01,Orange,CA,7
+2021-02-01,Riverside,CA,2
+2021-02-01,San Bernardino,CA,4
+2021-02-01,San Diego,CA,33
+2021-02-01,San Francisco,CA,2
+2021-02-01,San Joaquin,CA,1
+2021-02-01,Santa Clara,CA,4
+2021-02-01,Sonoma,CA,1
+2021-02-01,Stanislaus,CA,1
+2021-02-01,Tulare,CA,1
+2021-02-01,Logan,CO,2
+2021-02-01,Mesa,CO,1
+2021-02-01,Fairfield,CT,1
+2021-02-01,New Haven,CT,1
+2021-02-01,Kent,DE,1
+2021-02-01,New Castle,DE,1
+2021-02-01,Broward,FL,2
+2021-02-01,Duval,FL,2
+2021-02-01,Lake,FL,1
+2021-02-01,Miami-Dade,FL,2
+2021-02-01,Monroe,FL,1
+2021-02-01,Palm Beach,FL,1
+2021-02-01,Pinellas,FL,1
+2021-02-01,Polk,FL,1
+2021-02-01,St. Johns,FL,1
+2021-02-01,Volusia,FL,2
+2021-02-01,Walton,FL,1
+2021-02-01,Bibb,GA,1
+2021-02-01,Clayton,GA,2
+2021-02-01,DeKalb,GA,3
+2021-02-01,Fulton,GA,2
+2021-02-01,Grady,GA,1
+2021-02-01,Gwinnett,GA,2
+2021-02-01,Lee,GA,1
+2021-02-01,Mitchell,GA,1
+2021-02-01,Newton,GA,1
+2021-02-01,Terrell,GA,1
+2021-02-01,Honolulu,HI,2
+2021-02-01,Davis,IA,1
+2021-02-01,Lee,IA,1
+2021-02-01,Polk,IA,1
+2021-02-01,Bonneville,ID,1
+2021-02-01,Cook,IL,11
+2021-02-01,Johnson,IN,2
+2021-02-01,Lake,IN,1
+2021-02-01,Madison,IN,1
+2021-02-01,Marion,IN,1
+2021-02-01,Monroe,IN,1
+2021-02-01,Vanderburgh,IN,1
+2021-02-01,Wayne,IN,1
+2021-02-01,Butler,KS,1
+2021-02-01,Boone,KY,1
+2021-02-01,Bullitt,KY,1
+2021-02-01,Carroll,KY,1
+2021-02-01,Daviess,KY,1
+2021-02-01,Grant,KY,1
+2021-02-01,Harrison,KY,1
+2021-02-01,Kenton,KY,4
+2021-02-01,Meade,KY,1
+2021-02-01,Menifee,KY,1
+2021-02-01,Mercer,KY,1
+2021-02-01,Muhlenberg,KY,1
+2021-02-01,Rowan,KY,1
+2021-02-01,Trigg,KY,1
+2021-02-01,East Baton Rouge Parish,LA,1
+2021-02-01,Orleans Parish,LA,2
+2021-02-01,Ouachita Parish,LA,1
+2021-02-01,St. John the Baptist Parish,LA,1
+2021-02-01,St. Tammany Parish,LA,1
+2021-02-01,Middlesex,MA,2
+2021-02-01,Norfolk,MA,3
+2021-02-01,Plymouth,MA,2
+2021-02-01,Suffolk,MA,1
+2021-02-01,Worcester,MA,2
+2021-02-01,Anne Arundel,MD,1
+2021-02-01,Frederick,MD,1
+2021-02-01,Montgomery,MD,1
+2021-02-01,Prince George's,MD,3
+2021-02-01,Wicomico,MD,1
+2021-02-01,Androscoggin,ME,2
+2021-02-01,Alpena,MI,1
+2021-02-01,Macomb,MI,2
+2021-02-01,Mecosta,MI,1
+2021-02-01,Muskegon,MI,1
+2021-02-01,Oakland,MI,1
+2021-02-01,Wayne,MI,3
+2021-02-01,Hennepin,MN,1
+2021-02-01,Ramsey,MN,2
+2021-02-01,Waseca,MN,1
+2021-02-01,Jackson,MO,1
+2021-02-01,Mississippi,MO,1
+2021-02-01,DeSoto,MS,1
+2021-02-01,Jackson,MS,2
+2021-02-01,Missoula,MT,1
+2021-02-01,Durham,NC,1
+2021-02-01,Forsyth,NC,1
+2021-02-01,Richmond,NC,1
+2021-02-01,Rockingham,NC,1
+2021-02-01,Wilson,NC,1
+2021-02-01,Douglas,NE,1
+2021-02-01,Bergen,NJ,4
+2021-02-01,Essex,NJ,2
+2021-02-01,Mercer,NJ,1
+2021-02-01,Middlesex,NJ,1
+2021-02-01,Monmouth,NJ,2
+2021-02-01,Passaic,NJ,1
+2021-02-01,Doña Ana,NM,1
+2021-02-01,Clark,NV,2
+2021-02-01,Bronx,NY,10
+2021-02-01,Dutchess,NY,1
+2021-02-01,Erie,NY,1
+2021-02-01,Kings,NY,9
+2021-02-01,Monroe,NY,1
+2021-02-01,Nassau,NY,3
+2021-02-01,New York,NY,12
+2021-02-01,Queens,NY,4
+2021-02-01,Rensselaer,NY,1
+2021-02-01,Richmond,NY,1
+2021-02-01,Rockland,NY,2
+2021-02-01,Westchester,NY,5
+2021-02-01,Cuyahoga,OH,2
+2021-02-01,Hamilton,OH,4
+2021-02-01,Holmes,OH,1
+2021-02-01,Oklahoma,OK,1
+2021-02-01,Benton,OR,1
+2021-02-01,Washington,OR,1
+2021-02-01,Philadelphia,PA,2
+2021-02-01,Washington,PA,1
+2021-02-01,Providence,RI,1
+2021-02-01,Spartanburg,SC,1
+2021-02-01,Bexar,TX,3
+2021-02-01,Brazoria,TX,1
+2021-02-01,Cameron,TX,1
+2021-02-01,Dallas,TX,3
+2021-02-01,Denton,TX,4
+2021-02-01,Harris,TX,6
+2021-02-01,Hidalgo,TX,2
+2021-02-01,Lubbock,TX,1
+2021-02-01,Nueces,TX,1
+2021-02-01,Tarrant,TX,1
+2021-02-01,Arlington,VA,3
+2021-02-01,Bland,VA,1
+2021-02-01,Carroll,VA,1
+2021-02-01,Fairfax,VA,1
+2021-02-01,Henrico,VA,1
+2021-02-01,Northampton,VA,1
+2021-02-01,King,WA,4
+2021-02-01,Kitsap,WA,1
+2021-02-01,Pierce,WA,1
+2021-02-01,Columbia,WI,1
+2021-02-01,St. Croix,WI,1
+2021-02-01,Cabell,WV,1
+2021-03-01,Coffee,AL,1
+2021-03-01,Colbert,AL,1
+2021-03-01,Etowah,AL,1
+2021-03-01,Madison,AL,1
+2021-03-01,Mobile,AL,1
+2021-03-01,Montgomery,AL,2
+2021-03-01,Perry,AL,1
+2021-03-01,Walker,AL,2
+2021-03-01,Greene,AR,1
+2021-03-01,Pulaski,AR,1
+2021-03-01,Sebastian,AR,1
+2021-03-01,Apache,AZ,1
+2021-03-01,Coconino,AZ,1
+2021-03-01,Maricopa,AZ,12
+2021-03-01,Mohave,AZ,2
+2021-03-01,Pima,AZ,4
+2021-03-01,Yavapai,AZ,1
+2021-03-01,Alameda,CA,2
+2021-03-01,Contra Costa,CA,5
+2021-03-01,Imperial,CA,3
+2021-03-01,Kern,CA,2
+2021-03-01,Kings,CA,1
+2021-03-01,Los Angeles,CA,65
+2021-03-01,Marin,CA,1
+2021-03-01,Merced,CA,1
+2021-03-01,Monterey,CA,1
+2021-03-01,Orange,CA,10
+2021-03-01,Riverside,CA,3
+2021-03-01,Sacramento,CA,3
+2021-03-01,San Bernardino,CA,5
+2021-03-01,San Diego,CA,44
+2021-03-01,San Francisco,CA,9
+2021-03-01,San Joaquin,CA,3
+2021-03-01,San Luis Obispo,CA,1
+2021-03-01,San Mateo,CA,3
+2021-03-01,Santa Clara,CA,7
+2021-03-01,Sonoma,CA,1
+2021-03-01,Ventura,CA,3
+2021-03-01,Alamosa,CO,1
+2021-03-01,Arapahoe,CO,2
+2021-03-01,Boulder,CO,1
+2021-03-01,Denver,CO,1
+2021-03-01,El Paso,CO,1
+2021-03-01,Mesa,CO,1
+2021-03-01,Ouray,CO,1
+2021-03-01,Fairfield,CT,6
+2021-03-01,Hartford,CT,1
+2021-03-01,New Haven,CT,4
+2021-03-01,Tolland,CT,1
+2021-03-01,Kent,DE,1
+2021-03-01,New Castle,DE,1
+2021-03-01,Sussex,DE,2
+2021-03-01,Brevard,FL,2
+2021-03-01,Broward,FL,5
+2021-03-01,Charlotte,FL,2
+2021-03-01,Duval,FL,1
+2021-03-01,Hernando,FL,1
+2021-03-01,Hillsborough,FL,2
+2021-03-01,Lake,FL,6
+2021-03-01,Lee,FL,1
+2021-03-01,Miami-Dade,FL,3
+2021-03-01,Osceola,FL,1
+2021-03-01,Palm Beach,FL,5
+2021-03-01,Pasco,FL,2
+2021-03-01,Volusia,FL,3
+2021-03-01,Appling,GA,1
+2021-03-01,Bibb,GA,1
+2021-03-01,Chatham,GA,2
+2021-03-01,Clarke,GA,1
+2021-03-01,Clayton,GA,2
+2021-03-01,Coweta,GA,1
+2021-03-01,Fannin,GA,1
+2021-03-01,Fayette,GA,1
+2021-03-01,Fulton,GA,5
+2021-03-01,Grady,GA,1
+2021-03-01,Gwinnett,GA,8
+2021-03-01,Hall,GA,1
+2021-03-01,Laurens,GA,2
+2021-03-01,Liberty,GA,1
+2021-03-01,Mitchell,GA,1
+2021-03-01,New York,GA,5
+2021-03-01,Richmond,GA,1
+2021-03-01,Honolulu,HI,4
+2021-03-01,Kossuth,IA,1
+2021-03-01,Madison,IA,1
+2021-03-01,Nez Perce,ID,1
+2021-03-01,Cook,IL,25
+2021-03-01,DuPage,IL,1
+2021-03-01,Kankakee,IL,1
+2021-03-01,Kendall,IL,1
+2021-03-01,Sangamon,IL,1
+2021-03-01,Vermilion,IL,2
+2021-03-01,Williamson,IL,1
+2021-03-01,Madison,IN,1
+2021-03-01,Marion,IN,6
+2021-03-01,Monroe,IN,1
+2021-03-01,Porter,IN,1
+2021-03-01,Vanderburgh,IN,1
+2021-03-01,Butler,KS,1
+2021-03-01,Johnson,KS,1
+2021-03-01,Leavenworth,KS,1
+2021-03-01,Sedgwick,KS,1
+2021-03-01,Boone,KY,1
+2021-03-01,Boyle,KY,1
+2021-03-01,Breckinridge,KY,1
+2021-03-01,Bullitt,KY,1
+2021-03-01,Carroll,KY,1
+2021-03-01,Fayette,KY,1
+2021-03-01,Fleming,KY,1
+2021-03-01,Harrison,KY,1
+2021-03-01,Jefferson,KY,2
+2021-03-01,Kenton,KY,4
+2021-03-01,Avoyelles Parish,LA,1
+2021-03-01,Caddo Parish,LA,1
+2021-03-01,East Baton Rouge Parish,LA,3
+2021-03-01,Orleans Parish,LA,1
+2021-03-01,Ouachita Parish,LA,1
+2021-03-01,St. Bernard Parish,LA,1
+2021-03-01,St. John the Baptist Parish,LA,1
+2021-03-01,St. Mary Parish,LA,1
+2021-03-01,St. Tammany Parish,LA,2
+2021-03-01,Union Parish,LA,1
+2021-03-01,Barnstable,MA,1
+2021-03-01,Essex,MA,4
+2021-03-01,Hampden,MA,2
+2021-03-01,Hampshire,MA,1
+2021-03-01,Middlesex,MA,13
+2021-03-01,Norfolk,MA,3
+2021-03-01,Plymouth,MA,1
+2021-03-01,Suffolk,MA,1
+2021-03-01,Worcester,MA,3
+2021-03-01,Anne Arundel,MD,1
+2021-03-01,Baltimore,MD,4
+2021-03-01,Harford,MD,1
+2021-03-01,Howard,MD,1
+2021-03-01,Montgomery,MD,5
+2021-03-01,Prince George's,MD,3
+2021-03-01,Androscoggin,ME,1
+2021-03-01,Cumberland,ME,2
+2021-03-01,Hancock,ME,1
+2021-03-01,Berrien,MI,2
+2021-03-01,Calhoun,MI,1
+2021-03-01,Kalamazoo,MI,1
+2021-03-01,Kent,MI,1
+2021-03-01,Livingston,MI,1
+2021-03-01,Macomb,MI,3
+2021-03-01,Marquette,MI,1
+2021-03-01,Muskegon,MI,1
+2021-03-01,Oakland,MI,2
+2021-03-01,Washtenaw,MI,1
+2021-03-01,Wayne,MI,7
+2021-03-01,Hennepin,MN,2
+2021-03-01,McLeod,MN,1
+2021-03-01,Meeker,MN,1
+2021-03-01,Olmsted,MN,2
+2021-03-01,Ramsey,MN,1
+2021-03-01,Yellow Medicine,MN,1
+2021-03-01,Daviess,MO,1
+2021-03-01,Howell,MO,1
+2021-03-01,Jackson,MO,2
+2021-03-01,Jefferson,MO,1
+2021-03-01,Lafayette,MO,1
+2021-03-01,Pettis,MO,1
+2021-03-01,St. Francois,MO,1
+2021-03-01,St. Louis,MO,2
+2021-03-01,Attala,MS,1
+2021-03-01,Hinds,MS,2
+2021-03-01,Leflore,MS,1
+2021-03-01,Rankin,MS,1
+2021-03-01,Tunica,MS,1
+2021-03-01,Cascade,MT,1
+2021-03-01,Dawson,MT,1
+2021-03-01,Gallatin,MT,1
+2021-03-01,Jefferson,MT,2
+2021-03-01,Alamance,NC,1
+2021-03-01,Bladen,NC,1
+2021-03-01,Buncombe,NC,1
+2021-03-01,Carteret,NC,1
+2021-03-01,Cumberland,NC,2
+2021-03-01,Durham,NC,3
+2021-03-01,Jackson,NC,1
+2021-03-01,Jones,NC,1
+2021-03-01,Lenoir,NC,1
+2021-03-01,Mecklenburg,NC,3
+2021-03-01,Mitchell,NC,1
+2021-03-01,Pitt,NC,1
+2021-03-01,Randolph,NC,2
+2021-03-01,Robeson,NC,1
+2021-03-01,Sampson,NC,1
+2021-03-01,Stanly,NC,1
+2021-03-01,Vance,NC,1
+2021-03-01,Wake,NC,1
+2021-03-01,Wilson,NC,1
+2021-03-01,Ward,ND,1
+2021-03-01,Cass,NE,1
+2021-03-01,Douglas,NE,2
+2021-03-01,Lancaster,NE,1
+2021-03-01,Pierce,NE,1
+2021-03-01,Cheshire,NH,1
+2021-03-01,Hillsborough,NH,1
+2021-03-01,Bergen,NJ,2
+2021-03-01,Camden,NJ,5
+2021-03-01,Essex,NJ,2
+2021-03-01,Middlesex,NJ,3
+2021-03-01,Monmouth,NJ,1
+2021-03-01,Morris,NJ,2
+2021-03-01,Passaic,NJ,1
+2021-03-01,Somerset,NJ,2
+2021-03-01,Union,NJ,1
+2021-03-01,Bernalillo,NM,1
+2021-03-01,Doña Ana,NM,1
+2021-03-01,Clark,NV,2
+2021-03-01,Bronx,NY,11
+2021-03-01,Broome,NY,1
+2021-03-01,Erie,NY,1
+2021-03-01,Essex,NY,1
+2021-03-01,Franklin,NY,1
+2021-03-01,Fulton,NY,1
+2021-03-01,Kings,NY,7
+2021-03-01,Madison,NY,1
+2021-03-01,Nassau,NY,3
+2021-03-01,New York,NY,9
+2021-03-01,Orange,NY,1
+2021-03-01,Polk,NY,1
+2021-03-01,Queens,NY,9
+2021-03-01,Rensselaer,NY,1
+2021-03-01,Rockland,NY,3
+2021-03-01,Schenectady,NY,1
+2021-03-01,Suffolk,NY,4
+2021-03-01,Ulster,NY,1
+2021-03-01,Auglaize,OH,1
+2021-03-01,Cuyahoga,OH,4
+2021-03-01,Franklin,OH,1
+2021-03-01,Geauga,OH,1
+2021-03-01,Greene,OH,1
+2021-03-01,Hamilton,OH,2
+2021-03-01,Knox,OH,1
+2021-03-01,Lorain,OH,1
+2021-03-01,Mahoning,OH,1
+2021-03-01,Scioto,OH,2
+2021-03-01,Warren,OH,1
+2021-03-01,Wayne,OH,1
+2021-03-01,Adair,OK,1
+2021-03-01,Blaine,OK,1
+2021-03-01,McCurtain,OK,1
+2021-03-01,Tulsa,OK,1
+2021-03-01,Wagoner,OK,1
+2021-03-01,Toronto Division,ONTARIO,1
+2021-03-01,Clackamas,OR,1
+2021-03-01,Deschutes,OR,1
+2021-03-01,Jackson,OR,2
+2021-03-01,Multnomah,OR,3
+2021-03-01,Polk,OR,1
+2021-03-01,Washington,OR,3
+2021-03-01,Yamhill,OR,1
+2021-03-01,Allegheny,PA,2
+2021-03-01,Berks,PA,1
+2021-03-01,Butler,PA,1
+2021-03-01,Centre,PA,1
+2021-03-01,Chester,PA,2
+2021-03-01,Clarion,PA,1
+2021-03-01,Delaware,PA,5
+2021-03-01,Franklin,PA,1
+2021-03-01,Lancaster,PA,1
+2021-03-01,Lycoming,PA,1
+2021-03-01,Montgomery,PA,4
+2021-03-01,Philadelphia,PA,6
+2021-03-01,Potter,PA,1
+2021-03-01,York,PA,1
+2021-03-01,Pueblo,PR,1
+2021-03-01,Providence,RI,3
+2021-03-01,Dorchester,SC,1
+2021-03-01,Richland,SC,1
+2021-03-01,Sumter,SC,1
+2021-03-01,York,SC,1
+2021-03-01,Todd,SD,1
+2021-03-01,Yankton,SD,1
+2021-03-01,Anderson,TN,1
+2021-03-01,Hamilton,TN,1
+2021-03-01,Knox,TN,1
+2021-03-01,Austin,TX,1
+2021-03-01,Bexar,TX,2
+2021-03-01,Brazos,TX,1
+2021-03-01,Collin,TX,4
+2021-03-01,Concho,TX,1
+2021-03-01,Dallas,TX,4
+2021-03-01,Denton,TX,3
+2021-03-01,El Paso,TX,1
+2021-03-01,Fannin,TX,1
+2021-03-01,Fort Bend,TX,1
+2021-03-01,Gonzales,TX,1
+2021-03-01,Grayson,TX,2
+2021-03-01,Harris,TX,12
+2021-03-01,Harrison,TX,1
+2021-03-01,Hays,TX,1
+2021-03-01,Hidalgo,TX,7
+2021-03-01,Hunt,TX,1
+2021-03-01,Jefferson,TX,1
+2021-03-01,Kaufman,TX,2
+2021-03-01,Lamar,TX,1
+2021-03-01,Montgomery,TX,2
+2021-03-01,San Patricio,TX,1
+2021-03-01,Tarrant,TX,1
+2021-03-01,Webb,TX,1
+2021-03-01,Zavala,TX,1
+2021-03-01,Weber,UT,1
+2021-03-01,Arlington,VA,2
+2021-03-01,Bland,VA,1
+2021-03-01,Carroll,VA,1
+2021-03-01,Clarke,VA,1
+2021-03-01,Fairfax,VA,3
+2021-03-01,Loudoun,VA,1
+2021-03-01,Mecklenburg,VA,3
+2021-03-01,Northampton,VA,1
+2021-03-01,Rockingham,VA,1
+2021-03-01,Chittenden,VT,3
+2021-03-01,Clark,WA,1
+2021-03-01,King,WA,2
+2021-03-01,Pierce,WA,1
+2021-03-01,Snohomish,WA,2
+2021-03-01,Spokane,WA,1
+2021-03-01,Whatcom,WA,1
+2021-03-01,Yakima,WA,1
+2021-03-01,St. Croix,WI,1
+2021-03-01,Washington,WI,1
+2021-03-01,Cabell,WV,1
+2021-03-01,Gilmer,WV,1
+2021-03-01,Monongalia,WV,1
+2021-04-01,Colbert,AL,1
+2021-04-01,Etowah,AL,1
+2021-04-01,Jefferson,AL,2
+2021-04-01,Lamar,AL,1
+2021-04-01,Walker,AL,1
+2021-04-01,Apache,AZ,2
+2021-04-01,Cochise,AZ,1
+2021-04-01,Coconino,AZ,1
+2021-04-01,Maricopa,AZ,8
+2021-04-01,Mohave,AZ,3
+2021-04-01,Pima,AZ,2
+2021-04-01,Santa Cruz,AZ,1
+2021-04-01,Alameda,CA,2
+2021-04-01,Contra Costa,CA,6
+2021-04-01,El Dorado,CA,2
+2021-04-01,Fresno,CA,1
+2021-04-01,Kern,CA,2
+2021-04-01,Los Angeles,CA,53
+2021-04-01,Monterey,CA,1
+2021-04-01,Orange,CA,11
+2021-04-01,Riverside,CA,4
+2021-04-01,San Bernardino,CA,6
+2021-04-01,San Diego,CA,42
+2021-04-01,San Francisco,CA,6
+2021-04-01,San Mateo,CA,4
+2021-04-01,Santa Barbara,CA,1
+2021-04-01,Santa Clara,CA,8
+2021-04-01,Shasta,CA,1
+2021-04-01,Solano,CA,1
+2021-04-01,Sonoma,CA,1
+2021-04-01,Sutter,CA,1
+2021-04-01,Tulare,CA,1
+2021-04-01,Ventura,CA,1
+2021-04-01,Alamosa,CO,1
+2021-04-01,Arapahoe,CO,1
+2021-04-01,Denver,CO,2
+2021-04-01,El Paso,CO,2
+2021-04-01,Jefferson,CO,1
+2021-04-01,Mesa,CO,1
+2021-04-01,Ouray,CO,1
+2021-04-01,New Haven,CT,4
+2021-04-01,Windham,CT,1
+2021-04-01,New Castle,DE,2
+2021-04-01,Alachua,FL,1
+2021-04-01,Brevard,FL,2
+2021-04-01,Broward,FL,6
+2021-04-01,Charlotte,FL,1
+2021-04-01,Collier,FL,1
+2021-04-01,Duval,FL,3
+2021-04-01,Hillsborough,FL,2
+2021-04-01,Lake,FL,3
+2021-04-01,Lee,FL,2
+2021-04-01,Miami-Dade,FL,4
+2021-04-01,Monroe,FL,1
+2021-04-01,Orange,FL,2
+2021-04-01,Palm Beach,FL,3
+2021-04-01,Pinellas,FL,3
+2021-04-01,Polk,FL,1
+2021-04-01,Walton,FL,1
+2021-04-01,Barrow,GA,1
+2021-04-01,Bibb,GA,2
+2021-04-01,Chatham,GA,1
+2021-04-01,Clarke,GA,1
+2021-04-01,Clayton,GA,1
+2021-04-01,Cobb,GA,1
+2021-04-01,Coweta,GA,1
+2021-04-01,DeKalb,GA,2
+2021-04-01,Fayette,GA,1
+2021-04-01,Fulton,GA,3
+2021-04-01,Grady,GA,1
+2021-04-01,Gwinnett,GA,4
+2021-04-01,Haralson,GA,1
+2021-04-01,Henry,GA,2
+2021-04-01,Irwin,GA,1
+2021-04-01,Lee,GA,1
+2021-04-01,Mitchell,GA,1
+2021-04-01,Muscogee,GA,1
+2021-04-01,Richmond,GA,2
+2021-04-01,Terrell,GA,1
+2021-04-01,Troup,GA,1
+2021-04-01,Wayne,GA,1
+2021-04-01,Honolulu,HI,2
+2021-04-01,New York,HI,1
+2021-04-01,Oklahoma,HI,1
+2021-04-01,Hancock,IA,1
+2021-04-01,Kossuth,IA,1
+2021-04-01,Louisa,IA,1
+2021-04-01,Polk,IA,3
+2021-04-01,Ada,ID,1
+2021-04-01,Cook,IL,12
+2021-04-01,DuPage,IL,1
+2021-04-01,LaSalle,IL,1
+2021-04-01,Lake,IL,3
+2021-04-01,Rock Island,IL,1
+2021-04-01,St. Clair,IL,1
+2021-04-01,Williamson,IL,1
+2021-04-01,Allen,IN,1
+2021-04-01,Bartholomew,IN,2
+2021-04-01,Floyd,IN,1
+2021-04-01,Madison,IN,1
+2021-04-01,Marion,IN,2
+2021-04-01,Johnson,KS,1
+2021-04-01,Adair,KY,1
+2021-04-01,Boyle,KY,1
+2021-04-01,Breckinridge,KY,3
+2021-04-01,Bullitt,KY,1
+2021-04-01,Grant,KY,1
+2021-04-01,Kenton,KY,1
+2021-04-01,Trigg,KY,1
+2021-04-01,Caddo Parish,LA,1
+2021-04-01,East Baton Rouge Parish,LA,2
+2021-04-01,East Feliciana Parish,LA,1
+2021-04-01,Jefferson Parish,LA,1
+2021-04-01,Orleans Parish,LA,3
+2021-04-01,Ouachita Parish,LA,1
+2021-04-01,St. John the Baptist Parish,LA,1
+2021-04-01,Barnstable,MA,1
+2021-04-01,Bristol,MA,1
+2021-04-01,Essex,MA,6
+2021-04-01,Hampden,MA,2
+2021-04-01,Middlesex,MA,1
+2021-04-01,Norfolk,MA,1
+2021-04-01,Worcester,MA,5
+2021-04-01,Baltimore,MD,5
+2021-04-01,Frederick,MD,1
+2021-04-01,Harford,MD,4
+2021-04-01,Howard,MD,1
+2021-04-01,Montgomery,MD,1
+2021-04-01,Prince George's,MD,5
+2021-04-01,Cumberland,ME,1
+2021-04-01,Hancock,ME,1
+2021-04-01,Baraga,MI,1
+2021-04-01,Clare,MI,1
+2021-04-01,Grand Traverse,MI,1
+2021-04-01,Ingham,MI,1
+2021-04-01,Kent,MI,2
+2021-04-01,Livingston,MI,2
+2021-04-01,Macomb,MI,6
+2021-04-01,Marquette,MI,1
+2021-04-01,Muskegon,MI,2
+2021-04-01,Newaygo,MI,1
+2021-04-01,Oakland,MI,3
+2021-04-01,Ottawa,MI,1
+2021-04-01,Washtenaw,MI,1
+2021-04-01,Wayne,MI,2
+2021-04-01,Crow Wing,MN,1
+2021-04-01,Dakota,MN,1
+2021-04-01,Hennepin,MN,2
+2021-04-01,Ramsey,MN,1
+2021-04-01,Yellow Medicine,MN,1
+2021-04-01,Daviess,MO,1
+2021-04-01,Henry,MO,1
+2021-04-01,Perry,MO,1
+2021-04-01,St. Francois,MO,1
+2021-04-01,St. Louis,MO,1
+2021-04-01,Attala,MS,1
+2021-04-01,Chickasaw,MS,1
+2021-04-01,Hinds,MS,3
+2021-04-01,Jackson,MS,1
+2021-04-01,Leflore,MS,1
+2021-04-01,Noxubee,MS,1
+2021-04-01,Sunflower,MS,1
+2021-04-01,Tunica,MS,1
+2021-04-01,Bladen,NC,1
+2021-04-01,Buncombe,NC,1
+2021-04-01,Cumberland,NC,2
+2021-04-01,Dare,NC,1
+2021-04-01,Gaston,NC,2
+2021-04-01,Guilford,NC,1
+2021-04-01,Henderson,NC,1
+2021-04-01,Mecklenburg,NC,1
+2021-04-01,Randolph,NC,1
+2021-04-01,Rutherford,NC,1
+2021-04-01,Sampson,NC,1
+2021-04-01,Vance,NC,2
+2021-04-01,Wake,NC,2
+2021-04-01,Burleigh,ND,1
+2021-04-01,Ward,ND,1
+2021-04-01,Douglas,NE,3
+2021-04-01,Washington,NE,1
+2021-04-01,Atlantic,NJ,1
+2021-04-01,Bergen,NJ,5
+2021-04-01,Camden,NJ,2
+2021-04-01,Essex,NJ,1
+2021-04-01,Gloucester,NJ,1
+2021-04-01,Mercer,NJ,2
+2021-04-01,Middlesex,NJ,1
+2021-04-01,Monmouth,NJ,1
+2021-04-01,Passaic,NJ,2
+2021-04-01,Salem,NJ,1
+2021-04-01,Sussex,NJ,1
+2021-04-01,Union,NJ,2
+2021-04-01,Warren,NJ,1
+2021-04-01,Chaves,NM,1
+2021-04-01,McKinley,NM,1
+2021-04-01,Sandoval,NM,1
+2021-04-01,Bronx,NY,11
+2021-04-01,Broome,NY,1
+2021-04-01,Erie,NY,1
+2021-04-01,Kings,NY,6
+2021-04-01,Montgomery,NY,2
+2021-04-01,Nassau,NY,3
+2021-04-01,New York,NY,11
+2021-04-01,Ontario,NY,1
+2021-04-01,Orange,NY,1
+2021-04-01,Queens,NY,6
+2021-04-01,Rensselaer,NY,1
+2021-04-01,Richmond,NY,1
+2021-04-01,Suffolk,NY,3
+2021-04-01,Sullivan,NY,1
+2021-04-01,Ulster,NY,1
+2021-04-01,Westchester,NY,1
+2021-04-01,Auglaize,OH,2
+2021-04-01,Clark,OH,1
+2021-04-01,Cuyahoga,OH,3
+2021-04-01,Franklin,OH,3
+2021-04-01,Hamilton,OH,3
+2021-04-01,Holmes,OH,1
+2021-04-01,Huron,OH,1
+2021-04-01,Lucas,OH,1
+2021-04-01,Mahoning,OH,1
+2021-04-01,Scioto,OH,1
+2021-04-01,Seneca,OH,1
+2021-04-01,Summit,OH,2
+2021-04-01,Wayne,OH,1
+2021-04-01,Adair,OK,1
+2021-04-01,McCurtain,OK,1
+2021-04-01,Tulsa,OK,2
+2021-04-01,Wagoner,OK,1
+2021-04-01,Toronto Division,ONTARIO,1
+2021-04-01,Clackamas,OR,3
+2021-04-01,Linn,OR,1
+2021-04-01,Multnomah,OR,2
+2021-04-01,Polk,OR,1
+2021-04-01,Washington,OR,4
+2021-04-01,Allegheny,PA,1
+2021-04-01,Cambria,PA,1
+2021-04-01,Dauphin,PA,1
+2021-04-01,Delaware,PA,2
+2021-04-01,Erie,PA,2
+2021-04-01,Franklin,PA,1
+2021-04-01,Lackawanna,PA,2
+2021-04-01,Lebanon,PA,1
+2021-04-01,Lycoming,PA,1
+2021-04-01,Montgomery,PA,4
+2021-04-01,Philadelphia,PA,4
+2021-04-01,Potter,PA,1
+2021-04-01,Venango,PA,1
+2021-04-01,York,PA,2
+2021-04-01,Providence,RI,2
+2021-04-01,Greenville,SC,1
+2021-04-01,Lancaster,SC,1
+2021-04-01,Spartanburg,SC,1
+2021-04-01,Sumter,SC,1
+2021-04-01,York,SC,1
+2021-04-01,Minnehaha,SD,1
+2021-04-01,Blount,TN,1
+2021-04-01,Bradley,TN,2
+2021-04-01,Rutherford,TN,1
+2021-04-01,Shelby,TN,1
+2021-04-01,Sumner,TN,1
+2021-04-01,Bexar,TX,2
+2021-04-01,Cameron,TX,4
+2021-04-01,Collin,TX,3
+2021-04-01,Comal,TX,1
+2021-04-01,Dallas,TX,3
+2021-04-01,Denton,TX,4
+2021-04-01,Fort Bend,TX,2
+2021-04-01,Gregg,TX,1
+2021-04-01,Harris,TX,9
+2021-04-01,Hays,TX,1
+2021-04-01,Hidalgo,TX,6
+2021-04-01,Hunt,TX,1
+2021-04-01,Jefferson,TX,1
+2021-04-01,Lubbock,TX,1
+2021-04-01,McLennan,TX,1
+2021-04-01,Montgomery,TX,3
+2021-04-01,Rusk,TX,2
+2021-04-01,Starr,TX,1
+2021-04-01,Tarrant,TX,5
+2021-04-01,Webb,TX,1
+2021-04-01,Wichita,TX,1
+2021-04-01,Williamson,TX,2
+2021-04-01,Zavala,TX,1
+2021-04-01,Summit,UT,1
+2021-04-01,Albemarle,VA,1
+2021-04-01,Carroll,VA,1
+2021-04-01,Chesterfield,VA,1
+2021-04-01,Clarke,VA,1
+2021-04-01,Fairfax,VA,5
+2021-04-01,Henrico,VA,1
+2021-04-01,Loudoun,VA,3
+2021-04-01,Rutland,VT,1
+2021-04-01,Windham,VT,2
+2021-04-01,Windsor,VT,1
+2021-04-01,Grays Harbor,WA,1
+2021-04-01,King,WA,4
+2021-04-01,Pierce,WA,2
+2021-04-01,Barron,WI,1
+2021-04-01,St. Croix,WI,1
+2021-04-01,Washington,WI,1
+2021-04-01,Berkeley,WV,1
+2021-04-01,Mineral,WV,1
