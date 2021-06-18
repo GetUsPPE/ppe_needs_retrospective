@@ -1,317 +1,317 @@
 name,time,num_requests,total_requests,requests_normalized
-3-Ply Masks,2021-01-01,76,852,8.90%
-3-Ply Masks,2021-02-01,160,405,39.50%
-3-Ply Masks,2021-03-01,342,805,42.50%
-3-Ply Masks,2021-04-01,441,1009,43.70%
-3-Ply Masks,2021-05-01,210,497,42.30%
-3-Ply Masks,2021-06-01,120,264,45.50%
-Body Bags,2020-05-01,36,2584,1.40%
-Body Bags,2020-06-01,78,3345,2.30%
-Body Bags,2020-07-01,15,806,1.90%
-Body Bags,2020-08-01,11,392,3%
-Body Bags,2020-09-01,6,242,3%
-Body Bags,2020-10-01,6,261,2%
-Body Bags,2020-11-01,8,350,2.30%
-Body Bags,2020-12-01,12,574,2%
-Body Bags,2021-01-01,31,852,3.60%
-Body Bags,2021-02-01,17,405,4.20%
-Body Bags,2021-03-01,25,805,3.10%
-Body Bags,2021-04-01,31,1009,3.10%
-Body Bags,2021-05-01,11,497,2.20%
-Body Bags,2021-06-01,7,264,2.70%
-Clear / Visually Accessible Masks,2020-11-01,59,350,16.90%
-Clear / Visually Accessible Masks,2020-12-01,166,574,28.90%
-Clear / Visually Accessible Masks,2021-01-01,194,852,22.80%
-Clear / Visually Accessible Masks,2021-02-01,97,405,24.00%
-Clear / Visually Accessible Masks,2021-03-01,202,805,25.10%
-Clear / Visually Accessible Masks,2021-04-01,228,1009,22.60%
-Clear / Visually Accessible Masks,2021-05-01,96,497,19.30%
-Clear / Visually Accessible Masks,2021-06-01,44,264,16.70%
-Cloth Masks,2020-04-01,2218,6857,32.30%
-Cloth Masks,2020-05-01,480,2584,18.60%
-Cloth Masks,2020-06-01,641,3345,19%
-Cloth Masks,2020-07-01,189,806,23.40%
-Cloth Masks,2020-08-01,123,392,31.40%
-Cloth Masks,2020-09-01,71,242,29.30%
-Cloth Masks,2020-10-01,64,261,24.50%
-Cloth Masks,2020-11-01,104,350,29.70%
-Cloth Masks,2020-12-01,195,574,34.00%
-Cloth Masks,2021-01-01,222,852,26.10%
-Cloth Masks,2021-02-01,105,405,25.90%
-Cloth Masks,2021-03-01,223,805,27.70%
-Cloth Masks,2021-04-01,294,1009,29%
-Cloth Masks,2021-05-01,135,497,27.20%
-Cloth Masks,2021-06-01,68,264,26%
-Coveralls / Bunny Suits,2020-04-01,9,6857,0.10%
-Coveralls / Bunny Suits,2020-05-01,205,2584,7.90%
-Coveralls / Bunny Suits,2020-06-01,387,3345,11.60%
-Coveralls / Bunny Suits,2020-07-01,63,806,7.80%
-Coveralls / Bunny Suits,2020-08-01,64,392,16.30%
-Coveralls / Bunny Suits,2020-09-01,36,242,14.90%
-Coveralls / Bunny Suits,2020-10-01,34,261,13%
-Coveralls / Bunny Suits,2020-11-01,63,350,18.00%
-Coveralls / Bunny Suits,2020-12-01,93,574,16.20%
-Coveralls / Bunny Suits,2021-01-01,175,852,20.50%
-Coveralls / Bunny Suits,2021-02-01,63,405,15.60%
-Coveralls / Bunny Suits,2021-03-01,104,805,12.90%
-Coveralls / Bunny Suits,2021-04-01,121,1009,12.00%
-Coveralls / Bunny Suits,2021-05-01,56,497,11.30%
-Coveralls / Bunny Suits,2021-06-01,26,264,9.80%
-Disinfecting Wipes,2020-04-01,3326,6857,48.50%
-Disinfecting Wipes,2020-05-01,844,2584,32.70%
-Disinfecting Wipes,2020-06-01,1347,3345,40.30%
-Disinfecting Wipes,2020-07-01,341,806,42.30%
-Disinfecting Wipes,2020-08-01,234,392,59.70%
-Disinfecting Wipes,2020-09-01,146,242,60%
-Disinfecting Wipes,2020-10-01,152,261,58.20%
-Disinfecting Wipes,2020-11-01,247,350,70.60%
-Disinfecting Wipes,2020-12-01,439,574,76.50%
-Disinfecting Wipes,2021-01-01,589,852,69.10%
-Disinfecting Wipes,2021-02-01,272,405,67%
-Disinfecting Wipes,2021-03-01,608,805,75.50%
-Disinfecting Wipes,2021-04-01,748,1009,74.10%
-Disinfecting Wipes,2021-05-01,367,497,73.80%
-Disinfecting Wipes,2021-06-01,195,264,73.90%
-Disposable Booties,2020-04-01,633,6857,9.20%
-Disposable Booties,2020-05-01,268,2584,10.40%
-Disposable Booties,2020-06-01,571,3345,17.10%
-Disposable Booties,2020-07-01,107,806,13.30%
-Disposable Booties,2020-08-01,81,392,20.70%
-Disposable Booties,2020-09-01,39,242,16.10%
-Disposable Booties,2020-10-01,44,261,16.90%
-Disposable Booties,2020-11-01,74,350,21.10%
-Disposable Booties,2020-12-01,151,574,26.30%
-Disposable Booties,2021-01-01,254,852,29.80%
-Disposable Booties,2021-02-01,101,405,24.90%
-Disposable Booties,2021-03-01,164,805,20.40%
-Disposable Booties,2021-04-01,218,1009,22%
-Disposable Booties,2021-05-01,122,497,24.50%
-Disposable Booties,2021-06-01,56,264,21%
-Ear Savers,2020-11-01,48,350,13.70%
-Ear Savers,2020-12-01,155,574,27.00%
-Ear Savers,2021-01-01,197,852,23.10%
-Ear Savers,2021-02-01,79,405,19.50%
-Ear Savers,2021-03-01,172,805,21.40%
-Ear Savers,2021-04-01,209,1009,20.70%
-Ear Savers,2021-05-01,94,497,18.90%
-Ear Savers,2021-06-01,45,264,17.00%
-Face Shields,2020-04-01,3270,6857,47.70%
-Face Shields,2020-05-01,995,2584,38.50%
-Face Shields,2020-06-01,1283,3345,38.40%
-Face Shields,2020-07-01,347,806,43.10%
-Face Shields,2020-08-01,184,392,46.90%
-Face Shields,2020-09-01,126,242,52.10%
-Face Shields,2020-10-01,111,261,42.50%
-Face Shields,2020-11-01,175,350,50%
-Face Shields,2020-12-01,322,574,56.10%
-Face Shields,2021-01-01,456,852,54%
-Face Shields,2021-02-01,194,405,48%
-Face Shields,2021-03-01,336,805,41.70%
-Face Shields,2021-04-01,396,1009,39.20%
-Face Shields,2021-05-01,160,497,32%
-Face Shields,2021-06-01,65,264,24.60%
-Gowns,2020-04-01,3296,6857,48.10%
-Gowns,2020-05-01,740,2584,28.60%
-Gowns,2020-06-01,1318,3345,39.40%
-Gowns,2020-07-01,180,806,22.30%
-Gowns,2020-08-01,133,392,33.90%
-Gowns,2020-09-01,82,242,33.90%
-Gowns,2020-10-01,99,261,37.90%
-Gowns,2020-11-01,126,350,36.00%
-Gowns,2020-12-01,258,574,44.90%
-Gowns,2021-01-01,460,852,54.00%
-Gowns,2021-02-01,149,405,36.80%
-Gowns,2021-03-01,281,805,34.90%
-Gowns,2021-04-01,340,1009,33.70%
-Gowns,2021-05-01,157,497,32%
-Gowns,2021-06-01,65,264,24.60%
-Hand Sanitizer,2020-04-01,631,6857,9.20%
-Hand Sanitizer,2020-05-01,587,2584,22.70%
-Hand Sanitizer,2020-06-01,1153,3345,34.50%
-Hand Sanitizer,2020-07-01,273,806,34%
-Hand Sanitizer,2020-08-01,199,392,50.80%
-Hand Sanitizer,2020-09-01,113,242,46.70%
-Hand Sanitizer,2020-10-01,111,261,42.50%
-Hand Sanitizer,2020-11-01,207,350,59%
-Hand Sanitizer,2020-12-01,341,574,59%
-Hand Sanitizer,2021-01-01,523,852,61.40%
-Hand Sanitizer,2021-02-01,255,405,63.00%
-Hand Sanitizer,2021-03-01,502,805,62.40%
-Hand Sanitizer,2021-04-01,681,1009,67.50%
-Hand Sanitizer,2021-05-01,322,497,64.80%
-Hand Sanitizer,2021-06-01,166,264,62.90%
-Handwashing Stations,2020-11-01,37,350,10.60%
-Handwashing Stations,2020-12-01,107,574,18.60%
-Handwashing Stations,2021-01-01,154,852,18.10%
-Handwashing Stations,2021-02-01,102,405,25.20%
-Handwashing Stations,2021-03-01,175,805,21.70%
-Handwashing Stations,2021-04-01,217,1009,21.50%
-Handwashing Stations,2021-05-01,121,497,24%
-Handwashing Stations,2021-06-01,61,264,23.10%
-KN95 Respirators,2020-06-01,1,3345,0.00%
-KN95 Respirators,2020-07-01,2,806,0.20%
-KN95 Respirators,2020-08-01,1,392,0%
-KN95 Respirators,2020-10-01,2,261,0.80%
-KN95 Respirators,2020-11-01,87,350,24.90%
-KN95 Respirators,2020-12-01,208,574,36.20%
-KN95 Respirators,2021-01-01,380,852,45%
-KN95 Respirators,2021-02-01,178,405,44.00%
-KN95 Respirators,2021-03-01,327,805,40.60%
-KN95 Respirators,2021-04-01,427,1009,42.30%
-KN95 Respirators,2021-05-01,167,497,33.60%
-KN95 Respirators,2021-06-01,78,264,29.50%
-N95 Respirators,2020-04-01,3939,6857,57.40%
-N95 Respirators,2020-05-01,1349,2584,52.20%
-N95 Respirators,2020-06-01,1662,3345,49.70%
-N95 Respirators,2020-07-01,412,806,51.10%
-N95 Respirators,2020-08-01,215,392,54.80%
-N95 Respirators,2020-09-01,151,242,62.40%
-N95 Respirators,2020-10-01,143,261,54.80%
-N95 Respirators,2020-11-01,214,350,61.10%
-N95 Respirators,2020-12-01,320,574,55.70%
-N95 Respirators,2021-01-01,528,852,62%
-N95 Respirators,2021-02-01,227,405,56.00%
-N95 Respirators,2021-03-01,425,805,52.80%
-N95 Respirators,2021-04-01,528,1009,52.30%
-N95 Respirators,2021-05-01,226,497,45.50%
-N95 Respirators,2021-06-01,97,264,36.70%
-Nitrile Gloves,2020-04-01,879,6857,12.80%
-Nitrile Gloves,2020-05-01,369,2584,14%
-Nitrile Gloves,2020-06-01,870,3345,26.00%
-Nitrile Gloves,2020-07-01,241,806,29.90%
-Nitrile Gloves,2020-08-01,184,392,46.90%
-Nitrile Gloves,2020-09-01,116,242,48%
-Nitrile Gloves,2020-10-01,138,261,52.90%
-Nitrile Gloves,2020-11-01,187,350,53.40%
-Nitrile Gloves,2020-12-01,362,574,63.10%
-Nitrile Gloves,2021-01-01,530,852,62%
-Nitrile Gloves,2021-02-01,242,405,59.80%
-Nitrile Gloves,2021-03-01,550,805,68.30%
-Nitrile Gloves,2021-04-01,706,1009,70.00%
-Nitrile Gloves,2021-05-01,349,497,70.20%
-Nitrile Gloves,2021-06-01,186,264,70.50%
-PAPR Replacement Face Shields,2020-05-01,53,2584,2.10%
-PAPR Replacement Face Shields,2020-06-01,164,3345,4.90%
-PAPR Replacement Face Shields,2020-07-01,34,806,4.20%
-PAPR Replacement Face Shields,2020-08-01,26,392,7%
-PAPR Replacement Face Shields,2020-09-01,20,242,8.30%
-PAPR Replacement Face Shields,2020-10-01,22,261,8.40%
-PAPR Replacement Face Shields,2020-11-01,43,350,12.30%
-PAPR Replacement Face Shields,2020-12-01,61,574,11%
-PAPR Replacement Face Shields,2021-01-01,122,852,14.30%
-PAPR Replacement Face Shields,2021-02-01,47,405,11.60%
-PAPR Replacement Face Shields,2021-03-01,62,805,7.70%
-PAPR Replacement Face Shields,2021-04-01,77,1009,7.60%
-PAPR Replacement Face Shields,2021-05-01,23,497,4.60%
-PAPR Replacement Face Shields,2021-06-01,18,264,6.80%
-Safety Glasses,2020-05-01,132,2584,5.10%
-Safety Glasses,2020-06-01,372,3345,11%
-Safety Glasses,2020-07-01,81,806,10.00%
-Safety Glasses,2020-08-01,72,392,18%
-Safety Glasses,2020-09-01,42,242,17%
-Safety Glasses,2020-10-01,46,261,17.60%
-Safety Glasses,2020-11-01,87,350,24.90%
-Safety Glasses,2020-12-01,190,574,33.10%
-Safety Glasses,2021-01-01,294,852,35%
-Safety Glasses,2021-02-01,111,405,27.40%
-Safety Glasses,2021-03-01,220,805,27.30%
-Safety Glasses,2021-04-01,275,1009,27.30%
-Safety Glasses,2021-05-01,130,497,26.20%
-Safety Glasses,2021-06-01,45,264,17%
-Safety Goggles,2020-04-01,2,6857,0.00%
-Safety Goggles,2020-05-01,257,2584,9.90%
-Safety Goggles,2020-06-01,477,3345,14.30%
-Safety Goggles,2020-07-01,104,806,12.90%
-Safety Goggles,2020-08-01,81,392,20.70%
-Safety Goggles,2020-09-01,40,242,16.50%
-Safety Goggles,2020-10-01,48,261,18.40%
-Safety Goggles,2020-11-01,67,350,19.10%
-Safety Goggles,2020-12-01,162,574,28.20%
-Safety Goggles,2021-01-01,246,852,28.90%
-Safety Goggles,2021-02-01,77,405,19.00%
-Safety Goggles,2021-03-01,167,805,21%
-Safety Goggles,2021-04-01,203,1009,20.10%
-Safety Goggles,2021-05-01,103,497,20.70%
-Safety Goggles,2021-06-01,46,264,17%
-Sneeze Guards / Barriers,2020-11-01,60,350,17.10%
-Sneeze Guards / Barriers,2020-12-01,158,574,27.50%
-Sneeze Guards / Barriers,2021-01-01,212,852,24.90%
-Sneeze Guards / Barriers,2021-02-01,103,405,25.40%
-Sneeze Guards / Barriers,2021-03-01,170,805,21.10%
-Sneeze Guards / Barriers,2021-04-01,239,1009,23.70%
-Sneeze Guards / Barriers,2021-05-01,119,497,23.90%
-Sneeze Guards / Barriers,2021-06-01,48,264,18%
-Surgical Caps / Bouffant Caps,2020-04-01,1,6857,0%
-Surgical Caps / Bouffant Caps,2020-05-01,240,2584,9.30%
-Surgical Caps / Bouffant Caps,2020-06-01,513,3345,15%
-Surgical Caps / Bouffant Caps,2020-07-01,99,806,12%
-Surgical Caps / Bouffant Caps,2020-08-01,68,392,17%
-Surgical Caps / Bouffant Caps,2020-09-01,42,242,17%
-Surgical Caps / Bouffant Caps,2020-10-01,31,261,12%
-Surgical Caps / Bouffant Caps,2020-11-01,67,350,19%
-Surgical Caps / Bouffant Caps,2020-12-01,137,574,24%
-Surgical Caps / Bouffant Caps,2021-01-01,229,852,27%
-Surgical Caps / Bouffant Caps,2021-02-01,82,405,20%
-Surgical Caps / Bouffant Caps,2021-03-01,121,805,15%
-Surgical Caps / Bouffant Caps,2021-04-01,163,1009,16%
-Surgical Caps / Bouffant Caps,2021-05-01,73,497,15%
-Surgical Caps / Bouffant Caps,2021-06-01,32,264,12.10%
-Surgical Masks,2020-04-01,2676,6857,39.00%
-Surgical Masks,2020-05-01,883,2584,34.20%
-Surgical Masks,2020-06-01,1431,3345,42.80%
-Surgical Masks,2020-07-01,345,806,43%
-Surgical Masks,2020-08-01,204,392,52.00%
-Surgical Masks,2020-09-01,133,242,55.00%
-Surgical Masks,2020-10-01,126,261,48.30%
-Surgical Masks,2020-11-01,180,350,51.40%
-Surgical Masks,2020-12-01,315,574,54.90%
-Surgical Masks,2021-01-01,472,852,55.40%
-Surgical Masks,2021-02-01,191,405,47.20%
-Surgical Masks,3/1/21,423,805,52.50%
-Surgical Masks,4/1/21,518,1009,51.30%
-Surgical Masks,5/1/21,240,497,48.30%
-Surgical Masks,6/1/21,119,264,45.10%
-Thermometers,4/1/20,790,6857,11.50%
-Thermometers,5/1/20,429,2584,16.60%
-Thermometers,6/1/20,821,3345,24.50%
-Thermometers,7/1/20,184,806,22.80%
-Thermometers,8/1/20,119,392,30.40%
-Thermometers,9/1/20,70,242,28.90%
-Thermometers,10/1/20,68,261,26.10%
-Thermometers,11/1/20,123,350,35.10%
-Thermometers,12/1/20,277,574,48.30%
-Thermometers,1/1/21,401,852,47.10%
-Thermometers,2/1/21,194,405,47.90%
-Thermometers,3/1/21,410,805,50.90%
-Thermometers,4/1/21,502,1009,49.80%
-Thermometers,5/1/21,249,497,50.10%
-Thermometers,6/1/21,134,264,50.80%
-Total Requests,4/1/20,6857,6857,100%
-Total Requests,5/1/20,2584,2584,100%
-Total Requests,6/1/20,3345,3345,100%
-Total Requests,7/1/20,806,806,100%
-Total Requests,8/1/20,392,392,100%
-Total Requests,9/1/20,242,242,100%
-Total Requests,10/1/20,261,261,100%
-Total Requests,11/1/20,350,350,100%
-Total Requests,12/1/20,574,574,100%
-Total Requests,1/1/21,852,852,100%
-Total Requests,2/1/21,405,405,100%
-Total Requests,3/1/21,805,805,100%
-Total Requests,4/1/21,1009,1009,100%
-Total Requests,5/1/21,497,497,100%
-Total Requests,6/1/21,264,264,100%
-Two-way Communication Devices,5/1/20,86,2584,3.30%
-Two-way Communication Devices,6/1/20,211,3345,6.30%
-Two-way Communication Devices,7/1/20,45,806,5.60%
-Two-way Communication Devices,8/1/20,45,392,11.50%
-Two-way Communication Devices,9/1/20,29,242,12%
-Two-way Communication Devices,10/1/20,31,261,11.90%
-Two-way Communication Devices,11/1/20,52,350,14.90%
-Two-way Communication Devices,12/1/20,90,574,15.70%
-Two-way Communication Devices,1/1/21,175,852,20.50%
-Two-way Communication Devices,2/1/21,83,405,20.50%
-Two-way Communication Devices,3/1/21,181,805,22.50%
-Two-way Communication Devices,4/1/21,258,1009,25.60%
-Two-way Communication Devices,5/1/21,130,497,26.20%
-Two-way Communication Devices,6/1/21,66,264,25%
+3-Ply Masks,1/1/2021,76,852,8.90%
+3-Ply Masks,2/1/2021,160,405,39.50%
+3-Ply Masks,3/1/2021,342,805,42.50%
+3-Ply Masks,4/1/2021,441,1009,43.70%
+3-Ply Masks,5/1/2021,210,497,42.30%
+3-Ply Masks,6/1/2021,120,264,45.50%
+Body Bags,5/1/2020,36,2584,1.40%
+Body Bags,6/1/2020,78,3345,2.30%
+Body Bags,7/1/2020,15,806,1.90%
+Body Bags,8/1/2020,11,392,3%
+Body Bags,9/1/2020,6,242,3%
+Body Bags,10/1/2020,6,261,2%
+Body Bags,11/1/2020,8,350,2.30%
+Body Bags,12/1/2020,12,574,2%
+Body Bags,1/1/2021,31,852,3.60%
+Body Bags,2/1/2021,17,405,4.20%
+Body Bags,3/1/2021,25,805,3.10%
+Body Bags,4/1/2021,31,1009,3.10%
+Body Bags,5/1/2021,11,497,2.20%
+Body Bags,6/1/2021,7,264,2.70%
+Clear / Visually Accessible Masks,11/1/2020,59,350,16.90%
+Clear / Visually Accessible Masks,12/1/2020,166,574,28.90%
+Clear / Visually Accessible Masks,1/1/2021,194,852,22.80%
+Clear / Visually Accessible Masks,2/1/2021,97,405,24.00%
+Clear / Visually Accessible Masks,3/1/2021,202,805,25.10%
+Clear / Visually Accessible Masks,4/1/2021,228,1009,22.60%
+Clear / Visually Accessible Masks,5/1/2021,96,497,19.30%
+Clear / Visually Accessible Masks,6/1/2021,44,264,16.70%
+Cloth Masks,4/1/2020,2218,6857,32.30%
+Cloth Masks,5/1/2020,480,2584,18.60%
+Cloth Masks,6/1/2020,641,3345,19%
+Cloth Masks,7/1/2020,189,806,23.40%
+Cloth Masks,8/1/2020,123,392,31.40%
+Cloth Masks,9/1/2020,71,242,29.30%
+Cloth Masks,10/1/2020,64,261,24.50%
+Cloth Masks,11/1/2020,104,350,29.70%
+Cloth Masks,12/1/2020,195,574,34.00%
+Cloth Masks,1/1/2021,222,852,26.10%
+Cloth Masks,2/1/2021,105,405,25.90%
+Cloth Masks,3/1/2021,223,805,27.70%
+Cloth Masks,4/1/2021,294,1009,29%
+Cloth Masks,5/1/2021,135,497,27.20%
+Cloth Masks,6/1/2021,68,264,26%
+Coveralls / Bunny Suits,4/1/2020,9,6857,0.10%
+Coveralls / Bunny Suits,5/1/2020,205,2584,7.90%
+Coveralls / Bunny Suits,6/1/2020,387,3345,11.60%
+Coveralls / Bunny Suits,7/1/2020,63,806,7.80%
+Coveralls / Bunny Suits,8/1/2020,64,392,16.30%
+Coveralls / Bunny Suits,9/1/2020,36,242,14.90%
+Coveralls / Bunny Suits,10/1/2020,34,261,13%
+Coveralls / Bunny Suits,11/1/2020,63,350,18.00%
+Coveralls / Bunny Suits,12/1/2020,93,574,16.20%
+Coveralls / Bunny Suits,1/1/2021,175,852,20.50%
+Coveralls / Bunny Suits,2/1/2021,63,405,15.60%
+Coveralls / Bunny Suits,3/1/2021,104,805,12.90%
+Coveralls / Bunny Suits,4/1/2021,121,1009,12.00%
+Coveralls / Bunny Suits,5/1/2021,56,497,11.30%
+Coveralls / Bunny Suits,6/1/2021,26,264,9.80%
+Disinfecting Wipes,4/1/2020,3326,6857,48.50%
+Disinfecting Wipes,5/1/2020,844,2584,32.70%
+Disinfecting Wipes,6/1/2020,1347,3345,40.30%
+Disinfecting Wipes,7/1/2020,341,806,42.30%
+Disinfecting Wipes,8/1/2020,234,392,59.70%
+Disinfecting Wipes,9/1/2020,146,242,60%
+Disinfecting Wipes,10/1/2020,152,261,58.20%
+Disinfecting Wipes,11/1/2020,247,350,70.60%
+Disinfecting Wipes,12/1/2020,439,574,76.50%
+Disinfecting Wipes,1/1/2021,589,852,69.10%
+Disinfecting Wipes,2/1/2021,272,405,67%
+Disinfecting Wipes,3/1/2021,608,805,75.50%
+Disinfecting Wipes,4/1/2021,748,1009,74.10%
+Disinfecting Wipes,5/1/2021,367,497,73.80%
+Disinfecting Wipes,6/1/2021,195,264,73.90%
+Disposable Booties,4/1/2020,633,6857,9.20%
+Disposable Booties,5/1/2020,268,2584,10.40%
+Disposable Booties,6/1/2020,571,3345,17.10%
+Disposable Booties,7/1/2020,107,806,13.30%
+Disposable Booties,8/1/2020,81,392,20.70%
+Disposable Booties,9/1/2020,39,242,16.10%
+Disposable Booties,10/1/2020,44,261,16.90%
+Disposable Booties,11/1/2020,74,350,21.10%
+Disposable Booties,12/1/2020,151,574,26.30%
+Disposable Booties,1/1/2021,254,852,29.80%
+Disposable Booties,2/1/2021,101,405,24.90%
+Disposable Booties,3/1/2021,164,805,20.40%
+Disposable Booties,4/1/2021,218,1009,22%
+Disposable Booties,5/1/2021,122,497,24.50%
+Disposable Booties,6/1/2021,56,264,21%
+Ear Savers,11/1/2020,48,350,13.70%
+Ear Savers,12/1/2020,155,574,27.00%
+Ear Savers,1/1/2021,197,852,23.10%
+Ear Savers,2/1/2021,79,405,19.50%
+Ear Savers,3/1/2021,172,805,21.40%
+Ear Savers,4/1/2021,209,1009,20.70%
+Ear Savers,5/1/2021,94,497,18.90%
+Ear Savers,6/1/2021,45,264,17.00%
+Face Shields,4/1/2020,3270,6857,47.70%
+Face Shields,5/1/2020,995,2584,38.50%
+Face Shields,6/1/2020,1283,3345,38.40%
+Face Shields,7/1/2020,347,806,43.10%
+Face Shields,8/1/2020,184,392,46.90%
+Face Shields,9/1/2020,126,242,52.10%
+Face Shields,10/1/2020,111,261,42.50%
+Face Shields,11/1/2020,175,350,50%
+Face Shields,12/1/2020,322,574,56.10%
+Face Shields,1/1/2021,456,852,54%
+Face Shields,2/1/2021,194,405,48%
+Face Shields,3/1/2021,336,805,41.70%
+Face Shields,4/1/2021,396,1009,39.20%
+Face Shields,5/1/2021,160,497,32%
+Face Shields,6/1/2021,65,264,24.60%
+Gowns,4/1/2020,3296,6857,48.10%
+Gowns,5/1/2020,740,2584,28.60%
+Gowns,6/1/2020,1318,3345,39.40%
+Gowns,7/1/2020,180,806,22.30%
+Gowns,8/1/2020,133,392,33.90%
+Gowns,9/1/2020,82,242,33.90%
+Gowns,10/1/2020,99,261,37.90%
+Gowns,11/1/2020,126,350,36.00%
+Gowns,12/1/2020,258,574,44.90%
+Gowns,1/1/2021,460,852,54.00%
+Gowns,2/1/2021,149,405,36.80%
+Gowns,3/1/2021,281,805,34.90%
+Gowns,4/1/2021,340,1009,33.70%
+Gowns,5/1/2021,157,497,32%
+Gowns,6/1/2021,65,264,24.60%
+Hand Sanitizer,4/1/2020,631,6857,9.20%
+Hand Sanitizer,5/1/2020,587,2584,22.70%
+Hand Sanitizer,6/1/2020,1153,3345,34.50%
+Hand Sanitizer,7/1/2020,273,806,34%
+Hand Sanitizer,8/1/2020,199,392,50.80%
+Hand Sanitizer,9/1/2020,113,242,46.70%
+Hand Sanitizer,10/1/2020,111,261,42.50%
+Hand Sanitizer,11/1/2020,207,350,59%
+Hand Sanitizer,12/1/2020,341,574,59%
+Hand Sanitizer,1/1/2021,523,852,61.40%
+Hand Sanitizer,2/1/2021,255,405,63.00%
+Hand Sanitizer,3/1/2021,502,805,62.40%
+Hand Sanitizer,4/1/2021,681,1009,67.50%
+Hand Sanitizer,5/1/2021,322,497,64.80%
+Hand Sanitizer,6/1/2021,166,264,62.90%
+Handwashing Stations,11/1/2020,37,350,10.60%
+Handwashing Stations,12/1/2020,107,574,18.60%
+Handwashing Stations,1/1/2021,154,852,18.10%
+Handwashing Stations,2/1/2021,102,405,25.20%
+Handwashing Stations,3/1/2021,175,805,21.70%
+Handwashing Stations,4/1/2021,217,1009,21.50%
+Handwashing Stations,5/1/2021,121,497,24%
+Handwashing Stations,6/1/2021,61,264,23.10%
+KN95 Respirators,6/1/2020,1,3345,0.00%
+KN95 Respirators,7/1/2020,2,806,0.20%
+KN95 Respirators,8/1/2020,1,392,0%
+KN95 Respirators,10/1/2020,2,261,0.80%
+KN95 Respirators,11/1/2020,87,350,24.90%
+KN95 Respirators,12/1/2020,208,574,36.20%
+KN95 Respirators,1/1/2021,380,852,45%
+KN95 Respirators,2/1/2021,178,405,44.00%
+KN95 Respirators,3/1/2021,327,805,40.60%
+KN95 Respirators,4/1/2021,427,1009,42.30%
+KN95 Respirators,5/1/2021,167,497,33.60%
+KN95 Respirators,6/1/2021,78,264,29.50%
+N95 Respirators,4/1/2020,3939,6857,57.40%
+N95 Respirators,5/1/2020,1349,2584,52.20%
+N95 Respirators,6/1/2020,1662,3345,49.70%
+N95 Respirators,7/1/2020,412,806,51.10%
+N95 Respirators,8/1/2020,215,392,54.80%
+N95 Respirators,9/1/2020,151,242,62.40%
+N95 Respirators,10/1/2020,143,261,54.80%
+N95 Respirators,11/1/2020,214,350,61.10%
+N95 Respirators,12/1/2020,320,574,55.70%
+N95 Respirators,1/1/2021,528,852,62%
+N95 Respirators,2/1/2021,227,405,56.00%
+N95 Respirators,3/1/2021,425,805,52.80%
+N95 Respirators,4/1/2021,528,1009,52.30%
+N95 Respirators,5/1/2021,226,497,45.50%
+N95 Respirators,6/1/2021,97,264,36.70%
+Nitrile Gloves,4/1/2020,879,6857,12.80%
+Nitrile Gloves,5/1/2020,369,2584,14%
+Nitrile Gloves,6/1/2020,870,3345,26.00%
+Nitrile Gloves,7/1/2020,241,806,29.90%
+Nitrile Gloves,8/1/2020,184,392,46.90%
+Nitrile Gloves,9/1/2020,116,242,48%
+Nitrile Gloves,10/1/2020,138,261,52.90%
+Nitrile Gloves,11/1/2020,187,350,53.40%
+Nitrile Gloves,12/1/2020,362,574,63.10%
+Nitrile Gloves,1/1/2021,530,852,62%
+Nitrile Gloves,2/1/2021,242,405,59.80%
+Nitrile Gloves,3/1/2021,550,805,68.30%
+Nitrile Gloves,4/1/2021,706,1009,70.00%
+Nitrile Gloves,5/1/2021,349,497,70.20%
+Nitrile Gloves,6/1/2021,186,264,70.50%
+PAPR Replacement Face Shields,5/1/2020,53,2584,2.10%
+PAPR Replacement Face Shields,6/1/2020,164,3345,4.90%
+PAPR Replacement Face Shields,7/1/2020,34,806,4.20%
+PAPR Replacement Face Shields,8/1/2020,26,392,7%
+PAPR Replacement Face Shields,9/1/2020,20,242,8.30%
+PAPR Replacement Face Shields,10/1/2020,22,261,8.40%
+PAPR Replacement Face Shields,11/1/2020,43,350,12.30%
+PAPR Replacement Face Shields,12/1/2020,61,574,11%
+PAPR Replacement Face Shields,1/1/2021,122,852,14.30%
+PAPR Replacement Face Shields,2/1/2021,47,405,11.60%
+PAPR Replacement Face Shields,3/1/2021,62,805,7.70%
+PAPR Replacement Face Shields,4/1/2021,77,1009,7.60%
+PAPR Replacement Face Shields,5/1/2021,23,497,4.60%
+PAPR Replacement Face Shields,6/1/2021,18,264,6.80%
+Safety Glasses,5/1/2020,132,2584,5.10%
+Safety Glasses,6/1/2020,372,3345,11%
+Safety Glasses,7/1/2020,81,806,10.00%
+Safety Glasses,8/1/2020,72,392,18%
+Safety Glasses,9/1/2020,42,242,17%
+Safety Glasses,10/1/2020,46,261,17.60%
+Safety Glasses,11/1/2020,87,350,24.90%
+Safety Glasses,12/1/2020,190,574,33.10%
+Safety Glasses,1/1/2021,294,852,35%
+Safety Glasses,2/1/2021,111,405,27.40%
+Safety Glasses,3/1/2021,220,805,27.30%
+Safety Glasses,4/1/2021,275,1009,27.30%
+Safety Glasses,5/1/2021,130,497,26.20%
+Safety Glasses,6/1/2021,45,264,17%
+Safety Goggles,4/1/2020,2,6857,0.00%
+Safety Goggles,5/1/2020,257,2584,9.90%
+Safety Goggles,6/1/2020,477,3345,14.30%
+Safety Goggles,7/1/2020,104,806,12.90%
+Safety Goggles,8/1/2020,81,392,20.70%
+Safety Goggles,9/1/2020,40,242,16.50%
+Safety Goggles,10/1/2020,48,261,18.40%
+Safety Goggles,11/1/2020,67,350,19.10%
+Safety Goggles,12/1/2020,162,574,28.20%
+Safety Goggles,1/1/2021,246,852,28.90%
+Safety Goggles,2/1/2021,77,405,19.00%
+Safety Goggles,3/1/2021,167,805,21%
+Safety Goggles,4/1/2021,203,1009,20.10%
+Safety Goggles,5/1/2021,103,497,20.70%
+Safety Goggles,6/1/2021,46,264,17%
+Sneeze Guards / Barriers,11/1/2020,60,350,17.10%
+Sneeze Guards / Barriers,12/1/2020,158,574,27.50%
+Sneeze Guards / Barriers,1/1/2021,212,852,24.90%
+Sneeze Guards / Barriers,2/1/2021,103,405,25.40%
+Sneeze Guards / Barriers,3/1/2021,170,805,21.10%
+Sneeze Guards / Barriers,4/1/2021,239,1009,23.70%
+Sneeze Guards / Barriers,5/1/2021,119,497,23.90%
+Sneeze Guards / Barriers,6/1/2021,48,264,18%
+Surgical Caps / Bouffant Caps,4/1/2020,1,6857,0%
+Surgical Caps / Bouffant Caps,5/1/2020,240,2584,9.30%
+Surgical Caps / Bouffant Caps,6/1/2020,513,3345,15%
+Surgical Caps / Bouffant Caps,7/1/2020,99,806,12%
+Surgical Caps / Bouffant Caps,8/1/2020,68,392,17%
+Surgical Caps / Bouffant Caps,9/1/2020,42,242,17%
+Surgical Caps / Bouffant Caps,10/1/2020,31,261,12%
+Surgical Caps / Bouffant Caps,11/1/2020,67,350,19%
+Surgical Caps / Bouffant Caps,12/1/2020,137,574,24%
+Surgical Caps / Bouffant Caps,1/1/2021,229,852,27%
+Surgical Caps / Bouffant Caps,2/1/2021,82,405,20%
+Surgical Caps / Bouffant Caps,3/1/2021,121,805,15%
+Surgical Caps / Bouffant Caps,4/1/2021,163,1009,16%
+Surgical Caps / Bouffant Caps,5/1/2021,73,497,15%
+Surgical Caps / Bouffant Caps,6/1/2021,32,264,12.10%
+Surgical Masks,4/1/2020,2676,6857,39.00%
+Surgical Masks,5/1/2020,883,2584,34.20%
+Surgical Masks,6/1/2020,1431,3345,42.80%
+Surgical Masks,7/1/2020,345,806,43%
+Surgical Masks,8/1/2020,204,392,52.00%
+Surgical Masks,9/1/2020,133,242,55.00%
+Surgical Masks,10/1/2020,126,261,48.30%
+Surgical Masks,11/1/2020,180,350,51.40%
+Surgical Masks,12/1/2020,315,574,54.90%
+Surgical Masks,1/1/2021,472,852,55.40%
+Surgical Masks,2/1/2021,191,405,47.20%
+Surgical Masks,3/1/2021,423,805,52.50%
+Surgical Masks,4/1/2021,518,1009,51.30%
+Surgical Masks,5/1/2021,240,497,48.30%
+Surgical Masks,6/1/2021,119,264,45.10%
+Thermometers,4/1/2020,790,6857,11.50%
+Thermometers,5/1/2020,429,2584,16.60%
+Thermometers,6/1/2020,821,3345,24.50%
+Thermometers,7/1/2020,184,806,22.80%
+Thermometers,8/1/2020,119,392,30.40%
+Thermometers,9/1/2020,70,242,28.90%
+Thermometers,10/1/2020,68,261,26.10%
+Thermometers,11/1/2020,123,350,35.10%
+Thermometers,12/1/2020,277,574,48.30%
+Thermometers,1/1/2021,401,852,47.10%
+Thermometers,2/1/2021,194,405,47.90%
+Thermometers,3/1/2021,410,805,50.90%
+Thermometers,4/1/2021,502,1009,49.80%
+Thermometers,5/1/2021,249,497,50.10%
+Thermometers,6/1/2021,134,264,50.80%
+Total Requests,4/1/2020,6857,6857,100%
+Total Requests,5/1/2020,2584,2584,100%
+Total Requests,6/1/2020,3345,3345,100%
+Total Requests,7/1/2020,806,806,100%
+Total Requests,8/1/2020,392,392,100%
+Total Requests,9/1/2020,242,242,100%
+Total Requests,10/1/2020,261,261,100%
+Total Requests,11/1/2020,350,350,100%
+Total Requests,12/1/2020,574,574,100%
+Total Requests,1/1/2021,852,852,100%
+Total Requests,2/1/2021,405,405,100%
+Total Requests,3/1/2021,805,805,100%
+Total Requests,4/1/2021,1009,1009,100%
+Total Requests,5/1/2021,497,497,100%
+Total Requests,6/1/2021,264,264,100%
+Two-way Communication Devices,5/1/2020,86,2584,3.30%
+Two-way Communication Devices,6/1/2020,211,3345,6.30%
+Two-way Communication Devices,7/1/2020,45,806,5.60%
+Two-way Communication Devices,8/1/2020,45,392,11.50%
+Two-way Communication Devices,9/1/2020,29,242,12%
+Two-way Communication Devices,10/1/2020,31,261,11.90%
+Two-way Communication Devices,11/1/2020,52,350,14.90%
+Two-way Communication Devices,12/1/2020,90,574,15.70%
+Two-way Communication Devices,1/1/2021,175,852,20.50%
+Two-way Communication Devices,2/1/2021,83,405,20.50%
+Two-way Communication Devices,3/1/2021,181,805,22.50%
+Two-way Communication Devices,4/1/2021,258,1009,25.60%
+Two-way Communication Devices,5/1/2021,130,497,26.20%
+Two-way Communication Devices,6/1/2021,66,264,25%
