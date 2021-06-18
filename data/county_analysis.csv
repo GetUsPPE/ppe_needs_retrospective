@@ -79,7 +79,7 @@ time,county,stateprovince,num_requests
 2020-03-01,Pueblo,CO,2
 2020-03-01,Summit,CO,2
 2020-03-01,Weld,CO,6
-2020-03-01,Città Metropolitana di Milano,CT,1
+2020-03-01,Citt√† Metropolitana di Milano,CT,1
 2020-03-01,Fairfield,CT,33
 2020-03-01,Hartford,CT,17
 2020-03-01,Litchfield,CT,3
@@ -414,7 +414,7 @@ time,county,stateprovince,num_requests
 2020-03-01,Union,NJ,6
 2020-03-01,Warren,NJ,2
 2020-03-01,Bernalillo,NM,13
-2020-03-01,Doña Ana,NM,3
+2020-03-01,Do√±a Ana,NM,3
 2020-03-01,McKinley,NM,1
 2020-03-01,San Juan,NM,2
 2020-03-01,Sandoval,NM,1
@@ -1078,9 +1078,9 @@ time,county,stateprovince,num_requests
 2020-04-01,Garrett,MD,1
 2020-04-01,Harford,MD,7
 2020-04-01,Howard,MD,8
-2020-04-01,Montgomery,MD,35
+2020-04-01,Montgomery,MD,34
 2020-04-01,Passaic,MD,1
-2020-04-01,Prince George's,MD,24
+2020-04-01,Prince George's,MD,25
 2020-04-01,St. Mary's,MD,1
 2020-04-01,Talbot,MD,2
 2020-04-01,Washington,MD,2
@@ -1195,6 +1195,7 @@ time,county,stateprovince,num_requests
 2020-04-01,Rankin,MS,3
 2020-04-01,Simpson,MS,1
 2020-04-01,Stone,MS,1
+2020-04-01,Sunflower,MS,1
 2020-04-01,Tate,MS,1
 2020-04-01,Union,MS,2
 2020-04-01,Washington,MS,2
@@ -1218,7 +1219,7 @@ time,county,stateprovince,num_requests
 2020-04-01,Craven,NC,1
 2020-04-01,Cumberland,NC,3
 2020-04-01,Davidson,NC,1
-2020-04-01,Durham,NC,3
+2020-04-01,Durham,NC,4
 2020-04-01,Forsyth,NC,3
 2020-04-01,Gaston,NC,1
 2020-04-01,Guilford,NC,4
@@ -1289,7 +1290,7 @@ time,county,stateprovince,num_requests
 2020-04-01,Warren,NJ,2
 2020-04-01,Westchester,NJ,1
 2020-04-01,Bernalillo,NM,15
-2020-04-01,Doña Ana,NM,6
+2020-04-01,Do√±a Ana,NM,6
 2020-04-01,Los Alamos,NM,1
 2020-04-01,McKinley,NM,7
 2020-04-01,Monmouth,NM,1
@@ -1409,7 +1410,7 @@ time,county,stateprovince,num_requests
 2020-04-01,Beaver,PA,2
 2020-04-01,Berks,PA,12
 2020-04-01,Blair,PA,1
-2020-04-01,Bucks,PA,10
+2020-04-01,Bucks,PA,11
 2020-04-01,Butler,PA,2
 2020-04-01,Cambria,PA,3
 2020-04-01,Carbon,PA,2
@@ -1437,7 +1438,7 @@ time,county,stateprovince,num_requests
 2020-04-01,Montour,PA,2
 2020-04-01,Northampton,PA,7
 2020-04-01,Northumberland,PA,1
-2020-04-01,Philadelphia,PA,50
+2020-04-01,Philadelphia,PA,49
 2020-04-01,Schuylkill,PA,1
 2020-04-01,Venango,PA,2
 2020-04-01,Warren,PA,1
@@ -1942,6 +1943,7 @@ time,county,stateprovince,num_requests
 2020-05-01,Madison,MS,3
 2020-05-01,Noxubee,MS,2
 2020-05-01,Scott,MS,1
+2020-05-01,Sunflower,MS,1
 2020-05-01,Washington,MS,4
 2020-05-01,Winston,MS,2
 2020-05-01,Big Horn,MT,1
@@ -2015,7 +2017,7 @@ time,county,stateprovince,num_requests
 2020-05-01,Westchester,NJ,2
 2020-05-01,Bernalillo,NM,3
 2020-05-01,Chaves,NM,1
-2020-05-01,Doña Ana,NM,1
+2020-05-01,Do√±a Ana,NM,1
 2020-05-01,McKinley,NM,6
 2020-05-01,San Juan,NM,2
 2020-05-01,Santa Fe,NM,1
@@ -2036,7 +2038,7 @@ time,county,stateprovince,num_requests
 2020-05-01,Onondaga,NY,1
 2020-05-01,Ontario,NY,3
 2020-05-01,Orange,NY,7
-2020-05-01,Queens,NY,36
+2020-05-01,Queens,NY,35
 2020-05-01,Rensselaer,NY,3
 2020-05-01,Richmond,NY,7
 2020-05-01,Rockland,NY,2
@@ -2047,7 +2049,7 @@ time,county,stateprovince,num_requests
 2020-05-01,Tompkins,NY,2
 2020-05-01,Ulster,NY,3
 2020-05-01,Wayne,NY,1
-2020-05-01,Westchester,NY,18
+2020-05-01,Westchester,NY,19
 2020-05-01,Ashland,OH,1
 2020-05-01,Ashtabula,OH,2
 2020-05-01,Crawford,OH,2
@@ -2165,7 +2167,7 @@ time,county,stateprovince,num_requests
 2020-05-01,Rockwall,TX,1
 2020-05-01,San Jacinto,TX,2
 2020-05-01,Starr,TX,2
-2020-05-01,Tarrant,TX,4
+2020-05-01,Tarrant,TX,5
 2020-05-01,Taylor,TX,2
 2020-05-01,Travis,TX,2
 2020-05-01,Tyler,TX,1
@@ -2177,7 +2179,7 @@ time,county,stateprovince,num_requests
 2020-05-01,San Juan,UT,1
 2020-05-01,Utah,UT,1
 2020-05-01,Albemarle,VA,2
-2020-05-01,Arlington,VA,1
+2020-05-01,Arlington,VA,2
 2020-05-01,Chesterfield,VA,4
 2020-05-01,Fairfax,VA,11
 2020-05-01,Gloucester,VA,1
@@ -2297,7 +2299,7 @@ time,county,stateprovince,num_requests
 2020-06-01,Leon,FL,3
 2020-06-01,Manatee,FL,2
 2020-06-01,Marion,FL,3
-2020-06-01,Miami-Dade,FL,26
+2020-06-01,Miami-Dade,FL,27
 2020-06-01,Monroe,FL,2
 2020-06-01,Okaloosa,FL,1
 2020-06-01,Orange,FL,8
@@ -2438,9 +2440,9 @@ time,county,stateprovince,num_requests
 2020-06-01,Garrett,MD,1
 2020-06-01,Harford,MD,2
 2020-06-01,Howard,MD,3
-2020-06-01,Montgomery,MD,17
+2020-06-01,Montgomery,MD,15
 2020-06-01,Passaic,MD,1
-2020-06-01,Prince George's,MD,8
+2020-06-01,Prince George's,MD,10
 2020-06-01,Talbot,MD,2
 2020-06-01,Washington,MD,1
 2020-06-01,Wicomico,MD,1
@@ -2498,6 +2500,7 @@ time,county,stateprovince,num_requests
 2020-06-01,Madison,MS,1
 2020-06-01,McNairy,MS,2
 2020-06-01,Rankin,MS,2
+2020-06-01,Sunflower,MS,1
 2020-06-01,Big Horn,MT,1
 2020-06-01,Gallatin,MT,3
 2020-06-01,Missoula,MT,1
@@ -2508,7 +2511,7 @@ time,county,stateprovince,num_requests
 2020-06-01,Catawba,NC,1
 2020-06-01,Cleveland,NC,1
 2020-06-01,Cumberland,NC,3
-2020-06-01,Durham,NC,6
+2020-06-01,Durham,NC,8
 2020-06-01,Edgecombe,NC,2
 2020-06-01,Guilford,NC,5
 2020-06-01,Harnett,NC,2
@@ -2845,7 +2848,7 @@ time,county,stateprovince,num_requests
 2020-07-01,Lee,FL,1
 2020-07-01,Manatee,FL,1
 2020-07-01,Marion,FL,2
-2020-07-01,Miami-Dade,FL,10
+2020-07-01,Miami-Dade,FL,11
 2020-07-01,Orange,FL,8
 2020-07-01,Osceola,FL,4
 2020-07-01,Palm Beach,FL,4
@@ -2853,7 +2856,7 @@ time,county,stateprovince,num_requests
 2020-07-01,Polk,FL,2
 2020-07-01,Santa Rosa,FL,1
 2020-07-01,Volusia,FL,1
-2020-07-01,Distrito Central,Fco Morazán,1
+2020-07-01,Distrito Central,Fco Moraz√°n,1
 2020-07-01,Bulloch,GA,1
 2020-07-01,Chatham,GA,1
 2020-07-01,Cobb,GA,1
@@ -3101,7 +3104,7 @@ time,county,stateprovince,num_requests
 2020-08-01,Napa,CA,1
 2020-08-01,Orange,CA,15
 2020-08-01,Riverside,CA,3
-2020-08-01,San Bernardino,CA,6
+2020-08-01,San Bernardino,CA,7
 2020-08-01,San Diego,CA,4
 2020-08-01,San Francisco,CA,8
 2020-08-01,San Mateo,CA,4
@@ -3219,7 +3222,7 @@ time,county,stateprovince,num_requests
 2020-08-01,Bronx,NY,3
 2020-08-01,Cayuga,NY,1
 2020-08-01,Kings,NY,2
-2020-08-01,New York,NY,2
+2020-08-01,New York,NY,3
 2020-08-01,Queens,NY,4
 2020-08-01,Richmond,NY,1
 2020-08-01,Rockland,NY,1
@@ -3599,6 +3602,7 @@ time,county,stateprovince,num_requests
 2020-11-01,Duval,FL,1
 2020-11-01,Hernando,FL,1
 2020-11-01,Lee,FL,1
+2020-11-01,Miami-Dade,FL,1
 2020-11-01,Clayton,GA,1
 2020-11-01,DeKalb,GA,1
 2020-11-01,Fulton,GA,1
@@ -3609,7 +3613,7 @@ time,county,stateprovince,num_requests
 2020-11-01,Honolulu,HI,1
 2020-11-01,Pottawattamie,IA,1
 2020-11-01,Scott,IA,1
-2020-11-01,Cook,IL,10
+2020-11-01,Cook,IL,11
 2020-11-01,Kankakee,IL,1
 2020-11-01,Lake,IL,1
 2020-11-01,Perry,IL,2
@@ -3751,7 +3755,7 @@ time,county,stateprovince,num_requests
 2020-11-01,Benton,WA,1
 2020-11-01,King,WA,1
 2020-11-01,Spokane,WA,1
-2020-11-01,Yakima,WA,1
+2020-11-01,Yakima,WA,2
 2020-11-01,Marathon,WI,1
 2020-11-01,Sauk,WI,1
 2020-11-01,Fayette,WV,1
@@ -4036,7 +4040,7 @@ time,county,stateprovince,num_requests
 2020-12-01,Moore,TX,1
 2020-12-01,Nueces,TX,1
 2020-12-01,San Patricio,TX,1
-2020-12-01,Tarrant,TX,3
+2020-12-01,Tarrant,TX,4
 2020-12-01,Travis,TX,2
 2020-12-01,Webb,TX,2
 2020-12-01,Williamson,TX,1
@@ -4088,8 +4092,8 @@ time,county,stateprovince,num_requests
 2021-01-01,Orange,CA,19
 2021-01-01,Riverside,CA,5
 2021-01-01,Sacramento,CA,2
-2021-01-01,San Bernardino,CA,6
-2021-01-01,San Diego,CA,56
+2021-01-01,San Bernardino,CA,8
+2021-01-01,San Diego,CA,57
 2021-01-01,San Francisco,CA,6
 2021-01-01,San Mateo,CA,1
 2021-01-01,Santa Clara,CA,5
@@ -4171,7 +4175,7 @@ time,county,stateprovince,num_requests
 2021-01-01,Vernon Parish,LA,1
 2021-01-01,Bristol,MA,1
 2021-01-01,Essex,MA,3
-2021-01-01,Hampden,MA,1
+2021-01-01,Hampden,MA,2
 2021-01-01,Middlesex,MA,4
 2021-01-01,Norfolk,MA,1
 2021-01-01,Plymouth,MA,1
@@ -4212,6 +4216,7 @@ time,county,stateprovince,num_requests
 2021-01-01,Jackson,MS,2
 2021-01-01,Lamar,MS,1
 2021-01-01,Prentiss,MS,1
+2021-01-01,Sunflower,MS,1
 2021-01-01,Jefferson,MT,2
 2021-01-01,Buncombe,NC,1
 2021-01-01,Cumberland,NC,1
@@ -4257,13 +4262,13 @@ time,county,stateprovince,num_requests
 2021-01-01,Madison,NY,1
 2021-01-01,Monroe,NY,2
 2021-01-01,Nassau,NY,1
-2021-01-01,New York,NY,17
+2021-01-01,New York,NY,18
 2021-01-01,Onondaga,NY,1
 2021-01-01,Orleans,NY,1
 2021-01-01,Oswego,NY,1
 2021-01-01,Queens,NY,15
 2021-01-01,Rockland,NY,2
-2021-01-01,Suffolk,NY,10
+2021-01-01,Suffolk,NY,11
 2021-01-01,Tompkins,NY,1
 2021-01-01,Ulster,NY,18
 2021-01-01,Westchester,NY,1
@@ -4291,12 +4296,12 @@ time,county,stateprovince,num_requests
 2021-01-01,Yamhill,OR,2
 2021-01-01,Chester,PA,1
 2021-01-01,Dauphin,PA,1
-2021-01-01,Delaware,PA,5
+2021-01-01,Delaware,PA,6
 2021-01-01,Lackawanna,PA,1
 2021-01-01,Lehigh,PA,1
 2021-01-01,Montgomery,PA,2
 2021-01-01,Northampton,PA,2
-2021-01-01,Philadelphia,PA,6
+2021-01-01,Philadelphia,PA,5
 2021-01-01,Venango,PA,1
 2021-01-01,Bristol,RI,2
 2021-01-01,Florence,SC,1
@@ -4332,7 +4337,7 @@ time,county,stateprovince,num_requests
 2021-01-01,Williamson,TX,2
 2021-01-01,Zapata,TX,1
 2021-01-01,Weber,UT,1
-2021-01-01,Albemarle,VA,1
+2021-01-01,Arlington,VA,1
 2021-01-01,Bland,VA,1
 2021-01-01,Fairfax,VA,2
 2021-01-01,Henrico,VA,1
@@ -4347,7 +4352,7 @@ time,county,stateprovince,num_requests
 2021-01-01,Pierce,WA,1
 2021-01-01,Thurston,WA,1
 2021-01-01,Whatcom,WA,1
-2021-01-01,Yakima,WA,1
+2021-01-01,Yakima,WA,3
 2021-01-01,Barron,WI,1
 2021-01-01,Racine,WI,2
 2021-01-01,Sauk,WI,1
@@ -4371,7 +4376,7 @@ time,county,stateprovince,num_requests
 2021-02-01,Orange,CA,7
 2021-02-01,Riverside,CA,2
 2021-02-01,San Bernardino,CA,4
-2021-02-01,San Diego,CA,33
+2021-02-01,San Diego,CA,34
 2021-02-01,San Francisco,CA,2
 2021-02-01,San Joaquin,CA,1
 2021-02-01,Santa Clara,CA,4
@@ -4474,7 +4479,8 @@ time,county,stateprovince,num_requests
 2021-02-01,Middlesex,NJ,1
 2021-02-01,Monmouth,NJ,2
 2021-02-01,Passaic,NJ,1
-2021-02-01,Doña Ana,NM,1
+2021-02-01,Do√±a Ana,NM,1
+2021-02-01,Sierra,NM,1
 2021-02-01,Clark,NV,2
 2021-02-01,Bronx,NY,10
 2021-02-01,Dutchess,NY,1
@@ -4580,7 +4586,7 @@ time,county,stateprovince,num_requests
 2021-03-01,Hillsborough,FL,2
 2021-03-01,Lake,FL,6
 2021-03-01,Lee,FL,1
-2021-03-01,Miami-Dade,FL,3
+2021-03-01,Miami-Dade,FL,4
 2021-03-01,Osceola,FL,1
 2021-03-01,Palm Beach,FL,5
 2021-03-01,Pasco,FL,2
@@ -4644,7 +4650,7 @@ time,county,stateprovince,num_requests
 2021-03-01,Union Parish,LA,1
 2021-03-01,Barnstable,MA,1
 2021-03-01,Essex,MA,4
-2021-03-01,Hampden,MA,2
+2021-03-01,Hampden,MA,3
 2021-03-01,Hampshire,MA,1
 2021-03-01,Middlesex,MA,13
 2021-03-01,Norfolk,MA,3
@@ -4655,8 +4661,8 @@ time,county,stateprovince,num_requests
 2021-03-01,Baltimore,MD,4
 2021-03-01,Harford,MD,1
 2021-03-01,Howard,MD,1
-2021-03-01,Montgomery,MD,5
-2021-03-01,Prince George's,MD,3
+2021-03-01,Montgomery,MD,4
+2021-03-01,Prince George's,MD,4
 2021-03-01,Androscoggin,ME,1
 2021-03-01,Cumberland,ME,2
 2021-03-01,Hancock,ME,1
@@ -4689,6 +4695,7 @@ time,county,stateprovince,num_requests
 2021-03-01,Hinds,MS,2
 2021-03-01,Leflore,MS,1
 2021-03-01,Rankin,MS,1
+2021-03-01,Sunflower,MS,1
 2021-03-01,Tunica,MS,1
 2021-03-01,Cascade,MT,1
 2021-03-01,Dawson,MT,1
@@ -4730,7 +4737,7 @@ time,county,stateprovince,num_requests
 2021-03-01,Somerset,NJ,2
 2021-03-01,Union,NJ,1
 2021-03-01,Bernalillo,NM,1
-2021-03-01,Doña Ana,NM,1
+2021-03-01,Do√±a Ana,NM,1
 2021-03-01,Clark,NV,2
 2021-03-01,Bronx,NY,11
 2021-03-01,Broome,NY,1
@@ -4741,15 +4748,16 @@ time,county,stateprovince,num_requests
 2021-03-01,Kings,NY,7
 2021-03-01,Madison,NY,1
 2021-03-01,Nassau,NY,3
-2021-03-01,New York,NY,9
+2021-03-01,New York,NY,10
 2021-03-01,Orange,NY,1
 2021-03-01,Polk,NY,1
-2021-03-01,Queens,NY,9
+2021-03-01,Queens,NY,8
 2021-03-01,Rensselaer,NY,1
 2021-03-01,Rockland,NY,3
 2021-03-01,Schenectady,NY,1
 2021-03-01,Suffolk,NY,4
 2021-03-01,Ulster,NY,1
+2021-03-01,Westchester,NY,1
 2021-03-01,Auglaize,OH,1
 2021-03-01,Cuyahoga,OH,4
 2021-03-01,Franklin,OH,1
@@ -4781,12 +4789,12 @@ time,county,stateprovince,num_requests
 2021-03-01,Centre,PA,1
 2021-03-01,Chester,PA,2
 2021-03-01,Clarion,PA,1
-2021-03-01,Delaware,PA,5
+2021-03-01,Delaware,PA,6
 2021-03-01,Franklin,PA,1
 2021-03-01,Lancaster,PA,1
 2021-03-01,Lycoming,PA,1
 2021-03-01,Montgomery,PA,4
-2021-03-01,Philadelphia,PA,6
+2021-03-01,Philadelphia,PA,5
 2021-03-01,Potter,PA,1
 2021-03-01,York,PA,1
 2021-03-01,Pueblo,PR,1
@@ -4826,7 +4834,7 @@ time,county,stateprovince,num_requests
 2021-03-01,Webb,TX,1
 2021-03-01,Zavala,TX,1
 2021-03-01,Weber,UT,1
-2021-03-01,Arlington,VA,2
+2021-03-01,Arlington,VA,3
 2021-03-01,Bland,VA,1
 2021-03-01,Carroll,VA,1
 2021-03-01,Clarke,VA,1
@@ -4852,29 +4860,37 @@ time,county,stateprovince,num_requests
 2021-04-01,Etowah,AL,1
 2021-04-01,Jefferson,AL,2
 2021-04-01,Lamar,AL,1
+2021-04-01,Montgomery,AL,1
+2021-04-01,Perry,AL,1
 2021-04-01,Walker,AL,1
-2021-04-01,Apache,AZ,2
+2021-04-01,Pulaski,AR,1
+2021-04-01,Sebastian,AR,1
+2021-04-01,Apache,AZ,3
 2021-04-01,Cochise,AZ,1
 2021-04-01,Coconino,AZ,1
-2021-04-01,Maricopa,AZ,8
+2021-04-01,Maricopa,AZ,10
 2021-04-01,Mohave,AZ,3
-2021-04-01,Pima,AZ,2
+2021-04-01,Pima,AZ,3
+2021-04-01,Pinal,AZ,2
 2021-04-01,Santa Cruz,AZ,1
+2021-04-01,Yavapai,AZ,1
 2021-04-01,Alameda,CA,2
 2021-04-01,Contra Costa,CA,6
 2021-04-01,El Dorado,CA,2
 2021-04-01,Fresno,CA,1
-2021-04-01,Kern,CA,2
-2021-04-01,Los Angeles,CA,53
-2021-04-01,Monterey,CA,1
-2021-04-01,Orange,CA,11
-2021-04-01,Riverside,CA,4
-2021-04-01,San Bernardino,CA,6
-2021-04-01,San Diego,CA,42
+2021-04-01,Kern,CA,3
+2021-04-01,Los Angeles,CA,80
+2021-04-01,Merced,CA,1
+2021-04-01,Monterey,CA,3
+2021-04-01,Orange,CA,18
+2021-04-01,Riverside,CA,6
+2021-04-01,San Bernardino,CA,8
+2021-04-01,San Diego,CA,59
 2021-04-01,San Francisco,CA,6
+2021-04-01,San Joaquin,CA,1
 2021-04-01,San Mateo,CA,4
 2021-04-01,Santa Barbara,CA,1
-2021-04-01,Santa Clara,CA,8
+2021-04-01,Santa Clara,CA,9
 2021-04-01,Shasta,CA,1
 2021-04-01,Solano,CA,1
 2021-04-01,Sonoma,CA,1
@@ -4888,22 +4904,25 @@ time,county,stateprovince,num_requests
 2021-04-01,Jefferson,CO,1
 2021-04-01,Mesa,CO,1
 2021-04-01,Ouray,CO,1
+2021-04-01,Hartford,CT,1
 2021-04-01,New Haven,CT,4
 2021-04-01,Windham,CT,1
-2021-04-01,New Castle,DE,2
+2021-04-01,New Castle,DE,3
+2021-04-01,Sussex,DE,1
 2021-04-01,Alachua,FL,1
 2021-04-01,Brevard,FL,2
-2021-04-01,Broward,FL,6
+2021-04-01,Broward,FL,8
 2021-04-01,Charlotte,FL,1
 2021-04-01,Collier,FL,1
 2021-04-01,Duval,FL,3
+2021-04-01,Hernando,FL,3
 2021-04-01,Hillsborough,FL,2
 2021-04-01,Lake,FL,3
 2021-04-01,Lee,FL,2
-2021-04-01,Miami-Dade,FL,4
+2021-04-01,Miami-Dade,FL,6
 2021-04-01,Monroe,FL,1
-2021-04-01,Orange,FL,2
-2021-04-01,Palm Beach,FL,3
+2021-04-01,Orange,FL,3
+2021-04-01,Palm Beach,FL,6
 2021-04-01,Pinellas,FL,3
 2021-04-01,Polk,FL,1
 2021-04-01,Walton,FL,1
@@ -4911,21 +4930,23 @@ time,county,stateprovince,num_requests
 2021-04-01,Bibb,GA,2
 2021-04-01,Chatham,GA,1
 2021-04-01,Clarke,GA,1
-2021-04-01,Clayton,GA,1
+2021-04-01,Clayton,GA,2
 2021-04-01,Cobb,GA,1
-2021-04-01,Coweta,GA,1
-2021-04-01,DeKalb,GA,2
+2021-04-01,Coweta,GA,2
+2021-04-01,DeKalb,GA,4
 2021-04-01,Fayette,GA,1
 2021-04-01,Fulton,GA,3
 2021-04-01,Grady,GA,1
-2021-04-01,Gwinnett,GA,4
+2021-04-01,Gwinnett,GA,5
 2021-04-01,Haralson,GA,1
 2021-04-01,Henry,GA,2
 2021-04-01,Irwin,GA,1
 2021-04-01,Lee,GA,1
 2021-04-01,Mitchell,GA,1
 2021-04-01,Muscogee,GA,1
+2021-04-01,Newton,GA,1
 2021-04-01,Richmond,GA,2
+2021-04-01,Rockdale,GA,1
 2021-04-01,Terrell,GA,1
 2021-04-01,Troup,GA,1
 2021-04-01,Wayne,GA,1
@@ -4934,56 +4955,73 @@ time,county,stateprovince,num_requests
 2021-04-01,Oklahoma,HI,1
 2021-04-01,Hancock,IA,1
 2021-04-01,Kossuth,IA,1
+2021-04-01,Lee,IA,1
 2021-04-01,Louisa,IA,1
-2021-04-01,Polk,IA,3
+2021-04-01,Polk,IA,4
 2021-04-01,Ada,ID,1
-2021-04-01,Cook,IL,12
+2021-04-01,Jefferson,ID,1
+2021-04-01,Cook,IL,23
 2021-04-01,DuPage,IL,1
+2021-04-01,Kendall,IL,1
 2021-04-01,LaSalle,IL,1
-2021-04-01,Lake,IL,3
+2021-04-01,Lake,IL,5
+2021-04-01,Madison,IL,2
 2021-04-01,Rock Island,IL,1
 2021-04-01,St. Clair,IL,1
+2021-04-01,Vermilion,IL,1
 2021-04-01,Williamson,IL,1
 2021-04-01,Allen,IN,1
 2021-04-01,Bartholomew,IN,2
 2021-04-01,Floyd,IN,1
+2021-04-01,Franklin,IN,1
+2021-04-01,Hendricks,IN,1
 2021-04-01,Madison,IN,1
-2021-04-01,Marion,IN,2
+2021-04-01,Marion,IN,3
+2021-04-01,Monroe,IN,1
+2021-04-01,Porter,IN,1
+2021-04-01,Ripley,IN,1
 2021-04-01,Johnson,KS,1
 2021-04-01,Adair,KY,1
 2021-04-01,Boyle,KY,1
 2021-04-01,Breckinridge,KY,3
 2021-04-01,Bullitt,KY,1
+2021-04-01,Garrard,KY,1
 2021-04-01,Grant,KY,1
-2021-04-01,Kenton,KY,1
+2021-04-01,Jefferson,KY,1
+2021-04-01,Kenton,KY,2
+2021-04-01,Marion,KY,1
+2021-04-01,Menifee,KY,1
 2021-04-01,Trigg,KY,1
 2021-04-01,Caddo Parish,LA,1
 2021-04-01,East Baton Rouge Parish,LA,2
 2021-04-01,East Feliciana Parish,LA,1
+2021-04-01,Evangeline Parish,LA,1
 2021-04-01,Jefferson Parish,LA,1
 2021-04-01,Orleans Parish,LA,3
 2021-04-01,Ouachita Parish,LA,1
 2021-04-01,St. John the Baptist Parish,LA,1
 2021-04-01,Barnstable,MA,1
 2021-04-01,Bristol,MA,1
-2021-04-01,Essex,MA,6
-2021-04-01,Hampden,MA,2
-2021-04-01,Middlesex,MA,1
+2021-04-01,Essex,MA,9
+2021-04-01,Hampden,MA,4
+2021-04-01,Middlesex,MA,4
 2021-04-01,Norfolk,MA,1
-2021-04-01,Worcester,MA,5
+2021-04-01,Worcester,MA,6
 2021-04-01,Baltimore,MD,5
-2021-04-01,Frederick,MD,1
+2021-04-01,Frederick,MD,2
+2021-04-01,Garrett,MD,1
 2021-04-01,Harford,MD,4
 2021-04-01,Howard,MD,1
 2021-04-01,Montgomery,MD,1
-2021-04-01,Prince George's,MD,5
+2021-04-01,Prince George's,MD,8
 2021-04-01,Cumberland,ME,1
 2021-04-01,Hancock,ME,1
+2021-04-01,Arenac,MI,1
 2021-04-01,Baraga,MI,1
-2021-04-01,Clare,MI,1
+2021-04-01,Clare,MI,2
 2021-04-01,Grand Traverse,MI,1
 2021-04-01,Ingham,MI,1
-2021-04-01,Kent,MI,2
+2021-04-01,Kent,MI,3
 2021-04-01,Livingston,MI,2
 2021-04-01,Macomb,MI,6
 2021-04-01,Marquette,MI,1
@@ -4991,51 +5029,63 @@ time,county,stateprovince,num_requests
 2021-04-01,Newaygo,MI,1
 2021-04-01,Oakland,MI,3
 2021-04-01,Ottawa,MI,1
-2021-04-01,Washtenaw,MI,1
-2021-04-01,Wayne,MI,2
+2021-04-01,St. Clair,MI,2
+2021-04-01,Washtenaw,MI,2
+2021-04-01,Wayne,MI,6
 2021-04-01,Crow Wing,MN,1
 2021-04-01,Dakota,MN,1
-2021-04-01,Hennepin,MN,2
-2021-04-01,Ramsey,MN,1
+2021-04-01,Hennepin,MN,5
+2021-04-01,Olmsted,MN,1
+2021-04-01,Ramsey,MN,2
 2021-04-01,Yellow Medicine,MN,1
+2021-04-01,Bates,MO,1
 2021-04-01,Daviess,MO,1
 2021-04-01,Henry,MO,1
+2021-04-01,Jackson,MO,1
 2021-04-01,Perry,MO,1
 2021-04-01,St. Francois,MO,1
-2021-04-01,St. Louis,MO,1
-2021-04-01,Attala,MS,1
+2021-04-01,St. Louis,MO,2
+2021-04-01,Attala,MS,2
 2021-04-01,Chickasaw,MS,1
 2021-04-01,Hinds,MS,3
 2021-04-01,Jackson,MS,1
 2021-04-01,Leflore,MS,1
 2021-04-01,Noxubee,MS,1
-2021-04-01,Sunflower,MS,1
+2021-04-01,Sunflower,MS,2
 2021-04-01,Tunica,MS,1
-2021-04-01,Bladen,NC,1
+2021-04-01,Lewis and Clark,MT,1
+2021-04-01,Bladen,NC,2
 2021-04-01,Buncombe,NC,1
 2021-04-01,Cumberland,NC,2
 2021-04-01,Dare,NC,1
+2021-04-01,Durham,NC,2
 2021-04-01,Gaston,NC,2
-2021-04-01,Guilford,NC,1
+2021-04-01,Guilford,NC,2
 2021-04-01,Henderson,NC,1
+2021-04-01,Jackson,NC,1
 2021-04-01,Mecklenburg,NC,1
 2021-04-01,Randolph,NC,1
+2021-04-01,Robeson,NC,1
 2021-04-01,Rutherford,NC,1
 2021-04-01,Sampson,NC,1
+2021-04-01,Stanly,NC,1
 2021-04-01,Vance,NC,2
 2021-04-01,Wake,NC,2
+2021-04-01,Wilkes,NC,2
 2021-04-01,Burleigh,ND,1
+2021-04-01,Sioux,ND,1
 2021-04-01,Ward,ND,1
 2021-04-01,Douglas,NE,3
 2021-04-01,Washington,NE,1
+2021-04-01,Belknap,NH,1
 2021-04-01,Atlantic,NJ,1
-2021-04-01,Bergen,NJ,5
-2021-04-01,Camden,NJ,2
-2021-04-01,Essex,NJ,1
+2021-04-01,Bergen,NJ,7
+2021-04-01,Camden,NJ,3
+2021-04-01,Essex,NJ,3
 2021-04-01,Gloucester,NJ,1
 2021-04-01,Mercer,NJ,2
-2021-04-01,Middlesex,NJ,1
-2021-04-01,Monmouth,NJ,1
+2021-04-01,Middlesex,NJ,3
+2021-04-01,Monmouth,NJ,2
 2021-04-01,Passaic,NJ,2
 2021-04-01,Salem,NJ,1
 2021-04-01,Sussex,NJ,1
@@ -5044,27 +5094,32 @@ time,county,stateprovince,num_requests
 2021-04-01,Chaves,NM,1
 2021-04-01,McKinley,NM,1
 2021-04-01,Sandoval,NM,1
-2021-04-01,Bronx,NY,11
+2021-04-01,Sierra,NM,3
+2021-04-01,Clark,NV,1
+2021-04-01,Washoe,NV,1
+2021-04-01,Bronx,NY,13
 2021-04-01,Broome,NY,1
 2021-04-01,Erie,NY,1
-2021-04-01,Kings,NY,6
-2021-04-01,Montgomery,NY,2
-2021-04-01,Nassau,NY,3
-2021-04-01,New York,NY,11
+2021-04-01,Kings,NY,8
+2021-04-01,Madison,NY,1
+2021-04-01,Montgomery,NY,3
+2021-04-01,Nassau,NY,5
+2021-04-01,New York,NY,13
 2021-04-01,Ontario,NY,1
 2021-04-01,Orange,NY,1
-2021-04-01,Queens,NY,6
+2021-04-01,Queens,NY,10
 2021-04-01,Rensselaer,NY,1
 2021-04-01,Richmond,NY,1
-2021-04-01,Suffolk,NY,3
+2021-04-01,Suffolk,NY,6
 2021-04-01,Sullivan,NY,1
+2021-04-01,Tompkins,NY,1
 2021-04-01,Ulster,NY,1
-2021-04-01,Westchester,NY,1
+2021-04-01,Westchester,NY,2
 2021-04-01,Auglaize,OH,2
 2021-04-01,Clark,OH,1
-2021-04-01,Cuyahoga,OH,3
-2021-04-01,Franklin,OH,3
-2021-04-01,Hamilton,OH,3
+2021-04-01,Cuyahoga,OH,4
+2021-04-01,Franklin,OH,7
+2021-04-01,Hamilton,OH,6
 2021-04-01,Holmes,OH,1
 2021-04-01,Huron,OH,1
 2021-04-01,Lucas,OH,1
@@ -5075,79 +5130,436 @@ time,county,stateprovince,num_requests
 2021-04-01,Wayne,OH,1
 2021-04-01,Adair,OK,1
 2021-04-01,McCurtain,OK,1
-2021-04-01,Tulsa,OK,2
+2021-04-01,Tulsa,OK,4
 2021-04-01,Wagoner,OK,1
 2021-04-01,Toronto Division,ONTARIO,1
+2021-04-01,Benton,OR,1
 2021-04-01,Clackamas,OR,3
-2021-04-01,Linn,OR,1
-2021-04-01,Multnomah,OR,2
+2021-04-01,Linn,OR,4
+2021-04-01,Multnomah,OR,5
 2021-04-01,Polk,OR,1
+2021-04-01,Umatilla,OR,1
 2021-04-01,Washington,OR,4
+2021-04-01,Yamhill,OR,1
 2021-04-01,Allegheny,PA,1
+2021-04-01,Berks,PA,1
+2021-04-01,Bucks,PA,3
 2021-04-01,Cambria,PA,1
-2021-04-01,Dauphin,PA,1
-2021-04-01,Delaware,PA,2
+2021-04-01,Chester,PA,1
+2021-04-01,Clarion,PA,1
+2021-04-01,Dauphin,PA,2
+2021-04-01,Delaware,PA,4
 2021-04-01,Erie,PA,2
 2021-04-01,Franklin,PA,1
-2021-04-01,Lackawanna,PA,2
-2021-04-01,Lebanon,PA,1
-2021-04-01,Lycoming,PA,1
-2021-04-01,Montgomery,PA,4
-2021-04-01,Philadelphia,PA,4
-2021-04-01,Potter,PA,1
-2021-04-01,Venango,PA,1
-2021-04-01,York,PA,2
-2021-04-01,Providence,RI,2
-2021-04-01,Greenville,SC,1
-2021-04-01,Lancaster,SC,1
-2021-04-01,Spartanburg,SC,1
-2021-04-01,Sumter,SC,1
-2021-04-01,York,SC,1
-2021-04-01,Minnehaha,SD,1
-2021-04-01,Blount,TN,1
-2021-04-01,Bradley,TN,2
-2021-04-01,Rutherford,TN,1
-2021-04-01,Shelby,TN,1
-2021-04-01,Sumner,TN,1
-2021-04-01,Bexar,TX,2
-2021-04-01,Cameron,TX,4
-2021-04-01,Collin,TX,3
-2021-04-01,Comal,TX,1
-2021-04-01,Dallas,TX,3
-2021-04-01,Denton,TX,4
-2021-04-01,Fort Bend,TX,2
-2021-04-01,Gregg,TX,1
-2021-04-01,Harris,TX,9
-2021-04-01,Hays,TX,1
-2021-04-01,Hidalgo,TX,6
-2021-04-01,Hunt,TX,1
-2021-04-01,Jefferson,TX,1
-2021-04-01,Lubbock,TX,1
-2021-04-01,McLennan,TX,1
-2021-04-01,Montgomery,TX,3
-2021-04-01,Rusk,TX,2
-2021-04-01,Starr,TX,1
-2021-04-01,Tarrant,TX,5
-2021-04-01,Webb,TX,1
-2021-04-01,Wichita,TX,1
-2021-04-01,Williamson,TX,2
-2021-04-01,Zavala,TX,1
-2021-04-01,Summit,UT,1
-2021-04-01,Albemarle,VA,1
-2021-04-01,Carroll,VA,1
-2021-04-01,Chesterfield,VA,1
-2021-04-01,Clarke,VA,1
-2021-04-01,Fairfax,VA,5
-2021-04-01,Henrico,VA,1
-2021-04-01,Loudoun,VA,3
-2021-04-01,Rutland,VT,1
-2021-04-01,Windham,VT,2
-2021-04-01,Windsor,VT,1
-2021-04-01,Grays Harbor,WA,1
-2021-04-01,King,WA,4
-2021-04-01,Pierce,WA,2
-2021-04-01,Barron,WI,1
-2021-04-01,St. Croix,WI,1
-2021-04-01,Washington,WI,1
-2021-04-01,Berkeley,WV,1
-2021-04-01,Mineral,WV,1
+4/1/21,Lackawanna,PA,2
+4/1/21,Lebanon,PA,1
+4/1/21,Lycoming,PA,1
+4/1/21,Monroe,PA,1
+4/1/21,Montgomery,PA,5
+4/1/21,Philadelphia,PA,6
+4/1/21,Potter,PA,1
+4/1/21,Venango,PA,1
+4/1/21,York,PA,2
+4/1/21,Pueblo,PR,1
+4/1/21,Providence,RI,3
+4/1/21,Dorchester,SC,1
+4/1/21,Greenville,SC,1
+4/1/21,Lancaster,SC,1
+4/1/21,Spartanburg,SC,1
+4/1/21,Sumter,SC,1
+4/1/21,York,SC,1
+4/1/21,Minnehaha,SD,1
+4/1/21,Yankton,SD,1
+4/1/21,Blount,TN,1
+4/1/21,Bradley,TN,2
+4/1/21,Rutherford,TN,2
+4/1/21,Shelby,TN,1
+4/1/21,Sumner,TN,1
+4/1/21,Williamson,TN,1
+4/1/21,Bexar,TX,4
+4/1/21,Cameron,TX,4
+4/1/21,Collin,TX,4
+4/1/21,Comal,TX,1
+4/1/21,Coryell,TX,1
+4/1/21,Dallas,TX,7
+4/1/21,Denton,TX,6
+4/1/21,El Paso,TX,1
+4/1/21,Fort Bend,TX,3
+4/1/21,Gregg,TX,1
+4/1/21,Harris,TX,16
+4/1/21,Harrison,TX,1
+4/1/21,Hays,TX,1
+4/1/21,Hidalgo,TX,10
+4/1/21,Hunt,TX,1
+4/1/21,Jefferson,TX,1
+4/1/21,Lubbock,TX,1
+4/1/21,McLennan,TX,1
+4/1/21,Montgomery,TX,3
+4/1/21,Rusk,TX,4
+4/1/21,Starr,TX,1
+4/1/21,Tarrant,TX,6
+4/1/21,Travis,TX,1
+4/1/21,Webb,TX,1
+4/1/21,Wichita,TX,1
+4/1/21,Williamson,TX,2
+4/1/21,Zavala,TX,1
+4/1/21,Summit,UT,1
+4/1/21,Weber,UT,1
+4/1/21,Albemarle,VA,1
+4/1/21,Arlington,VA,3
+4/1/21,Carroll,VA,1
+4/1/21,Chesterfield,VA,1
+4/1/21,Clarke,VA,1
+4/1/21,Fairfax,VA,5
+4/1/21,Henrico,VA,1
+4/1/21,Loudoun,VA,4
+4/1/21,Orange,VT,1
+4/1/21,Rutland,VT,1
+4/1/21,Windham,VT,2
+4/1/21,Grays Harbor,WA,1
+4/1/21,King,WA,5
+4/1/21,Pierce,WA,2
+4/1/21,Yakima,WA,3
+4/1/21,Barron,WI,1
+4/1/21,Columbia,WI,1
+4/1/21,St. Croix,WI,1
+4/1/21,Washington,WI,1
+4/1/21,Berkeley,WV,1
+4/1/21,Mineral,WV,1
+5/1/21,Multnomah,AK,7
+5/1/21,Jefferson,AL,1
+5/1/21,Walker,AL,1
+5/1/21,Sebastian,AR,1
+5/1/21,Apache,AZ,1
+5/1/21,Cochise,AZ,1
+5/1/21,Coconino,AZ,1
+5/1/21,Maricopa,AZ,6
+5/1/21,Mohave,AZ,3
+5/1/21,Pima,AZ,2
+5/1/21,Alameda,CA,3
+5/1/21,Contra Costa,CA,4
+5/1/21,Fresno,CA,1
+5/1/21,Imperial,CA,1
+5/1/21,Kern,CA,2
+5/1/21,Los Angeles,CA,51
+5/1/21,Monterey,CA,3
+5/1/21,Orange,CA,7
+5/1/21,Riverside,CA,5
+5/1/21,San Bernardino,CA,5
+5/1/21,San Diego,CA,24
+5/1/21,San Francisco,CA,7
+5/1/21,San Joaquin,CA,3
+5/1/21,San Mateo,CA,3
+5/1/21,Santa Clara,CA,2
+5/1/21,Shasta,CA,1
+5/1/21,Solano,CA,5
+5/1/21,Ventura,CA,1
+5/1/21,Yolo,CA,1
+5/1/21,Arapahoe,CO,2
+5/1/21,Denver,CO,2
+5/1/21,El Paso,CO,2
+5/1/21,Fairfield,CT,1
+5/1/21,New Haven,CT,2
+5/1/21,Sussex,DE,1
+5/1/21,Alachua,FL,1
+5/1/21,Broward,FL,4
+5/1/21,Collier,FL,1
+5/1/21,Duval,FL,2
+5/1/21,Lake,FL,2
+5/1/21,Lee,FL,3
+5/1/21,Marion,FL,1
+5/1/21,Miami-Dade,FL,4
+5/1/21,Monroe,FL,1
+5/1/21,Orange,FL,3
+5/1/21,Palm Beach,FL,3
+5/1/21,Clayton,GA,1
+5/1/21,Cobb,GA,1
+5/1/21,DeKalb,GA,1
+5/1/21,Douglas,GA,1
+5/1/21,Fannin,GA,1
+5/1/21,Fulton,GA,3
+5/1/21,Gwinnett,GA,5
+5/1/21,Hancock,GA,1
+5/1/21,Irwin,GA,1
+5/1/21,Mitchell,GA,1
+5/1/21,Richmond,GA,1
+5/1/21,Terrell,GA,1
+5/1/21,Troup,GA,1
+5/1/21,Wayne,GA,1
+5/1/21,Honolulu,HI,2
+5/1/21,Hancock,IA,2
+5/1/21,Lee,IA,1
+5/1/21,Polk,IA,1
+5/1/21,Ada,ID,1
+5/1/21,Cook,IL,12
+5/1/21,Madison,IL,1
+5/1/21,Sangamon,IL,2
+5/1/21,Williamson,IL,3
+5/1/21,Allen,IN,1
+5/1/21,Franklin,IN,1
+5/1/21,Gibson,IN,1
+5/1/21,Madison,IN,1
+5/1/21,Marion,IN,3
+5/1/21,Johnson,KS,1
+5/1/21,Boyle,KY,1
+5/1/21,Bullitt,KY,2
+5/1/21,Carroll,KY,1
+5/1/21,Garrard,KY,1
+5/1/21,Jefferson,KY,1
+5/1/21,Whitley,KY,1
+5/1/21,Caddo Parish,LA,1
+5/1/21,East Baton Rouge Parish,LA,2
+5/1/21,Orleans Parish,LA,1
+5/1/21,St. Bernard Parish,LA,1
+5/1/21,St. John the Baptist Parish,LA,1
+5/1/21,Essex,MA,6
+5/1/21,Hampden,MA,3
+5/1/21,Middlesex,MA,2
+5/1/21,Norfolk,MA,1
+5/1/21,Worcester,MA,1
+5/1/21,Baltimore,MD,2
+5/1/21,Harford,MD,2
+5/1/21,Montgomery,MD,2
+5/1/21,Prince George's,MD,3
+5/1/21,Cumberland,ME,2
+5/1/21,Jackson,MI,1
+5/1/21,Kent,MI,2
+5/1/21,Macomb,MI,3
+5/1/21,Marquette,MI,1
+5/1/21,Muskegon,MI,1
+5/1/21,Washtenaw,MI,1
+5/1/21,Wayne,MI,2
+5/1/21,Dakota,MN,1
+5/1/21,Ramsey,MN,1
+5/1/21,Yellow Medicine,MN,1
+5/1/21,Gasconade,MO,1
+5/1/21,Jackson,MO,1
+5/1/21,St. Francois,MO,1
+5/1/21,St. Louis,MO,2
+5/1/21,Bolivar,MS,1
+5/1/21,DeSoto,MS,2
+5/1/21,Harrison,MS,1
+5/1/21,Jackson,MS,1
+5/1/21,Noxubee,MS,1
+5/1/21,Sunflower,MS,1
+5/1/21,Tunica,MS,1
+5/1/21,Cumberland,NC,1
+5/1/21,Gaston,NC,1
+5/1/21,Guilford,NC,1
+5/1/21,Mecklenburg,NC,1
+5/1/21,Randolph,NC,1
+5/1/21,Rutherford,NC,1
+5/1/21,Vance,NC,2
+5/1/21,Wake,NC,1
+5/1/21,Ward,ND,1
+5/1/21,Douglas,NE,2
+5/1/21,Belknap,NH,1
+5/1/21,Carroll,NH,1
+5/1/21,Bergen,NJ,3
+5/1/21,Camden,NJ,3
+5/1/21,Essex,NJ,3
+5/1/21,Middlesex,NJ,1
+5/1/21,Somerset,NJ,1
+5/1/21,Sussex,NJ,1
+5/1/21,Sierra,NM,1
+5/1/21,Clark,NV,1
+5/1/21,Allegany,NY,1
+5/1/21,Bronx,NY,9
+5/1/21,Broome,NY,1
+5/1/21,Essex,NY,1
+5/1/21,Franklin,NY,1
+5/1/21,Fulton,NY,1
+5/1/21,Kings,NY,5
+5/1/21,Nassau,NY,1
+5/1/21,New York,NY,5
+5/1/21,Ontario,NY,1
+5/1/21,Queens,NY,3
+5/1/21,Richmond,NY,2
+5/1/21,Suffolk,NY,2
+5/1/21,Clark,OH,1
+5/1/21,Cuyahoga,OH,3
+5/1/21,Franklin,OH,2
+5/1/21,Huron,OH,1
+5/1/21,Knox,OH,1
+5/1/21,Lucas,OH,1
+5/1/21,Scioto,OH,2
+5/1/21,Seneca,OH,1
+5/1/21,Summit,OH,1
+5/1/21,Wayne,OH,1
+5/1/21,Oklahoma,OK,1
+5/1/21,Tulsa,OK,2
+5/1/21,Wagoner,OK,1
+5/1/21,Toronto Division,ONTARIO,1
+5/1/21,Benton,OR,1
+5/1/21,Clackamas,OR,2
+5/1/21,Linn,OR,1
+5/1/21,Multnomah,OR,2
+5/1/21,Polk,OR,1
+5/1/21,Washington,OR,2
+5/1/21,Yamhill,OR,1
+5/1/21,Erie,PA,1
+5/1/21,Franklin,PA,1
+5/1/21,Lycoming,PA,1
+5/1/21,Montgomery,PA,3
+5/1/21,Philadelphia,PA,3
+5/1/21,Potter,PA,1
+5/1/21,Providence,RI,2
+5/1/21,Blount,TN,1
+5/1/21,Hamilton,TN,1
+5/1/21,Bexar,TX,2
+5/1/21,Brazoria,TX,1
+5/1/21,Cameron,TX,1
+5/1/21,Collin,TX,1
+5/1/21,Dallas,TX,4
+5/1/21,Denton,TX,1
+5/1/21,Fort Bend,TX,3
+5/1/21,Harris,TX,9
+5/1/21,Hidalgo,TX,1
+5/1/21,Hunt,TX,2
+5/1/21,Jefferson,TX,1
+5/1/21,Montgomery,TX,1
+5/1/21,Starr,TX,1
+5/1/21,Tarrant,TX,3
+5/1/21,Travis,TX,1
+5/1/21,Webb,TX,1
+5/1/21,Williamson,TX,1
+5/1/21,Washington,UT,1
+5/1/21,Arlington,VA,3
+5/1/21,Fairfax,VA,3
+5/1/21,Loudoun,VA,3
+5/1/21,Orange,VT,1
+5/1/21,Windham,VT,2
+5/1/21,Grays Harbor,WA,1
+5/1/21,King,WA,3
+5/1/21,Snohomish,WA,1
+5/1/21,Barron,WI,1
+5/1/21,Washington,WI,1
+5/1/21,Berkeley,WV,1
+6/1/21,Multnomah,AK,2
+6/1/21,Jefferson,AL,1
+6/1/21,Coconino,AZ,1
+6/1/21,Maricopa,AZ,1
+6/1/21,Mohave,AZ,1
+6/1/21,Contra Costa,CA,3
+6/1/21,Los Angeles,CA,19
+6/1/21,Monterey,CA,1
+6/1/21,Orange,CA,6
+6/1/21,Riverside,CA,1
+6/1/21,San Bernardino,CA,1
+6/1/21,San Diego,CA,5
+6/1/21,San Francisco,CA,1
+6/1/21,Santa Clara,CA,2
+6/1/21,Solano,CA,2
+6/1/21,Sonoma,CA,1
+6/1/21,Yolo,CA,2
+6/1/21,Arapahoe,CO,1
+6/1/21,Denver,CO,1
+6/1/21,New Castle,DE,1
+6/1/21,Alachua,FL,1
+6/1/21,Indian River,FL,1
+6/1/21,Lake,FL,1
+6/1/21,Miami-Dade,FL,1
+6/1/21,Orange,FL,1
+6/1/21,Palm Beach,FL,1
+6/1/21,Pasco,FL,1
+6/1/21,Chatham,GA,1
+6/1/21,Clayton,GA,1
+6/1/21,Douglas,GA,3
+6/1/21,Fulton,GA,1
+6/1/21,Grady,GA,1
+6/1/21,Gwinnett,GA,2
+6/1/21,Mitchell,GA,1
+6/1/21,Ada,ID,1
+6/1/21,Cook,IL,6
+6/1/21,Vermilion,IL,1
+6/1/21,Carroll,KY,1
+6/1/21,Franklin,KY,1
+6/1/21,Marion,KY,1
+6/1/21,Trigg,KY,1
+6/1/21,Caddo Parish,LA,1
+6/1/21,East Baton Rouge Parish,LA,1
+6/1/21,Essex,MA,5
+6/1/21,Hampden,MA,1
+6/1/21,Worcester,MA,5
+6/1/21,Baltimore,MD,2
+6/1/21,Harford,MD,3
+6/1/21,Montgomery,MD,1
+6/1/21,Macomb,MI,3
+6/1/21,Marquette,MI,1
+6/1/21,Wayne,MI,1
+6/1/21,Carlton,MN,1
+6/1/21,Daviess,MO,1
+6/1/21,St. Francois,MO,1
+6/1/21,Hinds,MS,1
+6/1/21,Sunflower,MS,1
+6/1/21,Lewis and Clark,MT,1
+6/1/21,Bladen,NC,1
+6/1/21,Cumberland,NC,1
+6/1/21,Durham,NC,1
+6/1/21,Vance,NC,1
+6/1/21,Belknap,NH,1
+6/1/21,Camden,NJ,1
+6/1/21,Monmouth,NJ,1
+6/1/21,Sussex,NJ,1
+6/1/21,Sierra,NM,1
+6/1/21,Clark,NV,1
+6/1/21,Bronx,NY,6
+6/1/21,Dutchess,NY,1
+6/1/21,Erie,NY,1
+6/1/21,Essex,NY,1
+6/1/21,Franklin,NY,1
+6/1/21,Kings,NY,3
+6/1/21,Nassau,NY,2
+6/1/21,New York,NY,5
+6/1/21,Ontario,NY,1
+6/1/21,Queens,NY,4
+6/1/21,Suffolk,NY,1
+6/1/21,Sullivan,NY,1
+6/1/21,Cuyahoga,OH,2
+6/1/21,Franklin,OH,1
+6/1/21,Oklahoma,OK,2
+6/1/21,Multnomah,OR,1
+6/1/21,Delaware,PA,4
+6/1/21,Erie,PA,1
+6/1/21,Monroe,PA,1
+6/1/21,Montgomery,PA,2
+6/1/21,Philadelphia,PA,3
+6/1/21,Potter,PA,1
+6/1/21,Providence,RI,2
+6/1/21,Bell,TX,1
+6/1/21,Bexar,TX,2
+6/1/21,Cameron,TX,1
+6/1/21,Collin,TX,2
+6/1/21,Coryell,TX,1
+6/1/21,Dallas,TX,2
+6/1/21,Harris,TX,4
+6/1/21,Hays,TX,1
+6/1/21,Hidalgo,TX,4
+6/1/21,Nueces,TX,1
+6/1/21,Tarrant,TX,1
+6/1/21,Zavala,TX,1
+6/1/21,Arlington,VA,1
+6/1/21,Fairfax,VA,1
+6/1/21,Loudoun,VA,1
+6/1/21,Windham,VT,2
+6/1/21,Adams,WA,5
+6/1/21,Chelan,WA,1
+6/1/21,Clark,WA,4
+6/1/21,Cowlitz,WA,1
+6/1/21,Grant,WA,2
+6/1/21,Grays Harbor,WA,2
+6/1/21,King,WA,10
+6/1/21,Kitsap,WA,1
+6/1/21,Lewis,WA,1
+6/1/21,Mason,WA,3
+6/1/21,Pierce,WA,3
+6/1/21,San Juan,WA,1
+6/1/21,Spokane,WA,3
+6/1/21,Thurston,WA,1
+6/1/21,Whatcom,WA,4
+6/1/21,Whitman,WA,1
+6/1/21,Yakima,WA,1
+6/1/21,Milwaukee,WI,1
+6/1/21,St. Croix,WI,1
+6/1/21,Berkeley,WV,1
+6/1/21,Raleigh,WV,1
