@@ -18,14 +18,15 @@ WITH hospitals_map AS
       AS is_hospital 
    FROM
       gateway.request r 
-      LEFT JOIN
+      INNER JOIN
          `gateway.facility` f 
          ON f.id = r.facilityid 
-      LEFT JOIN
+        INNER JOIN
          `gateway.facilitytype` ft 
          ON f.facilitytypeid = ft.id 
    WHERE
-      f.isactive = TRUE 
+      -- remove merged facilities - a new facility row was created on merge
+      f.mergedintofacilityid is null
 )
 , requests_per_month AS 
 (
@@ -34,13 +35,12 @@ WITH hospitals_map AS
       COUNT(r.id) total_requests 
    FROM
       gateway.request r 
-      LEFT JOIN
+      INNER JOIN
          gateway.facility f 
          ON r.facilityid = f.id 
    WHERE
-      r.datecreated IS NOT NULL 
-      AND r.facilityid IS NOT NULL 
-      AND f.isactive = TRUE 
+      -- remove merged facilities - a new facility row was created on merge
+      f.mergedintofacilityid is null
    GROUP BY
       MONTH 
    ORDER BY
@@ -55,16 +55,16 @@ requests_by_facility_type AS
       hm.is_hospital,
    FROM
       gateway.request r 
+      INNER JOIN
+         gateway.facility f 
+         ON r.facilityid = f.id 
       LEFT JOIN
          hospitals_map hm 
          ON hm.id = r.facilityid 
-      LEFT JOIN
-         gateway.facility f 
-         ON r.facilityid = f.id 
+
    WHERE
-      r.datecreated IS NOT NULL 
-      AND r.facilityid IS NOT NULL 
-      AND f.isactive = TRUE 
+      -- remove merged facilities - a new facility row was created on merge
+      f.mergedintofacilityid is null
    GROUP BY
       MONTH,
       hm.is_hospital 
