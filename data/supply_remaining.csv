@@ -1,777 +1,821 @@
-month,equipment_type,supply,num_requested_types,total_requests,pct_requests
-4/1/20,Cloth Masks,0 Days,291,6857,4.243838413
-4/1/20,Cloth Masks,<= 7 Days,132,6857,1.925040105
-4/1/20,Cloth Masks,> 7 Days,174,6857,2.537552866
-4/1/20,Disinfecting Wipes,0 Days,199,6857,2.902143795
-4/1/20,Disinfecting Wipes,<= 7 Days,415,6857,6.052209421
-4/1/20,Disinfecting Wipes,> 7 Days,552,6857,8.050167712
-4/1/20,Disposable Booties,0 Days,235,6857,3.427154732
-4/1/20,Disposable Booties,<= 7 Days,140,6857,2.041709202
-4/1/20,Disposable Booties,> 7 Days,248,6857,3.616742015
-4/1/20,Face Shields,0 Days,429,6857,6.256380341
-4/1/20,Face Shields,<= 7 Days,269,6857,3.922998396
-4/1/20,Face Shields,> 7 Days,478,6857,6.970978562
-4/1/20,Gowns,0 Days,242,6857,3.529240193
-4/1/20,Gowns,<= 7 Days,370,6857,5.395945749
-4/1/20,Gowns,> 7 Days,607,6857,8.852267756
-4/1/20,Hand Sanitizer,0 Days,80,6857,1.166690973
-4/1/20,Hand Sanitizer,<= 7 Days,308,6857,4.491760245
-4/1/20,Hand Sanitizer,> 7 Days,239,6857,3.485489281
-4/1/20,N95 Respirators,0 Days,287,6857,4.185503865
-4/1/20,N95 Respirators,<= 7 Days,369,6857,5.381362112
-4/1/20,N95 Respirators,> 7 Days,719,6857,10.48563512
-4/1/20,Nitrile Gloves,0 Days,36,6857,0.5250109377
-4/1/20,Nitrile Gloves,<= 7 Days,231,6857,3.368820184
-4/1/20,Nitrile Gloves,> 7 Days,605,6857,8.823100481
-4/1/20,Surgical Masks,0 Days,68,6857,0.9916873268
-4/1/20,Surgical Masks,<= 7 Days,167,6857,2.435467406
-4/1/20,Surgical Masks,> 7 Days,338,6857,4.92926936
-4/1/20,Thermometers,0 Days,262,6857,3.820912936
-4/1/20,Thermometers,<= 7 Days,165,6857,2.406300131
-4/1/20,Thermometers,> 7 Days,349,6857,5.089689369
-5/1/20,Body Bags,0 Days,29,2584,1.122291022
-5/1/20,Coveralls / Bunny Suits,0 Days,169,2584,6.540247678
-5/1/20,Coveralls / Bunny Suits,<= 7 Days,19,2584,0.7352941176
-5/1/20,Coveralls / Bunny Suits,> 7 Days,15,2584,0.580495356
-5/1/20,Disinfecting Wipes,0 Days,417,2584,16.1377709
-5/1/20,Disinfecting Wipes,<= 7 Days,104,2584,4.024767802
-5/1/20,Disinfecting Wipes,> 7 Days,92,2584,3.560371517
-5/1/20,Disposable Booties,0 Days,211,2584,8.165634675
-5/1/20,Disposable Booties,<= 7 Days,26,2584,1.00619195
-5/1/20,Disposable Booties,> 7 Days,25,2584,0.9674922601
-5/1/20,Face Shields,0 Days,354,2584,13.6996904
-5/1/20,Face Shields,<= 7 Days,70,2584,2.708978328
-5/1/20,Face Shields,> 7 Days,65,2584,2.515479876
-5/1/20,Hand Sanitizer,0 Days,337,2584,13.04179567
-5/1/20,Hand Sanitizer,<= 7 Days,96,2584,3.715170279
-5/1/20,Hand Sanitizer,> 7 Days,140,2584,5.417956656
-5/1/20,N95 Respirators,0 Days,596,2584,23.06501548
-5/1/20,N95 Respirators,<= 7 Days,121,2584,4.682662539
-5/1/20,N95 Respirators,> 7 Days,171,2584,6.617647059
-5/1/20,Nitrile Gloves,0 Days,190,2584,7.352941176
-5/1/20,Nitrile Gloves,<= 7 Days,67,2584,2.592879257
-5/1/20,Nitrile Gloves,> 7 Days,97,2584,3.753869969
-5/1/20,PAPR Replacement Face Shields,0 Days,44,2584,1.702786378
-5/1/20,Safety Glasses,0 Days,106,2584,4.102167183
-5/1/20,Safety Glasses,<= 7 Days,13,2584,0.5030959752
-5/1/20,Safety Glasses,> 7 Days,9,2584,0.3482972136
-5/1/20,Safety Goggles,0 Days,205,2584,7.933436533
-5/1/20,Safety Goggles,<= 7 Days,17,2584,0.6578947368
-5/1/20,Safety Goggles,> 7 Days,21,2584,0.8126934985
-5/1/20,Surgical Caps / Bouffant Caps,0 Days,190,2584,7.352941176
-5/1/20,Surgical Caps / Bouffant Caps,<= 7 Days,25,2584,0.9674922601
-5/1/20,Surgical Caps / Bouffant Caps,> 7 Days,19,2584,0.7352941176
-5/1/20,Surgical Masks,0 Days,287,2584,11.10681115
-5/1/20,Surgical Masks,<= 7 Days,144,2584,5.572755418
-5/1/20,Surgical Masks,> 7 Days,187,2584,7.236842105
-6/1/20,Body Bags,0 Days,64,3345,1.913303438
-6/1/20,Coveralls / Bunny Suits,0 Days,277,3345,8.281016442
-6/1/20,Coveralls / Bunny Suits,<= 7 Days,44,3345,1.315396114
-6/1/20,Coveralls / Bunny Suits,> 7 Days,49,3345,1.464872945
-6/1/20,Disinfecting Wipes,0 Days,690,3345,20.62780269
-6/1/20,Disinfecting Wipes,<= 7 Days,262,3345,7.832585949
-6/1/20,Disinfecting Wipes,> 7 Days,364,3345,10.8819133
-6/1/20,Disposable Booties,0 Days,414,3345,12.37668161
-6/1/20,Disposable Booties,<= 7 Days,59,3345,1.763826607
-6/1/20,Disposable Booties,> 7 Days,89,3345,2.660687593
-6/1/20,Face Shields,0 Days,479,3345,14.31988042
-6/1/20,Face Shields,<= 7 Days,112,3345,3.348281016
-6/1/20,Face Shields,> 7 Days,211,3345,6.307922272
-6/1/20,Hand Sanitizer,0 Days,473,3345,14.14050822
-6/1/20,Hand Sanitizer,<= 7 Days,259,3345,7.742899851
-6/1/20,Hand Sanitizer,> 7 Days,369,3345,11.03139013
-6/1/20,N95 Respirators,0 Days,842,3345,25.17189836
-6/1/20,N95 Respirators,<= 7 Days,293,3345,8.759342302
-6/1/20,N95 Respirators,> 7 Days,499,3345,14.91778774
-6/1/20,Nitrile Gloves,0 Days,303,3345,9.058295964
-6/1/20,Nitrile Gloves,<= 7 Days,201,3345,6.00896861
-6/1/20,Nitrile Gloves,> 7 Days,341,3345,10.19431988
-6/1/20,PAPR Replacement Face Shields,0 Days,119,3345,3.55754858
-6/1/20,Safety Glasses,0 Days,281,3345,8.400597907
-6/1/20,Safety Glasses,<= 7 Days,24,3345,0.7174887892
-6/1/20,Safety Glasses,> 7 Days,61,3345,1.823617339
-6/1/20,Safety Goggles,0 Days,334,3345,9.985052317
-6/1/20,Safety Goggles,<= 7 Days,48,3345,1.434977578
-6/1/20,Safety Goggles,> 7 Days,77,3345,2.301943199
-6/1/20,Surgical Caps / Bouffant Caps,0 Days,333,3345,9.955156951
-6/1/20,Surgical Caps / Bouffant Caps,<= 7 Days,64,3345,1.913303438
-6/1/20,Surgical Caps / Bouffant Caps,> 7 Days,90,3345,2.69058296
-6/1/20,Surgical Masks,0 Days,411,3345,12.28699552
-6/1/20,Surgical Masks,<= 7 Days,374,3345,11.18086697
-6/1/20,Surgical Masks,> 7 Days,561,3345,16.77130045
-7/1/20,Body Bags,0 Days,7,806,0.8684863524
-7/1/20,Coveralls / Bunny Suits,0 Days,48,806,5.955334988
-7/1/20,Coveralls / Bunny Suits,<= 7 Days,7,806,0.8684863524
-7/1/20,Coveralls / Bunny Suits,> 7 Days,7,806,0.8684863524
-7/1/20,Disinfecting Wipes,0 Days,202,806,25.06203474
-7/1/20,Disinfecting Wipes,<= 7 Days,66,806,8.188585608
-7/1/20,Disinfecting Wipes,> 7 Days,66,806,8.188585608
-7/1/20,Disposable Booties,0 Days,75,806,9.305210918
-7/1/20,Disposable Booties,<= 7 Days,12,806,1.488833747
-7/1/20,Disposable Booties,> 7 Days,14,806,1.736972705
-7/1/20,Face Shields,0 Days,155,806,19.23076923
-7/1/20,Face Shields,<= 7 Days,21,806,2.605459057
-7/1/20,Face Shields,> 7 Days,54,806,6.699751861
-7/1/20,Hand Sanitizer,0 Days,103,806,12.77915633
-7/1/20,Hand Sanitizer,<= 7 Days,49,806,6.079404467
-7/1/20,Hand Sanitizer,> 7 Days,98,806,12.15880893
-7/1/20,N95 Respirators,0 Days,232,806,28.78411911
-7/1/20,N95 Respirators,<= 7 Days,53,806,6.575682382
-7/1/20,N95 Respirators,> 7 Days,114,806,14.1439206
-7/1/20,Nitrile Gloves,0 Days,80,806,9.925558313
-7/1/20,Nitrile Gloves,<= 7 Days,43,806,5.334987593
-7/1/20,Nitrile Gloves,> 7 Days,74,806,9.181141439
-7/1/20,PAPR Replacement Face Shields,0 Days,32,806,3.970223325
-7/1/20,Safety Glasses,0 Days,56,806,6.947890819
-7/1/20,Safety Glasses,<= 7 Days,8,806,0.9925558313
-7/1/20,Safety Glasses,> 7 Days,10,806,1.240694789
-7/1/20,Safety Goggles,0 Days,66,806,8.188585608
-7/1/20,Safety Goggles,<= 7 Days,8,806,0.9925558313
-7/1/20,Safety Goggles,> 7 Days,23,806,2.853598015
-7/1/20,Surgical Caps / Bouffant Caps,0 Days,64,806,7.94044665
-7/1/20,Surgical Caps / Bouffant Caps,<= 7 Days,12,806,1.488833747
-7/1/20,Surgical Caps / Bouffant Caps,> 7 Days,21,806,2.605459057
-7/1/20,Surgical Masks,0 Days,97,806,12.03473945
-7/1/20,Surgical Masks,<= 7 Days,65,806,8.064516129
-7/1/20,Surgical Masks,> 7 Days,144,806,17.86600496
-8/1/20,Body Bags,0 Days,11,392,2.806122449
-8/1/20,Coveralls / Bunny Suits,0 Days,54,392,13.7755102
-8/1/20,Coveralls / Bunny Suits,<= 7 Days,3,392,0.7653061224
-8/1/20,Coveralls / Bunny Suits,> 7 Days,8,392,2.040816327
-8/1/20,Disinfecting Wipes,0 Days,137,392,34.94897959
-8/1/20,Disinfecting Wipes,<= 7 Days,33,392,8.418367347
-8/1/20,Disinfecting Wipes,> 7 Days,64,392,16.32653061
-8/1/20,Disposable Booties,0 Days,67,392,17.09183673
-8/1/20,Disposable Booties,<= 7 Days,8,392,2.040816327
-8/1/20,Disposable Booties,> 7 Days,5,392,1.275510204
-8/1/20,Face Shields,0 Days,93,392,23.7244898
-8/1/20,Face Shields,<= 7 Days,15,392,3.826530612
-8/1/20,Face Shields,> 7 Days,33,392,8.418367347
-8/1/20,Gowns,0 Days,76,392,19.3877551
-8/1/20,Gowns,<= 7 Days,26,392,6.632653061
-8/1/20,Gowns,> 7 Days,31,392,7.908163265
-8/1/20,Hand Sanitizer,0 Days,82,392,20.91836735
-8/1/20,Hand Sanitizer,<= 7 Days,32,392,8.163265306
-8/1/20,Hand Sanitizer,> 7 Days,78,392,19.89795918
-8/1/20,N95 Respirators,0 Days,144,392,36.73469388
-8/1/20,N95 Respirators,<= 7 Days,22,392,5.612244898
-8/1/20,N95 Respirators,> 7 Days,50,392,12.75510204
-8/1/20,Nitrile Gloves,0 Days,78,392,19.89795918
-8/1/20,Nitrile Gloves,<= 7 Days,49,392,12.5
-8/1/20,Nitrile Gloves,> 7 Days,58,392,14.79591837
-8/1/20,PAPR Replacement Face Shields,0 Days,24,392,6.12244898
-8/1/20,Safety Glasses,0 Days,52,392,13.26530612
-8/1/20,Safety Glasses,<= 7 Days,8,392,2.040816327
-8/1/20,Safety Glasses,> 7 Days,12,392,3.06122449
-8/1/20,Safety Goggles,0 Days,54,392,13.7755102
-8/1/20,Safety Goggles,<= 7 Days,13,392,3.316326531
-8/1/20,Safety Goggles,> 7 Days,13,392,3.316326531
-8/1/20,Surgical Caps / Bouffant Caps,0 Days,60,392,15.30612245
-8/1/20,Surgical Caps / Bouffant Caps,<= 7 Days,3,392,0.7653061224
-8/1/20,Surgical Caps / Bouffant Caps,> 7 Days,6,392,1.530612245
-8/1/20,Surgical Masks,0 Days,86,392,21.93877551
-8/1/20,Surgical Masks,<= 7 Days,32,392,8.163265306
-8/1/20,Surgical Masks,> 7 Days,86,392,21.93877551
-9/1/20,Body Bags,0 Days,6,242,2.479338843
-9/1/20,Coveralls / Bunny Suits,0 Days,27,242,11.15702479
-9/1/20,Coveralls / Bunny Suits,<= 7 Days,2,242,0.826446281
-9/1/20,Coveralls / Bunny Suits,> 7 Days,7,242,2.892561983
-9/1/20,Disinfecting Wipes,0 Days,91,242,37.60330579
-9/1/20,Disinfecting Wipes,<= 7 Days,24,242,9.917355372
-9/1/20,Disinfecting Wipes,> 7 Days,32,242,13.2231405
-9/1/20,Disposable Booties,0 Days,31,242,12.80991736
-9/1/20,Disposable Booties,<= 7 Days,1,242,0.4132231405
-9/1/20,Disposable Booties,> 7 Days,8,242,3.305785124
-9/1/20,Face Shields,0 Days,53,242,21.90082645
-9/1/20,Face Shields,<= 7 Days,10,242,4.132231405
-9/1/20,Face Shields,> 7 Days,30,242,12.39669421
-9/1/20,Gowns,0 Days,48,242,19.83471074
-9/1/20,Gowns,<= 7 Days,6,242,2.479338843
-9/1/20,Gowns,> 7 Days,28,242,11.57024793
-9/1/20,Hand Sanitizer,0 Days,45,242,18.59504132
-9/1/20,Hand Sanitizer,<= 7 Days,19,242,7.851239669
-9/1/20,Hand Sanitizer,> 7 Days,48,242,19.83471074
-9/1/20,N95 Respirators,0 Days,106,242,43.80165289
-9/1/20,N95 Respirators,<= 7 Days,13,242,5.371900826
-9/1/20,N95 Respirators,> 7 Days,32,242,13.2231405
-9/1/20,Nitrile Gloves,0 Days,50,242,20.66115702
-9/1/20,Nitrile Gloves,<= 7 Days,21,242,8.67768595
-9/1/20,Nitrile Gloves,> 7 Days,45,242,18.59504132
-9/1/20,PAPR Replacement Face Shields,0 Days,16,242,6.611570248
-9/1/20,Safety Glasses,0 Days,28,242,11.57024793
-9/1/20,Safety Glasses,<= 7 Days,2,242,0.826446281
-9/1/20,Safety Glasses,> 7 Days,12,242,4.958677686
-9/1/20,Safety Goggles,0 Days,26,242,10.74380165
-9/1/20,Safety Goggles,<= 7 Days,1,242,0.4132231405
-9/1/20,Safety Goggles,> 7 Days,13,242,5.371900826
-9/1/20,Surgical Caps / Bouffant Caps,0 Days,34,242,14.04958678
-9/1/20,Surgical Caps / Bouffant Caps,<= 7 Days,1,242,0.4132231405
-9/1/20,Surgical Caps / Bouffant Caps,> 7 Days,8,242,3.305785124
-9/1/20,Surgical Masks,0 Days,55,242,22.72727273
-9/1/20,Surgical Masks,<= 7 Days,19,242,7.851239669
-9/1/20,Surgical Masks,> 7 Days,58,242,23.96694215
-10/1/20,Body Bags,0 Days,5,261,1.915708812
-10/1/20,Coveralls / Bunny Suits,0 Days,30,261,11.49425287
-10/1/20,Coveralls / Bunny Suits,> 7 Days,4,261,1.53256705
-10/1/20,Disinfecting Wipes,0 Days,93,261,35.63218391
-10/1/20,Disinfecting Wipes,<= 7 Days,16,261,6.130268199
-10/1/20,Disinfecting Wipes,> 7 Days,43,261,16.47509579
-10/1/20,Disposable Booties,0 Days,38,261,14.55938697
-10/1/20,Disposable Booties,<= 7 Days,1,261,0.3831417625
-10/1/20,Disposable Booties,> 7 Days,5,261,1.915708812
-10/1/20,Face Shields,0 Days,55,261,21.07279693
-10/1/20,Face Shields,<= 7 Days,2,261,0.7662835249
-10/1/20,Face Shields,> 7 Days,29,261,11.11111111
-10/1/20,Gowns,0 Days,35,261,13.40996169
-10/1/20,Gowns,<= 7 Days,34,261,13.02681992
-10/1/20,Gowns,> 7 Days,30,261,11.49425287
-10/1/20,Hand Sanitizer,0 Days,53,261,20.30651341
-10/1/20,Hand Sanitizer,<= 7 Days,17,261,6.513409962
-10/1/20,Hand Sanitizer,> 7 Days,41,261,15.70881226
-10/1/20,N95 Respirators,0 Days,93,261,35.63218391
-10/1/20,N95 Respirators,<= 7 Days,14,261,5.363984674
-10/1/20,N95 Respirators,> 7 Days,37,261,14.17624521
-10/1/20,Nitrile Gloves,0 Days,59,261,22.60536398
-10/1/20,Nitrile Gloves,<= 7 Days,24,261,9.195402299
-10/1/20,Nitrile Gloves,> 7 Days,55,261,21.07279693
-10/1/20,PAPR Replacement Face Shields,0 Days,20,261,7.662835249
-10/1/20,Safety Glasses,0 Days,38,261,14.55938697
-10/1/20,Safety Glasses,<= 7 Days,1,261,0.3831417625
-10/1/20,Safety Glasses,> 7 Days,7,261,2.681992337
-10/1/20,Safety Goggles,0 Days,35,261,13.40996169
-10/1/20,Safety Goggles,<= 7 Days,2,261,0.7662835249
-10/1/20,Safety Goggles,> 7 Days,11,261,4.214559387
-10/1/20,Surgical Caps / Bouffant Caps,0 Days,23,261,8.812260536
-10/1/20,Surgical Caps / Bouffant Caps,<= 7 Days,1,261,0.3831417625
-10/1/20,Surgical Caps / Bouffant Caps,> 7 Days,5,261,1.915708812
-10/1/20,Surgical Masks,0 Days,53,261,20.30651341
-10/1/20,Surgical Masks,<= 7 Days,18,261,6.896551724
-10/1/20,Surgical Masks,> 7 Days,54,261,20.68965517
-11/1/20,Body Bags,0 Days,3,350,0.8571428571
-11/1/20,Body Bags,<= 7 Days,1,350,0.2857142857
-11/1/20,Body Bags,> 7 Days,4,350,1.142857143
-11/1/20,Clear / Visually Accessible Masks,0 Days,26,350,7.428571429
-11/1/20,Clear / Visually Accessible Masks,<= 7 Days,14,350,4
-11/1/20,Clear / Visually Accessible Masks,> 7 Days,19,350,5.428571429
-11/1/20,Cloth Masks,0 Days,19,350,5.428571429
-11/1/20,Cloth Masks,<= 7 Days,22,350,6.285714286
-11/1/20,Cloth Masks,> 7 Days,32,350,9.142857143
-11/1/20,Coveralls / Bunny Suits,0 Days,38,350,10.85714286
-11/1/20,Coveralls / Bunny Suits,<= 7 Days,8,350,2.285714286
-11/1/20,Coveralls / Bunny Suits,> 7 Days,17,350,4.857142857
-11/1/20,Disinfecting Wipes,0 Days,100,350,28.57142857
-11/1/20,Disinfecting Wipes,<= 7 Days,51,350,14.57142857
-11/1/20,Disinfecting Wipes,> 7 Days,96,350,27.42857143
-11/1/20,Disposable Booties,0 Days,48,350,13.71428571
-11/1/20,Disposable Booties,<= 7 Days,12,350,3.428571429
-11/1/20,Disposable Booties,> 7 Days,14,350,4
-11/1/20,Ear Savers,0 Days,29,350,8.285714286
-11/1/20,Ear Savers,<= 7 Days,9,350,2.571428571
-11/1/20,Ear Savers,> 7 Days,10,350,2.857142857
-11/1/20,Face Shields,0 Days,72,350,20.57142857
-11/1/20,Face Shields,<= 7 Days,44,350,12.57142857
-11/1/20,Face Shields,> 7 Days,45,350,12.85714286
-11/1/20,Gowns,0 Days,49,350,14
-11/1/20,Gowns,<= 7 Days,29,350,8.285714286
-11/1/20,Gowns,> 7 Days,48,350,13.71428571
-11/1/20,Hand Sanitizer,0 Days,65,350,18.57142857
-11/1/20,Hand Sanitizer,<= 7 Days,47,350,13.42857143
-11/1/20,Hand Sanitizer,> 7 Days,95,350,27.14285714
-11/1/20,Handwashing Stations,0 Days,19,350,5.428571429
-11/1/20,Handwashing Stations,<= 7 Days,5,350,1.428571429
-11/1/20,Handwashing Stations,> 7 Days,13,350,3.714285714
-11/1/20,KN95 Respirators,0 Days,25,350,7.142857143
-11/1/20,KN95 Respirators,<= 7 Days,20,350,5.714285714
-11/1/20,KN95 Respirators,> 7 Days,43,350,12.28571429
-11/1/20,N95 Respirators,0 Days,87,350,24.85714286
-11/1/20,N95 Respirators,<= 7 Days,45,350,12.85714286
-11/1/20,N95 Respirators,> 7 Days,81,350,23.14285714
-11/1/20,Nitrile Gloves,0 Days,59,350,16.85714286
-11/1/20,Nitrile Gloves,<= 7 Days,53,350,15.14285714
-11/1/20,Nitrile Gloves,> 7 Days,74,350,21.14285714
-11/1/20,PAPR Replacement Face Shields,0 Days,26,350,7.428571429
-11/1/20,PAPR Replacement Face Shields,<= 7 Days,8,350,2.285714286
-11/1/20,PAPR Replacement Face Shields,> 7 Days,8,350,2.285714286
-11/1/20,Safety Glasses,0 Days,47,350,13.42857143
-11/1/20,Safety Glasses,<= 7 Days,16,350,4.571428571
-11/1/20,Safety Glasses,> 7 Days,23,350,6.571428571
-11/1/20,Safety Goggles,0 Days,32,350,9.142857143
-11/1/20,Safety Goggles,<= 7 Days,13,350,3.714285714
-11/1/20,Safety Goggles,> 7 Days,22,350,6.285714286
-11/1/20,Sneeze Guards / Barriers,0 Days,30,350,8.571428571
-11/1/20,Sneeze Guards / Barriers,<= 7 Days,13,350,3.714285714
-11/1/20,Sneeze Guards / Barriers,> 7 Days,17,350,4.857142857
-11/1/20,Surgical Caps / Bouffant Caps,0 Days,44,350,12.57142857
-11/1/20,Surgical Caps / Bouffant Caps,<= 7 Days,11,350,3.142857143
-11/1/20,Surgical Caps / Bouffant Caps,> 7 Days,12,350,3.428571429
-11/1/20,Surgical Masks,0 Days,56,350,16
-11/1/20,Surgical Masks,<= 7 Days,43,350,12.28571429
-11/1/20,Surgical Masks,> 7 Days,82,350,23.42857143
-11/1/20,Thermometers,0 Days,33,350,9.428571429
-11/1/20,Thermometers,<= 7 Days,19,350,5.428571429
-11/1/20,Thermometers,> 7 Days,45,350,12.85714286
-11/1/20,Two-way Communication Devices,0 Days,20,350,5.714285714
-11/1/20,Two-way Communication Devices,<= 7 Days,5,350,1.428571429
-11/1/20,Two-way Communication Devices,> 7 Days,13,350,3.714285714
-12/1/20,Body Bags,0 Days,6,574,1.045296167
-12/1/20,Body Bags,<= 7 Days,1,574,0.1742160279
-12/1/20,Body Bags,> 7 Days,4,574,0.6968641115
-12/1/20,Clear / Visually Accessible Masks,0 Days,60,574,10.45296167
-12/1/20,Clear / Visually Accessible Masks,<= 7 Days,33,574,5.74912892
-12/1/20,Clear / Visually Accessible Masks,> 7 Days,73,574,12.71777003
-12/1/20,Cloth Masks,0 Days,50,574,8.710801394
-12/1/20,Cloth Masks,<= 7 Days,53,574,9.233449477
-12/1/20,Cloth Masks,> 7 Days,91,574,15.85365854
-12/1/20,Coveralls / Bunny Suits,0 Days,63,574,10.97560976
-12/1/20,Coveralls / Bunny Suits,<= 7 Days,12,574,2.090592334
-12/1/20,Coveralls / Bunny Suits,> 7 Days,18,574,3.135888502
-12/1/20,Disinfecting Wipes,0 Days,108,574,18.81533101
-12/1/20,Disinfecting Wipes,<= 7 Days,134,574,23.34494774
-12/1/20,Disinfecting Wipes,> 7 Days,197,574,34.32055749
-12/1/20,Disposable Booties,0 Days,88,574,15.33101045
-12/1/20,Disposable Booties,<= 7 Days,28,574,4.87804878
-12/1/20,Disposable Booties,> 7 Days,35,574,6.097560976
-12/1/20,Ear Savers,0 Days,93,574,16.20209059
-12/1/20,Ear Savers,<= 7 Days,28,574,4.87804878
-12/1/20,Ear Savers,> 7 Days,34,574,5.923344948
-12/1/20,Face Shields,0 Days,105,574,18.29268293
-12/1/20,Face Shields,<= 7 Days,82,574,14.28571429
-12/1/20,Face Shields,> 7 Days,134,574,23.34494774
-12/1/20,Gowns,0 Days,82,574,14.28571429
-12/1/20,Gowns,<= 7 Days,66,574,11.49825784
-12/1/20,Gowns,> 7 Days,107,574,18.64111498
-12/1/20,Hand Sanitizer,0 Days,59,574,10.27874564
-12/1/20,Hand Sanitizer,<= 7 Days,95,574,16.55052265
-12/1/20,Hand Sanitizer,> 7 Days,187,574,32.57839721
-12/1/20,Handwashing Stations,0 Days,56,574,9.756097561
-12/1/20,Handwashing Stations,<= 7 Days,26,574,4.529616725
-12/1/20,Handwashing Stations,> 7 Days,25,574,4.355400697
-12/1/20,KN95 Respirators,0 Days,72,574,12.54355401
-12/1/20,KN95 Respirators,<= 7 Days,57,574,9.930313589
-12/1/20,KN95 Respirators,> 7 Days,79,574,13.7630662
-12/1/20,N95 Respirators,0 Days,103,574,17.94425087
-12/1/20,N95 Respirators,<= 7 Days,98,574,17.07317073
-12/1/20,N95 Respirators,> 7 Days,119,574,20.73170732
-12/1/20,Nitrile Gloves,0 Days,70,574,12.19512195
-12/1/20,Nitrile Gloves,<= 7 Days,106,574,18.46689895
-12/1/20,Nitrile Gloves,> 7 Days,186,574,32.40418118
-12/1/20,PAPR Replacement Face Shields,0 Days,32,574,5.574912892
-12/1/20,PAPR Replacement Face Shields,<= 7 Days,16,574,2.787456446
-12/1/20,PAPR Replacement Face Shields,> 7 Days,13,574,2.264808362
-12/1/20,Safety Glasses,0 Days,86,574,14.9825784
-12/1/20,Safety Glasses,<= 7 Days,46,574,8.013937282
-12/1/20,Safety Glasses,> 7 Days,58,574,10.10452962
-12/1/20,Safety Goggles,0 Days,74,574,12.89198606
-12/1/20,Safety Goggles,<= 7 Days,45,574,7.839721254
-12/1/20,Safety Goggles,> 7 Days,43,574,7.491289199
-12/1/20,Sneeze Guards / Barriers,0 Days,94,574,16.37630662
-12/1/20,Sneeze Guards / Barriers,<= 7 Days,28,574,4.87804878
-12/1/20,Sneeze Guards / Barriers,> 7 Days,36,574,6.271777003
-12/1/20,Surgical Caps / Bouffant Caps,0 Days,77,574,13.41463415
-12/1/20,Surgical Caps / Bouffant Caps,<= 7 Days,26,574,4.529616725
-12/1/20,Surgical Caps / Bouffant Caps,> 7 Days,34,574,5.923344948
-12/1/20,Surgical Masks,0 Days,48,574,8.362369338
-12/1/20,Surgical Masks,<= 7 Days,84,574,14.63414634
-12/1/20,Surgical Masks,> 7 Days,184,574,32.05574913
-12/1/20,Thermometers,0 Days,76,574,13.24041812
-12/1/20,Thermometers,<= 7 Days,61,574,10.6271777
-12/1/20,Thermometers,> 7 Days,140,574,24.3902439
-12/1/20,Two-way Communication Devices,0 Days,62,574,10.80139373
-12/1/20,Two-way Communication Devices,<= 7 Days,11,574,1.916376307
-12/1/20,Two-way Communication Devices,> 7 Days,17,574,2.961672474
-1/1/21,3-Ply Masks,0 Days,21,852,2.464788732
-1/1/21,3-Ply Masks,<= 7 Days,29,852,3.403755869
-1/1/21,3-Ply Masks,> 7 Days,25,852,2.9342723
-1/1/21,Body Bags,0 Days,10,852,1.17370892
-1/1/21,Body Bags,<= 7 Days,11,852,1.291079812
-1/1/21,Body Bags,> 7 Days,9,852,1.056338028
-1/1/21,Clear / Visually Accessible Masks,0 Days,100,852,11.7370892
-1/1/21,Clear / Visually Accessible Masks,<= 7 Days,42,852,4.929577465
-1/1/21,Clear / Visually Accessible Masks,> 7 Days,51,852,5.985915493
-1/1/21,Cloth Masks,0 Days,71,852,8.333333333
-1/1/21,Cloth Masks,<= 7 Days,51,852,5.985915493
-1/1/21,Cloth Masks,> 7 Days,100,852,11.7370892
-1/1/21,Coveralls / Bunny Suits,0 Days,91,852,10.68075117
-1/1/21,Coveralls / Bunny Suits,<= 7 Days,40,852,4.694835681
-1/1/21,Coveralls / Bunny Suits,> 7 Days,44,852,5.164319249
-1/1/21,Disinfecting Wipes,0 Days,134,852,15.72769953
-1/1/21,Disinfecting Wipes,<= 7 Days,189,852,22.18309859
-1/1/21,Disinfecting Wipes,> 7 Days,266,852,31.22065728
-1/1/21,Disposable Booties,0 Days,108,852,12.67605634
-1/1/21,Disposable Booties,<= 7 Days,70,852,8.215962441
-1/1/21,Disposable Booties,> 7 Days,76,852,8.920187793
-1/1/21,Ear Savers,0 Days,105,852,12.32394366
-1/1/21,Ear Savers,<= 7 Days,47,852,5.516431925
-1/1/21,Ear Savers,> 7 Days,46,852,5.399061033
-1/1/21,Face Shields,0 Days,111,852,13.02816901
-1/1/21,Face Shields,<= 7 Days,116,852,13.61502347
-1/1/21,Face Shields,> 7 Days,229,852,26.87793427
-1/1/21,Gowns,0 Days,108,852,12.67605634
-1/1/21,Gowns,<= 7 Days,133,852,15.61032864
-1/1/21,Gowns,> 7 Days,220,852,25.82159624
-1/1/21,Hand Sanitizer,0 Days,80,852,9.389671362
-1/1/21,Hand Sanitizer,<= 7 Days,164,852,19.24882629
-1/1/21,Hand Sanitizer,> 7 Days,279,852,32.74647887
-1/1/21,Handwashing Stations,0 Days,75,852,8.802816901
-1/1/21,Handwashing Stations,<= 7 Days,28,852,3.286384977
-1/1/21,Handwashing Stations,> 7 Days,51,852,5.985915493
-1/1/21,KN95 Respirators,0 Days,119,852,13.96713615
-1/1/21,KN95 Respirators,<= 7 Days,95,852,11.15023474
-1/1/21,KN95 Respirators,> 7 Days,162,852,19.01408451
-1/1/21,N95 Respirators,0 Days,150,852,17.6056338
-1/1/21,N95 Respirators,<= 7 Days,134,852,15.72769953
-1/1/21,N95 Respirators,> 7 Days,245,852,28.75586854
-1/1/21,Nitrile Gloves,0 Days,98,852,11.50234742
-1/1/21,Nitrile Gloves,<= 7 Days,187,852,21.94835681
-1/1/21,Nitrile Gloves,> 7 Days,245,852,28.75586854
-1/1/21,PAPR Replacement Face Shields,0 Days,43,852,5.046948357
-1/1/21,PAPR Replacement Face Shields,<= 7 Days,40,852,4.694835681
-1/1/21,PAPR Replacement Face Shields,> 7 Days,39,852,4.577464789
-1/1/21,Safety Glasses,0 Days,122,852,14.31924883
-1/1/21,Safety Glasses,<= 7 Days,71,852,8.333333333
-1/1/21,Safety Glasses,> 7 Days,102,852,11.97183099
-1/1/21,Safety Goggles,0 Days,105,852,12.32394366
-1/1/21,Safety Goggles,<= 7 Days,62,852,7.276995305
-1/1/21,Safety Goggles,> 7 Days,79,852,9.272300469
-1/1/21,Sneeze Guards / Barriers,0 Days,119,852,13.96713615
-1/1/21,Sneeze Guards / Barriers,<= 7 Days,43,852,5.046948357
-1/1/21,Sneeze Guards / Barriers,> 7 Days,50,852,5.868544601
-1/1/21,Surgical Caps / Bouffant Caps,0 Days,96,852,11.26760563
-1/1/21,Surgical Caps / Bouffant Caps,<= 7 Days,66,852,7.746478873
-1/1/21,Surgical Caps / Bouffant Caps,> 7 Days,66,852,7.746478873
-1/1/21,Surgical Masks,0 Days,98,852,11.50234742
-1/1/21,Surgical Masks,<= 7 Days,128,852,15.02347418
-1/1/21,Surgical Masks,> 7 Days,246,852,28.87323944
-1/1/21,Thermometers,0 Days,110,852,12.91079812
-1/1/21,Thermometers,<= 7 Days,107,852,12.55868545
-1/1/21,Thermometers,> 7 Days,184,852,21.59624413
-1/1/21,Two-way Communication Devices,0 Days,125,852,14.6713615
-1/1/21,Two-way Communication Devices,<= 7 Days,20,852,2.34741784
-1/1/21,Two-way Communication Devices,> 7 Days,30,852,3.521126761
-2/1/21,3-Ply Masks,0 Days,52,405,12.83950617
-2/1/21,3-Ply Masks,<= 7 Days,41,405,10.12345679
-2/1/21,3-Ply Masks,> 7 Days,67,405,16.54320988
-2/1/21,Body Bags,0 Days,9,405,2.222222222
-2/1/21,Body Bags,<= 7 Days,4,405,0.987654321
-2/1/21,Body Bags,> 7 Days,4,405,0.987654321
-2/1/21,Clear / Visually Accessible Masks,0 Days,61,405,15.0617284
-2/1/21,Clear / Visually Accessible Masks,<= 7 Days,11,405,2.716049383
-2/1/21,Clear / Visually Accessible Masks,> 7 Days,25,405,6.172839506
-2/1/21,Cloth Masks,0 Days,38,405,9.382716049
-2/1/21,Cloth Masks,<= 7 Days,31,405,7.654320988
-2/1/21,Cloth Masks,> 7 Days,36,405,8.888888889
-2/1/21,Coveralls / Bunny Suits,0 Days,35,405,8.641975309
-2/1/21,Coveralls / Bunny Suits,<= 7 Days,18,405,4.444444444
-2/1/21,Coveralls / Bunny Suits,> 7 Days,10,405,2.469135802
-2/1/21,Disinfecting Wipes,0 Days,71,405,17.5308642
-2/1/21,Disinfecting Wipes,<= 7 Days,77,405,19.01234568
-2/1/21,Disinfecting Wipes,> 7 Days,124,405,30.61728395
-2/1/21,Disposable Booties,0 Days,54,405,13.33333333
-2/1/21,Disposable Booties,<= 7 Days,17,405,4.197530864
-2/1/21,Disposable Booties,> 7 Days,30,405,7.407407407
-2/1/21,Ear Savers,0 Days,39,405,9.62962963
-2/1/21,Ear Savers,<= 7 Days,22,405,5.432098765
-2/1/21,Ear Savers,> 7 Days,18,405,4.444444444
-2/1/21,Face Shields,0 Days,58,405,14.32098765
-2/1/21,Face Shields,<= 7 Days,43,405,10.61728395
-2/1/21,Face Shields,> 7 Days,93,405,22.96296296
-2/1/21,Gowns,0 Days,53,405,13.08641975
-2/1/21,Gowns,<= 7 Days,40,405,9.87654321
-2/1/21,Gowns,> 7 Days,56,405,13.82716049
-2/1/21,Hand Sanitizer,0 Days,57,405,14.07407407
-2/1/21,Hand Sanitizer,<= 7 Days,67,405,16.54320988
-2/1/21,Hand Sanitizer,> 7 Days,131,405,32.34567901
-2/1/21,Handwashing Stations,0 Days,55,405,13.58024691
-2/1/21,Handwashing Stations,<= 7 Days,19,405,4.691358025
-2/1/21,Handwashing Stations,> 7 Days,28,405,6.913580247
-2/1/21,KN95 Respirators,0 Days,60,405,14.81481481
-2/1/21,KN95 Respirators,<= 7 Days,45,405,11.11111111
-2/1/21,KN95 Respirators,> 7 Days,74,405,18.27160494
-2/1/21,N95 Respirators,0 Days,78,405,19.25925926
-2/1/21,N95 Respirators,<= 7 Days,57,405,14.07407407
-2/1/21,N95 Respirators,> 7 Days,92,405,22.71604938
-2/1/21,Nitrile Gloves,0 Days,71,405,17.5308642
-2/1/21,Nitrile Gloves,<= 7 Days,70,405,17.28395062
-2/1/21,Nitrile Gloves,> 7 Days,103,405,25.43209877
-2/1/21,PAPR Replacement Face Shields,0 Days,24,405,5.925925926
-2/1/21,PAPR Replacement Face Shields,<= 7 Days,10,405,2.469135802
-2/1/21,PAPR Replacement Face Shields,> 7 Days,13,405,3.209876543
-2/1/21,Safety Glasses,0 Days,49,405,12.09876543
-2/1/21,Safety Glasses,<= 7 Days,25,405,6.172839506
-2/1/21,Safety Glasses,> 7 Days,37,405,9.135802469
-2/1/21,Safety Goggles,0 Days,32,405,7.901234568
-2/1/21,Safety Goggles,<= 7 Days,25,405,6.172839506
-2/1/21,Safety Goggles,> 7 Days,20,405,4.938271605
-2/1/21,Sneeze Guards / Barriers,0 Days,69,405,17.03703704
-2/1/21,Sneeze Guards / Barriers,<= 7 Days,9,405,2.222222222
-2/1/21,Sneeze Guards / Barriers,> 7 Days,25,405,6.172839506
-2/1/21,Surgical Caps / Bouffant Caps,0 Days,39,405,9.62962963
-2/1/21,Surgical Caps / Bouffant Caps,<= 7 Days,16,405,3.950617284
-2/1/21,Surgical Caps / Bouffant Caps,> 7 Days,27,405,6.666666667
-2/1/21,Surgical Masks,0 Days,52,405,12.83950617
-2/1/21,Surgical Masks,<= 7 Days,59,405,14.56790123
-2/1/21,Surgical Masks,> 7 Days,81,405,20
-2/1/21,Thermometers,0 Days,75,405,18.51851852
-2/1/21,Thermometers,<= 7 Days,38,405,9.382716049
-2/1/21,Thermometers,> 7 Days,81,405,20
-2/1/21,Two-way Communication Devices,0 Days,61,405,15.0617284
-2/1/21,Two-way Communication Devices,<= 7 Days,7,405,1.728395062
-2/1/21,Two-way Communication Devices,> 7 Days,15,405,3.703703704
-3/1/21,3-Ply Masks,0 Days,89,805,11.05590062
-3/1/21,3-Ply Masks,<= 7 Days,100,805,12.42236025
-3/1/21,3-Ply Masks,> 7 Days,153,805,19.00621118
-3/1/21,Body Bags,0 Days,8,805,0.9937888199
-3/1/21,Body Bags,<= 7 Days,5,805,0.6211180124
-3/1/21,Body Bags,> 7 Days,12,805,1.49068323
-3/1/21,Clear / Visually Accessible Masks,0 Days,110,805,13.66459627
-3/1/21,Clear / Visually Accessible Masks,<= 7 Days,36,805,4.472049689
-3/1/21,Clear / Visually Accessible Masks,> 7 Days,56,805,6.956521739
-3/1/21,Cloth Masks,0 Days,71,805,8.819875776
-3/1/21,Cloth Masks,<= 7 Days,65,805,8.074534161
-3/1/21,Cloth Masks,> 7 Days,87,805,10.80745342
-3/1/21,Coveralls / Bunny Suits,0 Days,46,805,5.714285714
-3/1/21,Coveralls / Bunny Suits,<= 7 Days,25,805,3.105590062
-3/1/21,Coveralls / Bunny Suits,> 7 Days,33,805,4.099378882
-3/1/21,Disinfecting Wipes,0 Days,129,805,16.02484472
-3/1/21,Disinfecting Wipes,<= 7 Days,183,805,22.73291925
-3/1/21,Disinfecting Wipes,> 7 Days,297,805,36.89440994
-3/1/21,Disposable Booties,0 Days,70,805,8.695652174
-3/1/21,Disposable Booties,<= 7 Days,45,805,5.590062112
-3/1/21,Disposable Booties,> 7 Days,49,805,6.086956522
-3/1/21,Ear Savers,0 Days,93,805,11.55279503
-3/1/21,Ear Savers,<= 7 Days,31,805,3.850931677
-3/1/21,Ear Savers,> 7 Days,48,805,5.962732919
-3/1/21,Face Shields,0 Days,81,805,10.0621118
-3/1/21,Face Shields,<= 7 Days,95,805,11.80124224
-3/1/21,Face Shields,> 7 Days,161,805,20
-3/1/21,Gowns,0 Days,62,805,7.701863354
-3/1/21,Gowns,<= 7 Days,75,805,9.316770186
-3/1/21,Gowns,> 7 Days,144,805,17.88819876
-3/1/21,Hand Sanitizer,0 Days,85,805,10.55900621
-3/1/21,Hand Sanitizer,<= 7 Days,148,805,18.38509317
-3/1/21,Hand Sanitizer,> 7 Days,270,805,33.54037267
-3/1/21,Handwashing Stations,0 Days,72,805,8.944099379
-3/1/21,Handwashing Stations,<= 7 Days,25,805,3.105590062
-3/1/21,Handwashing Stations,> 7 Days,78,805,9.689440994
-3/1/21,KN95 Respirators,0 Days,88,805,10.93167702
-3/1/21,KN95 Respirators,<= 7 Days,81,805,10.0621118
-3/1/21,KN95 Respirators,> 7 Days,159,805,19.7515528
-3/1/21,N95 Respirators,0 Days,100,805,12.42236025
-3/1/21,N95 Respirators,<= 7 Days,113,805,14.03726708
-3/1/21,N95 Respirators,> 7 Days,214,805,26.58385093
-3/1/21,Nitrile Gloves,0 Days,103,805,12.79503106
-3/1/21,Nitrile Gloves,<= 7 Days,177,805,21.98757764
-3/1/21,Nitrile Gloves,> 7 Days,272,805,33.78881988
-3/1/21,PAPR Replacement Face Shields,0 Days,27,805,3.354037267
-3/1/21,PAPR Replacement Face Shields,<= 7 Days,17,805,2.111801242
-3/1/21,PAPR Replacement Face Shields,> 7 Days,18,805,2.236024845
-3/1/21,Safety Glasses,0 Days,77,805,9.565217391
-3/1/21,Safety Glasses,<= 7 Days,48,805,5.962732919
-3/1/21,Safety Glasses,> 7 Days,96,805,11.92546584
-3/1/21,Safety Goggles,0 Days,71,805,8.819875776
-3/1/21,Safety Goggles,<= 7 Days,40,805,4.968944099
-3/1/21,Safety Goggles,> 7 Days,56,805,6.956521739
-3/1/21,Sneeze Guards / Barriers,0 Days,77,805,9.565217391
-3/1/21,Sneeze Guards / Barriers,<= 7 Days,27,805,3.354037267
-3/1/21,Sneeze Guards / Barriers,> 7 Days,66,805,8.198757764
-3/1/21,Surgical Caps / Bouffant Caps,0 Days,47,805,5.838509317
-3/1/21,Surgical Caps / Bouffant Caps,<= 7 Days,30,805,3.726708075
-3/1/21,Surgical Caps / Bouffant Caps,> 7 Days,44,805,5.465838509
-3/1/21,Surgical Masks,0 Days,74,805,9.192546584
-3/1/21,Surgical Masks,<= 7 Days,115,805,14.28571429
-3/1/21,Surgical Masks,> 7 Days,234,805,29.06832298
-3/1/21,Thermometers,0 Days,102,805,12.67080745
-3/1/21,Thermometers,<= 7 Days,96,805,11.92546584
-3/1/21,Thermometers,> 7 Days,212,805,26.33540373
-3/1/21,Two-way Communication Devices,0 Days,115,805,14.28571429
-3/1/21,Two-way Communication Devices,<= 7 Days,16,805,1.98757764
-3/1/21,Two-way Communication Devices,> 7 Days,50,805,6.211180124
-4/1/21,3-Ply Masks,0 Days,100,1009,9.910802775
-4/1/21,3-Ply Masks,<= 7 Days,136,1009,13.47869177
-4/1/21,3-Ply Masks,> 7 Days,206,1009,20.41625372
-4/1/21,Body Bags,0 Days,10,1009,0.9910802775
-4/1/21,Body Bags,<= 7 Days,10,1009,0.9910802775
-4/1/21,Body Bags,> 7 Days,11,1009,1.090188305
-4/1/21,Clear / Visually Accessible Masks,0 Days,131,1009,12.98315164
-4/1/21,Clear / Visually Accessible Masks,<= 7 Days,42,1009,4.162537166
-4/1/21,Clear / Visually Accessible Masks,> 7 Days,56,1009,5.550049554
-4/1/21,Cloth Masks,0 Days,94,1009,9.316154609
-4/1/21,Cloth Masks,<= 7 Days,82,1009,8.126858276
-4/1/21,Cloth Masks,> 7 Days,118,1009,11.69474727
-4/1/21,Coveralls / Bunny Suits,0 Days,50,1009,4.955401388
-4/1/21,Coveralls / Bunny Suits,<= 7 Days,33,1009,3.270564916
-4/1/21,Coveralls / Bunny Suits,> 7 Days,39,1009,3.865213082
-4/1/21,Disinfecting Wipes,0 Days,166,1009,16.45193261
-4/1/21,Disinfecting Wipes,<= 7 Days,252,1009,24.97522299
-4/1/21,Disinfecting Wipes,> 7 Days,331,1009,32.80475719
-4/1/21,Disposable Booties,0 Days,95,1009,9.415262636
-4/1/21,Disposable Booties,<= 7 Days,60,1009,5.946481665
-4/1/21,Disposable Booties,> 7 Days,63,1009,6.243805748
-4/1/21,Ear Savers,0 Days,127,1009,12.58671952
-4/1/21,Ear Savers,<= 7 Days,43,1009,4.261645193
-4/1/21,Ear Savers,> 7 Days,39,1009,3.865213082
-4/1/21,Face Shields,0 Days,93,1009,9.217046581
-4/1/21,Face Shields,<= 7 Days,113,1009,11.19920714
-4/1/21,Face Shields,> 7 Days,190,1009,18.83052527
-4/1/21,Gowns,0 Days,69,1009,6.838453915
-4/1/21,Gowns,<= 7 Days,103,1009,10.20812686
-4/1/21,Gowns,> 7 Days,168,1009,16.65014866
-4/1/21,Hand Sanitizer,0 Days,142,1009,14.07333994
-4/1/21,Hand Sanitizer,<= 7 Days,212,1009,21.01090188
-4/1/21,Hand Sanitizer,> 7 Days,327,1009,32.40832507
-4/1/21,Handwashing Stations,> 7 Days,217,1009,21.50644202
-4/1/21,KN95 Respirators,0 Days,128,1009,12.68582755
-4/1/21,KN95 Respirators,<= 7 Days,116,1009,11.49653122
-4/1/21,KN95 Respirators,> 7 Days,184,1009,18.23587711
-4/1/21,N95 Respirators,0 Days,136,1009,13.47869177
-4/1/21,N95 Respirators,<= 7 Days,143,1009,14.17244797
-2021-04-01,N95 Respirators,> 7 Days,252,1009,24.97522299
-2021-04-01,Nitrile Gloves,0 Days,142,1009,14.07333994
-2021-04-01,Nitrile Gloves,<= 7 Days,232,1009,22.99306244
-2021-04-01,Nitrile Gloves,> 7 Days,334,1009,33.10208127
-2021-04-01,PAPR Replacement Face Shields,0 Days,27,1009,2.675916749
-2021-04-01,PAPR Replacement Face Shields,<= 7 Days,20,1009,1.982160555
-2021-04-01,PAPR Replacement Face Shields,> 7 Days,30,1009,2.973240833
-2021-04-01,Safety Glasses,0 Days,96,1009,9.514370664
-2021-04-01,Safety Glasses,<= 7 Days,72,1009,7.135777998
-2021-04-01,Safety Glasses,> 7 Days,107,1009,10.60455897
-2021-04-01,Safety Goggles,0 Days,72,1009,7.135777998
-2021-04-01,Safety Goggles,<= 7 Days,58,1009,5.74826561
-2021-04-01,Safety Goggles,> 7 Days,73,1009,7.234886026
-2021-04-01,Sneeze Guards / Barriers,> 7 Days,239,1009,23.68681863
-2021-04-01,Surgical Caps / Bouffant Caps,0 Days,63,1009,6.243805748
-2021-04-01,Surgical Caps / Bouffant Caps,<= 7 Days,44,1009,4.360753221
-2021-04-01,Surgical Caps / Bouffant Caps,> 7 Days,56,1009,5.550049554
-2021-04-01,Surgical Masks,0 Days,89,1009,8.82061447
-2021-04-01,Surgical Masks,<= 7 Days,167,1009,16.55104063
-2021-04-01,Surgical Masks,> 7 Days,263,1009,26.0654113
-2021-04-01,Thermometers,0 Days,143,1009,14.17244797
-2021-04-01,Thermometers,<= 7 Days,135,1009,13.37958375
-2021-04-01,Thermometers,> 7 Days,224,1009,22.20019822
-2021-04-01,Two-way Communication Devices,> 7 Days,258,1009,25.56987116
-2021-05-01,3-Ply Masks,0 Days,54,497,10.86519115
-2021-05-01,3-Ply Masks,<= 7 Days,72,497,14.48692153
-2021-05-01,3-Ply Masks,> 7 Days,84,497,16.90140845
-2021-05-01,Body Bags,0 Days,5,497,1.006036217
-2021-05-01,Body Bags,<= 7 Days,3,497,0.6036217304
-2021-05-01,Body Bags,> 7 Days,3,497,0.6036217304
-2021-05-01,Clear / Visually Accessible Masks,0 Days,53,497,10.6639839
-2021-05-01,Clear / Visually Accessible Masks,<= 7 Days,16,497,3.219315895
-2021-05-01,Clear / Visually Accessible Masks,> 7 Days,27,497,5.432595573
-2021-05-01,Cloth Masks,0 Days,51,497,10.26156942
-2021-05-01,Cloth Masks,<= 7 Days,41,497,8.249496982
-2021-05-01,Cloth Masks,> 7 Days,43,497,8.651911469
-2021-05-01,Coveralls / Bunny Suits,0 Days,24,497,4.828973843
-2021-05-01,Coveralls / Bunny Suits,<= 7 Days,18,497,3.621730382
-2021-05-01,Coveralls / Bunny Suits,> 7 Days,14,497,2.816901408
-2021-05-01,Disinfecting Wipes,0 Days,101,497,20.32193159
-2021-05-01,Disinfecting Wipes,<= 7 Days,124,497,24.94969819
-2021-05-01,Disinfecting Wipes,> 7 Days,142,497,28.57142857
-2021-05-01,Disposable Booties,0 Days,56,497,11.26760563
-2021-05-01,Disposable Booties,<= 7 Days,36,497,7.243460765
-2021-05-01,Disposable Booties,> 7 Days,30,497,6.036217304
-2021-05-01,Ear Savers,0 Days,60,497,12.07243461
-2021-05-01,Ear Savers,<= 7 Days,11,497,2.213279678
-2021-05-01,Ear Savers,> 7 Days,23,497,4.6277666
-2021-05-01,Face Shields,0 Days,53,497,10.6639839
-2021-05-01,Face Shields,<= 7 Days,44,497,8.853118712
-2021-05-01,Face Shields,> 7 Days,63,497,12.67605634
-2021-05-01,Gowns,0 Days,44,497,8.853118712
-2021-05-01,Gowns,<= 7 Days,56,497,11.26760563
-2021-05-01,Gowns,> 7 Days,57,497,11.46881288
-2021-05-01,Hand Sanitizer,0 Days,79,497,15.89537223
-2021-05-01,Hand Sanitizer,<= 7 Days,103,497,20.72434608
-2021-05-01,Hand Sanitizer,> 7 Days,140,497,28.16901408
-2021-05-01,Handwashing Stations,> 7 Days,121,497,24.34607646
-2021-05-01,KN95 Respirators,0 Days,50,497,10.06036217
-2021-05-01,KN95 Respirators,<= 7 Days,57,497,11.46881288
-2021-05-01,KN95 Respirators,> 7 Days,60,497,12.07243461
-2021-05-01,N95 Respirators,0 Days,65,497,13.07847082
-2021-05-01,N95 Respirators,<= 7 Days,76,497,15.2917505
-2021-05-01,N95 Respirators,> 7 Days,87,497,17.50503018
-2021-05-01,Nitrile Gloves,0 Days,85,497,17.10261569
-2021-05-01,Nitrile Gloves,<= 7 Days,142,497,28.57142857
-2021-05-01,Nitrile Gloves,> 7 Days,122,497,24.5472837
-2021-05-01,PAPR Replacement Face Shields,0 Days,8,497,1.609657948
-2021-05-01,PAPR Replacement Face Shields,<= 7 Days,6,497,1.207243461
-2021-05-01,PAPR Replacement Face Shields,> 7 Days,9,497,1.810865191
-2021-05-01,Safety Glasses,0 Days,53,497,10.6639839
-2021-05-01,Safety Glasses,<= 7 Days,32,497,6.438631791
-2021-05-01,Safety Glasses,> 7 Days,45,497,9.054325956
-2021-05-01,Safety Goggles,0 Days,38,497,7.645875252
-2021-05-01,Safety Goggles,<= 7 Days,31,497,6.237424547
-2021-05-01,Safety Goggles,> 7 Days,34,497,6.841046278
-2021-05-01,Sneeze Guards / Barriers,> 7 Days,119,497,23.94366197
-2021-05-01,Surgical Caps / Bouffant Caps,0 Days,32,497,6.438631791
-2021-05-01,Surgical Caps / Bouffant Caps,<= 7 Days,22,497,4.426559356
-2021-05-01,Surgical Caps / Bouffant Caps,> 7 Days,19,497,3.822937626
-2021-05-01,Surgical Masks,0 Days,46,497,9.255533199
-2021-05-01,Surgical Masks,<= 7 Days,85,497,17.10261569
-2021-05-01,Surgical Masks,> 7 Days,109,497,21.93158954
-2021-05-01,Thermometers,0 Days,84,497,16.90140845
-2021-05-01,Thermometers,<= 7 Days,67,497,13.48088531
-2021-05-01,Thermometers,> 7 Days,98,497,19.71830986
-2021-05-01,Two-way Communication Devices,> 7 Days,130,497,26.15694165
-2021-06-01,3-Ply Masks,0 Days,37,264,14.01515152
-2021-06-01,3-Ply Masks,<= 7 Days,39,264,14.77272727
-2021-06-01,3-Ply Masks,> 7 Days,44,264,16.66666667
-2021-06-01,Body Bags,0 Days,5,264,1.893939394
-2021-06-01,Body Bags,<= 7 Days,1,264,0.3787878788
-2021-06-01,Body Bags,> 7 Days,1,264,0.3787878788
-2021-06-01,Clear / Visually Accessible Masks,0 Days,28,264,10.60606061
-2021-06-01,Clear / Visually Accessible Masks,<= 7 Days,6,264,2.272727273
-2021-06-01,Clear / Visually Accessible Masks,> 7 Days,10,264,3.787878788
-2021-06-01,Cloth Masks,0 Days,26,264,9.848484848
-2021-06-01,Cloth Masks,<= 7 Days,19,264,7.196969697
-2021-06-01,Cloth Masks,> 7 Days,23,264,8.712121212
-2021-06-01,Coveralls / Bunny Suits,0 Days,10,264,3.787878788
-2021-06-01,Coveralls / Bunny Suits,<= 7 Days,11,264,4.166666667
-2021-06-01,Coveralls / Bunny Suits,> 7 Days,5,264,1.893939394
-2021-06-01,Disinfecting Wipes,0 Days,54,264,20.45454545
-2021-06-01,Disinfecting Wipes,<= 7 Days,67,264,25.37878788
-2021-06-01,Disinfecting Wipes,> 7 Days,74,264,28.03030303
-2021-06-01,Disposable Booties,0 Days,28,264,10.60606061
-2021-06-01,Disposable Booties,<= 7 Days,13,264,4.924242424
-2021-06-01,Disposable Booties,> 7 Days,15,264,5.681818182
-2021-06-01,Ear Savers,0 Days,26,264,9.848484848
-2021-06-01,Ear Savers,<= 7 Days,6,264,2.272727273
-2021-06-01,Ear Savers,> 7 Days,13,264,4.924242424
-2021-06-01,Face Shields,0 Days,20,264,7.575757576
-2021-06-01,Face Shields,<= 7 Days,16,264,6.060606061
-2021-06-01,Face Shields,> 7 Days,29,264,10.98484848
-2021-06-01,Gowns,0 Days,21,264,7.954545455
-2021-06-01,Gowns,<= 7 Days,19,264,7.196969697
-2021-06-01,Gowns,> 7 Days,25,264,9.46969697
-2021-06-01,Hand Sanitizer,0 Days,48,264,18.18181818
-2021-06-01,Hand Sanitizer,<= 7 Days,50,264,18.93939394
-2021-06-01,Hand Sanitizer,> 7 Days,68,264,25.75757576
-2021-06-01,Handwashing Stations,> 7 Days,61,264,23.10606061
-2021-06-01,KN95 Respirators,0 Days,30,264,11.36363636
-2021-06-01,KN95 Respirators,<= 7 Days,22,264,8.333333333
-2021-06-01,KN95 Respirators,> 7 Days,26,264,9.848484848
-2021-06-01,N95 Respirators,0 Days,36,264,13.63636364
-2021-06-01,N95 Respirators,<= 7 Days,32,264,12.12121212
-2021-06-01,N95 Respirators,> 7 Days,29,264,10.98484848
-2021-06-01,Nitrile Gloves,0 Days,47,264,17.8030303
-2021-06-01,Nitrile Gloves,<= 7 Days,67,264,25.37878788
-2021-06-01,Nitrile Gloves,> 7 Days,72,264,27.27272727
-2021-06-01,PAPR Replacement Face Shields,0 Days,7,264,2.651515152
-2021-06-01,PAPR Replacement Face Shields,<= 7 Days,5,264,1.893939394
-2021-06-01,PAPR Replacement Face Shields,> 7 Days,6,264,2.272727273
-2021-06-01,Safety Glasses,0 Days,25,264,9.46969697
-2021-06-01,Safety Glasses,<= 7 Days,11,264,4.166666667
-2021-06-01,Safety Glasses,> 7 Days,9,264,3.409090909
-2021-06-01,Safety Goggles,0 Days,24,264,9.090909091
-2021-06-01,Safety Goggles,<= 7 Days,8,264,3.03030303
-2021-06-01,Safety Goggles,> 7 Days,14,264,5.303030303
-2021-06-01,Sneeze Guards / Barriers,> 7 Days,48,264,18.18181818
-2021-06-01,Surgical Caps / Bouffant Caps,0 Days,16,264,6.060606061
-2021-06-01,Surgical Caps / Bouffant Caps,<= 7 Days,7,264,2.651515152
-2021-06-01,Surgical Caps / Bouffant Caps,> 7 Days,9,264,3.409090909
-2021-06-01,Surgical Masks,0 Days,37,264,14.01515152
-2021-06-01,Surgical Masks,<= 7 Days,40,264,15.15151515
-2021-06-01,Surgical Masks,> 7 Days,42,264,15.90909091
-2021-06-01,Thermometers,0 Days,46,264,17.42424242
-2021-06-01,Thermometers,<= 7 Days,40,264,15.15151515
-2021-06-01,Thermometers,> 7 Days,48,264,18.18181818
-2021-06-01,Two-way Communication Devices,> 7 Days,66,264,25
+MONTH,equipment_type,supply,num_requested_types,total_requests,pct_requests
+2020-04-01,Cloth Masks,0 Days,291,6857,4.2438384133002769
+2020-04-01,Cloth Masks,<= 7 Days,132,6857,1.9250401050021875
+2020-04-01,Cloth Masks,> 7 Days,174,6857,2.537552865684702
+2020-04-01,Disinfecting Wipes,0 Days,199,6857,2.9021437946623889
+2020-04-01,Disinfecting Wipes,<= 7 Days,415,6857,6.0522094210296045
+2020-04-01,Disinfecting Wipes,> 7 Days,552,6857,8.05016771182733
+2020-04-01,Disposable Booties,0 Days,235,6857,3.427154732390258
+2020-04-01,Disposable Booties,<= 7 Days,140,6857,2.0417092022750474
+2020-04-01,Disposable Booties,> 7 Days,248,6857,3.6167420154586556
+2020-04-01,Face Shields,0 Days,429,6857,6.25638034125711
+2020-04-01,Face Shields,<= 7 Days,269,6857,3.9229983957999126
+2020-04-01,Face Shields,> 7 Days,478,6857,6.970978562053376
+2020-04-01,Gowns,0 Days,242,6857,3.5292401925040107
+2020-04-01,Gowns,<= 7 Days,370,6857,5.3959457488697682
+2020-04-01,Gowns,> 7 Days,607,6857,8.8522677555782412
+2020-04-01,Hand Sanitizer,0 Days,80,6857,1.1666909727285986
+2020-04-01,Hand Sanitizer,<= 7 Days,308,6857,4.4917602450051044
+2020-04-01,Hand Sanitizer,> 7 Days,239,6857,3.485489281026688
+2020-04-01,N95 Respirators,0 Days,287,6857,4.1855038646638469
+2020-04-01,N95 Respirators,<= 7 Days,369,6857,5.3813621117106605
+2020-04-01,N95 Respirators,> 7 Days,719,6857,10.48563511739828
+2020-04-01,Nitrile Gloves,0 Days,36,6857,0.52501093772786933
+2020-04-01,Nitrile Gloves,<= 7 Days,231,6857,3.3688201837538281
+2020-04-01,Nitrile Gloves,> 7 Days,605,6857,8.8231004812600258
+2020-04-01,Surgical Masks,0 Days,68,6857,0.99168732681930871
+2020-04-01,Surgical Masks,<= 7 Days,167,6857,2.4354674055709493
+2020-04-01,Surgical Masks,> 7 Days,338,6857,4.9292693597783286
+2020-04-01,Thermometers,0 Days,262,6857,3.82091293568616
+2020-04-01,Thermometers,<= 7 Days,165,6857,2.4063001312527343
+2020-04-01,Thermometers,> 7 Days,349,6857,5.0896893685285107
+2020-05-01,Body Bags,0 Days,29,2584,1.1222910216718267
+2020-05-01,Coveralls / Bunny Suits,0 Days,169,2584,6.5402476780185754
+2020-05-01,Coveralls / Bunny Suits,<= 7 Days,19,2584,0.73529411764705888
+2020-05-01,Coveralls / Bunny Suits,> 7 Days,15,2584,0.58049535603715174
+2020-05-01,Disinfecting Wipes,0 Days,417,2584,16.137770897832816
+2020-05-01,Disinfecting Wipes,<= 7 Days,104,2584,4.0247678018575854
+2020-05-01,Disinfecting Wipes,> 7 Days,92,2584,3.5603715170278636
+2020-05-01,Disposable Booties,0 Days,211,2584,8.1656346749226
+2020-05-01,Disposable Booties,<= 7 Days,26,2584,1.0061919504643964
+2020-05-01,Disposable Booties,> 7 Days,25,2584,0.96749226006191946
+2020-05-01,Face Shields,0 Days,354,2584,13.699690402476779
+2020-05-01,Face Shields,<= 7 Days,70,2584,2.7089783281733748
+2020-05-01,Face Shields,> 7 Days,65,2584,2.5154798761609909
+2020-05-01,Hand Sanitizer,0 Days,337,2584,13.041795665634675
+2020-05-01,Hand Sanitizer,<= 7 Days,96,2584,3.7151702786377707
+2020-05-01,Hand Sanitizer,> 7 Days,140,2584,5.41795665634675
+2020-05-01,N95 Respirators,0 Days,596,2584,23.065015479876163
+2020-05-01,N95 Respirators,<= 7 Days,121,2584,4.6826625386996907
+2020-05-01,N95 Respirators,> 7 Days,171,2584,6.617647058823529
+2020-05-01,Nitrile Gloves,0 Days,190,2584,7.3529411764705879
+2020-05-01,Nitrile Gloves,<= 7 Days,67,2584,2.5928792569659445
+2020-05-01,Nitrile Gloves,> 7 Days,97,2584,3.7538699690402475
+2020-05-01,PAPR Replacement Face Shields,0 Days,44,2584,1.7027863777089782
+2020-05-01,Safety Glasses,0 Days,106,2584,4.102167182662539
+2020-05-01,Safety Glasses,<= 7 Days,13,2584,0.50309597523219818
+2020-05-01,Safety Glasses,> 7 Days,9,2584,0.34829721362229105
+2020-05-01,Safety Goggles,0 Days,205,2584,7.93343653250774
+2020-05-01,Safety Goggles,<= 7 Days,17,2584,0.65789473684210531
+2020-05-01,Safety Goggles,> 7 Days,21,2584,0.81269349845201233
+2020-05-01,Surgical Caps / Bouffant Caps,0 Days,190,2584,7.3529411764705879
+2020-05-01,Surgical Caps / Bouffant Caps,<= 7 Days,25,2584,0.96749226006191946
+2020-05-01,Surgical Caps / Bouffant Caps,> 7 Days,19,2584,0.73529411764705888
+2020-05-01,Surgical Masks,0 Days,287,2584,11.106811145510836
+2020-05-01,Surgical Masks,<= 7 Days,144,2584,5.5727554179566567
+2020-05-01,Surgical Masks,> 7 Days,187,2584,7.2368421052631575
+2020-06-01,Body Bags,0 Days,64,3345,1.913303437967115
+2020-06-01,Coveralls / Bunny Suits,0 Days,277,3345,8.28101644245142
+2020-06-01,Coveralls / Bunny Suits,<= 7 Days,44,3345,1.3153961136023917
+2020-06-01,Coveralls / Bunny Suits,> 7 Days,49,3345,1.4648729446935724
+2020-06-01,Disinfecting Wipes,0 Days,690,3345,20.627802690582961
+2020-06-01,Disinfecting Wipes,<= 7 Days,262,3345,7.8325859491778775
+2020-06-01,Disinfecting Wipes,> 7 Days,364,3345,10.881913303437967
+2020-06-01,Disposable Booties,0 Days,414,3345,12.376681614349776
+2020-06-01,Disposable Booties,<= 7 Days,59,3345,1.7638266068759343
+2020-06-01,Disposable Booties,> 7 Days,89,3345,2.6606875934230194
+2020-06-01,Face Shields,0 Days,479,3345,14.319880418535128
+2020-06-01,Face Shields,<= 7 Days,112,3345,3.3482810164424515
+2020-06-01,Face Shields,> 7 Days,211,3345,6.3079222720478327
+2020-06-01,Hand Sanitizer,0 Days,473,3345,14.14050822122571
+2020-06-01,Hand Sanitizer,<= 7 Days,259,3345,7.7428998505231688
+2020-06-01,Hand Sanitizer,> 7 Days,369,3345,11.031390134529149
+2020-06-01,N95 Respirators,0 Days,842,3345,25.171898355754859
+2020-06-01,N95 Respirators,<= 7 Days,293,3345,8.7593423019432
+2020-06-01,N95 Respirators,> 7 Days,499,3345,14.917787742899851
+2020-06-01,Nitrile Gloves,0 Days,303,3345,9.0582959641255609
+2020-06-01,Nitrile Gloves,<= 7 Days,201,3345,6.00896860986547
+2020-06-01,Nitrile Gloves,> 7 Days,341,3345,10.194319880418535
+2020-06-01,PAPR Replacement Face Shields,0 Days,119,3345,3.5575485799701045
+2020-06-01,Safety Glasses,0 Days,281,3345,8.4005979073243644
+2020-06-01,Safety Glasses,<= 7 Days,24,3345,0.71748878923766812
+2020-06-01,Safety Glasses,> 7 Days,61,3345,1.8236173393124067
+2020-06-01,Safety Goggles,0 Days,334,3345,9.9850523168908811
+2020-06-01,Safety Goggles,<= 7 Days,48,3345,1.4349775784753362
+2020-06-01,Safety Goggles,> 7 Days,77,3345,2.3019431988041852
+2020-06-01,Surgical Caps / Bouffant Caps,0 Days,333,3345,9.9551569506726452
+2020-06-01,Surgical Caps / Bouffant Caps,<= 7 Days,64,3345,1.913303437967115
+2020-06-01,Surgical Caps / Bouffant Caps,> 7 Days,90,3345,2.6905829596412558
+2020-06-01,Surgical Masks,0 Days,411,3345,12.286995515695068
+2020-06-01,Surgical Masks,<= 7 Days,374,3345,11.180866965620329
+2020-06-01,Surgical Masks,> 7 Days,561,3345,16.771300448430495
+2020-07-01,Body Bags,0 Days,7,806,0.86848635235732008
+2020-07-01,Coveralls / Bunny Suits,0 Days,48,806,5.9553349875930524
+2020-07-01,Coveralls / Bunny Suits,<= 7 Days,7,806,0.86848635235732008
+2020-07-01,Coveralls / Bunny Suits,> 7 Days,7,806,0.86848635235732008
+2020-07-01,Disinfecting Wipes,0 Days,202,806,25.062034739454095
+2020-07-01,Disinfecting Wipes,<= 7 Days,66,806,8.1885856079404462
+2020-07-01,Disinfecting Wipes,> 7 Days,66,806,8.1885856079404462
+2020-07-01,Disposable Booties,0 Days,75,806,9.3052109181141436
+2020-07-01,Disposable Booties,<= 7 Days,12,806,1.4888337468982631
+2020-07-01,Disposable Booties,> 7 Days,14,806,1.7369727047146402
+2020-07-01,Face Shields,0 Days,155,806,19.23076923076923
+2020-07-01,Face Shields,<= 7 Days,21,806,2.6054590570719602
+2020-07-01,Face Shields,> 7 Days,54,806,6.6997518610421833
+2020-07-01,Hand Sanitizer,0 Days,103,806,12.779156327543424
+2020-07-01,Hand Sanitizer,<= 7 Days,49,806,6.0794044665012406
+2020-07-01,Hand Sanitizer,> 7 Days,98,806,12.158808933002481
+2020-07-01,N95 Respirators,0 Days,232,806,28.784119106699752
+2020-07-01,N95 Respirators,<= 7 Days,53,806,6.5756823821339951
+2020-07-01,N95 Respirators,> 7 Days,114,806,14.1439205955335
+2020-07-01,Nitrile Gloves,0 Days,80,806,9.9255583126550864
+2020-07-01,Nitrile Gloves,<= 7 Days,43,806,5.33498759305211
+2020-07-01,Nitrile Gloves,> 7 Days,74,806,9.1811414392059554
+2020-07-01,PAPR Replacement Face Shields,0 Days,32,806,3.9702233250620349
+2020-07-01,Safety Glasses,0 Days,56,806,6.9478908188585606
+2020-07-01,Safety Glasses,<= 7 Days,8,806,0.99255583126550873
+2020-07-01,Safety Glasses,> 7 Days,10,806,1.2406947890818858
+2020-07-01,Safety Goggles,0 Days,66,806,8.1885856079404462
+2020-07-01,Safety Goggles,<= 7 Days,8,806,0.99255583126550873
+2020-07-01,Safety Goggles,> 7 Days,23,806,2.8535980148883375
+2020-07-01,Surgical Caps / Bouffant Caps,0 Days,64,806,7.94044665012407
+2020-07-01,Surgical Caps / Bouffant Caps,<= 7 Days,12,806,1.4888337468982631
+2020-07-01,Surgical Caps / Bouffant Caps,> 7 Days,21,806,2.6054590570719602
+2020-07-01,Surgical Masks,0 Days,97,806,12.034739454094293
+2020-07-01,Surgical Masks,<= 7 Days,65,806,8.064516129032258
+2020-07-01,Surgical Masks,> 7 Days,144,806,17.866004962779158
+2020-08-01,Body Bags,0 Days,11,392,2.806122448979592
+2020-08-01,Coveralls / Bunny Suits,0 Days,54,392,13.775510204081632
+2020-08-01,Coveralls / Bunny Suits,<= 7 Days,3,392,0.76530612244897955
+2020-08-01,Coveralls / Bunny Suits,> 7 Days,8,392,2.0408163265306123
+2020-08-01,Disinfecting Wipes,0 Days,137,392,34.948979591836732
+2020-08-01,Disinfecting Wipes,<= 7 Days,33,392,8.4183673469387763
+2020-08-01,Disinfecting Wipes,> 7 Days,64,392,16.3265306122449
+2020-08-01,Disposable Booties,0 Days,67,392,17.091836734693878
+2020-08-01,Disposable Booties,<= 7 Days,8,392,2.0408163265306123
+2020-08-01,Disposable Booties,> 7 Days,5,392,1.2755102040816326
+2020-08-01,Face Shields,0 Days,93,392,23.724489795918366
+2020-08-01,Face Shields,<= 7 Days,15,392,3.8265306122448979
+2020-08-01,Face Shields,> 7 Days,33,392,8.4183673469387763
+2020-08-01,Gowns,0 Days,76,392,19.387755102040817
+2020-08-01,Gowns,<= 7 Days,26,392,6.63265306122449
+2020-08-01,Gowns,> 7 Days,31,392,7.908163265306122
+2020-08-01,Hand Sanitizer,0 Days,82,392,20.918367346938776
+2020-08-01,Hand Sanitizer,<= 7 Days,32,392,8.16326530612245
+2020-08-01,Hand Sanitizer,> 7 Days,78,392,19.897959183673468
+2020-08-01,N95 Respirators,0 Days,144,392,36.734693877551024
+2020-08-01,N95 Respirators,<= 7 Days,22,392,5.6122448979591839
+2020-08-01,N95 Respirators,> 7 Days,50,392,12.755102040816327
+2020-08-01,Nitrile Gloves,0 Days,78,392,19.897959183673468
+2020-08-01,Nitrile Gloves,<= 7 Days,49,392,12.5
+2020-08-01,Nitrile Gloves,> 7 Days,58,392,14.795918367346939
+2020-08-01,PAPR Replacement Face Shields,0 Days,24,392,6.1224489795918364
+2020-08-01,Safety Glasses,0 Days,52,392,13.26530612244898
+2020-08-01,Safety Glasses,<= 7 Days,8,392,2.0408163265306123
+2020-08-01,Safety Glasses,> 7 Days,12,392,3.0612244897959182
+2020-08-01,Safety Goggles,0 Days,54,392,13.775510204081632
+2020-08-01,Safety Goggles,<= 7 Days,13,392,3.3163265306122449
+2020-08-01,Safety Goggles,> 7 Days,13,392,3.3163265306122449
+2020-08-01,Surgical Caps / Bouffant Caps,0 Days,60,392,15.306122448979592
+2020-08-01,Surgical Caps / Bouffant Caps,<= 7 Days,3,392,0.76530612244897955
+2020-08-01,Surgical Caps / Bouffant Caps,> 7 Days,6,392,1.5306122448979591
+2020-08-01,Surgical Masks,0 Days,86,392,21.938775510204081
+2020-08-01,Surgical Masks,<= 7 Days,32,392,8.16326530612245
+2020-08-01,Surgical Masks,> 7 Days,86,392,21.938775510204081
+2020-09-01,Body Bags,0 Days,6,242,2.4793388429752068
+2020-09-01,Coveralls / Bunny Suits,0 Days,27,242,11.15702479338843
+2020-09-01,Coveralls / Bunny Suits,<= 7 Days,2,242,0.82644628099173556
+2020-09-01,Coveralls / Bunny Suits,> 7 Days,7,242,2.8925619834710745
+2020-09-01,Disinfecting Wipes,0 Days,91,242,37.603305785123965
+2020-09-01,Disinfecting Wipes,<= 7 Days,24,242,9.9173553719008272
+2020-09-01,Disinfecting Wipes,> 7 Days,32,242,13.223140495867769
+2020-09-01,Disposable Booties,0 Days,31,242,12.809917355371901
+2020-09-01,Disposable Booties,<= 7 Days,1,242,0.41322314049586778
+2020-09-01,Disposable Booties,> 7 Days,8,242,3.3057851239669422
+2020-09-01,Face Shields,0 Days,53,242,21.900826446280991
+2020-09-01,Face Shields,<= 7 Days,10,242,4.1322314049586772
+2020-09-01,Face Shields,> 7 Days,30,242,12.396694214876034
+2020-09-01,Gowns,0 Days,48,242,19.834710743801654
+2020-09-01,Gowns,<= 7 Days,6,242,2.4793388429752068
+2020-09-01,Gowns,> 7 Days,28,242,11.570247933884298
+2020-09-01,Hand Sanitizer,0 Days,45,242,18.595041322314049
+2020-09-01,Hand Sanitizer,<= 7 Days,19,242,7.8512396694214877
+2020-09-01,Hand Sanitizer,> 7 Days,48,242,19.834710743801654
+2020-09-01,N95 Respirators,0 Days,106,242,43.801652892561982
+2020-09-01,N95 Respirators,<= 7 Days,13,242,5.3719008264462813
+2020-09-01,N95 Respirators,> 7 Days,32,242,13.223140495867769
+2020-09-01,Nitrile Gloves,0 Days,50,242,20.66115702479339
+2020-09-01,Nitrile Gloves,<= 7 Days,21,242,8.677685950413224
+2020-09-01,Nitrile Gloves,> 7 Days,45,242,18.595041322314049
+2020-09-01,PAPR Replacement Face Shields,0 Days,16,242,6.6115702479338845
+2020-09-01,Safety Glasses,0 Days,28,242,11.570247933884298
+2020-09-01,Safety Glasses,<= 7 Days,2,242,0.82644628099173556
+2020-09-01,Safety Glasses,> 7 Days,12,242,4.9586776859504136
+2020-09-01,Safety Goggles,0 Days,26,242,10.743801652892563
+2020-09-01,Safety Goggles,<= 7 Days,1,242,0.41322314049586778
+2020-09-01,Safety Goggles,> 7 Days,13,242,5.3719008264462813
+2020-09-01,Surgical Caps / Bouffant Caps,0 Days,34,242,14.049586776859504
+2020-09-01,Surgical Caps / Bouffant Caps,<= 7 Days,1,242,0.41322314049586778
+2020-09-01,Surgical Caps / Bouffant Caps,> 7 Days,8,242,3.3057851239669422
+2020-09-01,Surgical Masks,0 Days,55,242,22.727272727272727
+2020-09-01,Surgical Masks,<= 7 Days,19,242,7.8512396694214877
+2020-09-01,Surgical Masks,> 7 Days,58,242,23.966942148760332
+2020-10-01,Body Bags,0 Days,5,261,1.9157088122605364
+2020-10-01,Coveralls / Bunny Suits,0 Days,30,261,11.494252873563218
+2020-10-01,Coveralls / Bunny Suits,> 7 Days,4,261,1.5325670498084292
+2020-10-01,Disinfecting Wipes,0 Days,93,261,35.632183908045974
+2020-10-01,Disinfecting Wipes,<= 7 Days,16,261,6.1302681992337167
+2020-10-01,Disinfecting Wipes,> 7 Days,43,261,16.475095785440612
+2020-10-01,Disposable Booties,0 Days,38,261,14.559386973180077
+2020-10-01,Disposable Booties,<= 7 Days,1,261,0.38314176245210729
+2020-10-01,Disposable Booties,> 7 Days,5,261,1.9157088122605364
+2020-10-01,Face Shields,0 Days,55,261,21.0727969348659
+2020-10-01,Face Shields,<= 7 Days,2,261,0.76628352490421459
+2020-10-01,Face Shields,> 7 Days,29,261,11.111111111111111
+2020-10-01,Gowns,0 Days,35,261,13.409961685823754
+2020-10-01,Gowns,<= 7 Days,34,261,13.026819923371647
+2020-10-01,Gowns,> 7 Days,30,261,11.494252873563218
+2020-10-01,Hand Sanitizer,0 Days,53,261,20.306513409961685
+2020-10-01,Hand Sanitizer,<= 7 Days,17,261,6.5134099616858236
+2020-10-01,Hand Sanitizer,> 7 Days,41,261,15.708812260536398
+2020-10-01,N95 Respirators,0 Days,93,261,35.632183908045974
+2020-10-01,N95 Respirators,<= 7 Days,14,261,5.3639846743295019
+2020-10-01,N95 Respirators,> 7 Days,37,261,14.17624521072797
+2020-10-01,Nitrile Gloves,0 Days,59,261,22.60536398467433
+2020-10-01,Nitrile Gloves,<= 7 Days,24,261,9.1954022988505741
+2020-10-01,Nitrile Gloves,> 7 Days,55,261,21.0727969348659
+2020-10-01,PAPR Replacement Face Shields,0 Days,20,261,7.6628352490421454
+2020-10-01,Safety Glasses,0 Days,38,261,14.559386973180077
+2020-10-01,Safety Glasses,<= 7 Days,1,261,0.38314176245210729
+2020-10-01,Safety Glasses,> 7 Days,7,261,2.6819923371647509
+2020-10-01,Safety Goggles,0 Days,35,261,13.409961685823754
+2020-10-01,Safety Goggles,<= 7 Days,2,261,0.76628352490421459
+2020-10-01,Safety Goggles,> 7 Days,11,261,4.21455938697318
+2020-10-01,Surgical Caps / Bouffant Caps,0 Days,23,261,8.8122605363984672
+2020-10-01,Surgical Caps / Bouffant Caps,<= 7 Days,1,261,0.38314176245210729
+2020-10-01,Surgical Caps / Bouffant Caps,> 7 Days,5,261,1.9157088122605364
+2020-10-01,Surgical Masks,0 Days,53,261,20.306513409961685
+2020-10-01,Surgical Masks,<= 7 Days,18,261,6.8965517241379306
+2020-10-01,Surgical Masks,> 7 Days,54,261,20.689655172413794
+2020-11-01,Body Bags,0 Days,3,350,0.8571428571428571
+2020-11-01,Body Bags,<= 7 Days,1,350,0.2857142857142857
+2020-11-01,Body Bags,> 7 Days,4,350,1.1428571428571428
+2020-11-01,Clear / Visually Accessible Masks,0 Days,26,350,7.4285714285714288
+2020-11-01,Clear / Visually Accessible Masks,<= 7 Days,14,350,4.0
+2020-11-01,Clear / Visually Accessible Masks,> 7 Days,19,350,5.4285714285714288
+2020-11-01,Cloth Masks,0 Days,19,350,5.4285714285714288
+2020-11-01,Cloth Masks,<= 7 Days,22,350,6.2857142857142856
+2020-11-01,Cloth Masks,> 7 Days,32,350,9.1428571428571423
+2020-11-01,Coveralls / Bunny Suits,0 Days,38,350,10.857142857142858
+2020-11-01,Coveralls / Bunny Suits,<= 7 Days,8,350,2.2857142857142856
+2020-11-01,Coveralls / Bunny Suits,> 7 Days,17,350,4.8571428571428568
+2020-11-01,Disinfecting Wipes,0 Days,100,350,28.571428571428573
+2020-11-01,Disinfecting Wipes,<= 7 Days,51,350,14.571428571428571
+2020-11-01,Disinfecting Wipes,> 7 Days,96,350,27.428571428571427
+2020-11-01,Disposable Booties,0 Days,48,350,13.714285714285714
+2020-11-01,Disposable Booties,<= 7 Days,12,350,3.4285714285714284
+2020-11-01,Disposable Booties,> 7 Days,14,350,4.0
+2020-11-01,Ear Savers,0 Days,29,350,8.2857142857142865
+2020-11-01,Ear Savers,<= 7 Days,9,350,2.5714285714285716
+2020-11-01,Ear Savers,> 7 Days,10,350,2.8571428571428572
+2020-11-01,Face Shields,0 Days,72,350,20.571428571428573
+2020-11-01,Face Shields,<= 7 Days,44,350,12.571428571428571
+2020-11-01,Face Shields,> 7 Days,45,350,12.857142857142858
+2020-11-01,Gowns,0 Days,49,350,14.0
+2020-11-01,Gowns,<= 7 Days,29,350,8.2857142857142865
+2020-11-01,Gowns,> 7 Days,48,350,13.714285714285714
+2020-11-01,Hand Sanitizer,0 Days,65,350,18.571428571428573
+2020-11-01,Hand Sanitizer,<= 7 Days,47,350,13.428571428571429
+2020-11-01,Hand Sanitizer,> 7 Days,95,350,27.142857142857142
+2020-11-01,Handwashing Stations,0 Days,19,350,5.4285714285714288
+2020-11-01,Handwashing Stations,<= 7 Days,5,350,1.4285714285714286
+2020-11-01,Handwashing Stations,> 7 Days,13,350,3.7142857142857144
+2020-11-01,KN95 Respirators,0 Days,25,350,7.1428571428571432
+2020-11-01,KN95 Respirators,<= 7 Days,20,350,5.7142857142857144
+2020-11-01,KN95 Respirators,> 7 Days,43,350,12.285714285714286
+2020-11-01,N95 Respirators,0 Days,87,350,24.857142857142858
+2020-11-01,N95 Respirators,<= 7 Days,45,350,12.857142857142858
+2020-11-01,N95 Respirators,> 7 Days,81,350,23.142857142857142
+2020-11-01,Nitrile Gloves,0 Days,59,350,16.857142857142858
+2020-11-01,Nitrile Gloves,<= 7 Days,53,350,15.142857142857142
+2020-11-01,Nitrile Gloves,> 7 Days,74,350,21.142857142857142
+2020-11-01,PAPR Replacement Face Shields,0 Days,26,350,7.4285714285714288
+2020-11-01,PAPR Replacement Face Shields,<= 7 Days,8,350,2.2857142857142856
+2020-11-01,PAPR Replacement Face Shields,> 7 Days,8,350,2.2857142857142856
+2020-11-01,Safety Glasses,0 Days,47,350,13.428571428571429
+2020-11-01,Safety Glasses,<= 7 Days,16,350,4.5714285714285712
+2020-11-01,Safety Glasses,> 7 Days,23,350,6.5714285714285712
+2020-11-01,Safety Goggles,0 Days,32,350,9.1428571428571423
+2020-11-01,Safety Goggles,<= 7 Days,13,350,3.7142857142857144
+2020-11-01,Safety Goggles,> 7 Days,22,350,6.2857142857142856
+2020-11-01,Sneeze Guards / Barriers,0 Days,30,350,8.5714285714285712
+2020-11-01,Sneeze Guards / Barriers,<= 7 Days,13,350,3.7142857142857144
+2020-11-01,Sneeze Guards / Barriers,> 7 Days,17,350,4.8571428571428568
+2020-11-01,Surgical Caps / Bouffant Caps,0 Days,44,350,12.571428571428571
+2020-11-01,Surgical Caps / Bouffant Caps,<= 7 Days,11,350,3.1428571428571428
+2020-11-01,Surgical Caps / Bouffant Caps,> 7 Days,12,350,3.4285714285714284
+2020-11-01,Surgical Masks,0 Days,56,350,16.0
+2020-11-01,Surgical Masks,<= 7 Days,43,350,12.285714285714286
+2020-11-01,Surgical Masks,> 7 Days,82,350,23.428571428571427
+2020-11-01,Thermometers,0 Days,33,350,9.4285714285714288
+2020-11-01,Thermometers,<= 7 Days,19,350,5.4285714285714288
+2020-11-01,Thermometers,> 7 Days,45,350,12.857142857142858
+2020-11-01,Two-way Communication Devices,0 Days,20,350,5.7142857142857144
+2020-11-01,Two-way Communication Devices,<= 7 Days,5,350,1.4285714285714286
+2020-11-01,Two-way Communication Devices,> 7 Days,13,350,3.7142857142857144
+2020-12-01,Body Bags,0 Days,6,574,1.0452961672473868
+2020-12-01,Body Bags,<= 7 Days,1,574,0.17421602787456447
+2020-12-01,Body Bags,> 7 Days,4,574,0.69686411149825789
+2020-12-01,Clear / Visually Accessible Masks,0 Days,60,574,10.452961672473867
+2020-12-01,Clear / Visually Accessible Masks,<= 7 Days,33,574,5.7491289198606275
+2020-12-01,Clear / Visually Accessible Masks,> 7 Days,73,574,12.717770034843205
+2020-12-01,Cloth Masks,0 Days,50,574,8.7108013937282234
+2020-12-01,Cloth Masks,<= 7 Days,53,574,9.2334494773519165
+2020-12-01,Cloth Masks,> 7 Days,91,574,15.853658536585366
+2020-12-01,Coveralls / Bunny Suits,0 Days,63,574,10.975609756097562
+2020-12-01,Coveralls / Bunny Suits,<= 7 Days,12,574,2.0905923344947737
+2020-12-01,Coveralls / Bunny Suits,> 7 Days,18,574,3.1358885017421603
+2020-12-01,Disinfecting Wipes,0 Days,108,574,18.815331010452962
+2020-12-01,Disinfecting Wipes,<= 7 Days,134,574,23.344947735191639
+2020-12-01,Disinfecting Wipes,> 7 Days,197,574,34.3205574912892
+2020-12-01,Disposable Booties,0 Days,88,574,15.331010452961673
+2020-12-01,Disposable Booties,<= 7 Days,28,574,4.8780487804878048
+2020-12-01,Disposable Booties,> 7 Days,35,574,6.0975609756097562
+2020-12-01,Ear Savers,0 Days,93,574,16.202090592334496
+2020-12-01,Ear Savers,<= 7 Days,28,574,4.8780487804878048
+2020-12-01,Ear Savers,> 7 Days,34,574,5.9233449477351918
+2020-12-01,Face Shields,0 Days,105,574,18.292682926829269
+2020-12-01,Face Shields,<= 7 Days,82,574,14.285714285714286
+2020-12-01,Face Shields,> 7 Days,134,574,23.344947735191639
+2020-12-01,Gowns,0 Days,82,574,14.285714285714286
+2020-12-01,Gowns,<= 7 Days,66,574,11.498257839721255
+2020-12-01,Gowns,> 7 Days,107,574,18.641114982578397
+2020-12-01,Hand Sanitizer,0 Days,59,574,10.278745644599303
+2020-12-01,Hand Sanitizer,<= 7 Days,95,574,16.550522648083625
+2020-12-01,Hand Sanitizer,> 7 Days,187,574,32.578397212543557
+2020-12-01,Handwashing Stations,0 Days,56,574,9.75609756097561
+2020-12-01,Handwashing Stations,<= 7 Days,26,574,4.529616724738676
+2020-12-01,Handwashing Stations,> 7 Days,25,574,4.3554006968641117
+2020-12-01,KN95 Respirators,0 Days,72,574,12.543554006968641
+2020-12-01,KN95 Respirators,<= 7 Days,57,574,9.9303135888501739
+2020-12-01,KN95 Respirators,> 7 Days,79,574,13.763066202090592
+2020-12-01,N95 Respirators,0 Days,103,574,17.94425087108014
+2020-12-01,N95 Respirators,<= 7 Days,98,574,17.073170731707318
+2020-12-01,N95 Respirators,> 7 Days,119,574,20.73170731707317
+2020-12-01,Nitrile Gloves,0 Days,70,574,12.195121951219512
+2020-12-01,Nitrile Gloves,<= 7 Days,106,574,18.466898954703833
+2020-12-01,Nitrile Gloves,> 7 Days,186,574,32.404181184668992
+2020-12-01,PAPR Replacement Face Shields,0 Days,32,574,5.5749128919860631
+2020-12-01,PAPR Replacement Face Shields,<= 7 Days,16,574,2.7874564459930316
+2020-12-01,PAPR Replacement Face Shields,> 7 Days,13,574,2.264808362369338
+2020-12-01,Safety Glasses,0 Days,86,574,14.982578397212544
+2020-12-01,Safety Glasses,<= 7 Days,46,574,8.0139372822299659
+2020-12-01,Safety Glasses,> 7 Days,58,574,10.104529616724738
+2020-12-01,Safety Goggles,0 Days,74,574,12.89198606271777
+2020-12-01,Safety Goggles,<= 7 Days,45,574,7.8397212543554007
+2020-12-01,Safety Goggles,> 7 Days,43,574,7.491289198606272
+2020-12-01,Sneeze Guards / Barriers,0 Days,94,574,16.376306620209061
+2020-12-01,Sneeze Guards / Barriers,<= 7 Days,28,574,4.8780487804878048
+2020-12-01,Sneeze Guards / Barriers,> 7 Days,36,574,6.2717770034843205
+2020-12-01,Surgical Caps / Bouffant Caps,0 Days,77,574,13.414634146341463
+2020-12-01,Surgical Caps / Bouffant Caps,<= 7 Days,26,574,4.529616724738676
+2020-12-01,Surgical Caps / Bouffant Caps,> 7 Days,34,574,5.9233449477351918
+2020-12-01,Surgical Masks,0 Days,48,574,8.3623693379790947
+2020-12-01,Surgical Masks,<= 7 Days,84,574,14.634146341463415
+2020-12-01,Surgical Masks,> 7 Days,184,574,32.055749128919864
+2020-12-01,Thermometers,0 Days,76,574,13.240418118466899
+2020-12-01,Thermometers,<= 7 Days,61,574,10.627177700348431
+2020-12-01,Thermometers,> 7 Days,140,574,24.390243902439025
+2020-12-01,Two-way Communication Devices,0 Days,62,574,10.801393728222996
+2020-12-01,Two-way Communication Devices,<= 7 Days,11,574,1.9163763066202091
+2020-12-01,Two-way Communication Devices,> 7 Days,17,574,2.9616724738675959
+2021-01-01,3-Ply Masks,0 Days,21,852,2.464788732394366
+2021-01-01,3-Ply Masks,<= 7 Days,29,852,3.403755868544601
+2021-01-01,3-Ply Masks,> 7 Days,25,852,2.9342723004694835
+2021-01-01,Body Bags,0 Days,10,852,1.1737089201877935
+2021-01-01,Body Bags,<= 7 Days,11,852,1.2910798122065728
+2021-01-01,Body Bags,> 7 Days,9,852,1.056338028169014
+2021-01-01,Clear / Visually Accessible Masks,0 Days,100,852,11.737089201877934
+2021-01-01,Clear / Visually Accessible Masks,<= 7 Days,42,852,4.929577464788732
+2021-01-01,Clear / Visually Accessible Masks,> 7 Days,51,852,5.9859154929577461
+2021-01-01,Cloth Masks,0 Days,71,852,8.3333333333333339
+2021-01-01,Cloth Masks,<= 7 Days,51,852,5.9859154929577461
+2021-01-01,Cloth Masks,> 7 Days,100,852,11.737089201877934
+2021-01-01,Coveralls / Bunny Suits,0 Days,91,852,10.68075117370892
+2021-01-01,Coveralls / Bunny Suits,<= 7 Days,40,852,4.694835680751174
+2021-01-01,Coveralls / Bunny Suits,> 7 Days,44,852,5.164319248826291
+2021-01-01,Disinfecting Wipes,0 Days,134,852,15.727699530516432
+2021-01-01,Disinfecting Wipes,<= 7 Days,189,852,22.183098591549296
+2021-01-01,Disinfecting Wipes,> 7 Days,266,852,31.220657276995304
+2021-01-01,Disposable Booties,0 Days,108,852,12.67605633802817
+2021-01-01,Disposable Booties,<= 7 Days,70,852,8.215962441314554
+2021-01-01,Disposable Booties,> 7 Days,76,852,8.92018779342723
+2021-01-01,Ear Savers,0 Days,105,852,12.32394366197183
+2021-01-01,Ear Savers,<= 7 Days,47,852,5.516431924882629
+2021-01-01,Ear Savers,> 7 Days,46,852,5.39906103286385
+2021-01-01,Face Shields,0 Days,111,852,13.028169014084508
+2021-01-01,Face Shields,<= 7 Days,116,852,13.615023474178404
+2021-01-01,Face Shields,> 7 Days,229,852,26.877934272300468
+2021-01-01,Gowns,0 Days,108,852,12.67605633802817
+2021-01-01,Gowns,<= 7 Days,133,852,15.610328638497652
+2021-01-01,Gowns,> 7 Days,220,852,25.821596244131456
+2021-01-01,Hand Sanitizer,0 Days,80,852,9.3896713615023479
+2021-01-01,Hand Sanitizer,<= 7 Days,164,852,19.248826291079812
+2021-01-01,Hand Sanitizer,> 7 Days,279,852,32.74647887323944
+2021-01-01,Handwashing Stations,0 Days,75,852,8.80281690140845
+2021-01-01,Handwashing Stations,<= 7 Days,28,852,3.2863849765258215
+2021-01-01,Handwashing Stations,> 7 Days,51,852,5.9859154929577461
+2021-01-01,KN95 Respirators,0 Days,119,852,13.967136150234742
+2021-01-01,KN95 Respirators,<= 7 Days,95,852,11.150234741784038
+2021-01-01,KN95 Respirators,> 7 Days,162,852,19.014084507042252
+2021-01-01,N95 Respirators,0 Days,150,852,17.6056338028169
+2021-01-01,N95 Respirators,<= 7 Days,134,852,15.727699530516432
+2021-01-01,N95 Respirators,> 7 Days,245,852,28.75586854460094
+2021-01-01,Nitrile Gloves,0 Days,98,852,11.502347417840376
+2021-01-01,Nitrile Gloves,<= 7 Days,187,852,21.948356807511736
+2021-01-01,Nitrile Gloves,> 7 Days,245,852,28.75586854460094
+2021-01-01,PAPR Replacement Face Shields,0 Days,43,852,5.046948356807512
+2021-01-01,PAPR Replacement Face Shields,<= 7 Days,40,852,4.694835680751174
+2021-01-01,PAPR Replacement Face Shields,> 7 Days,39,852,4.577464788732394
+2021-01-01,Safety Glasses,0 Days,122,852,14.31924882629108
+2021-01-01,Safety Glasses,<= 7 Days,71,852,8.3333333333333339
+2021-01-01,Safety Glasses,> 7 Days,102,852,11.971830985915492
+2021-01-01,Safety Goggles,0 Days,105,852,12.32394366197183
+2021-01-01,Safety Goggles,<= 7 Days,62,852,7.276995305164319
+2021-01-01,Safety Goggles,> 7 Days,79,852,9.272300469483568
+2021-01-01,Sneeze Guards / Barriers,0 Days,119,852,13.967136150234742
+2021-01-01,Sneeze Guards / Barriers,<= 7 Days,43,852,5.046948356807512
+2021-01-01,Sneeze Guards / Barriers,> 7 Days,50,852,5.868544600938967
+2021-01-01,Surgical Caps / Bouffant Caps,0 Days,96,852,11.267605633802816
+2021-01-01,Surgical Caps / Bouffant Caps,<= 7 Days,66,852,7.746478873239437
+2021-01-01,Surgical Caps / Bouffant Caps,> 7 Days,66,852,7.746478873239437
+2021-01-01,Surgical Masks,0 Days,98,852,11.502347417840376
+2021-01-01,Surgical Masks,<= 7 Days,128,852,15.023474178403756
+2021-01-01,Surgical Masks,> 7 Days,246,852,28.87323943661972
+2021-01-01,Thermometers,0 Days,110,852,12.910798122065728
+2021-01-01,Thermometers,<= 7 Days,107,852,12.55868544600939
+2021-01-01,Thermometers,> 7 Days,184,852,21.5962441314554
+2021-01-01,Two-way Communication Devices,0 Days,125,852,14.671361502347418
+2021-01-01,Two-way Communication Devices,<= 7 Days,20,852,2.347417840375587
+2021-01-01,Two-way Communication Devices,> 7 Days,30,852,3.5211267605633805
+2021-02-01,3-Ply Masks,0 Days,52,405,12.839506172839506
+2021-02-01,3-Ply Masks,<= 7 Days,41,405,10.123456790123457
+2021-02-01,3-Ply Masks,> 7 Days,67,405,16.543209876543209
+2021-02-01,Body Bags,0 Days,9,405,2.2222222222222223
+2021-02-01,Body Bags,<= 7 Days,4,405,0.98765432098765427
+2021-02-01,Body Bags,> 7 Days,4,405,0.98765432098765427
+2021-02-01,Clear / Visually Accessible Masks,0 Days,61,405,15.061728395061728
+2021-02-01,Clear / Visually Accessible Masks,<= 7 Days,11,405,2.7160493827160495
+2021-02-01,Clear / Visually Accessible Masks,> 7 Days,25,405,6.1728395061728394
+2021-02-01,Cloth Masks,0 Days,38,405,9.3827160493827169
+2021-02-01,Cloth Masks,<= 7 Days,31,405,7.6543209876543212
+2021-02-01,Cloth Masks,> 7 Days,36,405,8.88888888888889
+2021-02-01,Coveralls / Bunny Suits,0 Days,35,405,8.6419753086419746
+2021-02-01,Coveralls / Bunny Suits,<= 7 Days,18,405,4.4444444444444446
+2021-02-01,Coveralls / Bunny Suits,> 7 Days,10,405,2.4691358024691357
+2021-02-01,Disinfecting Wipes,0 Days,71,405,17.530864197530864
+2021-02-01,Disinfecting Wipes,<= 7 Days,77,405,19.012345679012345
+2021-02-01,Disinfecting Wipes,> 7 Days,124,405,30.617283950617285
+2021-02-01,Disposable Booties,0 Days,54,405,13.333333333333334
+2021-02-01,Disposable Booties,<= 7 Days,17,405,4.1975308641975309
+2021-02-01,Disposable Booties,> 7 Days,30,405,7.4074074074074074
+2021-02-01,Ear Savers,0 Days,39,405,9.62962962962963
+2021-02-01,Ear Savers,<= 7 Days,22,405,5.4320987654320989
+2021-02-01,Ear Savers,> 7 Days,18,405,4.4444444444444446
+2021-02-01,Face Shields,0 Days,58,405,14.320987654320987
+2021-02-01,Face Shields,<= 7 Days,43,405,10.617283950617283
+2021-02-01,Face Shields,> 7 Days,93,405,22.962962962962962
+2021-02-01,Gowns,0 Days,53,405,13.086419753086419
+2021-02-01,Gowns,<= 7 Days,40,405,9.8765432098765427
+2021-02-01,Gowns,> 7 Days,56,405,13.82716049382716
+2021-02-01,Hand Sanitizer,0 Days,57,405,14.074074074074074
+2021-02-01,Hand Sanitizer,<= 7 Days,67,405,16.543209876543209
+2021-02-01,Hand Sanitizer,> 7 Days,131,405,32.345679012345677
+2021-02-01,Handwashing Stations,0 Days,55,405,13.580246913580247
+2021-02-01,Handwashing Stations,<= 7 Days,19,405,4.6913580246913584
+2021-02-01,Handwashing Stations,> 7 Days,28,405,6.91358024691358
+2021-02-01,KN95 Respirators,0 Days,60,405,14.814814814814815
+2021-02-01,KN95 Respirators,<= 7 Days,45,405,11.111111111111111
+2021-02-01,KN95 Respirators,> 7 Days,74,405,18.271604938271604
+2021-02-01,N95 Respirators,0 Days,78,405,19.25925925925926
+2021-02-01,N95 Respirators,<= 7 Days,57,405,14.074074074074074
+2021-02-01,N95 Respirators,> 7 Days,92,405,22.716049382716051
+2021-02-01,Nitrile Gloves,0 Days,71,405,17.530864197530864
+2021-02-01,Nitrile Gloves,<= 7 Days,70,405,17.283950617283949
+2021-02-01,Nitrile Gloves,> 7 Days,103,405,25.432098765432098
+2021-02-01,PAPR Replacement Face Shields,0 Days,24,405,5.9259259259259256
+2021-02-01,PAPR Replacement Face Shields,<= 7 Days,10,405,2.4691358024691357
+2021-02-01,PAPR Replacement Face Shields,> 7 Days,13,405,3.2098765432098766
+2021-02-01,Safety Glasses,0 Days,49,405,12.098765432098766
+2021-02-01,Safety Glasses,<= 7 Days,25,405,6.1728395061728394
+2021-02-01,Safety Glasses,> 7 Days,37,405,9.1358024691358022
+2021-02-01,Safety Goggles,0 Days,32,405,7.9012345679012341
+2021-02-01,Safety Goggles,<= 7 Days,25,405,6.1728395061728394
+2021-02-01,Safety Goggles,> 7 Days,20,405,4.9382716049382713
+2021-02-01,Sneeze Guards / Barriers,0 Days,69,405,17.037037037037038
+2021-02-01,Sneeze Guards / Barriers,<= 7 Days,9,405,2.2222222222222223
+2021-02-01,Sneeze Guards / Barriers,> 7 Days,25,405,6.1728395061728394
+2021-02-01,Surgical Caps / Bouffant Caps,0 Days,39,405,9.62962962962963
+2021-02-01,Surgical Caps / Bouffant Caps,<= 7 Days,16,405,3.9506172839506171
+2021-02-01,Surgical Caps / Bouffant Caps,> 7 Days,27,405,6.666666666666667
+2021-02-01,Surgical Masks,0 Days,52,405,12.839506172839506
+2021-02-01,Surgical Masks,<= 7 Days,59,405,14.567901234567902
+2021-02-01,Surgical Masks,> 7 Days,81,405,20.0
+2021-02-01,Thermometers,0 Days,75,405,18.518518518518519
+2021-02-01,Thermometers,<= 7 Days,38,405,9.3827160493827169
+2021-02-01,Thermometers,> 7 Days,81,405,20.0
+2021-02-01,Two-way Communication Devices,0 Days,61,405,15.061728395061728
+2021-02-01,Two-way Communication Devices,<= 7 Days,7,405,1.728395061728395
+2021-02-01,Two-way Communication Devices,> 7 Days,15,405,3.7037037037037037
+2021-03-01,3-Ply Masks,0 Days,89,805,11.055900621118013
+2021-03-01,3-Ply Masks,<= 7 Days,100,805,12.422360248447205
+2021-03-01,3-Ply Masks,> 7 Days,153,805,19.006211180124225
+2021-03-01,Body Bags,0 Days,8,805,0.99378881987577639
+2021-03-01,Body Bags,<= 7 Days,5,805,0.6211180124223602
+2021-03-01,Body Bags,> 7 Days,12,805,1.4906832298136645
+2021-03-01,Clear / Visually Accessible Masks,0 Days,110,805,13.664596273291925
+2021-03-01,Clear / Visually Accessible Masks,<= 7 Days,36,805,4.4720496894409933
+2021-03-01,Clear / Visually Accessible Masks,> 7 Days,56,805,6.9565217391304346
+2021-03-01,Cloth Masks,0 Days,71,805,8.8198757763975149
+2021-03-01,Cloth Masks,<= 7 Days,65,805,8.0745341614906838
+2021-03-01,Cloth Masks,> 7 Days,87,805,10.807453416149068
+2021-03-01,Coveralls / Bunny Suits,0 Days,46,805,5.7142857142857144
+2021-03-01,Coveralls / Bunny Suits,<= 7 Days,25,805,3.1055900621118013
+2021-03-01,Coveralls / Bunny Suits,> 7 Days,33,805,4.0993788819875778
+2021-03-01,Disinfecting Wipes,0 Days,129,805,16.024844720496894
+2021-03-01,Disinfecting Wipes,<= 7 Days,183,805,22.732919254658384
+2021-03-01,Disinfecting Wipes,> 7 Days,297,805,36.8944099378882
+2021-03-01,Disposable Booties,0 Days,70,805,8.695652173913043
+2021-03-01,Disposable Booties,<= 7 Days,45,805,5.5900621118012426
+2021-03-01,Disposable Booties,> 7 Days,49,805,6.0869565217391308
+2021-03-01,Ear Savers,0 Days,93,805,11.5527950310559
+2021-03-01,Ear Savers,<= 7 Days,31,805,3.8509316770186337
+2021-03-01,Ear Savers,> 7 Days,48,805,5.9627329192546581
+2021-03-01,Face Shields,0 Days,81,805,10.062111801242237
+2021-03-01,Face Shields,<= 7 Days,95,805,11.801242236024844
+2021-03-01,Face Shields,> 7 Days,161,805,20.0
+2021-03-01,Gowns,0 Days,62,805,7.7018633540372674
+2021-03-01,Gowns,<= 7 Days,75,805,9.316770186335404
+2021-03-01,Gowns,> 7 Days,144,805,17.888198757763973
+2021-03-01,Hand Sanitizer,0 Days,85,805,10.559006211180124
+2021-03-01,Hand Sanitizer,<= 7 Days,148,805,18.385093167701864
+2021-03-01,Hand Sanitizer,> 7 Days,270,805,33.54037267080745
+2021-03-01,Handwashing Stations,0 Days,72,805,8.9440993788819867
+2021-03-01,Handwashing Stations,<= 7 Days,25,805,3.1055900621118013
+2021-03-01,Handwashing Stations,> 7 Days,78,805,9.68944099378882
+2021-03-01,KN95 Respirators,0 Days,88,805,10.93167701863354
+2021-03-01,KN95 Respirators,<= 7 Days,81,805,10.062111801242237
+2021-03-01,KN95 Respirators,> 7 Days,159,805,19.751552795031056
+2021-03-01,N95 Respirators,0 Days,100,805,12.422360248447205
+2021-03-01,N95 Respirators,<= 7 Days,113,805,14.037267080745341
+2021-03-01,N95 Respirators,> 7 Days,214,805,26.58385093167702
+2021-03-01,Nitrile Gloves,0 Days,103,805,12.795031055900621
+2021-03-01,Nitrile Gloves,<= 7 Days,177,805,21.987577639751553
+2021-03-01,Nitrile Gloves,> 7 Days,272,805,33.7888198757764
+2021-03-01,PAPR Replacement Face Shields,0 Days,27,805,3.3540372670807455
+2021-03-01,PAPR Replacement Face Shields,<= 7 Days,17,805,2.1118012422360248
+2021-03-01,PAPR Replacement Face Shields,> 7 Days,18,805,2.2360248447204967
+2021-03-01,Safety Glasses,0 Days,77,805,9.5652173913043477
+2021-03-01,Safety Glasses,<= 7 Days,48,805,5.9627329192546581
+2021-03-01,Safety Glasses,> 7 Days,96,805,11.925465838509316
+2021-03-01,Safety Goggles,0 Days,71,805,8.8198757763975149
+2021-03-01,Safety Goggles,<= 7 Days,40,805,4.9689440993788816
+2021-03-01,Safety Goggles,> 7 Days,56,805,6.9565217391304346
+2021-03-01,Sneeze Guards / Barriers,0 Days,77,805,9.5652173913043477
+2021-03-01,Sneeze Guards / Barriers,<= 7 Days,27,805,3.3540372670807455
+2021-03-01,Sneeze Guards / Barriers,> 7 Days,66,805,8.1987577639751557
+2021-03-01,Surgical Caps / Bouffant Caps,0 Days,47,805,5.8385093167701863
+2021-03-01,Surgical Caps / Bouffant Caps,<= 7 Days,30,805,3.7267080745341614
+2021-03-01,Surgical Caps / Bouffant Caps,> 7 Days,44,805,5.46583850931677
+2021-03-01,Surgical Masks,0 Days,74,805,9.1925465838509322
+2021-03-01,Surgical Masks,<= 7 Days,115,805,14.285714285714286
+2021-03-01,Surgical Masks,> 7 Days,234,805,29.06832298136646
+2021-03-01,Thermometers,0 Days,102,805,12.670807453416149
+2021-03-01,Thermometers,<= 7 Days,96,805,11.925465838509316
+2021-03-01,Thermometers,> 7 Days,212,805,26.335403726708076
+2021-03-01,Two-way Communication Devices,0 Days,115,805,14.285714285714286
+2021-03-01,Two-way Communication Devices,<= 7 Days,16,805,1.9875776397515528
+2021-03-01,Two-way Communication Devices,> 7 Days,50,805,6.2111801242236027
+2021-04-01,3-Ply Masks,0 Days,100,1009,9.9108027750247771
+2021-04-01,3-Ply Masks,<= 7 Days,136,1009,13.478691774033697
+2021-04-01,3-Ply Masks,> 7 Days,206,1009,20.41625371655104
+2021-04-01,Body Bags,0 Days,10,1009,0.99108027750247774
+2021-04-01,Body Bags,<= 7 Days,10,1009,0.99108027750247774
+2021-04-01,Body Bags,> 7 Days,11,1009,1.0901883052527255
+2021-04-01,Clear / Visually Accessible Masks,0 Days,131,1009,12.983151635282457
+2021-04-01,Clear / Visually Accessible Masks,<= 7 Days,42,1009,4.1625371655104066
+2021-04-01,Clear / Visually Accessible Masks,> 7 Days,56,1009,5.5500495540138752
+2021-04-01,Cloth Masks,0 Days,94,1009,9.31615460852329
+2021-04-01,Cloth Masks,<= 7 Days,82,1009,8.126858275520318
+2021-04-01,Cloth Masks,> 7 Days,118,1009,11.694747274529236
+2021-04-01,Coveralls / Bunny Suits,0 Days,50,1009,4.9554013875123886
+2021-04-01,Coveralls / Bunny Suits,<= 7 Days,33,1009,3.2705649157581762
+2021-04-01,Coveralls / Bunny Suits,> 7 Days,39,1009,3.8652130822596629
+2021-04-01,Disinfecting Wipes,0 Days,166,1009,16.451932606541131
+2021-04-01,Disinfecting Wipes,<= 7 Days,252,1009,24.975222993062438
+2021-04-01,Disinfecting Wipes,> 7 Days,331,1009,32.804757185332015
+2021-04-01,Disposable Booties,0 Days,95,1009,9.415262636273539
+2021-04-01,Disposable Booties,<= 7 Days,60,1009,5.9464816650148666
+2021-04-01,Disposable Booties,> 7 Days,63,1009,6.2438057482656095
+2021-04-01,Ear Savers,0 Days,127,1009,12.586719524281467
+2021-04-01,Ear Savers,<= 7 Days,43,1009,4.2616451932606543
+2021-04-01,Ear Savers,> 7 Days,39,1009,3.8652130822596629
+2021-04-01,Face Shields,0 Days,93,1009,9.217046580773042
+2021-04-01,Face Shields,<= 7 Days,113,1009,11.199207135777998
+2021-04-01,Face Shields,> 7 Days,190,1009,18.830525272547078
+2021-04-01,Gowns,0 Days,69,1009,6.8384539147670962
+2021-04-01,Gowns,<= 7 Days,103,1009,10.20812685827552
+2021-04-01,Gowns,> 7 Days,168,1009,16.650148662041627
+2021-04-01,Hand Sanitizer,0 Days,142,1009,14.073339940535183
+2021-04-01,Hand Sanitizer,<= 7 Days,212,1009,21.010901883052526
+2021-04-01,Hand Sanitizer,> 7 Days,327,1009,32.408325074331017
+2021-04-01,Handwashing Stations,> 7 Days,217,1009,21.506442021803768
+2021-04-01,KN95 Respirators,0 Days,128,1009,12.685827552031714
+2021-04-01,KN95 Respirators,<= 7 Days,116,1009,11.496531219028741
+2021-04-01,KN95 Respirators,> 7 Days,184,1009,18.235877106045589
+2021-04-01,N95 Respirators,0 Days,136,1009,13.478691774033697
+2021-04-01,N95 Respirators,<= 7 Days,143,1009,14.172447968285431
+2021-04-01,N95 Respirators,> 7 Days,252,1009,24.975222993062438
+2021-04-01,Nitrile Gloves,0 Days,142,1009,14.073339940535183
+2021-04-01,Nitrile Gloves,<= 7 Days,232,1009,22.993062438057482
+2021-04-01,Nitrile Gloves,> 7 Days,334,1009,33.102081268582758
+2021-04-01,PAPR Replacement Face Shields,0 Days,27,1009,2.67591674925669
+2021-04-01,PAPR Replacement Face Shields,<= 7 Days,20,1009,1.9821605550049555
+2021-04-01,PAPR Replacement Face Shields,> 7 Days,30,1009,2.9732408325074333
+2021-04-01,Safety Glasses,0 Days,96,1009,9.5143706640237866
+2021-04-01,Safety Glasses,<= 7 Days,72,1009,7.1357779980178391
+2021-04-01,Safety Glasses,> 7 Days,107,1009,10.604558969276511
+2021-04-01,Safety Goggles,0 Days,72,1009,7.1357779980178391
+2021-04-01,Safety Goggles,<= 7 Days,58,1009,5.7482656095143705
+2021-04-01,Safety Goggles,> 7 Days,73,1009,7.2348860257680876
+2021-04-01,Sneeze Guards / Barriers,> 7 Days,239,1009,23.686818632309215
+2021-04-01,Surgical Caps / Bouffant Caps,0 Days,63,1009,6.2438057482656095
+2021-04-01,Surgical Caps / Bouffant Caps,<= 7 Days,44,1009,4.3607532210109019
+2021-04-01,Surgical Caps / Bouffant Caps,> 7 Days,56,1009,5.5500495540138752
+2021-04-01,Surgical Masks,0 Days,89,1009,8.8206144697720514
+2021-04-01,Surgical Masks,<= 7 Days,167,1009,16.551040634291379
+2021-04-01,Surgical Masks,> 7 Days,263,1009,26.065411298315162
+2021-04-01,Thermometers,0 Days,143,1009,14.172447968285431
+2021-04-01,Thermometers,<= 7 Days,135,1009,13.379583746283449
+2021-04-01,Thermometers,> 7 Days,224,1009,22.2001982160555
+2021-04-01,Two-way Communication Devices,> 7 Days,258,1009,25.569871159563924
+2021-05-01,3-Ply Masks,0 Days,54,497,10.865191146881287
+2021-05-01,3-Ply Masks,<= 7 Days,72,497,14.486921529175051
+2021-05-01,3-Ply Masks,> 7 Days,84,497,16.901408450704224
+2021-05-01,Body Bags,0 Days,5,497,1.0060362173038229
+2021-05-01,Body Bags,<= 7 Days,3,497,0.60362173038229372
+2021-05-01,Body Bags,> 7 Days,3,497,0.60362173038229372
+2021-05-01,Clear / Visually Accessible Masks,0 Days,53,497,10.663983903420522
+2021-05-01,Clear / Visually Accessible Masks,<= 7 Days,16,497,3.2193158953722336
+2021-05-01,Clear / Visually Accessible Masks,> 7 Days,27,497,5.4325955734406435
+2021-05-01,Cloth Masks,0 Days,51,497,10.261569416498993
+2021-05-01,Cloth Masks,<= 7 Days,41,497,8.2494969818913475
+2021-05-01,Cloth Masks,> 7 Days,43,497,8.6519114688128766
+2021-05-01,Coveralls / Bunny Suits,0 Days,24,497,4.82897384305835
+2021-05-01,Coveralls / Bunny Suits,<= 7 Days,18,497,3.6217303822937628
+2021-05-01,Coveralls / Bunny Suits,> 7 Days,14,497,2.816901408450704
+2021-05-01,Disinfecting Wipes,0 Days,101,497,20.321931589537222
+2021-05-01,Disinfecting Wipes,<= 7 Days,124,497,24.949698189134807
+2021-05-01,Disinfecting Wipes,> 7 Days,142,497,28.571428571428573
+2021-05-01,Disposable Booties,0 Days,56,497,11.267605633802816
+2021-05-01,Disposable Booties,<= 7 Days,36,497,7.2434607645875255
+2021-05-01,Disposable Booties,> 7 Days,30,497,6.0362173038229372
+2021-05-01,Ear Savers,0 Days,60,497,12.072434607645874
+2021-05-01,Ear Savers,<= 7 Days,11,497,2.2132796780684103
+2021-05-01,Ear Savers,> 7 Days,23,497,4.6277665995975852
+2021-05-01,Face Shields,0 Days,53,497,10.663983903420522
+2021-05-01,Face Shields,<= 7 Days,44,497,8.8531187122736412
+2021-05-01,Face Shields,> 7 Days,63,497,12.67605633802817
+2021-05-01,Gowns,0 Days,44,497,8.8531187122736412
+2021-05-01,Gowns,<= 7 Days,56,497,11.267605633802816
+2021-05-01,Gowns,> 7 Days,57,497,11.468812877263581
+2021-05-01,Hand Sanitizer,0 Days,79,497,15.895372233400403
+2021-05-01,Hand Sanitizer,<= 7 Days,103,497,20.724346076458751
+2021-05-01,Hand Sanitizer,> 7 Days,140,497,28.169014084507044
+2021-05-01,Handwashing Stations,> 7 Days,121,497,24.346076458752513
+2021-05-01,KN95 Respirators,0 Days,50,497,10.060362173038229
+2021-05-01,KN95 Respirators,<= 7 Days,57,497,11.468812877263581
+2021-05-01,KN95 Respirators,> 7 Days,60,497,12.072434607645874
+2021-05-01,N95 Respirators,0 Days,65,497,13.078470824949699
+2021-05-01,N95 Respirators,<= 7 Days,76,497,15.291750503018109
+2021-05-01,N95 Respirators,> 7 Days,87,497,17.505030181086518
+2021-05-01,Nitrile Gloves,0 Days,85,497,17.102615694164989
+2021-05-01,Nitrile Gloves,<= 7 Days,142,497,28.571428571428573
+2021-05-01,Nitrile Gloves,> 7 Days,122,497,24.547283702213278
+2021-05-01,PAPR Replacement Face Shields,0 Days,8,497,1.6096579476861168
+2021-05-01,PAPR Replacement Face Shields,<= 7 Days,6,497,1.2072434607645874
+2021-05-01,PAPR Replacement Face Shields,> 7 Days,9,497,1.8108651911468814
+2021-05-01,Safety Glasses,0 Days,53,497,10.663983903420522
+2021-05-01,Safety Glasses,<= 7 Days,32,497,6.4386317907444672
+2021-05-01,Safety Glasses,> 7 Days,45,497,9.0543259557344058
+2021-05-01,Safety Goggles,0 Days,38,497,7.6458752515090547
+2021-05-01,Safety Goggles,<= 7 Days,31,497,6.2374245472837018
+2021-05-01,Safety Goggles,> 7 Days,34,497,6.8410462776659964
+2021-05-01,Sneeze Guards / Barriers,> 7 Days,119,497,23.943661971830984
+2021-05-01,Surgical Caps / Bouffant Caps,0 Days,32,497,6.4386317907444672
+2021-05-01,Surgical Caps / Bouffant Caps,<= 7 Days,22,497,4.4265593561368206
+2021-05-01,Surgical Caps / Bouffant Caps,> 7 Days,19,497,3.8229376257545273
+2021-05-01,Surgical Masks,0 Days,46,497,9.25553319919517
+2021-05-01,Surgical Masks,<= 7 Days,85,497,17.102615694164989
+2021-05-01,Surgical Masks,> 7 Days,109,497,21.931589537223338
+2021-05-01,Thermometers,0 Days,84,497,16.901408450704224
+2021-05-01,Thermometers,<= 7 Days,67,497,13.480885311871228
+2021-05-01,Thermometers,> 7 Days,98,497,19.718309859154928
+2021-05-01,Two-way Communication Devices,> 7 Days,130,497,26.156941649899398
+2021-06-01,3-Ply Masks,0 Days,42,322,13.043478260869565
+2021-06-01,3-Ply Masks,<= 7 Days,43,322,13.354037267080745
+2021-06-01,3-Ply Masks,> 7 Days,58,322,18.012422360248447
+2021-06-01,Body Bags,0 Days,6,322,1.8633540372670807
+2021-06-01,Body Bags,<= 7 Days,2,322,0.6211180124223602
+2021-06-01,Body Bags,> 7 Days,4,322,1.2422360248447204
+2021-06-01,Clear / Visually Accessible Masks,0 Days,37,322,11.490683229813664
+2021-06-01,Clear / Visually Accessible Masks,<= 7 Days,8,322,2.4844720496894408
+2021-06-01,Clear / Visually Accessible Masks,> 7 Days,15,322,4.658385093167702
+2021-06-01,Cloth Masks,0 Days,30,322,9.316770186335404
+2021-06-01,Cloth Masks,<= 7 Days,23,322,7.1428571428571432
+2021-06-01,Cloth Masks,> 7 Days,29,322,9.0062111801242235
+2021-06-01,Coveralls / Bunny Suits,0 Days,15,322,4.658385093167702
+2021-06-01,Coveralls / Bunny Suits,<= 7 Days,13,322,4.0372670807453419
+2021-06-01,Coveralls / Bunny Suits,> 7 Days,5,322,1.5527950310559007
+2021-06-01,Disinfecting Wipes,0 Days,70,322,21.739130434782609
+2021-06-01,Disinfecting Wipes,<= 7 Days,83,322,25.77639751552795
+2021-06-01,Disinfecting Wipes,> 7 Days,89,322,27.63975155279503
+2021-06-01,Disposable Booties,0 Days,37,322,11.490683229813664
+2021-06-01,Disposable Booties,<= 7 Days,13,322,4.0372670807453419
+2021-06-01,Disposable Booties,> 7 Days,16,322,4.9689440993788816
+2021-06-01,Ear Savers,0 Days,33,322,10.248447204968944
+2021-06-01,Ear Savers,<= 7 Days,9,322,2.7950310559006213
+2021-06-01,Ear Savers,> 7 Days,15,322,4.658385093167702
+2021-06-01,Face Shields,0 Days,26,322,8.0745341614906838
+2021-06-01,Face Shields,<= 7 Days,20,322,6.2111801242236027
+2021-06-01,Face Shields,> 7 Days,33,322,10.248447204968944
+2021-06-01,Gowns,0 Days,26,322,8.0745341614906838
+2021-06-01,Gowns,<= 7 Days,23,322,7.1428571428571432
+2021-06-01,Gowns,> 7 Days,26,322,8.0745341614906838
+2021-06-01,Hand Sanitizer,0 Days,57,322,17.701863354037268
+2021-06-01,Hand Sanitizer,<= 7 Days,64,322,19.875776397515526
+2021-06-01,Hand Sanitizer,> 7 Days,84,322,26.086956521739129
+2021-06-01,Handwashing Stations,> 7 Days,80,322,24.844720496894411
+2021-06-01,KN95 Respirators,0 Days,36,322,11.180124223602485
+2021-06-01,KN95 Respirators,<= 7 Days,31,322,9.6273291925465845
+2021-06-01,KN95 Respirators,> 7 Days,33,322,10.248447204968944
+2021-06-01,N95 Respirators,0 Days,43,322,13.354037267080745
+2021-06-01,N95 Respirators,<= 7 Days,44,322,13.664596273291925
+2021-06-01,N95 Respirators,> 7 Days,34,322,10.559006211180124
+2021-06-01,Nitrile Gloves,0 Days,62,322,19.254658385093169
+2021-06-01,Nitrile Gloves,<= 7 Days,75,322,23.29192546583851
+2021-06-01,Nitrile Gloves,> 7 Days,90,322,27.950310559006212
+2021-06-01,PAPR Replacement Face Shields,0 Days,9,322,2.7950310559006213
+2021-06-01,PAPR Replacement Face Shields,<= 7 Days,7,322,2.1739130434782608
+2021-06-01,PAPR Replacement Face Shields,> 7 Days,7,322,2.1739130434782608
+2021-06-01,Safety Glasses,0 Days,28,322,8.695652173913043
+2021-06-01,Safety Glasses,<= 7 Days,16,322,4.9689440993788816
+2021-06-01,Safety Glasses,> 7 Days,11,322,3.4161490683229814
+2021-06-01,Safety Goggles,0 Days,28,322,8.695652173913043
+2021-06-01,Safety Goggles,<= 7 Days,11,322,3.4161490683229814
+2021-06-01,Safety Goggles,> 7 Days,15,322,4.658385093167702
+2021-06-01,Sneeze Guards / Barriers,> 7 Days,60,322,18.633540372670808
+2021-06-01,Surgical Caps / Bouffant Caps,0 Days,21,322,6.5217391304347823
+2021-06-01,Surgical Caps / Bouffant Caps,<= 7 Days,7,322,2.1739130434782608
+2021-06-01,Surgical Caps / Bouffant Caps,> 7 Days,9,322,2.7950310559006213
+2021-06-01,Surgical Masks,0 Days,42,322,13.043478260869565
+2021-06-01,Surgical Masks,<= 7 Days,46,322,14.285714285714286
+2021-06-01,Surgical Masks,> 7 Days,57,322,17.701863354037268
+2021-06-01,Thermometers,0 Days,54,322,16.770186335403725
+2021-06-01,Thermometers,<= 7 Days,49,322,15.217391304347826
+2021-06-01,Thermometers,> 7 Days,59,322,18.322981366459626
+2021-06-01,Two-way Communication Devices,> 7 Days,77,322,23.913043478260871
+2021-07-01,3-Ply Masks,0 Days,2,17,11.764705882352942
+2021-07-01,3-Ply Masks,<= 7 Days,3,17,17.647058823529413
+2021-07-01,3-Ply Masks,> 7 Days,6,17,35.294117647058826
+2021-07-01,Body Bags,> 7 Days,1,17,5.882352941176471
+2021-07-01,Clear / Visually Accessible Masks,0 Days,3,17,17.647058823529413
+2021-07-01,Clear / Visually Accessible Masks,<= 7 Days,2,17,11.764705882352942
+2021-07-01,Cloth Masks,0 Days,3,17,17.647058823529413
+2021-07-01,Coveralls / Bunny Suits,<= 7 Days,1,17,5.882352941176471
+2021-07-01,Disinfecting Wipes,0 Days,3,17,17.647058823529413
+2021-07-01,Disinfecting Wipes,<= 7 Days,4,17,23.529411764705884
+2021-07-01,Disinfecting Wipes,> 7 Days,2,17,11.764705882352942
+2021-07-01,Disposable Booties,0 Days,5,17,29.411764705882351
+2021-07-01,Disposable Booties,<= 7 Days,1,17,5.882352941176471
+2021-07-01,Ear Savers,0 Days,2,17,11.764705882352942
+2021-07-01,Ear Savers,<= 7 Days,1,17,5.882352941176471
+2021-07-01,Face Shields,0 Days,1,17,5.882352941176471
+2021-07-01,Face Shields,<= 7 Days,2,17,11.764705882352942
+2021-07-01,Gowns,0 Days,2,17,11.764705882352942
+2021-07-01,Gowns,<= 7 Days,2,17,11.764705882352942
+2021-07-01,Gowns,> 7 Days,1,17,5.882352941176471
+2021-07-01,Hand Sanitizer,0 Days,3,17,17.647058823529413
+2021-07-01,Hand Sanitizer,<= 7 Days,2,17,11.764705882352942
+2021-07-01,Handwashing Stations,> 7 Days,4,17,23.529411764705884
+2021-07-01,KN95 Respirators,0 Days,1,17,5.882352941176471
+2021-07-01,KN95 Respirators,<= 7 Days,4,17,23.529411764705884
+2021-07-01,KN95 Respirators,> 7 Days,5,17,29.411764705882351
+2021-07-01,N95 Respirators,0 Days,1,17,5.882352941176471
+2021-07-01,N95 Respirators,<= 7 Days,4,17,23.529411764705884
+2021-07-01,Nitrile Gloves,0 Days,3,17,17.647058823529413
+2021-07-01,Nitrile Gloves,<= 7 Days,3,17,17.647058823529413
+2021-07-01,Nitrile Gloves,> 7 Days,1,17,5.882352941176471
+2021-07-01,PAPR Replacement Face Shields,<= 7 Days,1,17,5.882352941176471
+2021-07-01,Safety Glasses,0 Days,1,17,5.882352941176471
+2021-07-01,Safety Glasses,<= 7 Days,1,17,5.882352941176471
+2021-07-01,Safety Goggles,0 Days,2,17,11.764705882352942
+2021-07-01,Safety Goggles,<= 7 Days,1,17,5.882352941176471
+2021-07-01,Sneeze Guards / Barriers,> 7 Days,4,17,23.529411764705884
+2021-07-01,Surgical Caps / Bouffant Caps,0 Days,4,17,23.529411764705884
+2021-07-01,Surgical Masks,0 Days,1,17,5.882352941176471
+2021-07-01,Surgical Masks,<= 7 Days,3,17,17.647058823529413
+2021-07-01,Surgical Masks,> 7 Days,1,17,5.882352941176471
+2021-07-01,Thermometers,0 Days,3,17,17.647058823529413
+2021-07-01,Thermometers,<= 7 Days,3,17,17.647058823529413
+2021-07-01,Two-way Communication Devices,> 7 Days,4,17,23.529411764705884

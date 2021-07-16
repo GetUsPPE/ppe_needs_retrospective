@@ -1,0 +1,24 @@
+name,reportunit,reportMultiplier,enumcode,unitOfMeasure,description
+Cloth Masks,pieces,1,cloth_mask,,""
+Clear / Visually Accessible Masks,pieces,1,clear_mask,,
+KN95 Respirators,pieces,1,kn95,,
+N95 Respirators,pieces,1,n95,,N95-equivalent or better
+Surgical Masks,pieces,1,surgical_mask,,""
+3-Ply Masks,pieces,1,three_ply_mask,,""
+PAPR Replacement Face Shields,pieces,1,papr_shield,,Powered Air Purifying Respirators (PAPRs) replacement shields
+Nitrile Gloves,pairs,50,nitrile_gloves,Box of 100,""
+Surgical Caps / Bouffant Caps,pieces,1,surgical_cap,,""
+Face Shields,pieces,1,face_shield,,""
+Coveralls / Bunny Suits,pieces,1,coveralls,,""
+Safety Glasses,pairs,1,safety_glasses,Pairs of Glasses,""
+Disposable Booties,pieces,1,disposable_booties,Box of 100,""
+Gowns,pieces,1,gown,,""
+Safety Goggles,pairs,1,safety_goggles,Pairs of Goggles,""
+Disinfecting Wipes,packages,1,disinfecting_wipes,Package of 50,""
+Hand Sanitizer,pieces,1,sanitizer,Liters,""
+Handwashing Stations,pieces,1,handwashing_station,,
+Body Bags,pieces,1,body_bag,,
+Thermometers,pieces,1,thermometer,,""
+Ear Savers,pieces,1,ear_saver,,
+Sneeze Guards / Barriers,pieces,1,sneeze_guard,,
+Two-way Communication Devices,pairs,1,2_way_radio,Set of 2,""
