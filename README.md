@@ -1,5 +1,5 @@
 ## PPE Needs in the United States During the Covid-19 Pandemic - A Retrospective Analysis 
-Unprecedented global surge in demand for personal protective equipment (PPE) during the COVID-19 pandemic overwhelmed existing supply chains1. Tracking unmet PPE demand is necessary to triage distribution to facilities in greatest need and to guide policy. To facilitate  large scale data-driven distribution of PPE donations, [GetUsPPE](https://getusppe.org/) collected supply remaining and demand data from facilities since March 2020. Here, we update findings published in May 2020 and report new data collected through March 2021 about PPE needs and facility characteristics
+Unprecedented global surge in demand for personal protective equipment (PPE) during the COVID-19 pandemic overwhelmed existing supply chains. Tracking unmet PPE demand is necessary to triage distribution to facilities in greatest need and to guide policy. To facilitate  large scale data-driven distribution of PPE donations, [GetUsPPE](https://getusppe.org/) collected supply remaining and demand data from facilities since March 2020. Here, we update findings published in May 2020 and report new data collected through March 2021 about PPE needs and facility characteristics
 
 #### PPE Requests by US County, Month, Facility Type and PPE Type
 ![PPE_Requests](images/PPE_Requests.png)
