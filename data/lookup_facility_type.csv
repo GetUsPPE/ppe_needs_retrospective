@@ -1,0 +1,19 @@
+name,basetype,enumcode,description
+School,school,school,including school districts
+Disaster response and relief organization,other,disaster_response,including emergency shelters
+Public health department,medical,health_dept,
+Other non-acute care facility,medical,other_outpatient,
+Other acute care facility,medical,other_acute,
+Other health facility/organization,medical,other_health,
+"Emergency medical services, urgent care clinic, or freestanding emergency room",medical,emergency,
+Acute care hospital,medical,acute_care,
+"Long-term care or residential healthcare facility  (including nursing home, skilled nursing facility, hospice, group home, assisted living facility, residential substance treatment facility)",medical,long_term,
+Other,other,other,
+"Shelter for unhoused people, domestic violence, youth, etc.",other,shelter,
+"Outpatient care facility (including primary care or specialist services, dialysis center, dental services, community clinic)",medical,outpatient,
+"Non-acute inpatient facility (including non-acute care hospital, inpatient psychiatric facility, inpatient rehab facility)",medical,inpatient,
+Mortuary or coroner's office,medical,mortuary,
+Clinical laboratory or COVID-19 testing site,medical,laboratory_test,
+Home health agency,medical,home_health,
+Pharmacy,medical,pharmacy,
+Nonprofit or faith-based community organization (including community centers),other,nonprofit_faith,

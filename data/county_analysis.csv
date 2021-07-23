@@ -1,4 +1,4 @@
-time,county,stateprovince,num_requests
+TIME,county,stateprovince,num_requests
 2020-03-01,Anchorage,AK,2
 2020-03-01,Hoonah-Angoon,AK,1
 2020-03-01,Baldwin,AL,4
@@ -79,7 +79,7 @@ time,county,stateprovince,num_requests
 2020-03-01,Pueblo,CO,2
 2020-03-01,Summit,CO,2
 2020-03-01,Weld,CO,6
-2020-03-01,Citt√† Metropolitana di Milano,CT,1
+2020-03-01,Città Metropolitana di Milano,CT,1
 2020-03-01,Fairfield,CT,33
 2020-03-01,Hartford,CT,17
 2020-03-01,Litchfield,CT,3
@@ -414,7 +414,7 @@ time,county,stateprovince,num_requests
 2020-03-01,Union,NJ,6
 2020-03-01,Warren,NJ,2
 2020-03-01,Bernalillo,NM,13
-2020-03-01,Do√±a Ana,NM,3
+2020-03-01,Doña Ana,NM,3
 2020-03-01,McKinley,NM,1
 2020-03-01,San Juan,NM,2
 2020-03-01,Sandoval,NM,1
@@ -697,13 +697,13 @@ time,county,stateprovince,num_requests
 2020-03-01,Fremont,WY,2
 2020-03-01,Sheridan,WY,1
 2020-03-01,Sweetwater,WY,2
-2020-04-01,Badin,,1
-2020-04-01,City of Johannesburg Metropolitan Municipality,,1
-2020-04-01,Colbert,,1
-2020-04-01,DeKalb,,1
-2020-04-01,Jefferson,,1
-2020-04-01,Les Moulins,,1
-2020-04-01,Regional Municipality of Niagara,,1
+2020-04-01,Badin,"",1
+2020-04-01,City of Johannesburg Metropolitan Municipality,"",1
+2020-04-01,Colbert,"",1
+2020-04-01,DeKalb,"",1
+2020-04-01,Jefferson,"",1
+2020-04-01,Les Moulins,"",1
+2020-04-01,Regional Municipality of Niagara,"",1
 2020-04-01,Washington,A,2
 2020-04-01,Anchorage,AK,3
 2020-04-01,Baldwin,AL,3
@@ -1290,7 +1290,7 @@ time,county,stateprovince,num_requests
 2020-04-01,Warren,NJ,2
 2020-04-01,Westchester,NJ,1
 2020-04-01,Bernalillo,NM,15
-2020-04-01,Do√±a Ana,NM,6
+2020-04-01,Doña Ana,NM,6
 2020-04-01,Los Alamos,NM,1
 2020-04-01,McKinley,NM,7
 2020-04-01,Monmouth,NM,1
@@ -1655,8 +1655,8 @@ time,county,stateprovince,num_requests
 2020-04-01,Campbell,WY,1
 2020-04-01,Goshen,WY,1
 2020-04-01,Sweetwater,WY,1
-2020-05-01,Maricopa,,2
-2020-05-01,Gwagwalada,ABUJA,1
+2020-05-01,Maricopa,"",2
+2020-05-01,Gwagwalada,ABUJA ,1
 2020-05-01,Anchorage,AK,2
 2020-05-01,Fairbanks North Star,AK,3
 2020-05-01,Baldwin,AL,2
@@ -2017,7 +2017,7 @@ time,county,stateprovince,num_requests
 2020-05-01,Westchester,NJ,2
 2020-05-01,Bernalillo,NM,3
 2020-05-01,Chaves,NM,1
-2020-05-01,Do√±a Ana,NM,1
+2020-05-01,Doña Ana,NM,1
 2020-05-01,McKinley,NM,6
 2020-05-01,San Juan,NM,2
 2020-05-01,Santa Fe,NM,1
@@ -2834,7 +2834,7 @@ time,county,stateprovince,num_requests
 2020-07-01,Hartford,CT,3
 2020-07-01,New Haven,CT,3
 2020-07-01,Sussex,DE,1
-2020-07-01,Al Damam,Eastern Province,1
+2020-07-01,Al Damam,Eastern Province ,1
 2020-07-01,Alachua,FL,1
 2020-07-01,Bay,FL,1
 2020-07-01,Brevard,FL,3
@@ -2856,7 +2856,7 @@ time,county,stateprovince,num_requests
 2020-07-01,Polk,FL,2
 2020-07-01,Santa Rosa,FL,1
 2020-07-01,Volusia,FL,1
-2020-07-01,Distrito Central,Fco Moraz√°n,1
+2020-07-01,Distrito Central,Fco Morazán ,1
 2020-07-01,Bulloch,GA,1
 2020-07-01,Chatham,GA,1
 2020-07-01,Cobb,GA,1
@@ -4479,7 +4479,7 @@ time,county,stateprovince,num_requests
 2021-02-01,Middlesex,NJ,1
 2021-02-01,Monmouth,NJ,2
 2021-02-01,Passaic,NJ,1
-2021-02-01,Do√±a Ana,NM,1
+2021-02-01,Doña Ana,NM,1
 2021-02-01,Sierra,NM,1
 2021-02-01,Clark,NV,2
 2021-02-01,Bronx,NY,10
@@ -4737,7 +4737,7 @@ time,county,stateprovince,num_requests
 2021-03-01,Somerset,NJ,2
 2021-03-01,Union,NJ,1
 2021-03-01,Bernalillo,NM,1
-2021-03-01,Do√±a Ana,NM,1
+2021-03-01,Doña Ana,NM,1
 2021-03-01,Clark,NV,2
 2021-03-01,Bronx,NY,11
 2021-03-01,Broome,NY,1
@@ -5151,415 +5151,447 @@ time,county,stateprovince,num_requests
 2021-04-01,Delaware,PA,4
 2021-04-01,Erie,PA,2
 2021-04-01,Franklin,PA,1
-4/1/21,Lackawanna,PA,2
-4/1/21,Lebanon,PA,1
-4/1/21,Lycoming,PA,1
-4/1/21,Monroe,PA,1
-4/1/21,Montgomery,PA,5
-4/1/21,Philadelphia,PA,6
-4/1/21,Potter,PA,1
-4/1/21,Venango,PA,1
-4/1/21,York,PA,2
-4/1/21,Pueblo,PR,1
-4/1/21,Providence,RI,3
-4/1/21,Dorchester,SC,1
-4/1/21,Greenville,SC,1
-4/1/21,Lancaster,SC,1
-4/1/21,Spartanburg,SC,1
-4/1/21,Sumter,SC,1
-4/1/21,York,SC,1
-4/1/21,Minnehaha,SD,1
-4/1/21,Yankton,SD,1
-4/1/21,Blount,TN,1
-4/1/21,Bradley,TN,2
-4/1/21,Rutherford,TN,2
-4/1/21,Shelby,TN,1
-4/1/21,Sumner,TN,1
-4/1/21,Williamson,TN,1
-4/1/21,Bexar,TX,4
-4/1/21,Cameron,TX,4
-4/1/21,Collin,TX,4
-4/1/21,Comal,TX,1
-4/1/21,Coryell,TX,1
-4/1/21,Dallas,TX,7
-4/1/21,Denton,TX,6
-4/1/21,El Paso,TX,1
-4/1/21,Fort Bend,TX,3
-4/1/21,Gregg,TX,1
-4/1/21,Harris,TX,16
-4/1/21,Harrison,TX,1
-4/1/21,Hays,TX,1
-4/1/21,Hidalgo,TX,10
-4/1/21,Hunt,TX,1
-4/1/21,Jefferson,TX,1
-4/1/21,Lubbock,TX,1
-4/1/21,McLennan,TX,1
-4/1/21,Montgomery,TX,3
-4/1/21,Rusk,TX,4
-4/1/21,Starr,TX,1
-4/1/21,Tarrant,TX,6
-4/1/21,Travis,TX,1
-4/1/21,Webb,TX,1
-4/1/21,Wichita,TX,1
-4/1/21,Williamson,TX,2
-4/1/21,Zavala,TX,1
-4/1/21,Summit,UT,1
-4/1/21,Weber,UT,1
-4/1/21,Albemarle,VA,1
-4/1/21,Arlington,VA,3
-4/1/21,Carroll,VA,1
-4/1/21,Chesterfield,VA,1
-4/1/21,Clarke,VA,1
-4/1/21,Fairfax,VA,5
-4/1/21,Henrico,VA,1
-4/1/21,Loudoun,VA,4
-4/1/21,Orange,VT,1
-4/1/21,Rutland,VT,1
-4/1/21,Windham,VT,2
-4/1/21,Grays Harbor,WA,1
-4/1/21,King,WA,5
-4/1/21,Pierce,WA,2
-4/1/21,Yakima,WA,3
-4/1/21,Barron,WI,1
-4/1/21,Columbia,WI,1
-4/1/21,St. Croix,WI,1
-4/1/21,Washington,WI,1
-4/1/21,Berkeley,WV,1
-4/1/21,Mineral,WV,1
-5/1/21,Multnomah,AK,7
-5/1/21,Jefferson,AL,1
-5/1/21,Walker,AL,1
-5/1/21,Sebastian,AR,1
-5/1/21,Apache,AZ,1
-5/1/21,Cochise,AZ,1
-5/1/21,Coconino,AZ,1
-5/1/21,Maricopa,AZ,6
-5/1/21,Mohave,AZ,3
-5/1/21,Pima,AZ,2
-5/1/21,Alameda,CA,3
-5/1/21,Contra Costa,CA,4
-5/1/21,Fresno,CA,1
-5/1/21,Imperial,CA,1
-5/1/21,Kern,CA,2
-5/1/21,Los Angeles,CA,51
-5/1/21,Monterey,CA,3
-5/1/21,Orange,CA,7
-5/1/21,Riverside,CA,5
-5/1/21,San Bernardino,CA,5
-5/1/21,San Diego,CA,24
-5/1/21,San Francisco,CA,7
-5/1/21,San Joaquin,CA,3
-5/1/21,San Mateo,CA,3
-5/1/21,Santa Clara,CA,2
-5/1/21,Shasta,CA,1
-5/1/21,Solano,CA,5
-5/1/21,Ventura,CA,1
-5/1/21,Yolo,CA,1
-5/1/21,Arapahoe,CO,2
-5/1/21,Denver,CO,2
-5/1/21,El Paso,CO,2
-5/1/21,Fairfield,CT,1
-5/1/21,New Haven,CT,2
-5/1/21,Sussex,DE,1
-5/1/21,Alachua,FL,1
-5/1/21,Broward,FL,4
-5/1/21,Collier,FL,1
-5/1/21,Duval,FL,2
-5/1/21,Lake,FL,2
-5/1/21,Lee,FL,3
-5/1/21,Marion,FL,1
-5/1/21,Miami-Dade,FL,4
-5/1/21,Monroe,FL,1
-5/1/21,Orange,FL,3
-5/1/21,Palm Beach,FL,3
-5/1/21,Clayton,GA,1
-5/1/21,Cobb,GA,1
-5/1/21,DeKalb,GA,1
-5/1/21,Douglas,GA,1
-5/1/21,Fannin,GA,1
-5/1/21,Fulton,GA,3
-5/1/21,Gwinnett,GA,5
-5/1/21,Hancock,GA,1
-5/1/21,Irwin,GA,1
-5/1/21,Mitchell,GA,1
-5/1/21,Richmond,GA,1
-5/1/21,Terrell,GA,1
-5/1/21,Troup,GA,1
-5/1/21,Wayne,GA,1
-5/1/21,Honolulu,HI,2
-5/1/21,Hancock,IA,2
-5/1/21,Lee,IA,1
-5/1/21,Polk,IA,1
-5/1/21,Ada,ID,1
-5/1/21,Cook,IL,12
-5/1/21,Madison,IL,1
-5/1/21,Sangamon,IL,2
-5/1/21,Williamson,IL,3
-5/1/21,Allen,IN,1
-5/1/21,Franklin,IN,1
-5/1/21,Gibson,IN,1
-5/1/21,Madison,IN,1
-5/1/21,Marion,IN,3
-5/1/21,Johnson,KS,1
-5/1/21,Boyle,KY,1
-5/1/21,Bullitt,KY,2
-5/1/21,Carroll,KY,1
-5/1/21,Garrard,KY,1
-5/1/21,Jefferson,KY,1
-5/1/21,Whitley,KY,1
-5/1/21,Caddo Parish,LA,1
-5/1/21,East Baton Rouge Parish,LA,2
-5/1/21,Orleans Parish,LA,1
-5/1/21,St. Bernard Parish,LA,1
-5/1/21,St. John the Baptist Parish,LA,1
-5/1/21,Essex,MA,6
-5/1/21,Hampden,MA,3
-5/1/21,Middlesex,MA,2
-5/1/21,Norfolk,MA,1
-5/1/21,Worcester,MA,1
-5/1/21,Baltimore,MD,2
-5/1/21,Harford,MD,2
-5/1/21,Montgomery,MD,2
-5/1/21,Prince George's,MD,3
-5/1/21,Cumberland,ME,2
-5/1/21,Jackson,MI,1
-5/1/21,Kent,MI,2
-5/1/21,Macomb,MI,3
-5/1/21,Marquette,MI,1
-5/1/21,Muskegon,MI,1
-5/1/21,Washtenaw,MI,1
-5/1/21,Wayne,MI,2
-5/1/21,Dakota,MN,1
-5/1/21,Ramsey,MN,1
-5/1/21,Yellow Medicine,MN,1
-5/1/21,Gasconade,MO,1
-5/1/21,Jackson,MO,1
-5/1/21,St. Francois,MO,1
-5/1/21,St. Louis,MO,2
-5/1/21,Bolivar,MS,1
-5/1/21,DeSoto,MS,2
-5/1/21,Harrison,MS,1
-5/1/21,Jackson,MS,1
-5/1/21,Noxubee,MS,1
-5/1/21,Sunflower,MS,1
-5/1/21,Tunica,MS,1
-5/1/21,Cumberland,NC,1
-5/1/21,Gaston,NC,1
-5/1/21,Guilford,NC,1
-5/1/21,Mecklenburg,NC,1
-5/1/21,Randolph,NC,1
-5/1/21,Rutherford,NC,1
-5/1/21,Vance,NC,2
-5/1/21,Wake,NC,1
-5/1/21,Ward,ND,1
-5/1/21,Douglas,NE,2
-5/1/21,Belknap,NH,1
-5/1/21,Carroll,NH,1
-5/1/21,Bergen,NJ,3
-5/1/21,Camden,NJ,3
-5/1/21,Essex,NJ,3
-5/1/21,Middlesex,NJ,1
-5/1/21,Somerset,NJ,1
-5/1/21,Sussex,NJ,1
-5/1/21,Sierra,NM,1
-5/1/21,Clark,NV,1
-5/1/21,Allegany,NY,1
-5/1/21,Bronx,NY,9
-5/1/21,Broome,NY,1
-5/1/21,Essex,NY,1
-5/1/21,Franklin,NY,1
-5/1/21,Fulton,NY,1
-5/1/21,Kings,NY,5
-5/1/21,Nassau,NY,1
-5/1/21,New York,NY,5
-5/1/21,Ontario,NY,1
-5/1/21,Queens,NY,3
-5/1/21,Richmond,NY,2
-5/1/21,Suffolk,NY,2
-5/1/21,Clark,OH,1
-5/1/21,Cuyahoga,OH,3
-5/1/21,Franklin,OH,2
-5/1/21,Huron,OH,1
-5/1/21,Knox,OH,1
-5/1/21,Lucas,OH,1
-5/1/21,Scioto,OH,2
-5/1/21,Seneca,OH,1
-5/1/21,Summit,OH,1
-5/1/21,Wayne,OH,1
-5/1/21,Oklahoma,OK,1
-5/1/21,Tulsa,OK,2
-5/1/21,Wagoner,OK,1
-5/1/21,Toronto Division,ONTARIO,1
-5/1/21,Benton,OR,1
-5/1/21,Clackamas,OR,2
-5/1/21,Linn,OR,1
-5/1/21,Multnomah,OR,2
-5/1/21,Polk,OR,1
-5/1/21,Washington,OR,2
-5/1/21,Yamhill,OR,1
-5/1/21,Erie,PA,1
-5/1/21,Franklin,PA,1
-5/1/21,Lycoming,PA,1
-5/1/21,Montgomery,PA,3
-5/1/21,Philadelphia,PA,3
-5/1/21,Potter,PA,1
-5/1/21,Providence,RI,2
-5/1/21,Blount,TN,1
-5/1/21,Hamilton,TN,1
-5/1/21,Bexar,TX,2
-5/1/21,Brazoria,TX,1
-5/1/21,Cameron,TX,1
-5/1/21,Collin,TX,1
-5/1/21,Dallas,TX,4
-5/1/21,Denton,TX,1
-5/1/21,Fort Bend,TX,3
-5/1/21,Harris,TX,9
-5/1/21,Hidalgo,TX,1
-5/1/21,Hunt,TX,2
-5/1/21,Jefferson,TX,1
-5/1/21,Montgomery,TX,1
-5/1/21,Starr,TX,1
-5/1/21,Tarrant,TX,3
-5/1/21,Travis,TX,1
-5/1/21,Webb,TX,1
-5/1/21,Williamson,TX,1
-5/1/21,Washington,UT,1
-5/1/21,Arlington,VA,3
-5/1/21,Fairfax,VA,3
-5/1/21,Loudoun,VA,3
-5/1/21,Orange,VT,1
-5/1/21,Windham,VT,2
-5/1/21,Grays Harbor,WA,1
-5/1/21,King,WA,3
-5/1/21,Snohomish,WA,1
-5/1/21,Barron,WI,1
-5/1/21,Washington,WI,1
-5/1/21,Berkeley,WV,1
-6/1/21,Multnomah,AK,2
-6/1/21,Jefferson,AL,1
-6/1/21,Coconino,AZ,1
-6/1/21,Maricopa,AZ,1
-6/1/21,Mohave,AZ,1
-6/1/21,Contra Costa,CA,3
-6/1/21,Los Angeles,CA,19
-6/1/21,Monterey,CA,1
-6/1/21,Orange,CA,6
-6/1/21,Riverside,CA,1
-6/1/21,San Bernardino,CA,1
-6/1/21,San Diego,CA,5
-6/1/21,San Francisco,CA,1
-6/1/21,Santa Clara,CA,2
-6/1/21,Solano,CA,2
-6/1/21,Sonoma,CA,1
-6/1/21,Yolo,CA,2
-6/1/21,Arapahoe,CO,1
-6/1/21,Denver,CO,1
-6/1/21,New Castle,DE,1
-6/1/21,Alachua,FL,1
-6/1/21,Indian River,FL,1
-6/1/21,Lake,FL,1
-6/1/21,Miami-Dade,FL,1
-6/1/21,Orange,FL,1
-6/1/21,Palm Beach,FL,1
-6/1/21,Pasco,FL,1
-6/1/21,Chatham,GA,1
-6/1/21,Clayton,GA,1
-6/1/21,Douglas,GA,3
-6/1/21,Fulton,GA,1
-6/1/21,Grady,GA,1
-6/1/21,Gwinnett,GA,2
-6/1/21,Mitchell,GA,1
-6/1/21,Ada,ID,1
-6/1/21,Cook,IL,6
-6/1/21,Vermilion,IL,1
-6/1/21,Carroll,KY,1
-6/1/21,Franklin,KY,1
-6/1/21,Marion,KY,1
-6/1/21,Trigg,KY,1
-6/1/21,Caddo Parish,LA,1
-6/1/21,East Baton Rouge Parish,LA,1
-6/1/21,Essex,MA,5
-6/1/21,Hampden,MA,1
-6/1/21,Worcester,MA,5
-6/1/21,Baltimore,MD,2
-6/1/21,Harford,MD,3
-6/1/21,Montgomery,MD,1
-6/1/21,Macomb,MI,3
-6/1/21,Marquette,MI,1
-6/1/21,Wayne,MI,1
-6/1/21,Carlton,MN,1
-6/1/21,Daviess,MO,1
-6/1/21,St. Francois,MO,1
-6/1/21,Hinds,MS,1
-6/1/21,Sunflower,MS,1
-6/1/21,Lewis and Clark,MT,1
-6/1/21,Bladen,NC,1
-6/1/21,Cumberland,NC,1
-6/1/21,Durham,NC,1
-6/1/21,Vance,NC,1
-6/1/21,Belknap,NH,1
-6/1/21,Camden,NJ,1
-6/1/21,Monmouth,NJ,1
-6/1/21,Sussex,NJ,1
-6/1/21,Sierra,NM,1
-6/1/21,Clark,NV,1
-6/1/21,Bronx,NY,6
-6/1/21,Dutchess,NY,1
-6/1/21,Erie,NY,1
-6/1/21,Essex,NY,1
-6/1/21,Franklin,NY,1
-6/1/21,Kings,NY,3
-6/1/21,Nassau,NY,2
-6/1/21,New York,NY,5
-6/1/21,Ontario,NY,1
-6/1/21,Queens,NY,4
-6/1/21,Suffolk,NY,1
-6/1/21,Sullivan,NY,1
-6/1/21,Cuyahoga,OH,2
-6/1/21,Franklin,OH,1
-6/1/21,Oklahoma,OK,2
-6/1/21,Multnomah,OR,1
-6/1/21,Delaware,PA,4
-6/1/21,Erie,PA,1
-6/1/21,Monroe,PA,1
-6/1/21,Montgomery,PA,2
-6/1/21,Philadelphia,PA,3
-6/1/21,Potter,PA,1
-6/1/21,Providence,RI,2
-6/1/21,Bell,TX,1
-6/1/21,Bexar,TX,2
-6/1/21,Cameron,TX,1
-6/1/21,Collin,TX,2
-6/1/21,Coryell,TX,1
-6/1/21,Dallas,TX,2
-6/1/21,Harris,TX,4
-6/1/21,Hays,TX,1
-6/1/21,Hidalgo,TX,4
-6/1/21,Nueces,TX,1
-6/1/21,Tarrant,TX,1
-6/1/21,Zavala,TX,1
-6/1/21,Arlington,VA,1
-6/1/21,Fairfax,VA,1
-6/1/21,Loudoun,VA,1
-6/1/21,Windham,VT,2
-6/1/21,Adams,WA,5
-6/1/21,Chelan,WA,1
-6/1/21,Clark,WA,4
-6/1/21,Cowlitz,WA,1
-6/1/21,Grant,WA,2
-6/1/21,Grays Harbor,WA,2
-6/1/21,King,WA,10
-6/1/21,Kitsap,WA,1
-6/1/21,Lewis,WA,1
-6/1/21,Mason,WA,3
-6/1/21,Pierce,WA,3
-6/1/21,San Juan,WA,1
-6/1/21,Spokane,WA,3
-6/1/21,Thurston,WA,1
-6/1/21,Whatcom,WA,4
-6/1/21,Whitman,WA,1
-6/1/21,Yakima,WA,1
-6/1/21,Milwaukee,WI,1
-6/1/21,St. Croix,WI,1
-6/1/21,Berkeley,WV,1
-6/1/21,Raleigh,WV,1
+2021-04-01,Lackawanna,PA,2
+2021-04-01,Lebanon,PA,1
+2021-04-01,Lycoming,PA,1
+2021-04-01,Monroe,PA,1
+2021-04-01,Montgomery,PA,5
+2021-04-01,Philadelphia,PA,6
+2021-04-01,Potter,PA,1
+2021-04-01,Venango,PA,1
+2021-04-01,York,PA,2
+2021-04-01,Pueblo,PR,1
+2021-04-01,Providence,RI,3
+2021-04-01,Dorchester,SC,1
+2021-04-01,Greenville,SC,1
+2021-04-01,Lancaster,SC,1
+2021-04-01,Spartanburg,SC,1
+2021-04-01,Sumter,SC,1
+2021-04-01,York,SC,1
+2021-04-01,Minnehaha,SD,1
+2021-04-01,Yankton,SD,1
+2021-04-01,Blount,TN,1
+2021-04-01,Bradley,TN,2
+2021-04-01,Rutherford,TN,2
+2021-04-01,Shelby,TN,1
+2021-04-01,Sumner,TN,1
+2021-04-01,Williamson,TN,1
+2021-04-01,Bexar,TX,4
+2021-04-01,Cameron,TX,4
+2021-04-01,Collin,TX,4
+2021-04-01,Comal,TX,1
+2021-04-01,Coryell,TX,1
+2021-04-01,Dallas,TX,7
+2021-04-01,Denton,TX,6
+2021-04-01,El Paso,TX,1
+2021-04-01,Fort Bend,TX,3
+2021-04-01,Gregg,TX,1
+2021-04-01,Harris,TX,16
+2021-04-01,Harrison,TX,1
+2021-04-01,Hays,TX,1
+2021-04-01,Hidalgo,TX,10
+2021-04-01,Hunt,TX,1
+2021-04-01,Jefferson,TX,1
+2021-04-01,Lubbock,TX,1
+2021-04-01,McLennan,TX,1
+2021-04-01,Montgomery,TX,3
+2021-04-01,Rusk,TX,4
+2021-04-01,Starr,TX,1
+2021-04-01,Tarrant,TX,6
+2021-04-01,Travis,TX,1
+2021-04-01,Webb,TX,1
+2021-04-01,Wichita,TX,1
+2021-04-01,Williamson,TX,2
+2021-04-01,Zavala,TX,1
+2021-04-01,Summit,UT,1
+2021-04-01,Weber,UT,1
+2021-04-01,Albemarle,VA,1
+2021-04-01,Arlington,VA,3
+2021-04-01,Carroll,VA,1
+2021-04-01,Chesterfield,VA,1
+2021-04-01,Clarke,VA,1
+2021-04-01,Fairfax,VA,5
+2021-04-01,Henrico,VA,1
+2021-04-01,Loudoun,VA,4
+2021-04-01,Orange,VT,1
+2021-04-01,Rutland,VT,1
+2021-04-01,Windham,VT,2
+2021-04-01,Grays Harbor,WA,1
+2021-04-01,King,WA,5
+2021-04-01,Pierce,WA,2
+2021-04-01,Yakima,WA,3
+2021-04-01,Barron,WI,1
+2021-04-01,Columbia,WI,1
+2021-04-01,St. Croix,WI,1
+2021-04-01,Washington,WI,1
+2021-04-01,Berkeley,WV,1
+2021-04-01,Mineral,WV,1
+2021-05-01,Multnomah,AK,7
+2021-05-01,Jefferson,AL,1
+2021-05-01,Walker,AL,1
+2021-05-01,Sebastian,AR,1
+2021-05-01,Apache,AZ,1
+2021-05-01,Cochise,AZ,1
+2021-05-01,Coconino,AZ,1
+2021-05-01,Maricopa,AZ,6
+2021-05-01,Mohave,AZ,3
+2021-05-01,Pima,AZ,2
+2021-05-01,Alameda,CA,3
+2021-05-01,Contra Costa,CA,4
+2021-05-01,Fresno,CA,1
+2021-05-01,Imperial,CA,1
+2021-05-01,Kern,CA,2
+2021-05-01,Los Angeles,CA,51
+2021-05-01,Monterey,CA,3
+2021-05-01,Orange,CA,7
+2021-05-01,Riverside,CA,5
+2021-05-01,San Bernardino,CA,5
+2021-05-01,San Diego,CA,24
+2021-05-01,San Francisco,CA,7
+2021-05-01,San Joaquin,CA,3
+2021-05-01,San Mateo,CA,3
+2021-05-01,Santa Clara,CA,2
+2021-05-01,Shasta,CA,1
+2021-05-01,Solano,CA,5
+2021-05-01,Ventura,CA,1
+2021-05-01,Yolo,CA,1
+2021-05-01,Arapahoe,CO,2
+2021-05-01,Denver,CO,2
+2021-05-01,El Paso,CO,2
+2021-05-01,Fairfield,CT,1
+2021-05-01,New Haven,CT,2
+2021-05-01,Sussex,DE,1
+2021-05-01,Alachua,FL,1
+2021-05-01,Broward,FL,4
+2021-05-01,Collier,FL,1
+2021-05-01,Duval,FL,2
+2021-05-01,Lake,FL,2
+2021-05-01,Lee,FL,3
+2021-05-01,Marion,FL,1
+2021-05-01,Miami-Dade,FL,4
+2021-05-01,Monroe,FL,1
+2021-05-01,Orange,FL,3
+2021-05-01,Palm Beach,FL,3
+2021-05-01,Clarke,GA,1
+2021-05-01,Clayton,GA,1
+2021-05-01,Cobb,GA,1
+2021-05-01,DeKalb,GA,1
+2021-05-01,Douglas,GA,1
+2021-05-01,Fannin,GA,1
+2021-05-01,Fulton,GA,3
+2021-05-01,Gwinnett,GA,5
+2021-05-01,Hancock,GA,1
+2021-05-01,Irwin,GA,1
+2021-05-01,Mitchell,GA,1
+2021-05-01,Richmond,GA,1
+2021-05-01,Terrell,GA,1
+2021-05-01,Troup,GA,1
+2021-05-01,Wayne,GA,1
+2021-05-01,Honolulu,HI,2
+2021-05-01,Hancock,IA,2
+2021-05-01,Lee,IA,1
+2021-05-01,Polk,IA,1
+2021-05-01,Ada,ID,1
+2021-05-01,Cook,IL,12
+2021-05-01,Madison,IL,1
+2021-05-01,Sangamon,IL,2
+2021-05-01,Williamson,IL,3
+2021-05-01,Allen,IN,1
+2021-05-01,Franklin,IN,1
+2021-05-01,Gibson,IN,1
+2021-05-01,Madison,IN,1
+2021-05-01,Marion,IN,3
+2021-05-01,Johnson,KS,1
+2021-05-01,Boyle,KY,1
+2021-05-01,Bullitt,KY,2
+2021-05-01,Carroll,KY,1
+2021-05-01,Garrard,KY,1
+2021-05-01,Jefferson,KY,1
+2021-05-01,Whitley,KY,1
+2021-05-01,Caddo Parish,LA,1
+2021-05-01,East Baton Rouge Parish,LA,2
+2021-05-01,Orleans Parish,LA,1
+2021-05-01,St. Bernard Parish,LA,1
+2021-05-01,St. John the Baptist Parish,LA,1
+2021-05-01,Essex,MA,6
+2021-05-01,Hampden,MA,3
+2021-05-01,Middlesex,MA,2
+2021-05-01,Norfolk,MA,1
+2021-05-01,Worcester,MA,1
+2021-05-01,Baltimore,MD,2
+2021-05-01,Harford,MD,2
+2021-05-01,Montgomery,MD,2
+2021-05-01,Prince George's,MD,3
+2021-05-01,Cumberland,ME,2
+2021-05-01,Jackson,MI,1
+2021-05-01,Kent,MI,2
+2021-05-01,Macomb,MI,3
+2021-05-01,Marquette,MI,1
+2021-05-01,Muskegon,MI,1
+2021-05-01,Washtenaw,MI,1
+2021-05-01,Wayne,MI,2
+2021-05-01,Dakota,MN,1
+2021-05-01,Ramsey,MN,1
+2021-05-01,Yellow Medicine,MN,1
+2021-05-01,Gasconade,MO,1
+2021-05-01,Jackson,MO,1
+2021-05-01,St. Francois,MO,1
+2021-05-01,St. Louis,MO,2
+2021-05-01,Bolivar,MS,1
+2021-05-01,DeSoto,MS,2
+2021-05-01,Harrison,MS,1
+2021-05-01,Jackson,MS,1
+2021-05-01,Noxubee,MS,1
+2021-05-01,Sunflower,MS,1
+2021-05-01,Tunica,MS,1
+2021-05-01,Cumberland,NC,1
+2021-05-01,Gaston,NC,1
+2021-05-01,Guilford,NC,1
+2021-05-01,Mecklenburg,NC,1
+2021-05-01,Randolph,NC,1
+2021-05-01,Rutherford,NC,1
+2021-05-01,Vance,NC,2
+2021-05-01,Wake,NC,1
+2021-05-01,Ward,ND,1
+2021-05-01,Douglas,NE,2
+2021-05-01,Belknap,NH,1
+2021-05-01,Carroll,NH,1
+2021-05-01,Bergen,NJ,3
+2021-05-01,Camden,NJ,3
+2021-05-01,Essex,NJ,3
+2021-05-01,Middlesex,NJ,1
+2021-05-01,Somerset,NJ,1
+2021-05-01,Sussex,NJ,1
+2021-05-01,Sierra,NM,1
+2021-05-01,Clark,NV,1
+2021-05-01,Allegany,NY,1
+2021-05-01,Bronx,NY,9
+2021-05-01,Broome,NY,1
+2021-05-01,Essex,NY,1
+2021-05-01,Franklin,NY,1
+2021-05-01,Fulton,NY,1
+2021-05-01,Kings,NY,5
+2021-05-01,Nassau,NY,1
+2021-05-01,New York,NY,5
+2021-05-01,Ontario,NY,1
+2021-05-01,Queens,NY,3
+2021-05-01,Richmond,NY,2
+2021-05-01,Suffolk,NY,2
+2021-05-01,Clark,OH,1
+2021-05-01,Cuyahoga,OH,3
+2021-05-01,Franklin,OH,2
+2021-05-01,Huron,OH,1
+2021-05-01,Knox,OH,1
+2021-05-01,Lucas,OH,1
+2021-05-01,Scioto,OH,2
+2021-05-01,Seneca,OH,1
+2021-05-01,Summit,OH,1
+2021-05-01,Wayne,OH,1
+2021-05-01,Oklahoma,OK,1
+2021-05-01,Tulsa,OK,2
+2021-05-01,Wagoner,OK,1
+2021-05-01,Toronto Division,ONTARIO,1
+2021-05-01,Benton,OR,1
+2021-05-01,Clackamas,OR,2
+2021-05-01,Linn,OR,1
+2021-05-01,Multnomah,OR,2
+2021-05-01,Polk,OR,1
+2021-05-01,Washington,OR,2
+2021-05-01,Yamhill,OR,1
+2021-05-01,Erie,PA,1
+2021-05-01,Franklin,PA,1
+2021-05-01,Lycoming,PA,1
+2021-05-01,Montgomery,PA,3
+2021-05-01,Philadelphia,PA,3
+2021-05-01,Potter,PA,1
+2021-05-01,Providence,RI,2
+2021-05-01,Blount,TN,1
+2021-05-01,Hamilton,TN,1
+2021-05-01,Bexar,TX,2
+2021-05-01,Brazoria,TX,1
+2021-05-01,Cameron,TX,1
+2021-05-01,Collin,TX,1
+2021-05-01,Dallas,TX,4
+2021-05-01,Denton,TX,1
+2021-05-01,Fort Bend,TX,3
+2021-05-01,Harris,TX,9
+2021-05-01,Hidalgo,TX,1
+2021-05-01,Hunt,TX,2
+2021-05-01,Jefferson,TX,1
+2021-05-01,Montgomery,TX,1
+2021-05-01,Starr,TX,1
+2021-05-01,Tarrant,TX,3
+2021-05-01,Travis,TX,1
+2021-05-01,Webb,TX,1
+2021-05-01,Williamson,TX,1
+2021-05-01,Washington,UT,1
+2021-05-01,Arlington,VA,3
+2021-05-01,Fairfax,VA,3
+2021-05-01,Loudoun,VA,3
+2021-05-01,Orange,VT,1
+2021-05-01,Windham,VT,2
+2021-05-01,Grays Harbor,WA,1
+2021-05-01,King,WA,3
+2021-05-01,Snohomish,WA,1
+2021-05-01,Barron,WI,1
+2021-05-01,Washington,WI,1
+2021-05-01,Berkeley,WV,1
+2021-06-01,Multnomah,AK,2
+2021-06-01,Jefferson,AL,1
+2021-06-01,Lamar,AL,1
+2021-06-01,Coconino,AZ,1
+2021-06-01,Maricopa,AZ,1
+2021-06-01,Mohave,AZ,1
+2021-06-01,Pinal,AZ,1
+2021-06-01,Contra Costa,CA,4
+2021-06-01,Fresno,CA,2
+2021-06-01,Los Angeles,CA,25
+2021-06-01,Monterey,CA,1
+2021-06-01,Orange,CA,7
+2021-06-01,Riverside,CA,1
+2021-06-01,San Bernardino,CA,1
+2021-06-01,San Diego,CA,6
+2021-06-01,San Francisco,CA,1
+2021-06-01,Santa Clara,CA,2
+2021-06-01,Shasta,CA,1
+2021-06-01,Solano,CA,2
+2021-06-01,Sonoma,CA,1
+2021-06-01,Yolo,CA,2
+2021-06-01,Arapahoe,CO,1
+2021-06-01,Denver,CO,1
+2021-06-01,New Castle,DE,1
+2021-06-01,Alachua,FL,1
+2021-06-01,Indian River,FL,1
+2021-06-01,Lake,FL,1
+2021-06-01,Miami-Dade,FL,1
+2021-06-01,Orange,FL,1
+2021-06-01,Palm Beach,FL,1
+2021-06-01,Pasco,FL,1
+2021-06-01,Chatham,GA,1
+2021-06-01,Clarke,GA,1
+2021-06-01,Clayton,GA,1
+2021-06-01,Douglas,GA,3
+2021-06-01,Fulton,GA,1
+2021-06-01,Grady,GA,1
+2021-06-01,Gwinnett,GA,2
+2021-06-01,Mitchell,GA,1
+2021-06-01,Honolulu,HI,1
+2021-06-01,Ada,ID,1
+2021-06-01,Cook,IL,7
+2021-06-01,Vermilion,IL,1
+2021-06-01,Franklin,IN,1
+2021-06-01,Boyle,KY,1
+2021-06-01,Carroll,KY,1
+2021-06-01,Franklin,KY,1
+2021-06-01,Marion,KY,1
+2021-06-01,Trigg,KY,1
+2021-06-01,Caddo Parish,LA,1
+2021-06-01,East Baton Rouge Parish,LA,1
+2021-06-01,Orleans Parish,LA,1
+2021-06-01,Essex,MA,6
+2021-06-01,Hampden,MA,1
+2021-06-01,Worcester,MA,5
+2021-06-01,Anne Arundel,MD,1
+2021-06-01,Baltimore,MD,2
+2021-06-01,Harford,MD,3
+2021-06-01,Montgomery,MD,1
+2021-06-01,Waldo,ME,1
+2021-06-01,Macomb,MI,3
+2021-06-01,Marquette,MI,1
+2021-06-01,Wayne,MI,1
+2021-06-01,Carlton,MN,1
+2021-06-01,Dakota,MN,1
+2021-06-01,Daviess,MO,1
+2021-06-01,St. Francois,MO,1
+2021-06-01,Hinds,MS,1
+2021-06-01,Sunflower,MS,1
+2021-06-01,Lewis and Clark,MT,1
+2021-06-01,Bladen,NC,1
+2021-06-01,Buncombe,NC,1
+2021-06-01,Caldwell,NC,1
+2021-06-01,Cumberland,NC,2
+2021-06-01,Durham,NC,1
+2021-06-01,Vance,NC,1
+2021-06-01,Belknap,NH,1
+2021-06-01,Grafton,NH,1
+2021-06-01,Camden,NJ,1
+2021-06-01,Monmouth,NJ,1
+2021-06-01,Sussex,NJ,2
+2021-06-01,Sierra,NM,1
+2021-06-01,Clark,NV,1
+2021-06-01,Washoe,NV,1
+2021-06-01,Bronx,NY,6
+2021-06-01,Dutchess,NY,1
+2021-06-01,Erie,NY,1
+2021-06-01,Essex,NY,1
+2021-06-01,Franklin,NY,1
+2021-06-01,Kings,NY,3
+2021-06-01,Nassau,NY,3
+2021-06-01,New York,NY,6
+2021-06-01,Ontario,NY,1
+2021-06-01,Queens,NY,5
+2021-06-01,Suffolk,NY,1
+2021-06-01,Sullivan,NY,1
+2021-06-01,Cuyahoga,OH,2
+2021-06-01,Franklin,OH,1
+2021-06-01,Oklahoma,OK,2
+2021-06-01,Multnomah,OR,1
+2021-06-01,Delaware,PA,4
+2021-06-01,Erie,PA,1
+2021-06-01,Monroe,PA,1
+2021-06-01,Montgomery,PA,2
+2021-06-01,Philadelphia,PA,3
+2021-06-01,Potter,PA,1
+2021-06-01,Providence,RI,2
+2021-06-01,Todd,SD,3
+2021-06-01,Bell,TX,1
+2021-06-01,Bexar,TX,2
+2021-06-01,Cameron,TX,1
+2021-06-01,Collin,TX,2
+2021-06-01,Coryell,TX,1
+2021-06-01,Dallas,TX,2
+2021-06-01,Harris,TX,5
+2021-06-01,Hays,TX,1
+2021-06-01,Hidalgo,TX,5
+2021-06-01,Nueces,TX,1
+2021-06-01,Tarrant,TX,1
+2021-06-01,Zavala,TX,1
+2021-06-01,Salt Lake,UT,1
+2021-06-01,Arlington,VA,2
+2021-06-01,Fairfax,VA,1
+2021-06-01,Loudoun,VA,1
+2021-06-01,Windham,VT,2
+2021-06-01,Adams,WA,6
+2021-06-01,Chelan,WA,1
+2021-06-01,Clark,WA,4
+2021-06-01,Condado de Grant,WA,1
+2021-06-01,Cowlitz,WA,1
+2021-06-01,Grant,WA,2
+2021-06-01,Grays Harbor,WA,2
+2021-06-01,King,WA,13
+2021-06-01,Kitsap,WA,1
+2021-06-01,Lewis,WA,1
+2021-06-01,Mason,WA,3
+2021-06-01,Okanogan,WA,2
+2021-06-01,Pierce,WA,6
+2021-06-01,San Juan,WA,1
+2021-06-01,Spokane,WA,8
+2021-06-01,Thurston,WA,1
+2021-06-01,Whatcom,WA,5
+2021-06-01,Whitman,WA,1
+2021-06-01,Yakima,WA,1
+2021-06-01,Milwaukee,WI,1
+2021-06-01,St. Croix,WI,1
+2021-06-01,Berkeley,WV,1
+2021-06-01,Raleigh,WV,1
+2021-07-01,Saline,AR,1
+2021-07-01,Alameda,CA,3
+2021-07-01,Contra Costa,CA,1
+2021-07-01,Los Angeles,CA,2
+2021-07-01,San Francisco,CA,2
+2021-07-01,Santa Clara,CA,1
+2021-07-01,Forsyth,GA,1
+2021-07-01,Suffolk,NY,1
+2021-07-01,King,WA,1
+2021-07-01,Spokane,WA,3
+2021-07-01,Whatcom,WA,1
